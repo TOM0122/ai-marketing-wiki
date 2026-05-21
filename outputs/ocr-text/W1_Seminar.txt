@@ -1,0 +1,404 @@
+MKTG90011
+Marketing
+Research
+
+
+
+Seminar 1
+Welcome to Market Research!
+
+
+
+
+          https://www.coca-colacompany.com/about-us/history/new-coke-the-most-memorable-marketing-
+          blunder-ever                                                                               2
+Topics for Today
+
+1. What is marketing research and who conducts market research?
+2. Subject practicalities and structure
+3. The marketing research process
+
+
+
+
+                                                                  3
+What is Marketing Research and who Conducts
+Market Research?
+What is Marketing Research?
+
+Marketing research is the function that links the
+consumer, customer, and public to the marketer
+through information—information used to identify
+and define opportunities and problems; generate,
+refine, and evaluate actions; monitor performance;
+and improve understanding of it as a process. It
+specifies the information required to address these
+issues, designs the method for collecting
+information, manages and implements the data
+collection process, analyzes the results, and
+communicates the findings and their implications.
+
+
+(American Marketing Association 2017).                5
+Careers in Marketing Research
+
+
+
+
+Source 1: https://au.indeed.com/career/market-researcher/salaries
+Sourse 2: https://www.seek.com.au/career-advice/role/market-researcher   6
+How to become a marketing researcher?
+
+ 1. Consider studying a Bachelor of Business, Management, Economics or Commerce
+    with a major in marketing. These courses will take you 3 years to complete full-time.
+ 2. Alternatively, consider a Bachelor of Statistics, Psychology, Sociology, Economics,
+    Behavioural Sciences or Computer Science degrees. These are less common
+    pathways, but may help you to specialise in particular industries.
+ 3. Consider joining the Australian Market & Social Research Society to keep up with
+    industry trends and developments.
+
+
+
+
+https://www.seek.com.au/career-advice/role/market-researcher                                7
+What do market researchers do? (Seek.com)
+
+ 1. Meeting with clients to agree project scope and timeline.
+ 2. Writing and managing the distribution of surveys.
+ 3. Briefing research teams and managing survey staff.
+ 4. Managing project budgets.
+ 5. Conducting qualitative, quantitative and ethnographic research, such as surveys,
+    interviews, focus groups and observations.
+ 6. Using statistical modelling software.
+ 7. Organising, managing and storing data and information.
+ 8. Analysing data and interpreting patterns.
+ 9. Writing reports and presenting data-driven results.
+ 10. Consulting with clients on how to best utilise the findings.
+https://www.seek.com.au/career-advice/role/market-researcher                           8
+Who Provides Market Research?
+
+                                                   Providers of market
+                                                        research
+
+
+
+
+                          Internal                                                         External
+
+                Focus: needs of one
+                   organization
+
+
+
+
+                     Full service                                                       Limited service
+
+
+
+
+        Syndicated data      Customized services                Segment specialists      Field service       Specialized
+
+
+
+
+         No focus: Can provide (nearly)
+                                                              Focus: Airlines and       Focus: executing Focus: Conjoint analysis
+                  all services
+                                                                   Airports             samples (sample
+                                                                                      size, data collection)
+                                                                                                                                    9
+Leading Marketing Research Industry
+Organizations
+• Australian Market and Social Research Society (AMSRS)
+  https://researchsociety.com.au/
+• Asia Pacific Research Committee (ARPC) https://aprc-research.com/
+• American Marketing Association (AMA) https://www.ama.org/
+• Market Research Institute International (MRII) https://mrii.org/
+• European Society for Opinion and Marketing Research (ESOMAR)
+  https://www.esomar.org/
+
+
+
+
+                                                                      10
+  Subject Practicalities& Structure
+
+
+Lecture 1, part 1
+Intro to your teaching team
+
+• Coordinator: Dr. Yi-Lin Tsai
+• Lecturers: Dr. Stephanie Kwari and Dr. Carolyn Lo
+
+             Time
+    Day              Time to    Building               Room Number                  Instructor      Section
+             from
+                                              PAR-110-L5-5008-Lecture Theatrette
+  Monday     12:00    15:00     The Spot                                           Dr Yi-Lin TSAI     4
+                                                            (85)
+                                              PAR-110-L4-4014-Lectorial Learning
+  Tuesday    12:00    15:00     The Spot                                           Dr Yi-Lin TSAI     3
+                                                         Space (79)
+                                              PAR-110-L4-4012-Lectorial Learning   Dr Stephanie
+  Tuesday    15:00    18:00     The Spot                                                              2
+                                                         Space (86)                   KWARI
+                                              PAR-110-L4-4012-Lectorial Learning   Dr Stephanie
+  Thursday   17:00    20:00     The Spot                                                              5
+                                                         Space (86)                   KWARI
+                               Harold White     PAR-199-L1-124-Harold White
+  Tuesday    12:00    15:00                                                        Dr Carolyn LO      1
+                                Theatrette             Theatrette (103)
+                               Harold White     PAR-199-L1-124-Harold White
+  Tuesday    18:00    21:00                                                        Dr Carolyn LO      6
+                                Theatrette            Theatrette (103)
+                                                                                                              12
+Subject structure and resources
+
+• Format: 3-hour Seminar
+   ‒ 1.5-hour lecture
+   ‒ 1.5-hour activities/workshop (e.g., exercises, SPSS)
+
+• Resources
+   ‒ All LMS (e.g., slides, interview videos)
+   ‒ Seminars
+   ‒ Recommended textbook: A Concise Guide to Market Research
+
+• Software
+   ‒ Qualtrics: a questionnaire design tool
+   ‒ IBM SPSS Statistics (SPSS): statistical software
+
+                                                                13
+Assessment
+
+
+
+ Quizzes      Individual   10%
+
+ Final Exam   Individual   50%
+
+ Project       Group       40%
+
+ Total                     100%
+
+
+                                  14
+Individual: Quizzes (10%)
+
+• 5 Quizzes (each 2%) to help you review the materials
+
+   ‒ Questions are closely related to the lectures and workshops.
+   ‒ Non-cumulative
+   ‒ Once you start the quiz, you have one hour to complete it.
+   ‒ You can use these questions to prepare for your final exam.
+
+
+• Released on Thursday at 11:59 pm and closed on Tuesday at 11:59 pm
+
+
+
+
+                                                                       15
+Individual: Final Exam (50%)
+
+• Open book – you can take the book and notes with you.
+• Details and a sample exam will be made available to you later.
+
+
+
+
+                                                                   16
+Group: Project (40%)
+
+• Form a group of 4 to 5
+   ‒ Group mates in the SAME section
+   ‒ Choose your own group in W1 and W2
+   ‒ We will help you if you cannot find a group
+
+
+• Deliverables
+   ‒ Research Questions and Survey Design 2% (W6)
+   ‒ Write-up 33% (W12)
+   ‒ PowerPoint slides 5% (W12)
+
+• More details to follow
+
+                                                    17
+Project: Consumer Perception and
+Purchase of Dietary Supplements
+  Market Size & Growth
+  ‒ The Australian dietary supplement market is valued at AU$1.7 billion.
+  Consumer Spending Trends
+  ‒ Young adults are among the highest spenders, averaging AU$56 per month on
+    supplements.
+  Role of E-Commerce & Digital Marketing
+  ‒ Consumers heavily rely on social media influencers, online reviews, and digital
+    platforms like Chemist Warehouse, iHerb, and Amazon Australia for purchase
+    decisions.
+
+
+
+
+                                                                                      18
+Project: Consumer Perception and
+Purchase of Dietary Supplements (cont.)
+   Consumer Concerns
+   ‒ Persistent concerns about trust, misinformation, and regulatory oversight.
+   ‒ Hesitations stem from doubts over product quality, potential side effects, and the
+     overwhelming variety of available options.
+   Regulation by Therapeutic Goods Administration (TGA)
+   ‒ Reports of adverse effects, such as peripheral neuropathy linked to excessive
+     vitamin B6 intake, have led to TGA-issued safety alerts.
+
+
+   Management Decision Problem
+How can supplement brands grow while effectively educating consumers and
+promoting safe supplement use?
+
+                                                                                          19
+Action map to the project
+
+
+         Form a group.
+         Determine your research question(s).
+         Conduct a literature review and secondary data research.
+         Conduct qualitative research (e.g., in-depth interviews, focus groups, or observations).
+         Analyse the qualitative research data.
+         Design a survey questionnaire based on previous steps.
+         Collect data.
+         Analyse the quantitative data and interpret findings.
+         Write a report and design a PowerPoint presentation.
+
+[Insert Identifier] | [Insert Report Title]                                                         20
+Questions?
+  The Marketing Research Process
+
+
+
+
+Lecture 1, part 3
+The Market Research Process
+
+           1          Identify and formulate the problem
+
+           2            Determine the research design
+
+           3   Design the sample and method of data collection
+
+           4                   Collect the data
+
+           5                   Analyze the data
+
+           6      Interpret, discuss, and present the findings
+
+           7                      Follow-up
+First Step: Identify and Formulate the
+Problem (the most important step!)
+     1. What? = Marketing Symptom
+      The marketing symptom can be a problem (decreasing sales figures,
+      declining customer satisfaction, etc.), as well as an opportunity
+      (emerging markets opportunities, access to new technology, etc.)
+     2. Why? = Marketing Problem
+      1. Ambiguous problems
+         (Uncertainty regarding the measures and leverages of problem
+         solution)
+      2. Somewhat defined problems
+         (Uncertainty regarding the interaction of the measures)
+      3. Clearly defined problems
+         (Interaction of the measures and leverages is known, but the
+         dimension is not clear)
+Example: First step
+
+
+
+                                    Problems:
+
+       Symptom:           —Lower product quality?
+                          —Better promotion by?
+   Loss of Market Share    competition
+                          —Price decrease by competitor?
+
+
+
+
+                                                           25
+From symptoms to problem definition
+
+• The management question may not be the marketing research
+  question
+
+• Symptoms may not be what they seem (i.e., the iceberg principle)
+
+• Some questions cannot be answered
+
+• Some questions are not politically acceptable
+
+• Some decisions have already been taken
+
+• Time/effort/resource constraints
+
+                                                                     26
+Second Step: Determine the Research Design
+
+                           Ambiguous problems:
+                            Exploratory research
+                                   design
+
+                            Somewhat defined
+                           problems: Descriptive
+                              research design
+
+
+                              Clearly defined
+                             problems: Causal
+                              research design
+Second Step: Which Research Design?
+It depends on the type of problem.
+
+           Ambiguous           Somewhat defined        Clearly defined
+
+
+        Exploratory research   Descriptive research   Causal Research
+
+        • Understand           • Describe customers   • Uncover causality
+          structure              or competitors       • Understand the
+        • Formulate            • Understand market      performance effects
+ Uses     problems precisely     size                   of marketing mix
+        • Generate             • Segment markets        elements
+          hypotheses           • Measure
+        • Develop                performance (e.g.,
+          measurement            share of wallet,
+          scales                 brand awareness)
+Steps 3-7
+
+• 3rd Step: Design the sample and method of data collection
+
+• 4th Step: Collect the data
+
+• 5th Step: Analyze the data
+
+• 6th Step: Interpret, discuss, and present the findings
+
+• 7th Step: Follow-up
+Sample project
+Recap
+
+
+
+
+        31
+This Week’s Industry Expert
+
+
+
+
+                                                         “How to respond to a
+                                                         project brief”
+
+                                                         “Marketing research
+                                                         industry in AU - Landscape
+                                                         & Trends”
+
+
+
+      Source: https://www.harvestinsights.com.au/about
+

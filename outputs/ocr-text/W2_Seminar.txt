@@ -1,0 +1,441 @@
+MKTG90011
+Marketing
+Research
+
+
+
+Seminar 2
+Topics for Today
+
+1. Data
+  • Primary and Secondary Data
+  • Quantitative and Qualitative Data
+  • Unit of Analysis, Dependence of Observations, Dependent and Independent
+    Variables
+  • Measurement Scaling
+  • Reliability and Validity
+  • The Population and Sampling, Sample Sizes
+2. The Literature Review
+3. Workshop
+
+
+                                                                              2
+Housekeeping
+
+1. Email: Please include [Marketing Research] or [MKTG90011] in the subject line.
+2. What is the difference between a Group of 4 and a Group of 5?
+   ‒ Data collection
+   ‒ Group of 4: n = 100 (minimum) for quantitative surveys and n = 10 for qualitative
+     interviews (as in the subject guide)
+   ‒ Group of 5: n = 125 (minimum) for quantitative surveys and n = 12 for qualitative
+     interviews
+
+3. The first quiz will be available on Thursday at 11:59 pm.
+   ‒ 7 Multiple-Choice/True-False questions + 1 Short-Answer question
+   ‒ Materials in W1 and W2
+   ‒ 90 min
+[Insert Identifier] | [Insert Report Title]                                              Page [3]
+Recap
+
+        Ambiguous problems:
+         Exploratory research
+                design
+
+         Somewhat defined
+        problems: Descriptive
+           research design
+
+
+           Clearly defined
+          problems: Causal
+           research design
+
+
+                                4
+Data
+
+
+
+
+       Lecture 2, part 1
+What is data?
+
+Data are facts and statistics
+collected together for reference or
+analysis (Oxford dictionary)
+
+
+
+
+[Insert Identifier] | [Insert Report Title]   6
+Definition of terms (in a data set)
+
+• Variable: an attribute whose value can      Construct: a variable that is not directly
+  change. A variable is the opposite of a     observable.
+  constant.                                   Examples: Happiness; Trust; Satisfaction
+• Constant: an attribute that does not
+  change its value
+                                              Types of construct:
+• A case (or observation) consists of all
+                                              • Reflective vs. Formative
+  the observed variables that belong to an
+  object such as a customer, a company,       • Single- vs. multi-item
+  or a country
+• Item: usually refers to a survey question   • Developing constructs requires using
+  put to a respondent                           scale/ index development procedures
+                                                (more to come in W4)
+
+
+
+                                                                                           7
+How to Find Construct Measures
+Agenda
+1. Types of Data
+2. Primary and Secondary Data
+3. Quantitative and Qualitative Data
+4. Unit of Analysis, Dependence of Observations, Dependent and Independent
+   Variables
+5. Measurement Scaling
+6. Reliability and Validity
+7. The Population and Sampling, Sample Sizes
+                                                      Primary Data
+
+
+
+
+https://helpfulprofessor.com/primary-data-examples/
+Secondary Data
+Secondary data is collected previously for another purpose
+
+
+
+   Internal                    External
+                                            Examples:
+              Examples:
+                                            Industry
+              Sales reports
+                                            reports
+
+              Existing
+                                            Data provided
+              internal
+              research                      by market
+                                            research firms
+              studies
+
+
+                                          Example: https://www.ibisworld.com/australia/industry/vitamin-
+                                          and-supplement-manufacturing/5417/
+Primary vs. Secondary Data
+
+                             Secondary data                  Primary data
+
+           Advantages •     Tends to be cheaper
+                                                             •   Are recent
+                      •     Sample sizes tend to be
+                                                             •   Are specific for the purpose
+                            greater
+                                                             •   Are proprietary
+                        •   Tend to have more authority
+                        •   Are usually quick to access
+                        •   Are easier to compare to other
+                            research using the same data
+                        •   Are sometimes more accurate
+
+          Disadvantages •   May be outdated                  •   Are usually more
+                        •   May not fully fit the problem        expensive
+                        •   There may be hidden errors       •   Take longer to collect
+                            in the data
+                        •   Usually contain only factual
+                            data
+                        •   No control over data
+                            collection
+                        •   May not be reported in the
+                            required form
+Some examples – internal secondary data
+
+ • Sales invoices, accounts receivables reports, sales, social media, customer
+   service reports.
+ • Customer letters or comment cards, mail-order forms, cash register
+   receipts, credit applications, digital purchase receipts, website and mobile
+   apps, salesperson expense reports, employee exit interviews
+
+
+
+
+                                                                                  13
+Some examples – external secondary data
+
+  • IbisWorld (Reports)
+  • Australian Bureau of Statistics (for market descriptors)
+  • Reviews (e.g., Google maps)
+  • Hootsuite (for social media – see video on LMS)
+  • Hoovers (company information – available via the FBE library)
+  • LinkedIn Business (To find contacts)
+  • Major newspapers and periodicals (Bloomberg Businessweek, Forbes,
+    Harvard Business Review, Australian Financial Review)
+  • Scholarly sources (Google Scholar, EBSCO, ProQuest)
+  • Government sources (Census data, additional government reports, and
+    publication catalog)
+  • Commercial sources (Market Line, Passport, Euromonitor)
+
+                                                                          14
+Secondary Data
+Finding Secondary Data using Google:
+
+   • Use Google Scholar (http://scholar.google.com) if you are looking for scholarly information such as in academic
+     journals. Often, you can only access the information if you have an organizational, university, or library
+     password.
+   • With Google Books (http://books.google.com/books) you can search within a catalogue of digital books. Google
+     returns in which books the keywords you have used are found. Google may also provide a text preview.
+   • Under advanced search, you can tell Google to only return searches from e.g., Excel documents by selecting
+     Excel under file type. Under advanced search you can also tell Google to return searches from universities only
+     by typing in “.edu” in Search Within Site or Domain (mainly USA!).
+   • For news from some time ago (e.g., to see how a new product launch was received by the press) use Google
+     News Archive Search (http://news.google.com/archivesearch).
+   • Try to use operators to restrict your research. E.g., putting a “–” right before a search word excludes this word
+     from your findings. “+” allows you to search for websites that include that particular word. Putting a sequence of
+     in quotation marks “…” indicates that Google should search for exactly these elements.
+   • You can use a dedicated search tool to find secondary data such as the Internet Crossroads in Social Science
+     Data (http://www.disc.wisc.edu/newcrossroads/index.asp). These dedicated search tools and lists often work well
+     if you are looking for specialized datasets.
+Agenda
+1. Types of Data
+2. Primary and Secondary Data
+3. Quantitative and Qualitative Data
+4. Unit of Analysis, Dependence of Observations, Dependent and Independent
+   Variables
+5. Measurement Scaling
+6. Reliability and Validity
+7. The Population and Sampling, Sample Sizes
+Quantitative and Qualitative Data
+
+    Quantitative data are presented in values
+
+     • Sales in AUD
+     • Full-time work (0/1)
+     • Survey items: disagree(0), somewhat disagree (1), neutral (2), somewhat
+       agree (3), agree (4).
+
+    Qualitative data may be presented in all other forms
+
+     • Observation of customers shopping for products
+     • Open-ended questions
+     • Description of holiday experience
+Quantitative and Qualitative Research
+
+The difference between qualitative and quantitative market research is not just one of words
+versus numbers. It has to do with quantification.
+
+• If you know all possible values your variables will take on before collecting data →
+  quantitative research. Examples: age (years), temperature (e.g. in Fahrenheit or Celsius)
+
+• If you don’t know the possible values, you have qualitative data. Examples: how do you
+  feel about Apple’s iPad? What made you decide to buy a Mercedes E-class?
+
+• You can turn qualitative data into numbers. For example, you can assign different values
+  to the reasons why people decided to buy a Mercedes E-class.
+
+• The research will remain qualitative however, the data itself are quantified.
+Typical Methods Associated with Collecting
+Quantitative and Qualitative Data
+
+                                     Primary data
+
+
+                  Quantitative                           Qualitative
+                                              Direct
+           • Survey (mainly closed            • Interviews (with experts)
+             questions)                       • Focus groups
+           • Experiments                      Indirect
+                                              • Observational studies
+                                              • Projective methods
+                                              • Test markets
+Agenda
+1. Types of Data
+2. Primary and Secondary Data
+3. Quantitative and Qualitative Data
+4. Unit of Analysis, Dependence of Observations, Dependent and Independent
+   Variables
+5. Measurement Scaling
+6. Reliability and Validity
+7. The Population and Sampling, Sample Sizes
+Unit of Analysis
+The unit of analysis is the level at which a variable is measured
+
+• Customer satisfaction
+
+• Profitability
+                                                                Per
+                                                    Busines   individu
+                                 Industry    Firm                al
+                                                     s unit   employ
+                                                                 ee
+
+
+
+Data is best collected at the lowest level
+
+• Date can be aggregated (summed) to higher levels later
+
+• Example: “Cars sold at each individual car dealership” can be aggregated to “Cars sold in region /
+   country XYZ”
+Dependence of Observations
+Dependence of observations = are observations related (correlated)?
+
+−Imagine we conduct an experiment:
+  ‒ We ask participants to rate a type of Cola
+  ‒ We show them an advertisement of this type of Cola
+  ‒ We ask them to rate the Cola again
+
+
+−First and second responses will be related: Those who rated the cola negatively (positively) at first,
+are more likely to continue rating it negatively (positively) next time
+Dependent and Independent Variables
+Dependent and independent variables are terms relating to the design of a market research
+study
+
+                    Dependent
+                                    • What you try to explain
+                     variable
+                    Independent
+                                    • What you use to explain it
+                      variable
+
+
+Do not confuse with ‘does the variable depend on something else.’ Almost all variables depend
+on something else (e.g., loyalty, price sensitivity etc.)
+More to come in W5 (Causal Research)
+Measuring Scaling
+• Nominal scale (label for the presence / lack of presence of some
+  characteristic; e.g., color of car: blue=1, red=2 etc.)
+• Ordinal scale (rank order of objects, customers etc.; e.g., non-user=0, light
+  user=1, and heavy user=2)
+• Interval scale (precise differences between scale points; e.g., temperature in
+  Celsius/Fahrenheit)
+• Ratio scale (same as interval scale but with a natural origin / zero point; e.g.,
+  sales in USD)
+• More to come in W4 (Scale Development)
+
+                                                       Label     Order     Differences   Origin is 0
+                                      Nominal scale    ✓
+
+                                      Ordinal scale    ✓         ✓
+
+                                      Interval scale   ✓         ✓         ✓
+
+                                      Ratio scale      ✓         ✓         ✓             ✓
+Reliability and Validity
+True score model: XO = XT + ES + ER
+
+
+                                                     Reliable
+−XO = the observed score
+−XT = the true score
+−ES = systematic error
+−ER = random error
+
+
+Validity refers to whether we are measuring what
+we want to measure (ES=0)
+                                                     Not reliable
+                                                                                Not possible
+Reliability is the degree to which what we measure
+is free from random error (ER=0)
+
+
+                                                                    Not valid        Valid
+Type of Reliability
+
+
+  Test-
+              • The same test over time
+  Retest
+
+
+
+              • Same test by different people
+ Interrater
+
+
+
+
+  Parallel
+              • Different versions of same test
+   forms
+
+
+
+  Internal    • Individual items of same test
+ Consisten
+     cy
+Types of Validity
+  Construct Validity: correspondence between a measure at conceptual level and
+  purported measure (includes the following types)
+
+
+                 • Does the variable reflect what you want to measure? That is, “Does it makes
+       Face        sense?”
+      Validity
+
+
+                 • Very similar to face validity, but more formalized, that is, questions used to measure
+     Content       a construct need to be closely related to the formal definition of the construct
+     Validity
+
+
+                • Does the measure predict another phenomenon, measured in the future (e.g.,
+     Predictive   satisfaction and future sales)?
+      Validity
+
+
+                 • Like predictive validity, but measurement of the two phenomena takes place at the
+     Criterion     same time
+     Validity
+Sampling
+                                      Sampling procedures
+
+         Population is                                 Non probability
+         the group of    Probability sampling
+                                                         sampling
+          units about
+        which we want
+            to make                Simple random            Judgmental sampling
+          judgments                   sampling
+
+
+                                Systematic sampling         Snowball sampling
+          Sampling is
+          the process
+        through which
+           we select             Stratified sampling          Quota sampling
+         cases from a
+           population                                         Other types of
+                                  Cluster sampling            convenience
+                                                                sampling
+ More to come in W6
+Sample Sizes
+Intuition: increasing sample size of a randomly selected sample helps reduce random error.
+
+The marginal benefit of increasing the sample sizes becomes smaller as the sample becomes larger.
+An increase from n=40 to n=60 is more beneficial than from n=1,000 to n=1,020.
+
+The sample size required is (almost) unrelated to the size of the population.
+
+More to come in W6.
+Takeaways
+
+ 1.Secondary data can be collected by a range of internal and external sources for
+ databases, articles, studies etc.
+
+
+ 2.Nominal, ordinal, interval, and ratio scaled data contain different degrees of
+ information.
+
+
+ 3.Validity refers to the degree of systematic error; reliability to the degree of random
+ error in measurement.
+
+
+ 4.There are many types of sampling procedures, each with distinct benefits.
+

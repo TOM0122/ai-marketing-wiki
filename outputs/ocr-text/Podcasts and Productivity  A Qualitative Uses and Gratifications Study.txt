@@ -1,0 +1,1004 @@
+      Mass Communication and Society
+
+
+
+
+      ISSN: 1520-5436 (Print) 1532-7825 (Online) Journal homepage: www.tandfonline.com/journals/hmcs20
+
+
+
+
+Podcaﬆs and Productivity: A Qualitative Uses and
+Gratiﬁcations Study
+
+Lisa Glebatis Perks & Jacob S. Turner
+
+To cite this article: Lisa Glebatis Perks & Jacob S. Turner (2019) Podcasts and Productivity: A
+Qualitative Uses and Gratiﬁcations Study, Mass Communication and Society, 22:1, 96-116, DOI:
+10.1080/15205436.2018.1490434
+
+To link to this article: https://doi.org/10.1080/15205436.2018.1490434
+
+
+
+
+       Published online: 17 Jul 2018.
+
+
+
+       Submit your article to this journal
+
+
+
+       Article views: 10112
+
+
+
+       View related articles
+
+
+
+       View Crossmark data
+
+
+
+       Citing articles: 66 View citing articles
+
+
+
+
+                      Full Terms & Conditions of access and use can be found at
+            https://www.tandfonline.com/action/journalInformation?journalCode=hmcs20
+Mass Communication and Society, 22:96–116
+© 2018 Mass Communication & Society Division
+of the Association for Education in Journalism and Mass Communication
+ISSN: 1520-5436 print / 1532-7825 online
+DOI: https://doi.org/10.1080/15205436.2018.1490434
+
+
+
+
+     Podcasts and Productivity: A Qualitative
+         Uses and Gratifications Study
+
+                     Lisa Glebatis Perks and Jacob S. Turner
+                        Department of Communication and Media
+                                  Merrimack College
+
+
+
+     Through analysis of five focus groups with people who “usually (more often than
+     not) listened to at least one podcast episode a week” in the last two months, this
+     uses and gratifications (U&G) study uncovers several prominent themes among
+     podcast listener experiences. In an effort to integrate old and new media use
+     typologies within U&G research, our results are presented in two parts: emerging
+     typologies and expansions of existing typologies. The emerging section includes
+     reasons for podcast displacement of other media, customizable experiences, and
+     multitasking (which involves both temptation bundling and feeding the brain). The
+     expansion builds on the existing typologies of companionship and interaction by
+     analyzing avenues for parasocial relationship formation and identifying social
+     opportunities as well as social frustrations surrounding podcasts. We ultimately
+     conclude that podcasts offer an endless supply of engaging content that travels with
+     listeners, allowing them to be “productive” in various physical and mind-expanding
+     ways. The enjoyment is facilitated in part by forging connections with hosts and
+     other listeners.
+
+
+
+
+    Lisa Glebatis Perks (Ph.D., University of Texas at Austin, 2008) is an Associate Professor in the
+Department of Communication and Media at Merrimack College. Her research interests include
+analyzing audience reception processes and new media engagement patterns.
+    Jacob S. Turner (Ph.D., Bowling Green State University, 2009) is an Associate Professor and
+Chair of the Department of Communication and Media at Merrimack College. His research interests
+include examining media content to better understand how cultural information is communicated
+through media technologies.
+    Correspondence should be addressed to Lisa Glebatis Perks, Department of Communication and Media,
+Merrimack College, 315 Turnpike Street, North Andover, MA 01845. E-mail: perksl@merrimack.edu
+
+
+96
+                                            PODCASTS AND PRODUCTIVITY           97
+
+We invite them into our kitchens while we cook, our cars while we commute, our
+offices while we work, and our pockets while we clean. A portmanteau of
+broadcasting and iPod (McClung & Johnson, 2010), podcasts are audio files
+that can be downloaded or streamed from a mobile device, usually at no direct
+cost to the user. This unique distribution avenue has enabled audio media
+innovation spanning topic, time, and structure. We consider it safe to say that
+podcasting will never be a peak mass medium, but, as Berry (2016) asserted, it
+appears to be entering a “period of credibility, stability and maturity” (p. 668).
+Indeed, statistics from the 2017 Edison Research study on podcasts revealed that
+40% of the representative U.S. sample had listened to a podcast and 24%
+engaged in monthly listening, showing steady incremental growth in both cate-
+gories over the past 5 years, from 29% and 14%, respectively (“Podcast
+Consumer,” 2017). Scholars have described podcast engagement as a “niche
+prosumer activity” (Menduni, 2007, p. 16), and noted that intense, loyal audience
+engagement is prized over size (Wade & Patterson, 2015). Podcasting seems to
+have found and stabilized its entertainment identity emphasizing a more personal
+and personalized experience.
+    Surveying the podcast literature, Markman (2015) highlighted the paucity of
+audience research, specifically on audience habits and motivations. This uses and
+gratifications (U&G) study works to close that gap in the literature by finding
+answers to this overarching research question: What specific U&G are listeners
+seeking and obtaining from podcasts? Answers to this question will help us more
+clearly see what this medium is offering to its increasing number of audience
+members, thus capturing emergent typologies for new media gratifications. The
+process of answering this question will also help us make methodological
+recommendations to other U&G researchers. Sundar and Limperos (2013)
+recommended “using the classic two-step [U&G] methodological approach of
+focus groups followed by surveys” (p. 507). The authors opined, however, that
+U&G researchers have tended to skip the first step, moving swiftly to survey
+designs that feature “instruments from studies of older media, modified slightly
+to suit the particular medium under investigation” (p. 507). The current research
+will hold heuristic value for scholars interested in conducting U&G-based survey
+research by providing a set of testable gratifications uniquely applicable to the
+podcast medium.
+    Through analysis of five focus groups with people who “usually (more often
+than not) listened to at least one podcast episode a week” in the 2 months prior to
+the focus group, this study uncovers several prominent themes among podcast
+listener experiences. Our results are presented in two parts—emerging U&G
+typologies and expansions of existing typologies—to offer a clear dialogue with
+the existing body of U&G literature. The emerging section includes reasons for
+displacement of other media, customizable experiences, and multitasking (which
+involves both temptation bundling and brain food). The expansion builds on the
+98     PERKS AND TURNER
+
+
+existing typologies of companionship and interaction by analyzing avenues for
+parasocial relationship formation and identifying social opportunities as well as
+social frustrations surrounding podcasts. We ultimately conclude that podcasts
+offer an endless supply of engaging content that travels with listeners, allowing
+them to be “productive” in various physical and mind-expanding ways. The
+enjoyment is facilitated in part by forging connections with hosts and other
+listeners.
+
+
+                        U&G LITERATURE REVIEW
+
+U&G has been variously referred to as a theory, a perspective, and an approach
+to understanding people’s media use (Palmgreen, 1984). Here it is perhaps best
+thought of as “a way of thinking about and empirically testing individuals’
+motives for media use” (Krcmar & Strizhakova, 2009, p. 64). The U&G tradi-
+tion, regardless of the medium under investigation, is predicated on the assump-
+tion of active audience members who might use, interact with, and be impacted
+by that medium in various ways dependent, at least in part, upon the users’
+individual differences (Sundar & Limperos, 2013). U&G, then, foregrounds a
+general conception of media users as discriminating, selective, rational, and in
+possession of enough self-awareness that they can identify the needs they seek
+from their media diet (Ruggiero, 2000). By their very nature, podcast users are
+noteworthy for “active decision making” as they “actively search for content”
+(Berry, 2016, p. 666) and interact with other users in a social multimedia
+environment (Markman, 2015); therefore, the assumption of an agentic, purpose-
+ful audience makes good theoretical sense in the current investigation.
+   Central to the U&G approach is the practice of categorizing various media
+user needs into one or a number of related typologies (Wang & Tchernev, 2012)
+that capture gratifications or “perceived fulfillment[s]” of those needs
+(Palmgreen, 1984). For example, Rubin (1984) divided the needs associated
+with TV viewing into either instrumental or ritualized. Rubin’s media use
+dichotomy has since been applied to media engagement behaviors such as talk
+radio listening (Rubin & Step, 2000), Internet use (Sundar & Limperos, 2013),
+and multitasking using various media (Wang & Tchernev, 2012). There is a long-
+standing practice dating back to the 1970s for U&G researchers to slot needs and
+gratifications into existing media use typologies, such as emotional, cognitive,
+social, habitual, or affective (see, e.g., Krcmar & Strizhakova, 2009; Schramm &
+Hartmann, 2008; Wang & Tchernev, 2012) and to integrate established U&G
+with emergent gratifications from newer media (e.g., Ferguson & Perse, 2000;
+Papacharissi & Rubin, 2000).
+   Ruggiero (2000) asserted that sorting media needs into typologies does not
+provide a “refined theoretical perspective,” but it does offer “a benchmark base
+                                            PODCASTS AND PRODUCTIVITY            99
+
+of data for other studies” (p. 12). On the other hand, Krcmar and Strizhakova
+(2009) cautioned that the proliferation of typologies without an associated
+attempt to integrate them “may do little to forward uses and gratifications as a
+meaningful approach” (p. 56). Sundar and Limperos (2013) argued that U&G
+researchers need to make space for more specific and emergent gratifications
+rather than relying only on established, generalized, and aggregated gratifications
+from older media if scholars want to improve their chances of accurately making
+sense of the role media use plays in today’s society. Ruggiero struck a productive
+middle ground by suggesting that U&G scholars take a hybrid approach by using
+theoretically relevant elements of existing gratification typologies while also
+making conceptual and empirical space for emergent needs associated with
+newer media practices. Our work aligns with this middle ground as it presents
+the analysis in a way to specifically highlight emergent gratifications and build
+out established typologies.
+    So how might we define and situate the podcast medium in the assemblage of
+media options that came before it and emerged along with it? Wade and Patterson
+(2015) clarified, “Podcasting is neither limited to nor defined by its technologies.
+Rather, it is a specific set of practices and cultural meanings that are entirely
+entwined with the technologies for its distribution, organization, and consump-
+tion” (pp. 221–222). Here, Wade and Patterson tap into one of the more difficult
+filigrees to untangle using U&G, namely, how a given technology’s affordances
+bump up against and comingle with users’ preexisting individual differences as
+they use that technology within a particular sociocultural context. Eloquently
+explicating the antecedent, mediating, and consequent factors (Rubin, 1994)
+associated with early podcasting, Berry (2016) analyzed the iPod’s radio-
+related history, technological invitation to users (which includes the iPod and
+earbuds), and early commuter context, noting that these factors promoted “a
+privatized and personalized auditory experience” (p. 664).
+    Of course the gratifications associated with personalized podcast listening did
+not emerge out of thin air but rather developed in a complex process of
+displacement of and convergence with older media. From its roots in broadcast
+radio, to its immersive auditory older cousin audiobooks or books on tape
+(Markman, 2015), to the debt it owes to the mobile audio technologies like the
+Walkman, MP3 players, and smartphones (Berry, 2016; Wei, 2008; Zeng, 2011),
+it becomes clear that podcasts already have a foundation in U&G research.
+    Berry (2016) identified overlapping and distinctive U&G between radio and
+podcasting, arguing that listening to traditional radio is more of a linear process
+with messages moving mostly from sender to receiver, whereas podcast listening
+involves the choice to create a social yet personalized and customizable listening
+experience. Numerous other gratifications have been identified in the U&G
+literature related to podcasting and the technologies that afford them. These
+gratifications include sharing content through social media (Menduni, 2007),
+100       PERKS AND TURNER
+
+
+time shifting (McClung & Johnson, 2010; Wade & Patterson, 2015), place
+shifting (Wade & Patterson, 2015; Wei, 2008), parasocial relationships with
+podcast hosts and characters (Hartmann, 2008), listener control and choice
+(which overlap with time and place shifting; Albarran et al., 2007), entertainment
+(McClung & Johnson, 2010), relaxation (Albarran et al., 2007), and passing the
+time (Albarran et al., 2007). Our study digs deeper into emergent U&G, many of
+which focus on the ability to enhance one’s productivity by multitasking with the
+podcast medium. This multitasking theme represents an enhancement of the
+“control” U&G typology (of selecting the medium and content one wants,
+when one wants it). Users are not just controlling the listening experience:
+They are better able to control what else they are doing while they are listening.
+
+
+                                    METHODOLOGY
+
+After securing Institutional Review Board approval from Merrimack College on
+March 1, 2017, a team of two professors and two directed study students
+conducted focus groups that spring. Participants were recruited through flyers
+posted on the campus of a midsize private New England college, e-mails to
+campus constituents, word of mouth, and the researchers’ social media accounts.1
+Two groups were conducted in person on the college campus, and three groups
+were conducted virtually (Stancanelli, 2010) using Google Hangouts. All parti-
+cipants received $10 Amazon gift cards.
+   The groups were segmented according to the recruitment method and the
+recruiter. For example, the two students primarily recruited participants from
+campus for in-person focus groups held in a library meeting room. Almost all of
+their participants (N = 9) were students, staff, or faculty. The focus groups
+conducted online (N = 14) comprised the two professors’ personal contacts,
+social media connections, and snowball sampling (e.g., some participants invited
+a friend or coworker). The online focus groups tended to attract more avid
+podcast listeners who were eager to speak with others about their experiences,
+whereas the face-to-face participants tended to be more casual listeners. The
+researchers intentionally avoided a student-only sample and a sample recruited
+through podcast fan communities. The convenience sample and the online focus
+groups were used in an effort to maximize geographic and age diversity, as well
+as capture a wide variety of listening preferences and purposes.
+   After reviewing and signing consent forms (in person or through e-mail),
+participants filled out a brief questionnaire that asked about demographics, as
+well as podcast listening information: how, how much, and what podcasts they
+
+   1
+     Moderators were acquainted with some of the participants, but no one moderated a focus group
+consisting of family members or colleagues.
+                                                     PODCASTS AND PRODUCTIVITY                    101
+
+listened to. The semistructured focus groups were based on 10 question areas
+covering topics such as how participants got started listening to podcasts, the
+conditions under which they listened, what entertainment they used before
+podcasts were available, what they liked about their favorite podcasts, and
+what they looked for in a host.2 Each moderator transcribed her or his own
+focus group(s).
+    Twenty-three participants were split among the five focus groups (ranging
+from three to six participants each). Recognizing the importance of balancing a
+collection of diverse voices and enough “air time” for all participants (Fabiano &
+Lederman, 2002), the researchers purposely aimed for smaller focus groups. Our
+primary concern was the online focus groups in which nonverbal cues indicating
+that one is ready to speak (e.g., shifting in one’s seat, clearing one’s throat)
+would be tougher to detect, thus adding more dead time and less time for
+conversation. In the beginning of the online focus groups, participants tended
+to go in order of left to right (in terms of whose face appeared where on the video
+conference screen). As the groups learned first names and seemed to feel more
+comfortable, participants began chiming in whenever they wanted to build on
+someone’s statement or offer an alternative view. The nature of the dialogue
+indicated that the groups were indeed “fostering honesty rather than socially
+desirable responses” (Lederman, 1990, p. 119).
+    Participants included 14 women and nine men. The vast majority self-identified
+as Caucasian. One participant identified as Chinese and one as Asian American.
+The age range of participants was 19 to 55, with an average of 33.7. The study
+population had higher educational attainment than the general population: graduate
+degree (n = 10), bachelor’s degree (n = 7), some college (n = 4), high school
+degree or equivalent (n = 1).3 One participant chose not to answer this question. In
+terms of their listening behaviors captured in our prefocus group survey, we found
+that participants listened to podcasts for a range of 15 to 4,000 minutes per week.4
+Our second highest number of minutes per week was 1,500. Removing the 4,000-
+minute outlier, participants listened an average of 346 minutes per week.
+Seventeen participants listened through their iPhone and/or the Overcast applica-
+tion. Ten noted that they listened through their computer.5
+
+   2
+       The full schedule of focus group questions is available from the first author.
+   3
+       Our demographic form did not ask about occupations, but several participants mentioned their
+work through the course of their focus group. Our participants came from the fields of education,
+entertainment, law, and construction, among others.
+     4
+       The participant who reported listening for 4,000 minutes was asked if that total was accurate and
+responded “seriously.” Although this is a notable outlier, ideas expressed by this person that are
+included in this article always had support from two or three other focus group participants (not
+necessarily in the same group), so we consider the data from that person to be instructive.
+     5
+       The numbers add up to more than 23 because some participants listed multiple ways they
+listened.
+102      PERKS AND TURNER
+
+
+   The study’s single-spaced transcripts collectively took up 62 pages. The
+transcripts were analyzed using grounded theory. Following grounded theory
+procedure (Corbin & Strauss, 2015), the first author read through all transcripts
+carefully without taking notes, took notes during a second reading, and created a
+transcript memo on a third reading that listed out all possible themes (46 total).
+The most notable themes were selected based on their frequency of mention and
+the level of detail focus group participants provided about the theme. At that
+point, the second author added new support to the memo and weighed in on what
+themes should be covered in the analysis. In the end, we settled on five themes to
+present a full picture of the U&G participants found in podcasts: reasons for
+media displacement, customizable experiences, multitasking (with “temptation
+bundling” and “feed the brain” as gratification subthemes), parasocial relation-
+ship pathways, and social opportunities/frustrations. The multitasking section,
+covered in the middle of the analysis, represents what we see as the most unique
+gratification focus group participants were taking from podcast listening.
+
+
+                                      ANALYSIS
+
+To both embed our findings in previous U&G typologies and to make space for
+emergent findings, the analysis is organized into two main sections: (a) emergent
+gratifications and (b) expansions of established gratifications. Our findings in the first
+theme—media displacement—illustrate the interaction between technological affor-
+dances and listener agency (see, e.g., Sundar, 2008). The media displacement theme
+implicitly taps into the changing relevance and availability of particular typologies,
+along with the expected gratifications those affordances may nurture. Our second
+major section—expansions on previously established gratifications—helps put our
+findings in dialogue with existing typologies, demonstrating deeper understanding of
+parasocial relationship formation and the social opportunities/frustrations associated
+with podcast listening.
+
+
+                         EMERGENT GRATIFICATIONS
+
+Media Displacement: Fresh and Mobile
+Focus group participants’ descriptions of their pathways to podcasts—and the media
+they transitioned from—help us understand how podcasts offered emergent (or
+resurrected) U&G in particular contexts. Podcasts were most commonly replace-
+ments for radio/music and television. They seemed to be most similar to (and, for
+some participants, on a continued rotation with) audiobooks. Marian (White woman,
+37) saw differences between contemporary radio and podcasts but similarities to
+                                                PODCASTS AND PRODUCTIVITY               103
+
+radio as it once was, noting that podcasts hearken “back to like old-timey radio. So
+that’s part of what appeals to me about it is listening to stories on the radio.” Studying
+radio U&G in the medium’s golden age, Herzog (1944) observed that radio story-
+telling enabled listeners to “fill in gaps of their own life” (p. 24). Facing television
+competition, radio shifted focus from stories to music, but it seems that people are
+craving audio raconteurs once again. Jessica (White woman, 30) listened to audio-
+books for at least 5 years before participating in the focus group. She found audio-
+books and podcasts to offer a similar experience, stating, “I’ve always been attuned
+to storytelling formats. Podcasts were just newer.”
+    “Boring” and “repetitive” were the most prevalent criticisms of contemporary
+radio and music. Ryan (Asian American man, 35) recalled turning to podcasts in
+2009 or 2010 because he “was just kind of bored at work” and tired of “the same
+music over and over.” Lily (White woman, 42) did not like the thought of going
+back to listening to the radio once she became a podcast convert because “I’d
+probably be pushing the buttons a lot because there’s nothing on that I would
+want to hear.” Even switching to satellite radio was not enough to satiate Dan’s
+appetite for new content. Dan (White man, 55) was an early adopter of satellite
+radio and felt it “was starting to get a little played, a little boring” when he
+decided to switch over to podcasts. Both Lily’s and Dan’s preferences and
+expected gratifications changed along with audio media evolutions.
+    In contrast to “boring” radio, podcasts were seen as fresher, more unique, and more
+engaging in part because of their rapidly expanding content. Wendy (White woman,
+35) agreed with Ryan’s assessment of music being the “same stuff over and over” and
+appreciated podcasts as part of her steady media diet because “there’s always some-
+thing new.” The extensive catalogs of old podcasts and newly released episodes from
+various genres enable listeners to perpetually find something unique at their leisure. Jeff
+(White man, 39) noted that the wide availability of different podcasts led him to crave
+fresh content, a relatively permanent shift in his listening preferences: “I like listening
+to shows I’ve never heard before. [Listening to podcasts] has changed what I want.”
+Jeff’s language about a shift in what he wants relates to Sundar and Limperos (2013)
+observation that an emergent gratification (in this case, craving unique and nonrepe-
+titive content) may become a more stable gratification. This gratification may even
+transcend the medium.
+    Whereas radio was too boring and repetitive, television was engaging—but not
+mobile enough. Despite being able to watch television content on portable screens,
+the need to view the screen was too restrictive for our podcast listeners. This theme
+really took off in one focus group, starting with Alan (White man, 39):
+
+   I used to sit and watch TV constantly and that’s a lot harder now with the family
+   growing. … So there’s always something to do at the house, and I can get it done
+   more easily if I’m listening to a podcast. And I can’t get it done at all if I’m trying
+   to watch TV.
+104      PERKS AND TURNER
+
+
+A smartphone playing a podcast can be tucked into one’s pocket as one moves
+about the house putting away laundry, making lunches, cleaning, or completing
+other tasks. Joel (White man, 50) concurred with Alan, preferring podcasts
+because “you’re up and mobile. You’re not locked into being in front of a TV,
+and you can, you know, do whatever you gotta do.”
+   We find a contradictory pair of themes under the media displacement
+umbrella: Podcasts can facilitate both productivity and relaxation. Gwen, Peg,
+and Colin would listen before bedtime to unwind. Gwen (White woman, 44)
+switched away from watching TV in the evening and instead used podcasts “to
+decompress in bed.” Peg (White woman, 26) thought that podcasts were an
+excellent “TV replacement, especially for maybe like later at night, trying to
+avoid like having screens on or around.” For Colin (Chinese man, 25), podcasts
+afforded an unusual combination of stimulation and relaxation: “It’s like my
+bedtime story. … If I can just close my eyes, I can just fall asleep while still
+getting some information.” The auditory, rather than visual, stimulation offered
+Colin a chance to both learn something and pave the way for sleep.
+
+
+
+Customizable Experience
+Offering consumers an easily customized experience is a burgeoning media trend:
+from search engine alerts, to on demand content, to streaming services. Albarran
+et al. (2007) applied the term “demassification” to describe the most recent era in
+audio entertainment in which users are asserting power over the medium to select
+particular content at particular times. Peg (White woman, 26) described the agentic
+appeal of podcast listening this way: “I think I might be like outing myself as a
+millennial but the best thing about podcasts for me is that I get to choose what I
+listen to when I listen to it and how I listen to it.” Colin (Chinese man, 25), another
+millennial, was also emphatic when praising the personalized experience: “It’s anti-
+TV programming where somebody is … telling you you’re going to watch CSI on
+Thursdays. … I’m like, ‘What kind of mood am I in? I’m going to listen to this.’”
+He later summed it up as, “I curate my own experience.” Both Wendy (White
+woman, 35) and Marian (White woman, 37) appreciated podcasts because you can
+just “skip around” episode to episode.
+    Jeff’s (White man, 39) explanation for the appeal of customization references
+not just personal enjoyment but efficiency: You have “limited time in your day,
+limited time in your in your, you know, life, and you can only experience so
+many things. So I think it’s a good opportunity to listen to what you really want
+to listen to.” Creating one’s own listening experience from all of the available
+episodes dovetails with multitasking and a desire for efficiency. In various ways,
+podcasts allow listeners to squeeze the most out of every moment.
+                                                  PODCASTS AND PRODUCTIVITY                 105
+
+Multitasking
+We define multitasking simply as listening to podcasts and engaging in at least
+one more activity at the same time (see also Jeong & Fishbein, 2007; Wang &
+Tchernev, 2012). Multitasking can be motivated by several factors, including
+perceived efficiency, enjoyment, and habit (Hwang, Kim, & Jeong, 2014). This
+theme relates to Lull’s (1980) classification of television as an environmental
+resource, a companion—for accomplishing things like chores. As this theme
+demonstrates, however, podcasts are seen as a better companion than television
+for many tasks.
+    Presenting our results Family Feud style reveals that commuting or driving
+was the most popular activity to pair with podcast listening (n = 15), followed by
+doing chores (n = 12), bathing (n = 5), working (n = 4), dog walking (n = 4),
+getting ready for the day (n = 3), and using social media (n = 3).6 Commuting
+was not only the most popular activity to go with podcasts, it was often what
+drove people to podcasts.7 Wendy (White woman, 35), one of our earliest
+adopters, said she “started listening in 2009 on my way to and from my first
+job out of school,” which involved “an hour train ride.” Peg (White woman, 26)
+used This American Life “to kind of break up my commute because I was biking
+about 12 miles a day and I needed something to do with my time.” Peg was
+already doing several things with her time—traveling to work and exercising—
+but she wanted further stimulation and enrichment.
+    This idea of making better use of one’s time (through multitasking) was quite
+common in interviewees’ descriptions of their behaviors. Joel’s (White man, 50)
+dialogue captures that sentiment: “I have an hour commute to work so … I’ll
+listen to a podcast and try to educate myself in some way or whatever, make it
+more productive than just sitting in traffic.” The word “productive” was a
+common descriptor of the experience of multitasking with podcasts. Listening
+was a way to expand one’s world while physically doing something else. When
+asking friends for podcast recommendations, Rachel (White woman, 37) phrased
+it this way: “What should I do with my ears while I’m driving?”
+    And what do you do once you have arrived at work? Listen to more podcasts
+was the answer for some. Three of four interviewees who specifically mentioned
+listening at work noted an affinity for “background noise.” For example, Ryan
+(Asian American man, 35) stated, “If I’m at work, I also like to have noise in the
+background so sometimes I’ll listen there as well.” Ambivalent attitudes emerged
+in this thread. Wendy (White woman, 35) described her habits this way: “In the
+
+
+     6
+       Listening to audio media while traveling was also the most common form of multitasking in
+Jeong and Fishbein’s (2007) study of adolescent multitasking.
+     7
+       Bluetooth connectivity between vehicles and mobile phones has undoubtedly made it easier to
+listen and self-program while commuting.
+106     PERKS AND TURNER
+
+
+morning from about 7 to 12 I like to have like background noise [at work] so
+now I just listen pretty much—my boss probably wouldn’t be happy to hear—
+but I listen pretty much all morning.” Gwen (White woman, 44) noted that she
+listens “kind of a lot” and offered, “I will confess that now … I will play
+podcasts in my office at work when I’m working. I like to have background
+noise. And I can kind of attend to two things at once.” Wendy was concerned
+about how her podcast listening would look to her boss—perhaps like she was
+not paying enough attention to her work tasks. And Gwen prefaced her work
+habits with the phrase “I will confess,” as if listening to podcasts at work was a
+secret to keep. Studies have indeed demonstrated that multitasking can yield
+increased emotional gratifications but hinder cognitive processing (Voorveld,
+2011; Wang & Tchernev, 2012). Bosses of podcast listeners may therefore
+have happier yet less cognitively engaged employees.
+    The previous two paragraphs offer unique looks at arousal regulation. Whereas
+mood management theory explains how individuals optimize affect and arousal
+(Zillmann, 1988) and mood adjustment accounts for how people regulate affect
+and arousal in preparation for upcoming tasks (Knobloch, 2003), the regulation
+taking place here occurs simultaneously with the multitasking activity. We call this
+multitasking mood management “mood balancing” because the nature of the
+podcast is complementary to the nature of the work. For folks doing boring
+tasks, the podcast was an engaging arousal boost. For those at work who perhaps
+liked background noise but still needed mental space to think, the podcast was
+more of an arousal moderator.
+    As a counterpoint to the multitasking section, it is imperative to note that
+some interviewees stated that they did not multitask while listening to some or all
+podcasts. Grace (White woman, 21) commonly multitasked, but it was not her
+only way to listen. She recalled, “There are times when I will sit down and focus
+strictly on the podcast.” Some interviewees were highly focused on a specific
+type of podcast, such as Jessica (White woman, 30), who noted that if it is a
+“hard reporting” podcast, “that’s definitely much more of like a just listening
+kind of thing” compared to a “junk foody” type of podcast where you “don’t
+really have to pay that close of attention.” Podcasts, like many other forms of
+entertainment, are flexible and able to be to be used for deep dive into a story or
+background noise that can be easily tuned in or out.
+
+   Temptation Bundling. Multitasking describes a behavior that comes with
+several gratifications: feelings of productivity, learning something new, and
+passing the time. Feelings of productivity can spring from (a) getting a work or
+household task accomplished and/or (b) learning or expanding one’s world through
+a podcast. We got a taste of this theme when focus group participants compared
+podcasts to other media. As we develop the multitasking theme more thoroughly
+here, we see that podcast listening should be considered a form of temptation
+                                                  PODCASTS AND PRODUCTIVITY                 107
+
+bundling. Temptation bundling, a concept that the first author heard about through
+the Freakonomics podcast, involves coupling “instantly gratifying ‘want’
+activities” with engagement in a ‘should’ behavior” that is not immediately
+gratifying and requires willpower to complete (Milkman, Minson, & Volpp,
+2014, pp. 283–284).8 If you have to do something mundane, distasteful, or
+boring, make it more enjoyable by putting on an engaging story or learning
+something new about the world. This temptation bundling offers what we see as
+bundled or tandem gratifications.
+    Ryan (Asian American man, 35) explained the appeal of multitasking when
+doing something mundane this way: “It kind of just makes me feel like I’m not
+doing what it is I’m doing.” This distraction is particularly welcome when one is
+engaged in an unpleasant task. Rachel’s (White woman, 37) example highlights
+this point: “Head lice has been going through my daughter’s classroom. So
+the hour that we sit combing and picking, she gets to choose her podcasts and
+that makes it slightly more bearable.” Jessica (White woman, 30), who listened
+while shoveling snow, used similar wording, saying that podcasts “made [shovel-
+ing] more bearable, so like the couple of times when I didn’t [listen to podcasts] it
+was definitely like, ‘I’m never gonna be done.’” Podcasts cannot just help a person
+get started on a boring or mundane task, they can also help motivate one to see the
+task through and make time feel like it is passing more quickly. Podcast listening
+could therefore be seen as a high-tech version of whistling while you work.
+    Listening to storytelling podcasts in particular seemed to help some partici-
+pants lose track of time. Jenny (White woman, 36) offered support for the
+temporal warp speed, explaining, “I think the other reason why I prefer [pod-
+casts] to listening to music is like the time goes by quicker when I’m listening to
+a story.” Although the researchers did not focus on storytelling, quantitative
+findings by Chinchanachokchai, Duff, and Sar (2015) affirmed that media multi-
+taskers perceive time as passing more quickly and experience more enjoyment
+than those only engaged in one task. Dan (White man, 55) described his love for
+stories at several points in the focus group, noting that National Public Radio’s
+StoryCorp was what initially drove him to download podcasts. He knew he
+found a great story if this happened: “I won’t be able to get anything else done
+until I hear the end of the podcast. And so I will sit in my car, in front of my
+house just so I’ll be able to listen to it.” Several of Dan’s fellow focus group
+members nodded in agreement. Lily (White woman, 42) from a different group
+stated, “Sometimes I’ll just drive out of my way so I can have more time to
+listen.” Even if podcast listening’s boring multitasking companion (e.g., com-
+muting) ceased, the podcast listening would often continue.
+
+   8
+      The initial temptation bundling study was conducted using “tempting audiobooks” to motivate
+participants’ gym use. It should be noted that when asked to compare media, many participants
+considered audiobooks to be the most similar to podcasts.
+108     PERKS AND TURNER
+
+
+   Feed the Brain. Peg (White woman, 26) bridged the two “productivity”
+gratifications with her statement:
+
+   When I’m doing something pretty mundane like driving or cleaning and I’m, you
+   know, bored, it kind of like makes me feel I’m being productive and learning
+   something when I also have to do something I maybe don’t want to do.
+
+Entertainment was an implicit part of many focus group participants’ explana-
+tions of why they enjoy podcasts; more specifically, however, education or
+learning something new (components of the information U&G typology;
+Rubin, 1983) emerged as primary gratifications. Her alternative to listening to
+podcasts was watching “crap TV” on Netflix, so Rachel (White woman, 37)
+preferred podcasts because they “felt a little more nutritive for my brain.” Rachel
+concisely explained that listening to podcasts “was definitely a way of doing
+something for my brain while my hands were busy.” Whether in the car, in the
+home, or in the office, podcasts, Joel (White man, 50) said, “open up my world.”
+   Not only did podcast listeners enjoy their ability to learn something through
+podcasts, a few actually felt as if they were not using their time properly if
+multitasking was unavailable. Elizabeth and Colin expressed similar sentiments:
+
+   Elizabeth (White woman, 54): “If my phone’s dead or charging or something
+             I feel like, ‘Ugh, waste of time’ when I could be listening while
+             I’m folding laundry or whatever.”
+       Colin (Chinese man, 25): “If I didn’t have podcasts to listen to or some-
+             thing to listen to during the time of a regular chore … I would feel
+             like I’m wasting my time. I selectively listen to podcasts that I
+             believe will—this is going to sound sentimental—nourish my
+             brain.”
+
+   Not having a podcast to listen to made Elizabeth and Colin feel as if they were
+missing out on an opportunity—the opportunity to learn something new or enjoy
+their boring tasks.
+
+
+
+          EXPANSIONS OF ESTABLISHED GRATIFICATIONS
+
+Pathways to Parasocial Relationships
+Many participants described their relationships with podcast hosts using lan-
+guage that signified parasocial relationships, which are defined as the “seeming
+face-to-face relationship” between audience member and performer (Horton &
+Wohl, 1979, p. 32). Discussing Pop Culture Happy Hour, Jenny (White woman,
+                                            PODCASTS AND PRODUCTIVITY            109
+
+36) said, “I love the people. I want to be best friends with them all.” Jeff (White
+man, 39) considered his relationships with hosts to be like a “friendship” or
+“fondness.” Peg (White woman, 26) went as far as saying, “Ira Glass feels like
+one of my friends.” Addressing the mostly one-directional nature of parasocial
+relationships, Jessica (White woman, 30) described podcast hosts as “friends that
+don’t know they’re my friends.” Parasocial relationships were a driving force in
+many interviewees’ decisions about what to listen to. Rebecca (White woman,
+32) stated, “Most of the podcasts I listen to are actually the ones that have hosts
+where I feel like I could be friends with them in real life.”
+    Interviewees were able to provide not just evidence of parasocial relationships
+but explanations about why they formed those relationships, the latter of which
+expands on the companionship U&G typology. This typology covers a sense of
+being around (mediated) others (see, e.g., Papacharissi & Mendelson, 2007;
+Rubin, 1983). Media companionship can include parasocial relationships, lone-
+liness mitigation, or other feelings of sociability. The most common themes were
+the frequency or regularity of contact, opportunities to interact with hosts through
+social media or other avenues (thus creating the possibility for a two-way
+relationship), the conversational quality of the podcast, similarities between
+listener and host, and host sharing of personal information.
+    Jeff (White man, 39) was fond of Roman Mars, host of 99% Invisible,
+“because of the frequency in which I listen to [the show].” Several interviewees
+were able to increase their exposure to hosts by using social media—and some-
+times have a true interaction. Wendy (White woman, 35) followed “pretty much
+all” of the podcast hosts she listened to on Twitter and sent story ideas to some.
+Grace (White woman, 21) often multitasked by looking at Twitter to see other
+listeners’ podcast reactions and to tweet at hosts. She enthusiastically admitted,
+“Sometimes I hope that they’ll even read my tweet!” This mechanism for listener
+to host backchanneling was important to Rachel (White woman, 37), who
+e-mailed her focus group moderator about it on April 12, 2017: “No other
+medium I consume has a mechanism for listeners to comment directly and/or
+direct the content. … Somehow the podcast feels more intimate, more personal
+for this solicitousness.” This solicitousness offers the mutualistic benefits of
+drawing listeners further into the podcast world, thereby encouraging loyalty
+and a more enjoyable, engaging experience.
+    Having several hosts or panelists weigh in on a topic helped some listeners
+feel like there was a space for them in the conversation. Ryan (Asian American
+man, 35) explained it this way: “If you’re just listening to one person it feels as if
+you’re being talked to as opposed to those types of [podcast] conversations. … I
+almost feel a little bit like I’m a part of it in a way.” The dialogic nature of some
+podcasts, including the sports ones Ryan listened to, helped to invite listeners in
+with their room for dis/agreement and space for multiple voices. Jenny (White
+woman, 36) stated that Pop Culture Happy Hour “feels like the kind of
+110      PERKS AND TURNER
+
+
+conversation I would want to have with a group of my friends,” and she reacted
+accordingly, “pretend[ing] to be part of that conversation” and sometimes talking
+to the hosts “even though I’m in my car and they can’t hear me.” This type of
+participatory response is a sign of Jenny deriving enjoyment from the seemingly
+interactive nature of the program.
+    Host sharing of personal information sometimes cultivated this sense of
+intimacy. There was an element of uncertainty reduction in this exchange (see
+also Rubin & Step, 2000). Elizabeth (White woman, 54), a West Wing Weekly
+fan, noted that the hosts “talk a lot about different things in their personal lives so
+I do feel like I have a sense of their personality as distinct from the content of the
+podcast.” Grace (White woman, 21) listened to Always Open, a podcast that bills
+itself as a “late-night chat” with friends. She mentioned that the hosts “share
+about things that are personal like the first time they had sex. … These personal
+stories aren’t things that people just share unless you really get to know them. …
+It forces you to feel close.” Hearing a host’s personal experiences and having
+experiences in common can enhance those feeling of connectedness. Rebecca
+(White woman, 32) stated that listening to podcasts “makes me feel less alone,
+knowing that other people have these experiences or are going through similar
+struggles.” The personal topics of conversation, the dialogue among hosts (or
+among hosts and guests), and commonalities between host and listener can all
+present invitations for intimacy.
+    Surprisingly, these host connections were powerful enough to keep some
+interviewees listening to new episodes—even if the topic was not appealing.
+Alan (White man, 39) mentioned Lauren Spohrer from Criminal as a favorite. He
+noted there’s “something about her voice and her delivery. … I’m just always
+excited when it comes on, even if I don’t care about the topic.” Joel (White man,
+50) admitted to the same practice, remarking, “I’ll sit through podcasts that I’m
+not as interested in or something, the subject matter that might not be as
+interesting, just because I like the host.” Jessica (White woman, 30) cited Last
+Podcast on the Left as an example in which she might not be “terribly interested”
+in a given episode topic but she “like[s] the people enough to just stick with it
+anyway.” This theme suggests a host sincerity/listener loyalty connection that is
+consonant with what Horton and Wohl (1979) posited in their initial work on
+parasocial relationships.
+
+
+Social Gratifications/Frustrations
+Listening to podcasts was often described as an individualized experience, but
+one that was enveloped in social practices, such as recommending podcast
+listening to others, recommending specific podcasts or episodes, or discussing
+the content of an episode. Because communication with others often preceded
+and followed podcast listening, it has some commonalities with the social
+                                                        PODCASTS AND PRODUCTIVITY   111
+
+interaction U&G typology (see, e.g., Papacharissi & Mendelson, 2007).9 The
+multitasking aspect of podcast listening often contributed to the solo nature of the
+experience: Many focus group participants were listening while commuting,
+cooking, and cleaning—activities that are often completed alone. It was also
+difficult for some to coordinate tastes with others. Ryan (Asian American man,
+35) noted simply, “If my wife is with me [while driving], we always listen to
+music because we don’t really share the same interests in terms of podcasts.”
+Gwen (White woman, 44) recounted a longer struggle with her wife that began
+with talk radio, which Gwen “loves” and her wife “hates”: “I’ll find myself
+listening to things and I’ll say, ‘Oh my gosh, there’s this really great podcast and
+you have to listen.’ … And she’ll be like ‘No, I’m not doing this.’” Perhaps the
+experience of an intimate podcast is all one needs to feel connected. Rebecca
+(White woman, 32) enjoyed listening to podcasts alone in part because “it fills up
+the empty space with something new … something more … emotional? It gives
+me more emotional and intellectual fulfillment.”
+    Recommendations from others were often precursors to this solo media
+engagement experience. Both Marian (White woman, 37) and Lily (White
+woman, 42) had robust recommendation exchanges with their work colleagues.
+Marian recommended several titles through her weekly work newsletter. Lily
+described a workplace social life in which podcasts were a common topic of
+conversation: “We talk about the content. We recommend to each other because
+we know [what] we all like. We talk about how fun it would be to do a podcast.”
+For Jenny (White woman, 36), it took unique content to get podcast-related
+conversations going: “Serial was probably the big one that got me started like
+actually having conversations with people about podcasts.” Laura (White
+woman, 35), too, was engaged in discussions about and even had a listening
+party for Serial in which her group of friends “just hung around the iPhone and
+listened to [a final Serial episode] while we ate pizza.” Laura’s Serial group
+reactivated to recommend and discuss S-Town.
+    Despite these examples of recommendations and discussions, several podcast
+listeners expressed confusion or frustration regarding others’ unwillingness to
+listen to podcasts or to understand the medium. Peg (White woman, 26)
+explained, “Something that I find really interesting is the kind of general
+hesitancy around downloading the app and figuring out how to get to podcasts
+and start listening to them.” Wendy (White woman, 35) found it frustrating that
+her parents who are avid National Public Radio listeners would not listen to
+podcasts: “I’ve even, I’ve downloaded [podcast episodes] for my mom on her
+phone, and they just sit there. Like she would love S-Town if she listened to it,
+but she just can’t seem to get the idea of it somehow.” Because her high school
+
+
+   9
+       Lull (1980) labeled these “relational” gratifications.
+112     PERKS AND TURNER
+
+
+journalism students were not listening to podcasts, Jenny (White woman, 36) had
+trouble interesting them in the production side of things, noting that “no one
+really seemed to get that all into” a podcast section for their online newspaper. In
+sum, the social U&G typology for podcasts harbors notable contradictions.
+Podcast listening is often a solo experience, but one that is often driven by and
+drives social interactions. This social impetus is often thwarted by others’ lack of
+knowledge about what podcasts are and their reluctance to “try a pod.”
+
+
+                                CONCLUSIONS
+
+This qualitative study of regular podcast listeners reveals several emergent U&G.
+First, podcast listening supplanted radio listening and television viewing for
+many of our focus group participants. The explanations for the shift implicitly
+clarify podcast gratifications. Podcast listening won out over radio because of
+podcasts’ engaging, always changing content. Listening was preferable to tele-
+vision viewing in many in-home situations because podcasts do not command
+the visual sense, and they can be listened to on portable devices, thus enabling
+people to accomplish housework and other tasks. The television replacement
+thread previews our most robust theme of multitasking. Multitasking is broken
+into two parts that capture temptation bundling (accomplishing boring or mun-
+dane tasks by enjoying podcasts in tandem) and feeding one’s brain by listening
+while doing something mindless. In terms of expanding existing gratifications,
+focus group participants clarified various avenues of parasocial relationship
+development, including a conversational feel to the podcast, frequency of listen-
+ing, host sharing of personal information, similarities with hosts, and backchan-
+neling options. Finally, the social nature of podcast listening presented
+contradictions that expand the preestablished social U&G typology: Because
+the medium is relatively new, it created robust niche groups of listeners but
+also left behind many who were not willing to give it a try. Put differently, the
+social theme is a typology that captures U&G and frustrations about actualized or
+missed social opportunities.
+   The inductive, qualitative methodology for this study has promoted U&G
+typology innovation. A quantitative survey using established or modified typol-
+ogies may not have uncovered the nuance to multitasking behaviors, the causes
+ascribed to parasocial relationship formation, or ambivalence surrounding the
+social aspects of podcast listening. The focus group participants led the research-
+ers there. In highlighting some gratifications, podcast listeners have forsaken
+others. A 2010 podcast U&G study by McClung and Johnson noted the impor-
+tance of library building, which no longer seems relevant. The ubiquity and
+relatively low cost of streaming services for music, television, and even films has
+made library building an outdated practice. Many of our focus group participants
+                                                  PODCASTS AND PRODUCTIVITY                 113
+
+did not want to save or even manage their content, such as Lily (White woman,
+42), who had to delete episodes, “otherwise I get super overwhelmed.” With
+regard to entertainment gratifications, we were able to drill into more specific
+benefits (e.g., portable entertainment, immersive storytelling, and roundtable
+discussions that invite listeners in) from our focus group conversations. These
+findings suggest that podcasts are appealing primarily because they help listeners
+learn more and do more.
+   Although the current study has heuristic utility, it was not without its meth-
+odological limitations. First, the focus groups were limited in both size and
+diversity, especially in terms of respondents’ race or ethnicity as well as their
+relatively high level of educational attainment. We also did not assess our
+participants’ socioeconomic class or political leanings. These sampling weak-
+nesses can inform suggestions for other research. Future podcast studies should
+explore potential differences among gratifications sought and obtained by people
+from racially and ethnically diverse backgrounds, various educational attainment
+levels, political leanings, and socioeconomic classes. Second, use of both face-to
+-face and virtual focus groups perhaps means that the nature, flow, and tone of
+the discourse shifted as the contexts of those discussions shifted (from mediated
+to nonmediated). Despite intentionally keeping the focus groups relatively small
+and purposefully providing convenient ways for our respondents to participate,
+the qualitative nature of this work along with the methodological decisions for
+recruitment and facilitation do ultimately limit the generalizability of the current
+findings.
+   The findings and processes from this research can be used to make methodo-
+logical recommendations for other U&G studies. Qualitative research is the first
+step in the classic two-step mixed method many recommend for U&G studies
+(e.g., Leung & Zhang, 2016; Ruggiero, 2000; Sundar & Limperos, 2013).10
+Specifically asking focus group participants about media displacement in a sche-
+dule of questions can help position the medium in question relative to existing
+typologies from other media. Furthermore, analyzing the qualitative data in a way
+that prioritizes emergent and expanded gratifications is warranted. Our initial
+grounded theory analysis yielded 46 themes, too many to be reported on in one
+traditional-length manuscript. The story we chose to tell from these data was
+grounded in the frequency and depth of mentions but also in U&G innovation:
+What newer, prominent gratifications emerged? How do these improve our under-
+standing of either podcast listening or gratification typologies more generally?
+   The current findings also offer useful information for media practitioners
+interested in expanding their podcast listenership. Most broadly, podcasts firmly
+signal our shift from a push to a pull media landscape wherein the consumer can
+
+   10
+      For example, Rubin (1981) used a hybrid qualitative and quantitative method to assess scale
+construct validity and confirm the reliability of quantitative self-reports.
+114       PERKS AND TURNER
+
+
+draw upon the customizable, agentic appeal of podcasts to actively assemble their
+own listening experience around the realities of daily life. Media practitioners,
+then, should concentrate on producing nimble and segmented audio content that
+can be consumed on multiple media platforms. Despite shifting from a push to a
+pull model, the classic transportational qualities of immersive narratives and
+engaging edutainment that have been the hallmark of television, radio and film
+for decades still resonate in the mobile and social world of podcasts.
+    Another primary implication of these findings is the recognition of divergent
+gratifications in the new media sphere: those that command attention and those
+that release attention. New developments in media, such as virtual reality, are
+focused on engaging the senses in new and absorbing ways. Podcasts, however,
+have carved out a niche (or, one might say, recarved an old radio niche) by being
+passive and not asking much of listeners. What we see in the robust multitasking
+theme is a collection of media gratifications (entertainment, information, enga-
+ging storytelling) stacked on a nonmedia gratification (accomplishing physical or
+mental work). That stacking is enabled by podcasts being content to stay in the
+background. One needs to just lend an ear to receive knowledge, news, and
+insight into the human condition from podcasts. Our findings clarify what
+podcasts ask of listeners (very little attention in some cases), what it allows
+listeners to do (multitask, be on the move, feel connected to others), and what it
+encourages listeners to do (check off that to-do list through temptation bundling,
+keep expanding their minds). We can thus see that key strengths of the podcast
+medium are allowing its promotion of enhanced agency within the medium and
+enhanced activity external to the act of listening. This new niche, although
+passive in terms of sensory use, allows listeners to actively control their content,
+to be their own programmers and brain feeders.
+
+
+
+                                  ACKNOWLEDGMENTS
+
+The authors thank Sarah Seero and Kenney Tran for their contributions to this
+research.
+
+
+
+                                        REFERENCES
+Albarran, A. B., Anderson, T., Bejar, L. G., Bussart, A. L., Daggett, E., Gibson, S., … Way, H.
+  (2007). What happened to our audience? Radio and new technology uses and gratifications among
+  adult users. Journal of Radio Studies, 14(2), 92–101. doi:10.1080/10955040701583171
+Berry, R. (2016). Part of the establishment: Reflecting on ten years of podcasting as an audio medium.
+  Convergence: The International Journal of Research into New Media Technologies, 22(6),
+  661–671. doi:10.1177/1354856516632105
+                                                     PODCASTS AND PRODUCTIVITY                    115
+
+Chinchanachokchai, S., Duff, B. R. L., & Sar, S. (2015). The effect of multitasking on time perception,
+  enjoyment, and ad evaluation. Computers in Human Behavior, 45, 185–191. doi:10.1016/j.
+  chb.2014.11.087
+Corbin, J., & Strauss, A. (2015). Basic qualitative research: Techniques and procedures for devel-
+  oping grounded theory (4th ed.). Boston, MA: SAGE Publications.
+Fabiano, P. M., & Lederman, L. C. (2002). Top ten misperceptions of focus group research. Working
+  Paper #3; The report on social norms. Garfield, NJ: PaperClip Communication.
+Ferguson, D. A., & Perse, E. M. (2000). The world wide web as a functional alternative to television.
+  Journal of Broadcasting & Electronic Media, 44(2), 155–174. doi:10.1207/s15506878jobem4402_1
+Hartmann, T. (2008). Parasocial interaction and paracommunication with new media characters. In
+  E. A. Konijn, S. Utz, M. Tanis, & S. B. Barnes (Eds.), Mediated interpersonal communication (pp.
+  177–199). New York, NY: Routledge.
+Herzog, G. (1944). What do we really know about daytime serial listeners? In P. F. Lazarsfeld & F. N.
+  Stanton (Eds.), Radio research 1942–1943. New York, NY: Arno Press.
+Horton, D., & Wohl, R. (1979). Mass communication and para-social interaction: Observation on
+  intimacy at a distance. In G. Gumpert & R. Cathcart (Eds.), Inter/media: Interpersonal commu-
+  nication in a media world (pp. 32–55). New York, NY: Oxford University Press.
+Hwang, Y., Kim, H. L., & Jeong, S.-H. (2014). Why do media users multitask?: Motives for general,
+  medium-specific, and content-specific types of multitasking. Computers in Human Behavior, 36,
+  542–548. doi:10.1016/j.chb.2014.04.040
+Jeong, S., & Fishbein, M. (2007). Predictors of multitasking with media: Media factors and audience
+  factors. Media Psychology, 10, 354–384. doi:10.1080/15213260701532948
+Knobloch, S. (2003). Mood adjustment via mass communication. Journal of Communication, 53,
+  233–250. doi:10.1111/j.1460-2466.2003.tb02588.x
+Krcmar, M., & Strizhakova, Y. (2009). Uses and gratifications as media choice. In T. Hartmann (Ed.),
+  Media choice: A theoretical and empirical overview (pp. 53–69). New York, NY: Routledge.
+Lederman, L. C. (1990). Assessing educational effectiveness: The focus group interview as a technique
+  for data collection. Communication Education, 38(2), 117–127. doi:10.1080/03634529009378794
+Leung, L., & Zhang, R. (2016). Predicting tablet use: A study of gratifications-sought, leisure boredom,
+  and multitasking. Telematics and Informatics, 33(2), 331–341. doi:10.1016/j.tele.2015.08.013
+Lull, J. (1980). The social uses of television. Human Communication Research, 6(3), 197–209.
+  doi:10.1111/j.1468-2958.1980.tb00140
+Markman, K. M. (2015). Everything old is new again: Podcasting as radio’s revival. Journal of Radio
+  & Audio Media, 22(2), 240–243. doi:10.1080/19376529.2015.1083376
+McClung, S., & Johnson, K. (2010). Examining the motives of podcast users. Journal of Radio &
+  Audio Media, 17(1), 82–95. doi:10.1080/19376521003719391
+Menduni, E. (2007). Four steps in innovative radio broadcasting: From QuickTime to podcasting.
+  Radio Journal: International Studies in Broadcast & Audio Media, 5, 9–18. doi:10.1386/
+  rajo.5.1.9_1
+Milkman, K. L., Minson, J. A., & Volpp, K. G. M. (2014). Holding The Hunger Games hostage at the
+  gym: An evaluation of temptation bundling. Management Science, 60(2), 283–299. doi:10.1287/
+  mnsc.2013.1784
+Palmgreen, P. (1984). Uses and gratifications: A theoretical perspective. Communication Yearbook, 8,
+  20–55.
+Papacharissi, Z., & Mendelson, A. L. (2007). An exploratory study of reality appeal: Uses and
+  gratifications of reality TV shows. Journal of Broadcasting & Electronic Media, 51(2), 355–370.
+  doi:10.1080/08838150701307152
+Papacharissi, Z., & Rubin, A. M. (2000). Predictors of internet use. Journal of Broadcasting &
+  Electronic Media, 44(2), 175–196. doi:10.1207/s15506878jobem4402_2
+116        PERKS AND TURNER
+
+
+The podcast consumer 2017. (2017, April 18). Edison research. Retrieved from http://www.edison
+  research.com/the-podcast-consumer-2017/
+Rubin, A. M. (1981). An examination of television viewing motivations. Communication Research, 8
+  (2), 141–165. doi:10.1177/009365028100800201
+Rubin, A. M. (1983). Television uses and gratifications: The interactions of viewing patterns and
+  motivations. Journal of Broadcasting, 27(1), 37–47. doi:10.1080/08838158309386471
+Rubin, A. M. (1984). Ritualized and instrumental television viewing. Journal of Communication, 34
+  (3), 67–77. doi:10.1111/j.1460-2466.1984.tb02174.x
+Rubin, A. M. (1994). Media uses and effects: A uses and gratifications perspective. In J. Bryant & D.
+  Zillmann (Eds.), Media effects: Advances in theory and research (pp. 417–436). Hillsdale, NJ:
+  Lawrence Erlbaum Associates, Inc.
+Rubin, A. M., & Step, M. M. (2000). Impact of motivation, attraction, and parasocial interaction on
+  talk radio listening. Journal of Broadcasting & Electronic Media, 44(4), 635–654. doi:10.1207/
+  s15506878jobem4404_7
+Ruggiero, T. E. (2000). Uses and gratifications theory in the 21st century. Mass Communication &
+  Society, 3(1), 3–37. doi:10.1207/S15327825MCS0301_02
+Schramm, H., & Hartmann, T. (2008). The PSI process scales: A new measure to assess the intensity
+  and breadth of parasocial processes. Communications, 33, 385–401. doi:10.1515/COMM.2008.025
+Stancanelli, J. (2010). Conducting an online focus group. The Qualitative Report, 15(3), 761–765.
+  Retrieved from http://nsuworks.nova.edu/tqr/vol15/iss3/20
+Sundar, S. S. (2008). The MAIN model: A heuristic approach to understanding technology effects on
+  credibility. In M. J. Metzger & A. J. Flanagin (Eds.), Digital media, youth, and credibility (pp.
+  73–100). Cambridge, MA: The MIT Press.
+Sundar, S. S., & Limperos, A. M. (2013). Uses and grats 2.0: New gratifications for new media. Journal
+  of Broadcasting and Electronic Media, 57(4), 504–525. doi:10.1080/08838151.2013.845827
+Voorveld, H. A. M. (2011). Media multitasking and the effectiveness of combining online and radio
+  advertising. Computers in Human Behavior, 27(6), 2200–2206. doi:10.1016/j.chb.2011.06.016
+Wade, J. M., & Patterson, E. (2015). Podcasting and its apps: Software, sound and the interfaces of digital
+  audio. Journal of Radio & Audio Media, 22(20), 220–230. doi:10.1080/19376529.2015.1083374
+Wang, Z., & Tchernev, J. M. (2012). The “myth” of media multitasking: Reciprocal dynamics of
+  media multitasking, personal needs, and gratifications. Journal of Communication, 62(3), 493–513.
+  doi:10.1111/j.1460-2466.2012.01641.x
+Wei, R. (2008). Motivations for using the mobile phone for mass communications and entertainment.
+  Telematics and Informatics, 25(1), 36–46. doi:10.1016/j.tele.2006.03.001
+Zeng, L. (2011). More than audio on the go: Uses and gratifications of MP3 players. Communication
+  Research Reports, 28(1), 97–108. doi:10.1080/08824096.2011.54136
+Zillmann, D. (1988). Mood management through communication choices. American Behavioral
+  Scientist, 31(3), 327–340. doi:10.1177/000276488031003005
+

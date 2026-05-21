@@ -1,0 +1,649 @@
+Marketing
+Research
+Week 7
+             Topics for today
+1.   Recap: CI and sample size
+2.   Hypothesis Testing
+3.   Testing for Difference: t-tests
+4.   Activities on SPSS
+5.   You should receive the feedback for your questionnaire design by April 22 (T) at 11:59 pm
+
+
+
+
+                                                                                                 2
+Recap: Describe data
+
+                             Scale       Measure of       Measure of
+                                                                         Type
+                             Level     Central Tendency   Variability
+
+                            Nominal         Mode          (Frequency)
+
+
+
+
+Info level / adv. methods
+                                                                        non-
+                                                                        metric
+                            Ordinal        Median           Range
+
+
+                            Interval
+                                                           Standard
+                                            Mean
+                                                           Deviation    Metric
+                             Ratio
+
+
+
+                                                                                 3
+Recap:
+Confidence
+Intervals in MR
+How confident are we in what we found?
+
+
+
+
+                                         4
+ What Is a Confidence Interval?
+
+A confidence interval (CI) is a range of values we believe contains the true value.
+
+
+
+It helps generalize from a sample to the whole population.
+
+
+CI tells us: "If we repeated this many times, this range would contain the truth most of
+the time."
+
+
+Intuition: Like a target, the CI is the area where most of your arrows (estimates) land.
+
+
+                                                                                           5
+          Example
+• Survey: 100 Melbournian consumers,
+  60% prefer Woolworths over Coles
+• CI: 60% ± 5% at 95% confidence →
+  [55%, 65%]
+• Meaning: We are 95% confident the
+  true population proportion is in this
+  range.
+• Misconception: It's not a 95% chance
+  — it's 95% confidence across many
+  samples.                                It shows 100 confidence intervals from simulated samples:
+                                          • Green lines: intervals that contain the true value (0.6)
+                                          • Red lines: intervals that miss the true value (around 5%, as
+                                                                                                      6
+                                          expected at 95% confidence)
+         What Affects CI Width?
+• Sample size ↑ → CI narrower     Note:
+
+• Data variability ↑ → CI wider   • Confidence level = how sure we want to be.
+                                  • Example: 95% confidence = 95 out of 100
+• Confidence level ↑ → CI wider     samples will contain the true value.
+                                  • Common levels: 90%, 95%, 99%
+            Why CI matters in Marketing
+Ad testing: Did the campaign improve brand      Ad testing: A better brand recall (on a 5-point
+recall (on a Y/N scale)?                        scale) from the campaign? Is it significantly
+• 2023 mobile ad campaign for a new ride-       different from neutral?
+  hailing app in Vietnam.                       • 2022 survey of 250 Australians after digital
+                                                health campaign.
+• Survey of 400 users: 58% remembered the
+  brand.                                        • Average recall score = 4.2 (on 5-point scale), CI =
+• 95% CI = 58% ± 4.8% = [53.2%, 62.8%].         4.2 ± 0.15 (95% confidence).
+
+• Implies majority of market recalls brand (>   • 95% confident true recall is between 4.05 and
+  50%) → strong campaign reach.                 4.35.
+                                                • Even lower bound (4.05) > neutral (3.0) →
+• Source: App Annie & YouGov Vietnam, Mobile
+                                                campaign likely effective.
+  Ad Recall Study, 2023
+                                                • Source: Australian Department of Health and
+                                                Aged Care, 2022
+                                                                                                        8
+            Confidence Interval Formula
+Used when you're estimating a percentage or       Used when you're estimating an average (e.g.,
+proportion (e.g., % of customers who prefer a     average satisfaction score).
+brand).                                           Formula: CI =
+Formula: CI =
+                                                  Where:
+Where:                                             • x̄ = sample mean
+ • p̂ = sample proportion (e.g., 0.58)             • σ = standard deviation (s for sample SD)
+ • n = sample size
+                                                   • n = sample size
+ • z = z-score for desired confidence (1.96 for    • z = z-score for desired confidence (1.96 for
+95%)                                              95%)
+Margin of Error = z × standard error of the       Margin of Error = z × standard error of the mean
+proportion
+
+
+                                                                                                     9
+            What Is a Z-score in a Confidence Interval?
+The z-score reflects how many standard errors we go out from the estimate to build the interval.
+It depends on the confidence level you want:
+ • 90% confidence → z = 1.645
+ • 95% confidence → z = 1.96
+ • 99% confidence → z = 2.576
+Higher confidence → wider interval → larger z-score
+Z-score assumes a normal distribution (central limit theorem helps this for large samples)
+            Summary: What Goes into a Confidence
+            Interval?
+1. Point estimate: What you got from your sample (mean or proportion).
+2. Standard error (SE): How much your estimate is expected to vary from sample to sample.
+3. Z-score: Reflects your desired confidence level (e.g., 95%).
+
+
+                                          CI = Point Estimate ± z × SE
+
+
+• Narrow CI → larger sample, lower variability, or lower confidence
+• Wide CI → small sample, high variability, or high confidence
+            From CI to Sample Size – Proportion
+Start from the confidence interval formula for a proportion.
+                                   𝑝(1− ො
+                                   ො   𝑝)
+  Margin of Error (𝐸) = 𝑧
+                                        𝑛
+
+Rearrange to solve for sample size n:
+
+
+
+
+Choose:
+ • Confidence level → z-score (1.96 for 95%)
+ • Margin of error (e.g., ±4.8%)
+ • Estimated proportion (e.g., p = 0.58 from Vietnam campaign)
+This helps us plan how many responses we need to achieve the desired precision.
+            Sample Size Planning Example
+            Vietnam Ad Campaign
+From the Vietnam ride-hailing ad campaign:
+ • Estimated proportion p = 0.58
+ • Target MoE = ±4.8% = 0.048
+ • Confidence level = 95% → z = 1.96
+Apply formula: n = (1.96² × 0.58 × 0.42) / 0.048² ≈ 405
+Conclusion: Need at least 405 responses for ±4.8% MoE at 95% confidence
+The actual survey had n = 400 → close to ideal, results are reliable
+            From CI to Sample Size – Mean
+Start from the CI formula for a population mean.
+                              𝜎
+Margin of Error (𝐸) = 𝑧
+                              𝑛
+
+Rearranged to solve for sample size n:
+
+
+
+
+Use case: Australia digital health campaign
+ • MoE = 0.15, s = 0.6 (to proxy for population 𝜎), z = 1.96 → n ≈ 62
+            From CI to Sample Size – Mean
+Rearranged to solve for sample size n:
+ n = (z × s / MoE)²
+Use case: Australia digital health campaign
+ • MoE = 0.15, s = 0.6, z = 1.96 → n ≈ 62
+               Exercise 1: Confidence Interval for
+            Proportion (Consumer Preference)
+A market research firm surveyed 500 online shoppers in Malaysia and found that 62% preferred using
+mobile apps over websites for shopping.
+
+
+Question:
+1. Construct a 95% confidence interval for the proportion of all online shoppers in Malaysia who prefer
+mobile apps.
+2. Interpret the interval in plain language.
+3. If the company wants to reduce the margin of error to ±3%, what minimum sample size would be
+needed at 95% confidence?
+
+
+
+
+                                                                                                          16
+                Exercise 2: Confidence Interval for Mean
+             (Satisfaction Score)
+A digital health platform in Singapore tested a new interface. After the pilot launch, a sample of 40 users
+rated their satisfaction on a 1–7 scale. The sample mean was 5.4 and the standard deviation was 1.2.
+
+
+
+Question:
+1. Construct a 95% confidence interval for the true mean satisfaction score.
+2. Interpret the interval in context.
+3. The team wants to estimate the average with a margin of error of ±0.3. What sample size is required at
+95% confidence?
+
+
+
+
+                                                                                                              17
+Hypothesis
+testing
+
+
+
+
+             18
+Principles of Hypothesis Testing
+
+     1.               Formulate the hypothesis
+
+
+     2.             Choose the significance level
+
+          Select an appropriate test and check assumptions
+               1. Define the testing situation
+     3.        2. Determine if samples are paired or independent
+               3. Check assumptions and choose the test
+               4. Specify the region of rejection
+
+
+     4.               Calculate the test statistic
+
+
+     5.                Make the test decision
+
+
+     6.                  Interpret the results
+
+                                                                   19
+            1. Formulate the hypothesis
+Hypothesis testing starts with the formulation of a null and alternative hypothesis
+                                   Null hypothesis H0                              Alternative hypothesis H1
+      Definition         A statement expecting no difference or              A statement expecting a difference or
+                         effect                                              effect (opposite of the null hypothesis)
+
+                         There’s no difference in mean sales                 There’s a difference in mean sales
+       Example           between stores that installed a point of            between stores that installed a point of
+                         sale display versus those that installed a          sale display versus those that installed a
+                         free tasting stand                                  free tasting stand
+                         (statistically, average sales for point of          (statistically, average sales for point of
+                         sale display = average sales of free                sale display ≠ average sales of free
+                         tasting stand)                                      tasting stand)
+
+
+      Outcomes           • Reject the null hypothesis → support for alternative hypothesis
+                         • Do not reject the null hypothesis → The conclusion is that no difference is most likely.
+                                                                                                                          20
+
+Note that researchers always refer to the alternative hypothesis when referring to the hypothesis to be tested!
+             1. Formulate the hypothesis
+Example of hypothesis
+
+
+
+
+                                 •   H0: The intention of consumers to reattend the program
+                                     does not vary by gender.
+                                 •   H1: The intention of consumers to reattend the program
+                                     varies by gender.
+
+
+
+
+                                                                                              21
+            2. Choose the significance level (II)
+• No type of hypothesis test can validate
+                                                                                              True state of H0
+  hypotheses with absolute certainty.
+                                                                                         H0 true            H0 false
+• Since relying on sample data to make inferences
+
+
+
+
+                                                                                                            ✓
+  and not the whole population, we don’t know the
+
+
+                                                                       H0 rejected
+  true state of H0 -> some probability of a wrong
+  conclusion                                                                             Type
+• However, we can (partly) control for this risk by
+                                                                                           I
+
+                                                       Test decision
+  setting an acceptable probability (called                                              error
+  significance level α) of erroneously rejecting the
+
+
+                                                                       H0 not rejected   ✓
+  null hypothesis
+• The probability of a type I error is inversely                                                             Type
+  related to that of a type II error, so that the                                                              II
+  smaller the risk of one type of error, the higher
+  the risk of the other!
+                                                                                                             error
+                                                                                                                       22
+ 3. Select an Appropriate Test and Check
+ Assumptions
+Tests for Difference Analysis
+
+   Type of Tests                         Purpose of Test
+
+                    Compare the mean of a question answered by one group of
+One Sample T-Test
+                    subjects against a constant on metric data
+
+Paired Samples T-   Compare two means of two different questions answered by
+Test                the same group of subjects on metric data
+
+Independent         Compare the mean of a question answered by two different
+Samples T-Test      groups of subjects on metric data
+
+                    Compare the means of a question answered by more than
+ANOVA
+                    two different groups on metric data
+                                                                               23
+3. Select an Appropriate Test and Check
+Assumptions
+Tests for Associations
+
+       Types of Test                         Purpose of Test
+Chi-Square Analysis (X2)   Test for relationship between two nominal variables.
+
+Spearman Rank Order        Test for relationship between two variables that are
+Correlation Coefficient    not nominal and that at least one is ordinal.
+Pearson Product Moment     Test for relationships between two interval and/or
+Correlation Coefficient    ratio variables.
+
+
+
+
+                                                                                  24
+          5. Make the test decision
+Relationship between test value, critical                                               Decision rules:
+          value and p-value:                                                            • SPSS automatically calculates the p-value (=
+                The t-distribution for 9 degrees of freedom                               the probability of obtaining a test statistic at
+                             Two-tailed test and a=.05
+                                                                                          least as extreme as the one that is actually
+                                                                                          observed)
+                                                                                        • The p-value can also be interpreted as the
+                                                                                          probability of erroneously rejecting a true
+                                                                                          null hypothesis
+                                       95% of area
+                                       under the curve
+                                                                                        • The significance level α in contrast is set by
+                                                                                          the researcher before the test outcome is
+                                                                                          observed
+                                                              ttest
+                                                              2.274
+
+  α = 2.5%                                                                α = 2.5% to
+                                                                                                   p-value ≤ α → reject H0
+  to the left                                                             the right
+                                                                                                   p-value > α → do not reject H0            25
+                 -2.262                                       2.262
+                                         t-value
+                 tcritical                                    tcritical
+                6. Interpret the results
+Draw a conclusion, such as “ there is evidence that the point of sale display influenced the number of sales
+significantly during the week it was installed“
+
+
+Examples
+In this test we hypothesized that consumers are satisfied with the exhibitions in the museum. The result of a one-sample t test shows
+that the mean of satisfaction towards the museum’s exhibitions (M = 4.27) is significantly higher than the test value of 3 (t 55 = 6.20, p
+<. 001). Hence our hypothesis was supported.
+In this test we hypothesized that visitor’s role affects their tendency to attend art talks. The result of a one-way ANOVA test shows that
+visitor’s role did affect the intention to attend art talks (F(3, 246) = 5.413, p<.01). Hence our hypothesis was supported. F urther post-
+hoc analyses show that academic staff and former students are both more likely to attend art talks than current students ( Macademic =
+4.13 vs. Mcurrent student = 3.46 , p<.05; Mformer student = 4.14 vs. Mcurrent student = 3.46, p<.01). Also, former students are also more likely to
+attend art talks than professional staff (Mformer student = 4.14 vs. Mprofessional staff = 3.74, p<.05). Other groups of comparisons are not
+significant.
+In this test we hypothesized that consumer evaluations of different facilities can predict their visit frequency. The results of a Multiple
+Regression Analysis show that evaluation of opening hours has a significant positive impact on visit frequency (beta=0.18, p< .05), and
+evaluation of parking (beta=-0.18, p<.01) and that of bookshop (beta=-0.26, p<.01) have a significant negative impact on visit
+                                                                                                                                            26
+frequency.
+Testing for
+Difference - One
+Sample T-Test
+
+
+
+                   27
+             One sample t-test
+❑ Test the mean against a constant test value (the test value is typically the middle value of the scale).
+
+
+Assumption
+• Test variable measured on an interval or ratio scale
+• Independence of observation
+• n > 30
+
+Example
+• One group; interval scale -> one sample t test
+• Significance level: 5%
+• Testing variable: willingness to recommend (nps); Test value: 6
+• Hypothesis: The average willingness to recommend                                                           28
+
+  the airline is greater than 6.
+          One sample t-test
+Analyze -> Compare Means and Proportions -> One-sample T Test -> Select the variable of interest -> Enter
+test value
+
+
+
+
+                                                                                                            29
+One sample t-test
+
+
+
+
+• Mean = 8.28 ( > test value 6)
+• Sig. value (p value) < 0.001 < 0.5
+• H1 is supported                      30
+            One sample t-test
+How to report the results of one sample t-test?
+
+
+Example
+In this test we hypothesized that consumers are willing to recommend the airline to a friend or colleague.
+The result of a one-sample t test shows that the sample mean of willingness to recommend (M = 8.28) is
+significantly higher than the test value of 6 (t1064 = 29.611, p <. 001). Hence our hypothesis was supported.
+
+
+
+                                                                 When p < .001, report p < .001
+                                                                 When .001 < p < .01, report p < .01
+                                                                 When .01 < p < .05, report p < .05
+                          t degree of freedom = t value          When .05 < p, report .05 < p
+
+
+                                                                                                                31
+Testing for
+Differences
+
+
+
+
+              32
+1.         Identify and formulate the problem
+
+2.            Determine the research design
+
+3.   Design the sample and method of data collection
+
+4.                   Collect the data
+
+5.                   Analyze the data
+
+6.      Interpret, discuss, and present the findings
+
+7.                      Follow-up
+
+
+
+                                                       33
+Testing for Differences
+
+   Type of Tests                         Purpose of Test
+
+                    Compare the mean of a question answered by one group of
+One Sample T-Test
+                    subjects against a constant on metric data
+
+Paired Samples T-   Compare two means of two different questions answered by
+Test                the same group of subjects on metric data
+
+Independent         Compare the mean of a question answered by two different
+Samples T-Test      groups of subjects on metric data
+
+                    Compare the means of a question answered by more than
+ANOVA
+                    two different groups on metric data
+
+                                                                               34
+                                  Testing for Differences (t-tests)
+
+
+
+
+https://datatab.net/tutorial/t-test                                   35
+                                  T Statistic
+
+
+
+
+           One-sample t-test                    Independent sample t-test   Paired sample t-test
+
+
+
+
+https://datatab.net/tutorial/t-test                                                                36
+             Paired sample t-test
+❑ Compare the differences in the means of the paired samples
+
+Assumption
+• Test variable measured on an interval or ratio scale
+• Independence of observation
+• n > 30
+                                         the mean difference
+                                                               = 1.2
+
+                                         the standard error of this difference
+                                                                       = 0.533
+
+                                         the test statistics
+
+                                                                                 37
+            Paired sample t-test
+Example
+
+
+
+
+• One group; two interval scales (both 100-points Likert scales) -> paired sample t test
+• Significance level: 5%
+• Testing variables: expectation of timeliness (e1), satisfaction with timeliness (s1)
+• Hypothesis: Customers' expectation of timeliness at Oddjob Airways varies from their real satisfaction
+  with the airline's timeliness.
+                                                                                                           38
+           Paired sample t-test
+Analyze → Compare Means and Proportions → Paired Samples T Test → Select the variables of interest
+
+
+
+
+                                                        *Tip*
+                                                        Right click any variable and select          39
+                                                        “display variable names”
+   Paired sample t-test
+
+
+             e1
+             s1
+
+
+
+
+• MeanExpectation = 86.08, MeanSatisfaction = 60.91
+• Sig. value (p value) < 0.001 < 0.5
+• H1 supported
+                                                      40
+             Paired sample t-test
+How to report the results of paired samples t-test?
+
+
+Example
+In this test, we hypothesized that customers' expectation of timeliness at Oddjob Airways varies from their
+real satisfaction with the airline's timeliness. The result of a paired samples t-test shows that customers'
+satisfaction with timeliness is lower than their expectation (MExpectation = 86.08, MSatisfaction = 60.91, t1037 =
+29.781, p < .001). Therefore, our hypothesis was supported.
+
+
+
+
+             t degree of freedom = t value
+                                                                                                                     41
+             Independent sample t-test
+❑ Compare the differences in the means of the two independent samples
+
+Assumption
+• Is the test variable measured on at least an interval scale?
+• Are the observations independent?
+• n (each group) > 30
+
+Examples
+• Does heavy and light users’ satisfaction with products differ?
+• Do male customers spend more money online than female customers?
+• Do US teenagers spend more time on Facebook than German teenagers?
+
+                                                                        42
+             Independent sample t-test
+Example
+
+
+
+
+ •   Two groups; one interval scale variable -> independent sample t test
+ •   Significance level: 5%
+ •   Grouping variable: purpose of latest trip (flight_purpose)
+ •   Testing vaiable: overall satisfaction (overall_sat)
+ •   Hypothesis: The overall satisfaction of customers with the price-performance ratio of Oddjob Airways varies
+     between those who flew for business and those who flew for private reasons on their latest trip.              43
+            Independent sample t-test
+Analyze → Compare Means and Proportions → Independent-Samples T test → Test Variable(s) = DV → Grouping
+variable = IV → Define Groups → Continue
+
+
+
+
+                                                            *Tip*
+                                                            Right click any variable and select           44
+                                                            “display variable names”
+Independent sample t-test
+
+
+
+
+ Check Levene’s assumption test and its p value
+ H0: variances (Business) = variances (Private) (p > .05)
+ H1: variances (Business) ≠ variances (Private) (p < .05)
+
+
+                                                            45
+            Independent sample t-test
+How to report the results of independent samples t-test?
+
+
+Example
+In this study, we hypothesized that customers' overall satisfaction with the price-performance ratio of
+Oddjob Airways differs between those who traveled for business and those who traveled for personal
+reasons on their latest trip. The results of an independent samples t-test indicate that customers traveling
+for personal reasons have a higher satisfaction level with the airline's price-performance ratio compared to
+those traveling for business (Mprivate = 4.62, Mbusiness = 3.99, t1063 = -6.444, p < .001). Therefore, our
+hypothesis is supported.
+
+
+
+                            Group means       t degree of freedom (df) = t value
+
+
+                                                                                                               46
+

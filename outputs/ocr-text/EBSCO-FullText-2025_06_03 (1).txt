@@ -1,0 +1,765 @@
+Communicating Experiences: A Narrative Approach
+to Creating Service Brand Image
+Dan Padgett and Douglas Allen
+The authors discuss the potential merits of taking a narrative approach to communicating service brand
+image through advertising. On the assumption that a primary goal of advertising should be to create a vivid
+image of the brand in consumers' minds, they assess past definitions of brand image and adapt them to the
+marketing of services. They review metaphors used previously to understand services, and emphasize that the
+experiential aspect of services should play an important role in how service brand image is conceptualized.
+Specifically, they suggest that experience is a useful conceptualization for understanding service brand image
+because it represents the customer's perspective ofa service and the symbolic meanings created during service
+consumption. Using their conceptualization of service as experience, the authors discuss how to view consum-
+ers' comprehension of services, and thus how to communicate about services through advertising. They draw
+on narrative theory to suggest that narrative thought is a predominant cognitive mode of comprehension used
+by consumers to interpret experience (and hence services) and that narrative advertising should be effective in
+communicating service experience. Finally, they present a series of propositions linking the formal structure
+of advertising to responses related to the creation of service brand image.
+
+
+
+
+Dan Padgett (Ph.D., Pennsylvania
+State University) is Assistant                               Service Brand Image
+Professor of Marketing, A. B.
+Freeman School of Business, Tulane       One of the most heated and enduring debates in the marketing and adver-
+University.                           tising literature pertains to advertising effectiveness: What are the effects
+Douglas Allen (Ph.D., Pennsylvania    of advertising on consumers? What effects should advertisers attempt to
+State University) is Assistant        achieve? Kotler and Armstrong (1996) suggest that general advertising
+Professor of Marketing, College of
+Business Administration, Bucknell     objectives should include informing, persuading, and reminding consumers.
+University.                          Other scholars have argued that generating sales is the more practical goal
+The authors contributed equally to   for advertisers (e.g., Tellis and Weiss 1995). Anderson and Barry (1979)
+the article, and wish to thank the
+editors and reviewers for their      characterize the two positions as the hierarchy of effects school and sales
+comments and suggestions.            school, respectively. However, those are not the only views on the appropri-
+                                     ate goals for advertising. For example, more recently, an emphasis has been
+                                     placed on the role of emotion and affect in advertising (Holbrook 1986;
+                                     Holbrook and Batra 1987; Peterson, Hoyer, and Wilson 1986). Involvement
+                                     and its relation to how consumers perceive advertisements have also re-
+                                     ceived attention (e.g., Celsi and Olson 1988; Greenwald and Leavitt 1984;
+                                     Mitchell 1981).
+                                        Adjudicating between various claims as to what should be the focal goal of
+                                     advertising depends greatly on one's basic assumptions about how advertis-
+                                     ing works. The hierarchy of effects model suggests that consumers progress
+                                     through a series of stages such as attention, interest, desire, and action.
+                                     Hence, if one adopts the hierarchy of effects model, awareness, fostering
+                                     memory and knowledge of product benefits, and creating positive brand
+                                     attitude are all defensible and reasonable advertising goals. If one adopts a
+                                     motivational perspective, forging a bond between brand attributes and ab-
+                                     stract consumer values may be deemed an appropriate goal. Adopting an
+Journal of Advertising,
+                                     affective perspective would suggest that a primary objective of advertising is
+Volume XXVI, Number 4                to create positive affect toward the ad and the brand.
+Winter 1997
+50                                                                              The Journal of Advertising
+
+   Clearly, researchers working in the nascent area of       At the foundation ofthe concept of brand image is
+services advertising face some difficult questions about   an understanding of the attributes and functional
+advertising effects. What are realistic goals for the      consequences, and the symbolic meanings, consum-
+advertising of services? How do services advertise-        ers associate with a product. Hence, for services, we
+ments work? What is an effective services advertise-       can state that service brand image includes the at-
+ment? We contend that the process by which adver-          tributes and functional consequences and the sym-
+tising realizes its efficacy is complex, and that a plu-   bolic meanings consumers associate with a specific
+rality of research perspectives on advertising effects     service. Such meanings are attached to a service
+results from that complexity. Therefore, instead of        through a combination of personal experience, com-
+making a case for one of the aforementioned schools        munication with other people, and advertising. It is
+of thought to the exclusion of alternative views, we       the composite of those meanings associated with a
+suggest the concept of "service brand image" as a          service brand that influences behavior toward the
+more encompassing construct that may be helpful in         brand, with advertising playing the important roles
+providing a foundation for investigating the effects of    of informing, persuading, and reminding (Kotler and
+services advertising. Several researchers outside the      Armstrong 1996; Shimp 1997). In sum, service brand
+services area support such a position, suggesting that     image is the consumer's mental picture of the brand
+creating brand image, and thus positioning the prod-       created in response to brand-related stimuli (includ-
+uct appropriately, should be a primary objective of all    ing, but not restricted to, advertising stimuli).
+advertising and marketing strategy (Peter and Olson
+ 1994; Reynolds and Gutman 1984). According to that        Benefits of Service Brand Image for
+view, advertisers create specific ad representations       Advertising Research
+to constrain customers' responses related to the ser-
+vice brand. In the next section we argue that service         The service brand image concept has potential for
+brand image is particularly relevant in the context of     being an effective foundational concept for research
+ services advertising.                                     into services advertising for several reasons. First,
+                                                           service brand image sufficiently incorporates the vari-
+                                                           ous perspectives on advertising effects outlined above
+The Concept of Service Brand Image                         (hierarchy of effects, motivational, affective, etc.).
+   The concept of brand image has a rich history in the    Consider, for example, advertising for Southwest Air-
+marketing literature dating back to the 1950s. Gen-        Hnes. In the past. South west's advertising focused on
+erally, brand image functions to define the product        developing the dimension of Southwest's image re-
+for consumers and differentiate the firm's offering        lated to its attribute information and functional con-
+from competitive offerings. Definitions of brand im-       sequences—stressing low prices, on-time arrival, and
+age range from very broad and general to more spe-         safety record. More recently, Southwest's advertis-
+cific, such as those equating brand image with the         ing has attempted to develop a symbolic dimension of
+idea that brands have personality like meanings as-        Southwest's image by featuring actor Jack Palance,
+sociated with them (see Dobni and Zinkhan 1990 for         with whom many people may associate affectively
+a review). Levy and Glick (1973) and Martineau             charged meanings of ruggedness and toughness as a
+(1958) offer definitions of brand image that seem suf-     result of his persona developed over the years in popu-
+ficiently encompassing, yet concise enough, to delimit     lar culture. In addition, Southwest's ads stress im-
+brand image in a useful way for advertising research.      portant high-level motivational values such as de-
+Levy and Glick (1973) contend brand image is a sum-        mocracy, freedom, and independence. Southwest is
+mary concept that implies consumers buy brands for          one example of a service firm attempting to develop
+their physical attributes and functions and the mean-      multiple dimensions of its image through advertis-
+ings connected with the brands. Martineau (1958)           ing, a reasonable and defensible goal. The service
+describes store image as being composed of functional      brand image concept admits and focuses attention on
+qualities and psychological attributes. Both of these       a variety of advertising objectives.
+ definitions are compatible with Gardner and Levy's           A second benefit of using service brand image as a
+ (1955) suggestion in their seminal article on brand        foundation for research on services advertising is the
+ image that consumers buy products or brands not            fact that service brand image is by definition a con-
+ only because of their attributes and functional conse-     sumer-oriented concept, stressing the consumer's ac-
+ quences, but also for the symbolic meanings associ-        tive role in creating meaning in response to market-
+ ated with them.                                            ing stimuli and what the marketing stimuli repre-
+Winter 1997                                                                                                  51
+
+sent. Advertisements as stimuli can constrain, but         (e.g.. Chase 1978; Lovelock 1984; Eiglier and Langeard
+not determine, the customer's responses (Mick and          1987), service as a performance (Grove and Fisk 1983),
+Buhl 1992). In other words, by using service brand         and service as an encounter between the firm and the
+image we recognize the importance of the consumer          customer (e.g., Czepiel, Solomon, and Surprenant
+in assigning meanings to an advertisement (which           1985; Solomon et al. 1985). Those conceptualizations
+may differ significantly from those intended) and in      are useful for making some managerial decisions, par-
+understanding the subject of the advertisement. With      ticularly ones concerning service production and de-
+service brand image the question is "How do consum-       livery, but they have two primary limitations for ad-
+ers associate meanings with services?" rather than        dressing service brand image through advertising.
+"What message did the marketer intend?" Adopting          First, because those ideas of service were developed
+a consumer-oriented perspective could be especially       in response to managerial influences on the services
+helpful for services marketers because their field de-    discipline (see Fisk, Brown, and Bitner 1993), they
+veloped from a managerial orientation, focusing pri-      are predominantly production-oriented rather than
+marily on production issues rather than consumption       consumption-oriented views of service. As Pelz (1926)
+issues.                                                   pointed out decades ago, every purchase, aside from
+  A third benefit of the concept of service brand im-     the most minor ones, is an event of some significance
+age as a framework for conducting services advertis-      to the customer, but the same exchange is usually a
+ing research is that the concept encompasses both         routine to the vendor. The current conceptualizations
+functional and symbolic aspects of services. Since its    of service reflect a managerial goal of establishing
+inception, services research has focused predomi-         routine, predictable service provision, and thus em-
+nantly on the functional aspects of service. However,     phasize controllable elements involved in producing
+in the late 1980s and early 1990s, researchers began      the service. Those elements should be considered
+suggesting the importance of the symbolic aspects         only part of the customer's consumption experience,
+(e.g., Arnould and Price 1993; Celsi, Rose, and Leigh     rather than the central focus.
+1993; Otto and Ritchie 1995). They contended that            Second, the current metaphors for service empha-
+attributes and functional consequences are only part      size the functional attributes and associated conse-
+of the service from the customer's view. During con-      quences for the consumer while largely neglecting
+sumption, customers also attach symbolic meanings         the important symbolic meanings of the product in-
+to services. Complete understanding of a service there-   herent in the concept of service brand image we have
+fore can be achieved only by investigating how a cus-     adopted. As Deighton (1992) pointed out, the critical
+tomer perceives both its functional and symbolic as-      performance issue for a service is not what kind of
+pects.                                                    performance the service provider is attempting, but
+  In sum, the concept of service brand image is a         rather what kind of performance consumers think
+useful foundation for service marketers to use in ad-     they are viewing. Similarly, Thompson, Locander,
+dressing advertising issues. As a customer-oriented       and Pollio (1989) contend that understanding con-
+concept, service brand image prompts a discussion of      sumer perspectives of phenomena requires consider-
+how customers attach meanings to services because         ation of the meanings they associate with the phe-
+advertisers must understand what customers "think"        nomena. Service brand image encompasses the
+about services to influence service brand image. In       consumer's perspective of a service. Hence, to under-
+effect, we must address the consumer's concept of a       stand service brand image (or the meanings consum-
+service if we are to understand how advertising can       ers attach to services), we need a customer-oriented
+build service brand image.                                conceptualization of service that focuses on the con-
+                                                          sumption rather than the production of service. Ser-
+          The Service Experience                          vices researchers typically study consumers' reactions
+                                                          to provider-defined aspects of production rather than
+  Building service brand image requires an under-         the meanings customers create in response to their
+standing of how customers make sense of services, or      consumption experience. As we know, different per-
+create and attach self-relevant meanings to services.     spectives of the same phenomenon often yield differ-
+Researchers       have       developed        several     ent interpretations. We therefore need to examine
+conceptualizations of service, including service as an    customers' participation in a service from their view-
+intangible product (Levitt 1972), service as a process    point, rather than from the manager's viewpoint.
+52                                                                                The Journal of Advertising
+
+The Concept ofthe Service Experience                       other people involved in the consumption of a service,
+                                                           and a reflection on those actions. In addition, our
+   Zeithaml (1981) offers a potential beginning point      definition assumes a time-bounded progression of
+for a customer-oriented conceptualization of service.      events beginning with the identification of service
+She contends that services tend to be higher than          consumption as a distinct situation and ending with
+goods in experience and credence qualities. That           the resolution of the situation. The experience is a
+notion follows logically from the suggestion that many     perceptual phenomenon that suggests customer-de-
+services involve active consumer participation and         fined boundaries for the situation. Actions that occur
+simultaneous production and consumption (Shostack          in a setting over time are the province of drama.
+1977). At a more general level, Holbrook and
+Hirschman (1982) argue that consumption is by defi-        The Drama of Experience
+nition experiential. Hence, we can consider the con-
+sumption of service to be an experience. As Edward            Drama has been used to describe a variety of con-
+Bruner (1986, p. 3) states, experience "refers to an       sumption-related contexts, including rituals
+active self, to a human being who not only engages in      (Wallendorf and Arnould 1991), consumer experiences
+but shapes an action." Current thought in services         (Holbrook and Hirschman 1982), and even services
+literature claims customers actively produce the ser-      (Grove and Fisk 1983). Celsi, Rose, and Leigh (1993)
+vice, and most researchers study the impact of the         used Goffman's earlier work (1959, 1967), and moved
+consumer on the service operation rather than the          beyond Grove and Fisk's (1983) performance meta-
+customer's creation of meaning during the service.         phor of services to provide a dramatic framework for
+   More recently, other researchers have begun to rec-     understanding the consumer's experience of skydiv-
+ognize the experiential and symbolic nature of ser-        ing. They developed the dramatic progression ofthe
+vice consumption. Arnould and Price (1993) describe        skydiving experience from agon (introduction of con-
+the extended service encounter of river rafting in terms   flicting forces), through denouement (resolution of
+of the extraordinary experience associated with con-       confiict), to catharsis (emotive release following the
+sumption. They interpret the "lived meaning" ofthe         resolution of conflict). Their model is based on the
+ service experience to consumers, suggesting symbolic      classical dramatic model from classical Greek theater
+meanings of communion with nature, communitas or           (see Stem 1994 for a more complete discussion of that
+connecting with others, and extension or renewal of        model and an alternative model, vignette drama).
+ self. Similarly, Otto and Ritchie (1995) suggest that        Given our interest in the customer's perspective of
+ customers are capable of distinguishing functional        service as a basis for investigating service brand im-
+ quality from the quality ofthe experience, which they     age in advertising, we suggest that the classical dra-
+ define as affective, symbolic reactions to the service    matic model is a reasonable approximation for many
+ encounter. In sum, those researchers point out that       service experiences. Recall that to the customer each
+for many services the experience itself is the key per-    exchange is significant (Pelz 1926), thus isolating each
+ ceptual event from the customer's point of view. That     individual service situation from surrounding events.
+ is, many services are experiential, and we therefore      In a common service experience, the agon occurs when
+ can use the service experience as a consumer-oriented     the consumer realizes a specific need for service. In
+ concept for addressing service brand image issues.        other words, conflict is introduced that requires ac-
+    Many services researchers use the term "experi-        tion from the consumer. We suggest that need recog-
+ ence" with little explication, apparently assuming "ex-   nition is in essence the beginning of the consumer's
+ perience" has a common meaning. To avoid confu-           service experience because it represents the moment
+ sion, we define a service experience as the cognitive,    when the situation is defined as an independent con-
+ affective, and behavioral reactions associated with a     text, and activity (thoughts, feelings, and behaviors)
+ specific service event. Hence, the consumer's service     related to addressing the conflict begins. The conflict
+ experience involves the active construction of person-    builds until the service is consumed, resolving the
+ ally relevant meanings associated with the behav-         confiict (denouement), as when a customer goes to
+ iors, thoughts, and feelings that occur during the con-   the hairdresser to get a haircut. Finally, tension is
+ sumption (not simply the production) of the service.      released (catharsis) as the consumer realizes the emo-
+ As Goffman (1974) suggests, experience entails the        tional consequences ofthe service (e.g., I feel my hair-
+ interpretation of everyday events. Our definition im-     cut gives me a more professional appearance and feel
+ plies a series of related actions by the customer and     more confident).
+ Winter 1997                                                                                                    53
+
+  Using the dramatic construction as a model of the       goals include generalizable truth, abstraction, and
+experience focuses on the symbolic meanings associ-       prediction. To accomplish those goals, the person
+ated with a service, hut also includes the functional     adopts a distanced perspective of the phenomenon,
+component of the service. Both the symholic mean-         reporting observations, testing hypotheses, and us-
+ings of self-achievement, success, and self-worth, and    ing formal rules of logic to develop theories and argu-
+the functional consequences of the haircut (shorter       ments. Appropriate logic suggests a single explana-
+hair, less maintenance required, etc.) are represented    tion for an event, which is deemed either conclusive
+in the drama of the customer's service experience.        or inconclusive according to the weight of the evi-
+The classical dramatic model therefore appears to he      dence. The paradigmatic mode of thought seeks the
+useful for addressing service hrand image issues.         superior explanation for an event, and competing ex-
+However, implementation of the model for managing         planations are evaluated on the criterion of truthful-
+service hrand image is predicated on an understand-       ness. The paradigmatic mode can be characterized as
+ing of how consumers construct dramatic meanings          rational or logical psychological functioning. Bruner
+during service experiences.                               suggests people use the paradigmatic mode of thought
+                                                          when presented with stimuli that include implicit or
+          Narrative Interpretation of                     explicit arguments. As suggested by a reviewer, we
+                      Experience                          define arguments as associationally or logically con-
+                                                          nected ideas not enacted by characters, including ads
+   Interpreting lived experience requires separating a   that attempt to persuade the consumer through logic.
+ certain progression of related events from unrelated       In contrast, the narrative mode of thought is based
+ events as the drama of experience unfolds. Under-       on the goals of understanding and the construction of
+ standing experience is the province of narrative psy-   meaning. "Narrative deals with the vicissitudes of
+ chology (J. Bruner 1986, 1990; Robinson and Hawpe human intention" (J. Bruner 1986, p. 17), implying
+ 1986; Polkinghorne 1988). The basic premise of nar-     an involved, self-relevant reflection on experience.
+ rative psychology is that people have a natural pro- The narrative mode seeks to orient experience in time
+pensity to organize information about people and their and location by use of case studies and interpreta-
+ actions in story format. Such is the case with ser-     tion. The narrative mode of thought constructs sto-
+ vices, where customers must organize a complex se- ries, which suggests the possibility—or likelihood—
+ quence of events and their reactions to these events    that there can be multiple interpretations of a par-
+ into a meaningful whole. Narrative theory also sug-     ticular experience. The stories are evaluated on the
+gests that people relate their interpretations of expe- basis of a relaxed form of causal probability. The
+rience to others by narrating, or telling stories. Nar-  narrative mode seeks a lifelike or plausible explana-
+rative psychology informs our study of how customer      tion for events, and does not necessarily seek to iden-
+perceptions of service and associated meanings build     tify the best explanation because the idea of a correct
+service brand image.                                    interpretation has no meaning. Bruner suggests
+   Though narrative has many definitions and is ap-     people use the narrative mode of thought to under-
+plied in many different disciplines (e.g., philosophy,   stand storied stimuli. As suggested by a reviewer, we
+sociology, anthropology, literary and rhetorical criti- describe    storied stimuli as any stimuli that include
+cism), but because our objective is to explain how      causally/chronologically      connected events enacted by
+consumers understand service experiences, we draw       characters     (irrespective   of ad form or presentation
+from an application of narrative in psychology^ Spe-    format—drama,        song,  dance,  mime, etc.). Typically,
+cifically, we focus on the work of the primary theorist such    stimuli   involve  actors  with  motives, an event
+in narrative psychology, Jerome Bruner (1986, 1990).    sequence,    and   a setting that  has  physical, social, and
+Bruner provides an explanation for how people un-       temporal     components.     Hence,   according   to Bruner,
+derstand experience. He suggests that two modes of      ads   that portray    actors (characters  or brands)   acting
+cognitive functioning order experience, the paradig-    to   achieve  some    goal would   be  interpreted   through
+matic and the narrative modes of thought, and sug-      the narrative mode of thought because the customer
+gests that they function differently and provide dif- would create a story to interpret the ad stimuli. To
+ferent outcomes.                                        Bruner, our own personal experiences are interpreted
+                                                        through    the narrative mode as are the stories about
+   The paradigmatic mode of thought "attempts to ful-   experience    told to us by another.
+fill the idea of a formal, mathematical system of de-
+scription and explanation" (J. Bruner 1986, p. 15). Its
+54                                                                              The Journal of Advertising
+
+   Bruner contends that the two modes of thought are     rational or based largely on affect." Hence, develop-
+complementary, but that the predominant explana-         ing adequate typologies of message appeals has been
+tion of psychological functioning has focused almost viewed as important for devising product advertising
+entirely on the paradigmatic mode, rather than con-      strategy.
+sidering the narrative mode. Thus, most psychologi-         The research on message appeals in traditional
+cal work considers people to be rational thinkers rather goods advertising has been extended to the context of
+than storytellers, a role Bruner suggests is more natu-  services advertising (Cutler and Javalgi 1993; LaBand,
+ral for people. Other theorists echo Bruner's conten- Pickett and Grove 1992; Stafford and Day 1995;
+tion that people use narrative to understand experi- Zinkhan, Johnson, and Zinkhan 1992). Most ofthe
+ence (e.g., Polkinghome 1988; Sarbin 1986). That         work is premised on the understanding that marketing
+argument has two primary implications for service        services is different from marketing goods. It follows
+advertisers interested in managing service image.        that particular message appeals may be more effective
+First, given the experiential nature of many services, for advertising services. Much ofthe work has drawn
+for an appropriate study of service brand image, the on the same typologies used for the study of product
+assumptions ofthe narrative mode of thought may be advertising. For example, in content analyses
+more promising than those ofthe paradigmatic mode LaBand, Pickett, and Grove (1992) and Zinkhan,
+of thought. Consumers construct different symbolic Johnson, and Zinkhan (1992) found that services
+meanings for the same product experience, and treat-     advertisements were more informational or cognitively
+ing service brand image as a nomothetical construct      oriented than emotionally oriented. Interestingly,
+could be misleading. How then, do services market-       Cutler and Javagli (1993) found the opposite. Further,
+ers communicate experiential aspects of service? Sec-    confiicting rationales have been put forth as to why
+ond, if consumers use the narrative mode of thought      either informational or emotional appeals should be
+to understand services, perhaps certain types of ad- more effective for advertising services. LaBand,
+vertising appeals are more appropriate than others Pickett, and Grove (1992) argue that informational
+for conveying the symbolic meanings inherent in ser- advertising is used more often for services because
+vice brand image. What should ads look like to en- factual information about attributes and consequences
+courage customers to associate symbolic meanings         of services may make services more tangible. In
+with the service firm? How do different ad forms         contrast, others reason that emotional or
+influence customers' creation of service brand image? transformational appeals can aid in making services
+We discuss those issues in the next section.             tangible or transforming intangible services into
+                                                         meaningful associations (Cutler and Javalgi 1993;
+                                                         Zinkhan, Johnson, and Zinkhan 1992). Importantly,
+  Representing Service Image Through                     making a service tangible through advertising has
+             Narrative Advertising                       received support in the literature (e.g., Legg and Baker
+                                                          1987), but the efficacy of that strategy has not been
+ Typologies of Message Appeals in                        demonstrated empirically.
+Advertising                                                 Stafford and Day (1995) slightly altered the direc-
+    Message appeal generally refers to a basic charac-   tion of research on services advertising by shifting
+ terization of the content style of an advertisement.    the emphasis away from the issue of intangibility
+ Researchers have offered numerous typologies of pos- and focusing instead on the interaction between the
+ sible message appeals (e.g., Aaker and Norris 1982; type of service advertised and the type of message
+ Frazer 1983; Laskey, Day, and Crask 1989; Ray 1982; appeal used. Hence, the key distinction was not be-
+ Simon 1971; Vaughn 1983). An underlying assump-          tween goods advertising and services advertising, but
+ tion of much ofthe research is that there should be a between types of appeals appropriate for different
+ relationship between types of message appeals used       types of services. More specifically, Stafford and Day
+ and the brand choice process of consumers for the studied the effects of message appeal (rational vs.
+ product category being advertised. As Stafford and       emotional), message medium (print and radio), and
+ Day (1995, p. 57) state, "Whether the message is cat- type of service (two categories of services based on a
+ egorized as emotional versus rational, thinking ver-     classification scheme by Bowen 1990) on attitude to-
+ sus feeling, or transformational versus informational, ward the ad, attitude toward the service, and patron-
+ its effectiveness is believed to depend on whether       age intention. Their primary findings suggest that
+ brand choice within a product class is logical and       rational appeals are more effective than emotional
+Winter 1997                                                                                                    55
+
+appeals in generating attitude toward the ad for both     (1994) suggests that different drama structures (clas-
+categories of services.                                   sical dramas vs. vignette dramas) can also lead to
+   Three points must be noted about the adaptation of     different emotional outcomes. Hence, to determine
+message appeal typologies developed in the context of     how best to link components of service brand image
+tangible goods to the advertising of services. First,     with ad stimuli, we must consider how the content
+services advertising researchers have adopted the ra-     and form of ad stimuli influence the creation of ser-
+tional/emotional dichotomy as the primary distinc-        vice brand image in customers' responses to the
+tion between message appeals. That dichotomy has          stimuli.
+been important in many typologies of products (e.g.,         In sum, though several message appeal typologies
+Aaker and Norris 1982; Vaughn 1980), but the ratio-       have been applied to services advertising, the pri-
+nale for why emotional or informational appeals would     mary distinction being between rational and emo-
+have a unique advantage in communicating a service        tional appeals, we have no clear consensus as to
+is somewhat ambiguous, particularly as service brand      whether those typologies are useful for services ad-
+image is made up of both functional and symbolic          vertising. As services marketers discovered in the
+meanings. In fact, convincing but somewhat conflict-      late 1970s (see Fisk, Brown, and Bitner 1993 for a
+ing rationales have been given as to which type of        discussion), general principles that apply in market-
+appeal (cognitive/informational vs. emotional/trans-      ing traditional goods may not be suitable for direct
+formational) should be more effective in making ser-      application to services marketing. Services advertis-
+vices tangible (Cutler and Javalgi 1993; LaBand,          ing requires acknowledgment of the role of ad form
+Pickett, and Grove 1992; Zinkhan, Johnson, and            and content in the creation of service brand image.
+Zinkhan 1992).                                            In the next section we link message appeals to our
+   Second, the rational/emotional or thinking versus      concept of service brand image.
+feeling distinction has been conflated with the infor-
+mational/transformational dichotomy put forth by          Narrative Representation of Service
+Puto and Wells (1984; Wells 1989). Evidence of the        Brand Image
+conflation can be gleened from the Stafford and Day
+(1995) statement quoted above. However, Puto (1986)          Given our theoretical conceptualization of service
+goes to great length to distinguish transformational      brand image, we suggest that a primary goal of ser-
+ads from emotional ads. Puto and Wells (1984, p.          vices advertising should be to communicate and con-
+638) define a transformational ad as one "which asso-     vey both functional and symbolic meanings about ser-
+ciates the experience of using (consuming) the adver-     vice experience. That notion has several implications
+tised brand with a unique set of psychological charac-    for work in the area of services advertising. Because
+teristics which would not typically be associated with    of the intangibility of service attributes and benefits,
+the brand experience to the same degree without ex-       the distinction between informational and transfor-
+posure to the advertisement." Thus, transformational      mational ads should be examined more closely. First,
+ads are experiential and transform the consumer's         the original distinction between transformational and
+experience with a brand, but the transformational         emotional appeals should be more carefully respected.
+effect need not be affective, although it often may be.   Although transformational ads may be emotional,
+   Third, the vast majority of ad classification          their more important function with respect to ser-
+typologies are based on the content rather than the       vices is to influence consumers' perceptions of the
+form of ads. That is, the typologies mentioned above      consumption of services or the service experience.
+pertain primarily to what is said (content) rather        Second, the traditional dichotomy between informa-
+than how it is said (form). As Boiler (1988) and more     tional and transformational advertising may be some-
+recently Stern (1994) contend, however, the propen-       what counterproductive in the case of services. Be-
+sity of an ad to constrain the meanings consumers         cause transformational ads convey important mean-
+create in response to the ad stimulus involves both       ings about the experience of consuming services, think-
+the information in the ad and the presentation for-       ing of transformational ads as not providing crucial
+mat. Boiler's work suggests that ads structured as        information about a service seems misleading. As
+stories (causally connected events acted out by char-     Puto and Wells (1984) point out, the classifications of
+acters) typically prompt different responses than ads     informational and transformational are not mutually
+structured as arguments (association al or logically      exclusive. We suggest that, given the experiential
+connected ideas not enacted by characters). Stern         orientation of services, there is considerable overlap
+56                                                                              The Journal of Advertising
+
+between those two classifications—the conveyance of       age we outlined previously, and therefore has a solid
+experience is critical to communicating information       conceptual grounding for being relevant to services
+about services. Hence, counterposing transforma-          advertising. Also, the narrative/argumentative dis-
+tional and informational service advertisements may       tinction should help alleviate some of the confusion
+not be the most useful dichotomy for addressing ser-      about the category of transformational ads. Finally,
+vice hrand image issues.                                  the dichotomy has implications not only for the con-
+   Following Boiler (1988) and Deighton, Romer, and       tent, but also for the structural form of service ads,
+McQueen (1989), we believe a beneficial dichotomy         thus providing several interesting propositions about
+would be argumentative ads versus narrative ads.          the execution of service ads to convey service brand
+Deighton and his colleagues suggest a dichotomy based     image information.
+on argumentative ads and drama ads. Argumenta-
+tive ads are narrated (include a speaker), without         Applying Narrative to Create Service
+characters or plot (a progressive action sequence that                Brand Image
+involves confiict and its resolution), and seek to per-
+suade by using appeals that can be verified objec-        Building Functional Versus Symbolic
+tively and judged for truth. Drama ads have no nar-       Brand Image Components
+rator, but involve characters acting out a plot (again
+see Stern 1994 for a discussion of vignette drama ads        Recall that narrative ads present a causal/chrono-
+that work differently). Such ads persuade through         logical series of events acted out by a character,
+subjective appeals that are evaluated on the basis of     whereas argumentative ads present associational or
+verisimilitude.                                           logically connected ideas not enacted by a character.
+   Boiler (1988) suggests an argumentative/narrative      That distinction implies both a content and a struc-
+dichotomy. He contends that ads are narrative if          tural component in narrative ads—a specific content
+they include characters, a setting, a plot, and a time    (characters, actions, and setting) and a form, com-
+frame. Whereas the drama ad involves a direct ob-         monly known as plot (the causal event sequence).
+servation of action. Boiler uses the more general term    Our argumentative/narrative dichotomy provides op-
+"narrative" to imply simply that some ads have a          tions for managing service brand image, indicating
+story as a foundation. We prefer the narrative ad         that service brand image can be influenced through
+distinction to the drama ad distinction because in the    argumentative or narrative ads. However, given the
+narrative understanding approach we adopt (Bruner         experiential nature of service consumption, our frame-
+1986, 1990), direct observation of action and inter-      work suggests that argumentative ads provide lim-
+pretation of written and oral representations of ac-      ited opportunity for vesting service brands with con-
+tion are both understood through the narrative mode       sequential symbolic meanings. For example, con-
+of thought. Hence, in our view, drama ads are a           sider a recent ad for the US Postal Service. The ad
+special case of narrative ads because a dramatic play     shows a delivery worker for Federal Express, one for
+is a particular presentation format for conveying a       United Parcel Service, and one US Postal employee.
+story. Other special cases of narrative ads include       As each worker is shown holding a priority mail enve-
+songs, dances, and mimes, among others, and the           lope, accompanying verbal and visual messages state
+story presentation could be oral, written, or visual.     each delivery company's price and number of trucks.
+We believe the argumentative/narrative dichotomy is       The ending comment by the spokesperson questions
+more appropriate than the argumentative/drama di-         the judgment of someone who would choose a smaller,
+chotomy, as narrative is consistent with our concep-      private company to deliver packages when such com-
+tual foundation and "narrative" is the more general       panies charge more than the US Postal Service for
+term, implying storytelling without regard to a spe-      similar service. The ad provides a potentially com-
+cific presentation format.                                pelling argument based on availability of equipment
+   The argumentative/narrative dichotomy has sev-         and price, but little symbolic brand image informa-
+eral benefits as a conceptual foundation for services     tion. A strength of such argumentative ads is the
+advertising and building service brand image. First,      conveyance of functional product attributes and con-
+many noted theorists view narrative as the primary        sequences; their weakness is a lack of information
+form through which people communicate and com-            that would engender symbolic responses from cus-
+prehend experience. Hence, the dichotomy is com-          tomers and thus build the symbolic component of
+mensurate with the conceptualization of service im-       service brand image.
+Winter 1997                                                                                                        57
+
+    In contrast to argumentative ads, narrative ads               From the preceding examples, we would expect con-
+ present stories, prompting consumers to construct              sumers to argue less with the Fed Ex ad than with
+ functional consequences and symbolic meanings to               the Postal Service ad because the Fed Ex ad makes
+ interpret the advertisement. For example, consider a           no direct argumentative claims subject to judgments
+ recent Federal Express ad in which the opening scene           of "truthfulness." Rather, the Fed Ex ad presents a
+ shows a man walking purposefully toward one of his             possible consumption outcome for the service. The
+ seated employees. The other employees shy away as              consumer sees a scenario, which is evaluated on the
+ the "boss" walks by. Once he reaches the seated               basis of the plausibility and probability of such an
+ employee, the man demands to know what happened                outcome.
+ to one of the packages she was supposed to have sent,              P3: Argumentative ads are more likely than
+ which he claims did not arrive at the destination on                    narrative ads to prompt consumers to
+ time. She timidly replies that she'll check, and in-                    counterargue, and thus are more likely to
+ serts a disk into her computer. She then calmly re-                     be unsuccessful in engendering positive
+ plies that the package was delivered and provides the                   responses from customers.
+ name of the recipient who signed for it. As a parting            Although consumers are more likely to argue with
+ shot, she asks the boss if he would like her to call to       argumentative ads than with narrative ads, the lat-
+get the recipient on the telephone. The boss frowns            ter require more careful attention to common cul-
+ and retreats. As he closes the door behind him, the           tural symbols that promote appropriate symbolic
+ office staff erupts into cheers congratulating the em-        meanings for service brand image. For example, in
+ployee. As in the argumentative ad for the Postal              the Federal Express ad, the basic plot is similar to
+Service, attributes and functional consequences of the         persecution by a tyrant, a familiar storyline. The
+ service are fairly obvious—packages get delivered and         employee is able to triumph over the tyrant through
+can be tracked, you have control over information,             self application and external help (Fed Ex), and thus
+and you get reliable service. However, unlike the              is a heroic character. The setting—a large corporate
+Postal Service ad, the narrative Fed Ex ad provides a          office filled with busy workers—is readily recogniz-
+representation of what it is like to experience the            able, even though most people who see the ad have
+service, thereby demonstrating appropriate thoughts,           never been in a similar setting. Importantly, the
+feelings, and behaviors associated with consuming              story elements are ones many consumers "know of
+Fed Ex.2                                                       and therefore can use to interpret the ad. Other
+   In effect, the social interaction of the service is com-    meanings are possible, however, because consumers
+municated through the narrative form of the ad, which          use stories they know to interpret experience (Schank
+includes characters, plot, setting, and time. The ad           1990). Many potentially valuable settings, charac-
+demonstrates rather than explains the functional ele-          ters, and plots (or causal action sequences of a story)
+ments of the service (e.g., how to use the computer-           can be borrowed from current popular culture.
+ized tracking system), but also prompts the consumer                P4: For narrative ads to effectively convey
+to construct symbolic meanings associated with the                      symbolic meanings for service brand im-
+experience of interacting with the Federal Express                      age, the ads must draw on common cul-
+brand. Several symbolic meanings are possible, such                     tural stories.
+as victory, support, good triumphs over evil, camara-            The preceding propositions basically link the ad
+derie, or even negative meanings such as oppression,          stimulus with the content of the ads. Ads including
+injustice in the workplace, and stereotyping of women         characters, actions, and settings should be most ame-
+as holding low-level menial jobs.                             nable to conveying symbolic meanings for service
+      PI: Narrative ads should be more capable of             brand image because customers can create stories to
+          providing symbolic information about ser-           interpret such ads. Ads that present logical argu-
+          vice brand image than argumentative ads.            ments are more likely to encourage counterarguments
+      P2: Argumentative ads should be more ca-                from customers, but should be as effective as narra-
+          pable of conveying functional information           tive ads for communicating functional meanings for
+          about service brand image than narra-               service brand image. Although ad content is crucial
+          tive ads.                                           in constraining customers' responses, ad structure
+                                                              (form) is also important. We next consider the pos-
+                                                              sible impact of ad structure on service brand image.
+                                                                                  The Journal of Advertising
+
+Linking Structural Form to Service                         gest that Cinderella is really a story about the rise to
+Image Responses                                            heaven from hell for people who suffer on earth. Each
+                                                           of those interpretations is feasible, but an ad writer
+  The content of an ad can be presented in many            probably intends one specific meaning. Prior experi-
+forms. For example, consider the folk tale Cinderella.     ence and cultural knowledge will determine the most
+It can be conveyed as a story (a series of events nar-     likely interpretation for a given consumer, but across
+rated by a person), a play (a dramatic enactment of        consumers the storied portrayal is likely to elicit mul-
+the story), a dance, a mimetic presentation, or even       tiple interpretations.
+as an argument suggesting that good things happen             Argumentative ads have the advantage of present-
+to good people. If we assume our goal is to convey our     ing logically connected ideas, thus limiting the num-
+service brand image as a good company, we might use        ber of potential interpretations for service brand im-
+any of those alternative forms for presenting our im-      age. However, because those ideas are based on logic,
+age to customers. We are interested in how the nar-        the customer is in a sense forced to argue for or against
+rative and argumentative structural forms differ in        them. Such ads therefore may be useful for limiting
+terms of their ability to impart service brand image.      multiple interpretations, but may create difficulties
+A storied structure presents conflict and a sequence       by forcing customers to agree or disagree with the
+of related events that resolve the conflict. Events are    information they provide. Narrative ads, in contrast,
+chronologically and causally linked in such a way          encourage the customer to evaluate the information
+that those that occur before others are assumed in a       on the basis of plausibility. Hence, we expect a narra-
+loose sense to "cause" those that follow. In contrast,     tive structure to allow a wider variety of interpreta-
+argumentative ads structure ideas by association, pro-     tions than an argumentative structure that presents
+viding logical connections. The two structural forms       logically connected ideas.
+have different strengths and weaknesses in convey-              P5: Argumentative ads should elicit fewer in-
+ing service brand image information to customers.                   terpretations from customers than narra-
+   Stories have a basic plot structure that when sim-               tive ads.
+plified functions as the basic skeleton of the action         The preceding discussion suggests that narrative
+and the sequence of events. However, the same plot         ads are open to multiple interpretations, even when
+can result in a variety of themes or summary points        the advertiser uses common cultural stories as a ba-
+(the gist) of a story. For example, consider the basic     sis for the ad. Hence, although the customer is able
+plot structure of Cinderella: (1) Cinderella goes to       to shape the meanings to be more personally relevant
+live with stepmother and stepsisters, (2) stepmother       than perhaps may be possible with argumentative
+and stepsisters are jealous of Cinderella, (3) step-       ads, the advertiser is at a disadvantage because dif-
+mother and stepsisters mistreat Cinderella, (4) step-      ferent customers will interpret the ad by creating
+mother forbids Cinderella to go to the prince's ball,      different meanings. In effect, a single ad can gener-
+(5) fairy-godmother enables Cinderella to go to the        ate a variety of symbolic and functional consequences,
+ball, (6) prince falls in love with Cinderella, (7)        some in addition to those intended by the advertiser.
+Cinderella leaves ball unexpectedly, (8) Cinderella        Advertisers who use several different narrative ads
+loses shoe, (9) prince finds shoe, (10) prince uses shoe   during a campaign may actually increase the ambi-
+to hunt for Cinderella, (11) prince finds Cinderella,      guity of the service brand image rather than sohdify-
+(12) Cinderella and prince are married, and (13) they      ing it with consistent messages. To avoid that possi-
+live happily ever after.                                   bility, advertisers need to present narrative ads with
+   Though that plot (or an abstract representation of      similar structures that elicit the same theme (or
+that plot) is common for the variety of versions of        complementary themes). For example, we can sum-
+Cinderella, any two people who read the story might        marize the theme for the aforementioned Fed Ex ad
+create different meanings. One person might view           as "Fed Ex helps people do their job better" (other
+the story as a morality tale in which the wicked step-     themes are certainly possible). If Fed Ex wants its
+mother and stepsisters are eventually humbled by            service brand image to include the symbolic benefits
+Cinderella's rise to prominence. Another person might      of support and aid, its advertising must reinforce those
+consider Cinderella an important demonstration that        meanings. The key for Fed Ex would be to develop
+holding a constant desire for something one wants           storied ads that espouse such traits for Fed Ex. In
+ will eventually be rewarded (Cinderella wanted to be      other words. Fed Ex should present stories that have
+happy and live elsewhere). Still another might sug-         similar themes of support and aid. Thematic consis-
+ Winter 1997                                                                                                    59
+
+tency for the target audience is essential across a         (although that is also part of the experience). Rather
+campaign to develop a consistent service brand im-          than arguingfor the superiority of one type of ad over
+age. Argumentative ads, because they elicit fewer           another for more or less experiential services, we con-
+different interpretations, may be helpful in providing      tend that the relative percentages of narrative ads
+consistency across different ads, particularly with         and argumentative ads should be different for more
+functional aspects of service brand image.                  and less experiential services. Services that are low
+    P6: Multiple narrative ads work best to cre-            in experiential qualities are typically functional (ATM,
+        ate an identifiable service brand image             dry cleaning, lawn work, etc.), and therefore should
+        when the ads support the same theme(s).             require few narrative ads because the symbolic as-
+    P7: A combination of ads should be more ca-            pect of service brand image may have little influence
+        pable of creating both aspects of brand            in determining customer behavior. However, narra-
+        image than either narrative ads or argu-           tive ads should still be a primary means of establish-
+        mentative ads alone (narrative ads to con-         ing the symbolic meaning of consuming the service
+        vey symbolic brand image information and           (e.g., financial freedom, control, etc.).
+        argumentative ads to convey functional                  P8: The percentage of narrative ads used to
+        brand image information).                                    convey symbolic brand image information
+                                                                     should be relative to the experiential na-
+ Other Future Research Issues                                        ture of the service—more experiential ser-
+                                                                     vices (medical care, restaurants, etc.)
+    The test of advertising effectiveness is determining             should require a larger percentage of nar-
+ whether consumers associate the desired functional                  rative ads relative to argumentative ads
+ benefits and symbolic meanings with the service                     than less experiential services (banking,
+ brand. In other words, does the ad engender a posi-                 repair services, etc.).
+ tive service brand image? From our discussion of the         Similarly, we anticipate that business consumers
+ strengths and weaknesses of argumentative and nar-        will respond well to narrative ads for development of
+ rative advertising, we expect argumentative ads to        the symbolic dimensions of service brand image. Be-
+ be most useful for building the functional aspects of     cause business customers are interested in results,
+ service brand image and narrative ads to be most          the use of narrative ads could aid in building mean-
+ useful for associating symbolic meanings with the         ings associated with success, partnership, and fair-
+ service brand. An interesting question based on the       ness for service firms in the business arena by dem-
+ idea of experience as a foundation for addressing ser-    onstrating the experience of service benefits. How-
+ vice brand image is whether one ad type or another        ever, given the nature of business consumers, we ex-
+ would be more effective for different services. We pect argumentative ads to dominate the advertising
+ consider two different sets of services: more experi-     output of most business services.
+ ential versus less experiential services and consumer          P9: Business services should require fewer
+ versus business services.                                          narrative ads than consumer services be-
+   Some services are more experiential than others—                 cause business buyers typically empha-
+ consuming services of an ATM is less experiential                  size functional aspects of the service when
+ (requires fewer behaviors, thoughts, and feelings dur-             making a purchase decision.
+ing consumption) than consuming services of a vaca-           Finally, though we have attempted to provide a
+tion resort or a restaurant meal. Are narrative ads thoughtful and thought-provoking framework for in-
+equally effective for all services or are such ads useful vestigating services advertising that creates service
+only for highly experiential services? We suggest brand image through narrative understanding, sev-
+that narrative ads are equally effective for demon- eral other issues remain for future study. We pur-
+strating the symbolic aspects of service brand image      posely excluded media form from our discussion. Our
+for all services. We base that claim on the idea that     reasoning was that oral, written, and visual repre-
+the experience we are interested in conveying through     sentations of characters acting to achieve goals in a
+advertising is the consumption experience, not the setting are all viewed as stories for the purpose of
+production experience. For example, an ATM service understanding. Hence, in our initial discussion, we
+experience involves freedom and avoiding the hassle felt that presenting the basic ideas of our framework
+of lines and limited business operating hours, not        was more important than exploring the potential in-
+just the act of interacting with the teller machine       tricacies of the interaction between presentation for-
+60                                                                                The Journal of Advertising
+
+mat and content. Our initial feeling is that ad me-        an effective way of communicating service experience
+dium would not change our effects if the outcomes for      is through narrative-based (storied) appeals that in-
+service brand image were measured at the thematic          volve causally and chronologically connected events
+level. For example, people understand Cinderella as        enacted by characters. Thus, we present the service
+the same story (the theme is consistent) whether they      experience as a key consumer-oriented concept for
+read a book, see a movie, or watch a mime act it out.      studying the consumption of services from the
+We therefore expect our arguments to apply across          customer's point of view.
+media.                                                       Third, we recommend an argumentative/narrative
+    P10:Ad medium should be irrelevant to de-              dichotomy for investigating brand-related meanings
+         termining effectiveness of narrative ads          in ads. The dichotomy represents a continuum rang-
+         for creating service brand image.                 ing from storied to argumentative presentations of
+  In addition, as is the case with any dichotomy used      information. Further, we suggest that advertisers
+to provide a framework for studying a phenomenon,          can manage service brand image by using a combina-
+we chose to focus on the two extreme positions within      tion of narrative and argumentative advertisements.
+our dichotomy to clarify and explain our ideas. In         Storied advertisements are especially effective for con-
+reality, many ads combine story and argument.              veying symbolic information related to service brand
+Hence, one interesting task would be to investigate        image, whereas argumentative ads are useful for con-
+the boundaries of our propositions. Are ads of one         veying functional service brand image information.
+type more effective than ads of mixed types? If so,        Also, we introduce propositions about how the con-
+when, and for imparting which elements of service          tent and structure of ads might influence their ability
+brand image? Also, in what sequence should differ-         to convey service brand image. We hope our work
+ent ad types be used for creating service brand im-        will spur efforts to explore the propositions and lead
+age? Those issues warrant empirical investigation          to new and alternative directions for understanding
+and provide direction for future research in services      services advertising.
+advertising.
+                                                                                Endnotes
+                   Conclusion
+                                                                 term "narrative" is applied in many disci-
+  We present several novel insights that have poten-          plines for a variety of purposes. Like other
+tial for furthering research and understanding in the         terms that have multiple uses, "narrative" has
+area of services advertising. First, we address the           many meanings. For clarification, we use the
+ongoing debate over advertising effectiveness, and            term in a general sense as adopted from the
+introduce the concept of service brand image as a             literature on understanding everyday experi-
+laudable objective of advertising that seeks to delin-        ence. In that literature, "narrative" refers to
+eate and differentiate a service brand. The concept           "stories" and hence, is typically used as an
+provides a goal for services advertising that stresses        adjective that describes another noun, as in
+the importance of consumer perceptions whereas his-           "narrative mode of thought," which describes
+torically much research has focused on production-            a thinking process whereby people create sto-
+related issues. In addition, as a focal goal of services      ries to understand experience. Accordingly,
+advertising, the idea of service brand image encom-           "narrative" as a general term subsumes other
+passes not only the functional attributes and conse-          specific story forms such as drama, mime,
+quences realized by purchasing services, but also the         songs, dance, etc. In addition, that
+symbolic and experiential components inherent in the          conceptualization refers to written, oral, and
+experience of consuming services.                             visual representations of a story. We use "nar-
+   Second, we point out the experiential nature of many       rative" consistently in that way throughout
+services (the consumption of many services involves           the article.
+complex experiences) and introduce narrative under-            our framework, the ad is classified as a narra-
+standing as a primary mode of understanding used in           tive as it includes actors, purposeful behav-
+everyday life, especially by people trying to make            iors, and a setting—components of a narrative
+sense of experiences. To accommodate the fact that            ad. Other, more restrictive dichotomies based
+people often engage in narrative understanding of             on how terms are used in literary criticism
+phenomena, especially experience, we suggest that             might classify the ad as a drama ad because it
+Winter 1997                                                                                                                         61
+
+    lacks a formal speaker or narrator. In our                         Dobni, Dawn and George M. Zinkhan (1990), "In Search of Brand
+    framework for developing service brand im-                              Image: A Foundation Analysis," in Advances in Consumer
+                                                                            Research, Vol. 17, Marvin Goldberg, Gerald Gom, and Rich-
+    age, the foundation for the ad (story vs. argu-                         ard Pollay, eds., Ann Arbor, MI: Association for Consumer
+    ment) is more important than presentation for-                          Research, 110-119.
+    mat (drama, narrative, argument, etc.). Note                      Eiglier, Pierre and Eric Langeard (1987), Servuction, Le Marketing
+    that in a strict sense, all ads have an implied                         des Services, Paris: McGraw-Hill.
+                                                                      Fisk, Raymond P., Stephen W. Brown, and Mary Jo Bitner (1993),
+    narrator because consumers know that an ad                              "Tracking the Evolution of the Services Marketing Litera-
+    is a purposeful marketing communication.                                ture," Journal of Retailing, 69 (Spring), 61-103.
+    Hence, from a formal perspective, all ads have                    Frazer, Charles (1983), "Creative Strategy and Magazine Reader-
+    a narrator. We chose the more general use of                            ship," Journa/ of Advertising, 12 (4), 36-41.
+    "narrative."                                                      Gardner, Burleigh B. and Sidney J. Levy (1955), "The Product and
+                                                                            the Brand," Harvard Business Review, 33 (March/April), 33-
+                                                                            39.
+                                                                      Goffman, Erving (1959), The Presentation of Self in Everyday Life,
+                        References                                       ' New York: Doubleday.
+Aaker, David and Donald Norris (1982), "Characteristics of TV                         (1967), Interaction Ritual, Garden City, NJ:
+      Commercials Perceived as Informative," Journal of Advertis-           Doubleday.
+      ing Research, 22 (April/May), 61-70.                                            (1974), Frame Analysis: An Essay on the Organiza-
+Anderson, Robert L. and Thomas E. Barry (1979), Advertising                 tion of Experience, New York: Harper & Row.
+     Management: Text and Cases, Columbus, OH: Merrill Pub-           Greenwald, Anthony A. and Clark Leavitt (1984), "Audience In-
+      lishing.                                                              volvement in Advertising: Four Levels," Journal of Consumer
+Arnould, Eric J. and Linda L. Price (1993), Tliver Magic: Extraor-          Research, 11 (June), 581-592.
+      dinary Experience and the Extended Service Encounter," Jour-    Grove, Stephen J. and Raymond P. Fisk (1983), "The Dramaturgy
+      nal of"Consumer Research, 20 (June), 24-45.                           of Services Exchange: An Analytical Framework for Services
+Boiler, Gregory W. (1988), "Narrative Advertisements: Stories               Marketing," in Emerging Perspectives on Services Marketing,
+     About Consumption Experiences and Their Effects on Mean-               Leonard L. Berry, G. Lynn Shostack, and Gregory D. Upah,
+      ings About Products," unpublished Ph.D. dissertation, Penn-           eds., Chicago: American Marketing Association, 45-49.
+      sylvania State University.                                      Holbrook, Morris B. (1986), "Emotion in the Consumption Experi-
+Bowen, David E. (1990), "Interdisciplinary Study of Service: Some           ence: Toward a New Model of the Human Consumer," in The
+     Progress, Some Prospects," Journal ofBusiness Research, 20            Role of Affect in Consumer Behavior: Emerging Theories and
+     (January), 71-79.                                                     Applications, Robert A. Peterson, Wayne Hoyer, and William
+Bruner, Edward M. (1986), "Experience and Its Expressions," in             R. Wilson, eds., Lexington, MA: Lexington Books, 17-52.
+      The Anthropology of Experience, Victor W. Turner and Ed-                        and Rajeev Batra (1987), "Assessing the Role of
+     ward M. Bruner, eds., Urbana: University of Illinois Press, 3-        Emotions as Mediators of Consumer Responses to Advertis-
+     30.                                                                   ing," Journal of Consumer Research, 14 (December), 404-420.
+Bruner, Jerome (1986), AciuaZ Minds, Possible Worlds, Cambridge,                      and Elizabeth C. Hirshman (1982), "The Experien-
+     MA: Harvard University Press.                                         tial Aspects of Consumption: Consumer Fantasies, Feelings,
+               (1990), Ac<s o/"Meaning, Cambridge, MA: Harvard              andFun," Journal of Consumer Research, 9 iSeptomher), 132-
+     University Press.                                                      140.
+Celsi, Richard L. and Jeny C. Olson (1988), "The Role of Involve-     Kotler, Phillip and Gary Armstrong (1996), Principles of Market-
+     ment in Attention and Comprehension Processes," Journal of            ing, Englewood Cliffs, NJ: Prentice Hall.
+     Consumer Research, 15 (September), 210-224.                      LaBand, David N., Gregory M. Pickett, and Stephen J. Grove
+               , Randall L. Rose, and Thomas W. Leigh (1993), "An          (1992), "An Empirical Examination of the Informational Con-
+     Exploration of High-Risk Leisure Consumption Through Sky-             tent of Services Advertisements," abstract in Enhancing
+     diving," Journo/ of Consumer Research, 20 (June), 1-23.               Knowledge Development in Marketing, Robert P. Leone and
+Chase, Richard B. (1978), "Where Does the Customer Fit in the              V. Kumar, eds., Chicago: American Marketing Association,
+     Service Operation?" Harvard Business Review, 56 (Novem-                166-167.
+     ber/December), 137-142.                                          Laskey, Henry A., Ellen Day, and Melvin R. Crask (1989), "Typol-
+Cutler, Bob D. and Rajshekher G. Javalgi (1993), "Analysis of              ogy of Main Message Strategies for Television Commercials,"
+     Print Ad Features: Services Versus Products," Journal of              Journal of Advertising, 18 (1), 36-41.
+    Advertising Research, 33 (March/April), 62-69.                    Legg, Donna and Julie Baker (1987), "Advertising Strategies for
+Czepiel, John A., Michael R. Solomon, and Carol F. Surprenant,             Service Firms," in Add Value to Your Service, Carol
+     eds. (1985), The Service Encounter, Lexington, MA: Lexing-            Surprenant, ed., Chicago: American Marketing Association,
+     ton Books.                                                            163-168.
+Deighton, John (1992), "The Consumption of Performance," Jour-        Levitt, Theodore (1972), "AProduction Line-Approach to Services,"
+     nal of Consumer Research, 19 (December), 362-372.                     Harvard Business Review, 50 (September-October), 41-52.
+                , Daniel Romer, and Josh McQueen (1989), "Using       Levy, Sidney J. and I. 0. Glick (1973), "Imagery and Symbolism,"
+     Drama to Persuade," Journal of Consumer Research, 16 (De-             in Marketing Manager's Handbook, Stewart Britt II, ed., Chi-
+     cember), 335-343.                                                     cago: Dartnell, 961-9G9.
+62                                                                                                 The Journal of Advertising
+
+Lovelock, Christopher L. (1984), Services Marketing: Text, Cases,      Sarbin, Theodore R., ed. (1986), Narrative Psychology: The Storied
+     and Readings, Englewood Cliffs, NJ: Prentice Hall.                     Nature of Human Conduct, New York: Praeger Publishers.
+Martineau, Pierre (1958), "The Personality of the Retail Store,"       Schank, Roger C. (1990), Tell Me a Story: A New Look at Real and
+     Harvard Business Review, 32 (October), 47-55.                          Artificial Memory, New York: Scribner.
+Mick, David Glon and Claus Buhl (1992), "A Meaning-Based Model         Shimp, ierence A. (1997), Advertising, Promotion, and Supple-
+     of Advertising Experiences," Journal of Consumer Research,             mental Aspects of Integrated Marketing Communications, Fort
+     19 (December), 317-338.                                                Worth, TX: Dryden.
+Mitchell, Andrew A. (1981), "The Dimensions of Advertising In-         Shostack, G. Lynn (1977), "Breaking Free From Product Market-
+     volvement," in Advances in Consumer Research, Vol. 8, Kent             ing," Journal of Marketing, 41 (April), 73-80.
+     B. Monroe, ed., Ann Arbor, MI: Association for Consumer           Simon, D. (1971), The Management ofAdvertising, Englewood Cliffs,
+     Research, 25-30.                                                       NJ: Prentice Hall.
+Otto, Julie E. and J. R. Ritchie (1995), "Exploring the Quality of     Solomon, Michael R., Carol Surprenant, John A. Czepiel, and Evelyn
+     the Service Experience: A Theoretical and Empirical Analy-             G. Gutman (1985), "A Role Theory Perspective on Dyadic
+     sis," in Advances in Services Marketing and Management:                Interactions: The Service Encounter," Journal of Marketing,
+     Research and Practice, Vol. 4, Teresa A. Swartz, David E.              49 (Winter), 99-111.
+     Bowen, and Stephen W. Brown, eds., Greenwich, CT: JAI             Stafford, Maria Royne and Ellen Day (1995), "Retail Services Ad-
+     Press, 37-62.                                                          vertising: The Effect of Appeal, Medium, and Service," Jour-
+Pelz, V. H. (1926), Selling at Retail, New York: McGraw-Hill.               nal of Advertising, 24 (1), 57-71.
+Peter, J. Paul and Jeny C. Olson (1994), Understanding Consumer        Stem, Barbara B. (1994), "Classical and Vignette Television Ad-
+     Behavior, Burr Ridge, IL: Irwin.                                       vertising Dramas: Structural Models, Formal Analysis, and
+Peterson, Robert A., Wayne D. Hoyer, and William R. Wilson (1986),          Consumer Effects," Journal of Consumer Research, 20 (March),
+     "Reflections on the Role of Affect in Consumer Behavior," in           601-615.
+     The Role of Affect in Consumer Behavior: Emerging Theories        Tellis, Gerard J. and Doyle L. Weiss (1995), "Does TV Advertising
+     and Applications, Robert A. Peterson, Wayne D. Hoyer, and              Really Affect Sales? The Role of Measures, Models, and Data
+     William R. Wilson, eds. Lexington, MA: Lexington Books,                Aggregation," Journal of Advertising, 24 (Fall), 1-12.
+      141-159.                                                         Thompson, Craig J., William B. Locander, and Howard R. PoUio
+Polkinghorne, Donald E. (1988), Narrative Knowing and the Hu-               (1989), "Putting Consumer Experience Back into Consumer
+     man Sciences, Albany, NY: State University of New York                 Research: The Philosophy and Method of Existential-Phe-
+     Press.                                                                 nomenology," t/ourrea/ of Consumer Research, 16 (September),
+Puto, Christopher P. (1986), "Transformational Advertising: Just             133-146.
+     Another Name for Emotional Advertising or a New Approach?"        Vaughn, Richard (1980), "How Advertising Works: A Planning
+     i n Proceedings ofthe Annual Convention of the American Psy-           Model," t/ournai of Advertising Research, 20 (October), 27-33.
+     chological Association, Division 23, Wayne D. Hoyer, ed., Wash-   Wallendorf, Melanie and Eric Arnould (1991), "We Gather To-
+     ington, DC: American Psychological Association, 4-6.                   gether: Consumption Rituals of Thanksgiving Day," Journal
+                and William D. Wells (1984), "Informational and             of Consumer Research, 18 (June), 13-31.
+     Transformational Advertising: The Differential Effects of         Wells, William D. (1989) "Lectures and Dramas," in Cognitive and
+     Time," in Advances in Consumer Research, Vol. 11, Thomas               Affective Responses to Advertising, P. Cafferata and A. Tybout,
+     Kinnear, ed., Ann Arbor, MI: Association for Consumer Re-              eds., Lexington, MA: Lexington Books 13-20.
+      search, 638-643.                                                 Zeithaml, Valarie A. (1981), "How Consumer Evaluation Processes
+Ray, Michael (1982), Advertising and Communication Manage-                  Differ Between Goods and Services," in Marketing of Services,
+      ment, Englewood Cliffs, NJ: Prentice Hall.                            James H. Donnelly and William George, eds., Chicago: Ameri-
+Reynolds, Thomas J. and Jonathan Gutman (1984), "Advertising                can Marketing Association.
+      Is Image Management," Journal of Advertising Research, 24        Zinkhan, George M., Madeline Johnson, and F. Christian Zinkhan
+      (February-March), 27-38.                                              (1992), "Differences Between Product and Services Television
+Robinson, John A. and Linda Hawpe (1986), "Narrative Thinking                Commercials," Journal of Services Marketing, 6 (Summer),
+      as a Heuristic Process," inNarrative Psychology: The Storied           59-66.
+     Nature of Human Conduct, Theodore R. Sarbin, ed.. New
+     York: Praeger Publishers, 111-125.
+Copyright of Journal of Advertising is the property of ALE. Sharpe Inc. and its content may not
+be copied or emailed to multiple sites or posted to a listserv without the copyright holder's
+express written permission. However, users may print, download, or email articles for individual
+use.
+

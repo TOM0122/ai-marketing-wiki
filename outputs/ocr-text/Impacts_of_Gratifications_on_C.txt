@@ -1,0 +1,1250 @@
+           sustainability
+
+Article
+Impacts of Gratifications on Consumers’ Emotions
+and Continuance Use Intention: An Empirical Study
+of Weibo in China
+Ives Chacourre Wangninanon Gogan * ID , Ziqiong Zhang and Elizabeth Damian Matemba
+ School of Management, Harbin Institute of Technology, Harbin 150001, China; ziqiong@hit.edu.cn (Z.Z.);
+ elizabethmatemba@hit.edu.cn (E.D.M.)
+ * Correspondence: gogan@stu.hit.edu.cn or ggives@hotmail.fr; Tel.: +86-156-638-119-50 or +229-974-877-41
+                                                                                                    
+ Received: 17 July 2018; Accepted: 27 August 2018; Published: 4 September 2018                      
+
+
+ Abstract: Recently, several studies on information systems have applied the Uses and Gratifications
+ theory to investigate individual use of social media, and have reported the role of different
+ gratifications in predicting users’ behaviors. However, no attention was given to the influence
+ of these gratifications on users’ emotional states (satisfaction and emotional commitment). To address
+ this research gap, the current study integrates the Uses and Gratifications theory and the
+ Stimulus-Organism-Response theory to provide a theoretical background for the impacts of
+ gratification on consumers’ emotional states and continuance use intention. The study has proposed
+ a theoretical model that was tested on data collected from 252 Sina Weibo users in China. The results
+ revealed that social gratification is the most important factor influencing users’ satisfaction and
+ emotional commitment. In addition, we report the roles that user satisfaction and emotional state
+ provide in predicting users’ continuance intention. The theoretical and practical implications of the
+ proposed theory are also discussed.
+
+ Keywords: Weibo; continuance intention; uses and gratification theory; satisfaction; S-O-R theory;
+ social networking sites; emotional commitment
+
+
+
+
+1. Introduction
+     The fast development of the Internet and information science (IS) has paved the way for the
+development and growth of social media, including social networking sites (SNSs) and blogs. Since
+the launch in 1997 of the first online social network site, called First Degree, we have witnessed
+an ever-increasing growth of these social media [1]. SNSs refer to online information services that
+allow people to create a profile and to be connected with other users of the same system [1]. Users
+of SNSs can share texts, audio, videos, and images with other members of the platform. SNSs, also
+known as virtual communities, are online platforms where a group of people sharing the same interest
+come together and generate content without space or time constraints [2]. Therefore, SNSs redefine
+connection among individuals and provide a way in which such individuals can express themselves,
+share information, and socialize with others. Individual users as well as organizations and companies
+gain several benefits from the virtual communities on SNSs. For example, firms can better monitor
+customers and offer better customer service [3,4]. Consequently, the key role that social media plays in
+business sustainability can no longer be denied [5]. Further understanding of social media continuance
+use intention, therefore, can promote businesses sustainability. The market for SNSs is dynamic and
+fast-growing, and many SNSs offer similar services.
+     To deal with the competition, SNSs developers and managers need to update their knowledge
+on how to retain users [6]. Gaining user adoption and usage is an important step in achieving social
+
+
+Sustainability 2018, 10, 3162; doi:10.3390/su10093162                    www.mdpi.com/journal/sustainability
+Sustainability 2018, 10, 3162                                                                       2 of 20
+
+
+
+media success. However, retaining users for an extended period is yet another vital aspect that
+developers and managers should embrace [7]. Virtual community sustainability depends on users’
+continuance intention [2]. Therefore, it is reasonable to further our investigation into factors that
+predict individual users’ continuance intention. Previous researchers have applied different theories,
+such as self-determination theory, the uses and gratifications (U&G) theory [8,9], the expectation
+confirmation theory [7], the IS success model [10], and the social identity theory [11,12] to investigate
+users’ adoption and usage behavior. These studies focus on the technology-related aspect of the
+consumer experience. Such a focus has limited the spectrum of the findings [13,14]. Recently, many
+researchers have applied the U&G theory to investigate individual users’ continued usage of social
+media, and have reported the significant impact of gratifications on users’ adoption and continuance
+usage intention [2,6,15]. However, they have insufficiently considered the impact of these gratifications
+on the emotional state of individual users. Furthermore, these studies focus on the technological aspect
+of the consumption experience, thus limiting the scope of their findings [13,14]. In the context of SNSs,
+the decision to continue using a specific social media platform depends not only on the functional
+or utilitarian value of the platform to the user but also on the emotional attachment developed by
+users. These dependencies are crucial determinants for continuance intention and the sustainability of
+the platform.
+     Investigation of the following questions is important to further understand how users’ emotional
+state, such as satisfaction and pleasure or emotional commitment, forms user continuance use intention:
+(1) what is the impact of gratifications on a user’s emotional state (user satisfaction and user emotional
+commitment)?; and (2) how does this emotional state affect continuance use intention? To address
+these questions, this research integrates U&G theory and stimulus-organism-response (S-O-R) theory
+to provide a theoretical background for the impacts of gratification on users’ emotional states and
+continuance use intention. Three major categories of gratifications were identified: hedonic gratification
+(entertainment value); social gratification (social value and social participation); and utilitarian
+gratification (information consumption, utilitarian value, and content participation). We considered
+these gratifications as stimuli, users’ emotional state as the organism, and continuance intention as the
+response according to the S-O-R theory. Then, we investigated the influence of these stimuli on the
+organism and on how the organism impacts users’ response. Survey data collected from 252 Weibo
+users (a social networking site based in China) were used to empirically test the proposed model.
+     Our study provides empirical evidence for how different gratifications affect users’ emotional
+state in the context of online SNSs. Moreover, an investigation into the impact of users’ emotional
+state (satisfaction and emotional commitment) on continuance intention will help us gain a deeper
+understanding of its key role in the formation of users’ continuance use behavior. Finally, the current
+study makes a practical contribution to IS (information systems) literature and provides researchers
+and practitioners with important insights and understanding on SNSs use.
+     The next section of this paper reviews S-O-R theory and the uses and gratifications theory. The
+proposed research model, hypotheses, and methodologies are presented in the third section. Then,
+we present our results, and finally the paper is concluded with discussions on the findings and their
+theoretical and practical implications.
+
+2. Theoretical Background
+
+2.1. Uses and Gratifications Theory
+     U&G theory was first developed in the mass communications research field, where it has been
+widely used [6]. The theory posits that there exist social and psychological motives driving individual
+use of a particular type of media, and aims to identify them [16] with a focus on why individuals
+choose one type of media over the alternatives to gratify their needs [17]. According to the U&G theory,
+individuals are not passive users of media; rather, they are active in interpreting and integrating them
+into their own lives [6]. That is, they choose a type of media based on their goals driven by their
+Sustainability 2018, 10, 3162                                                                           3 of 20
+
+
+
+needs and motivations as individuals [18,19]. Need refers to something vital or desirable that a person
+lacks at a given time. In other words, a need is an essential element and signals the beginning of the
+process of generating consumer behavior [20]. The U&G theory suggests that the motivation to fulfill
+unsatisfied needs is a key element in the use of a particular type of media. Therefore, motivations are
+“reasons that influence people to act in a certain way in view to fulfill a need or desire” [21]. These
+motivations and needs determine people’s choices of media, and are determined in the light of their
+evaluation of media based on the gratifications they offer. The individual motivation for media use
+also suggests an expectation of a gratification outcome. There are gratifications sought by media users
+that refer to the gains users expect from social media use, whereas the gratifications obtained are
+the actual benefits users acquired from media use [22]. The U&G theory emphasizes the motives of
+the social media user and his/her self-perceived needs. Different people can use the same media
+for different goals. Therefore, different users’ needs can be gratified differently by the same media
+content [23]. Users’ needs can affect their ideas on what they expect from a social media platform and
+which media meet their needs. That is, users have a clear idea of their motives and the gratifications
+expected from using a certain media. The U&G theory has heuristic value today because it provides
+social media scholars with a perspective through which a number of ideas about media adoption
+and use consumption, and even impact, can be viewed [24]. In the literature, the U&G theory has
+been widely employed by researchers in the field of traditional media, including cell phones [16],
+newspaper [25], instant messaging [26], Internet [27], and e-mail [28].
+      Recently, a growing number of IS researchers have applied the U&G theory to investigate
+individual user behavior in the context of social media, such as Facebook [29], Twitter [30],
+microblogging [31], and online SNSs [6,32,33]. Different gratifications were found by prior studies:
+hedonic gratification (fun, fantasy, and escapism) [34,35], utilitarian gratification (utility) [34,36], social
+gratification (social presence and social enjoyment) [36], and content gratification (information sharing,
+self-documentation, and self-expression) [6,37]. In summary, researchers have applied the U&G theory
+in different contexts to investigate how individuals use media.
+
+2.2. Stimulus-Organism-Response (S-O-R) Theory
+     The S-O-R theory, introduced by Woodworth [38], posits that individual organic experiences (O)
+mediate the relation between the Stimulus (S) and the individual response (R). In other words, the
+environmental stimuli (S) lead to an individual internal organism (O) that results in his/her behavioral
+response [39]. In the S-O-R framework, the stimulus is assumed to have an influence on an individual’s
+emotional state. This internal processing involves the cognitive and affective reactions of an individual,
+such as feelings toward stimuli [40]. The response represents the individual’s behavioral outcome,
+which can be manifested in different forms, non-visible (conscious or unconscious) or detectable
+(internal or external) [40]. The S-O-R model has been applied in multiple fields, and notable examples
+include marketing [41], website design [42], retailing [43,44], and information systems [45,46] to explore
+the effect of diverse stimuli on various individuals’ behavioral responses. Recently, researchers have
+applied the S-O-R theory to explore user loyalty to social network sites from a relational perspective [46].
+In summary, the S-O-R theory has been applied to identify individual behavioral outcomes in different
+contexts, and the theory is suitable to explore individual user behavior in the context of SNSs.
+
+2.3. U&G Theory and S-O-R Theory
+     The U&G theory posits that user behavior is influenced by different types of gratifications. This
+theory is useful to understand the use of media by individuals. It is also suitable to study motives
+for use in the context of SNSs [47]. The S-O-R theory also seeks to explain user behavior, but posits
+that there is a mediation element between what stimulates the user (stimulus) to choose a certain
+product or service and behavioral outcome (response). This mediation factor is referred to as the
+organism in the S-O-R theory. As mentioned earlier, recent studies have applied the U&G theory
+to investigate the effect of different gratifications on the use of different media. However, in the
+Sustainability 2018, 10, 3162                                                                            4 of 20
+
+
+Sustainability 2018, 10, x FOR PEER REVIEW                                                              4 of 20
+formation of user behavior response (adoption or user continuance intention), there are some elements
+relateda to
+using       emotion
+         certain     that or
+                 product  cannot  be ignored.
+                             a service           For instance,
+                                        [46,48]. Prior           a satisfied
+                                                        studies that         user will have
+                                                                      have insufficiently   a strong the
+                                                                                          employed    desire
+                                                                                                          U&Gto
+continue
+theory     using a certain
+         considered        product
+                     the effect  of or  a service
+                                     these         [46,48]. Prior
+                                            gratifications   on thestudies
+                                                                      user that have insufficiently
+                                                                            emotion,                employed
+                                                                                      such as satisfaction   or
+the U&G    theory considered  the effect of these  gratifications on  the user emotion, such
+emotional commitment. To address this gap, this study integrated U&G and S-O-R theories to   as satisfaction or
+emotional   commitment.    To address  this gap,  this study  integrated
+provide a theoretical background for exploring such an influence.         U&G   and S-O-R  theories to provide
+a theoretical background for exploring such an influence.
+3. Research Model and Hypotheses
+3. Research Model and Hypotheses
+3.1. Research Model
+3.1. Research Model
+      According to U&G theory, several gratifications determine users’ choices of media. These
+      According to U&G theory, several gratifications determine users’ choices of media. These
+gratifications are also predictors of users’ continuance intention according to U&G theory scholars.
+gratifications are also predictors of users’ continuance intention according to U&G theory scholars.
+Prior U&G theory scholars have shown that if social media can meet users’ needs through several
+Prior U&G theory scholars have shown that if social media can meet users’ needs through several
+gratifications, this can result in users’ adoption and continuance intention. However, with the
+gratifications, this can result in users’ adoption and continuance intention. However, with the
+presence of social media in our daily lives, it is becoming important to determine the impact of these
+presence of social media in our daily lives, it is becoming important to determine the impact of
+gratifications on users’ emotional state. In the context of SNSs, users’ continuance intention depends
+these gratifications on users’ emotional state. In the context of SNSs, users’ continuance intention
+not only on the technological aspect of SNSs but also on users’ attachment to the virtual community.
+depends not only on the technological aspect of SNSs but also on users’ attachment to the virtual
+Therefore, users’ emotional state plays a key role for sustainable use. To carry out our investigation,
+community. Therefore, users’ emotional state plays a key role for sustainable use. To carry out our
+this study integrates U&G theory with S-O-R theory to establish a theoretical model (Figure 1). We
+investigation, this study integrates U&G theory with S-O-R theory to establish a theoretical model
+have identified different gratifications as stimuli according to the S-O-R theory, and have investigated
+(Figure 1). We have identified different gratifications as stimuli according to the S-O-R theory, and have
+their effects on user satisfaction and emotional commitment, referred to as the organism. Then, the
+investigated their effects on user satisfaction and emotional commitment, referred to as the organism.
+effect of these organisms on user continuance intention, considered as response in the S-O-R theory,
+Then, the effect of these organisms      user continuance intention, considered as response in the S-O-R
+was investigated. So, this study differs from previous studies that only investigated the direct effects
+theory, was investigated. So, this study differs from previous studies that only investigated the direct
+of different gratifications on users’ behavior.
+effects of different gratifications on users’ behavior.
+
+
+
+
+                                        Figure 1.
+                                        Figure    Proposed research
+                                               1. Proposed research model.
+                                                                    model.
+
+
+3.2. Hypotheses
+
+3.2.1. Entertainment Value
+     Entertainment value reflects the values received from multiple senses, such as fantasy and
+emotive aspects. Apart from having utilitarian and social value to the user, SNSs can also have an
+entertainment value [49]. Users often use social media to reduce stress [50]. Thus, they choose a social
+Sustainability 2018, 10, 3162                                                                                 5 of 20
+
+
+
+3.2. Hypotheses
+
+3.2.1. Entertainment Value
+     Entertainment value reflects the values received from multiple senses, such as fantasy and emotive
+aspects. Apart from having utilitarian and social value to the user, SNSs can also have an entertainment
+value [49]. Users often use social media to reduce stress [50]. Thus, they choose a social media platform
+with high hedonic value [23,51–53]. Users will be attracted by a platform that provides some fun.
+Through the entertainment function of the SNS, the user’s emotions can be stimulated, resulting in
+pleasure or satisfaction. Moreover, users can join or log on to the SNS for its entertainment value [54].
+We include entertainment value in hedonic gratification because it reflects the idea of distracting
+oneself from daily tasks. Therefore, it is reasonable to hypothesize the following:
+H1. Entertainment value positively affects the satisfaction a user gets from using the social network.
+
+3.2.2. Social Value
+      Humans are in search of social relationships [41]. Online SNSs aim to be platforms that allow users
+to socialize with other members of a community. U&G scholars have shown that social interaction
+motivations, for example social relationship improvement, are key factors for social media users in
+choosing a particular type of social media. People use social media to connect with other people [55]
+so, if the SNS fails to have such value to users, it might negatively affect a user’s satisfaction [55,56].
+People with social integrative needs are motivated to use SNS, and they expect to gratify their needs
+for socializing with others. That is, a user may join a SNS because it provides an avenue to keep in
+touch with peers [54,57]. In addition, SNS can also serve as a “channel to initiate a conversation” [56]
+or to maintain a relationship. In this regard, users seek functional benefits to gratify their need
+for socializing [58]. These social gratifications that a user gains in SNS can stimulate him/her and
+affect his/her emotional state, such as pleasure and/or satisfaction. Therefore, we hypothesized
+the following:
+H2a. Social value positively affects the satisfaction a user gets from using the social network.
+
+3.2.3. Social Participation
+      Participation occurs when people get new friends or find old ones and exchange ideas with
+them [59]. If a SNS can successfully provide them with a platform that can allow them to carry out
+such activities, this can positively affect users’ emotions. Previous studies that have applied U&G
+theory have shown that satisfying the need for socializing is a fundamental element driving social
+media usage [56]. With the integration of social media in our daily lives, it is becoming increasingly
+difficult to dissociate our emotions from these media [1]. Finding an old friend that he/she has not
+seen for a long time, for example, can make the user happy or pleased. In this study, we argue that
+users’ participation in a virtual community is connected to their emotions. For example, when people
+have virtual friends they are attached to, the SNS becomes a bridge between them. Such a situation
+can make users emotionally committed to SNSs as a way to maintain a relationship. Consequently,
+users perceive a SNS as part of their lives and become attached to it. Based on these arguments, we
+hypothesized the following:
+H2b. Social participation positively influences the satisfaction a user gets from using the social network.
+H2c. Social participation positively influences users’ emotional commitment.
+
+3.2.4. Information Consumption
+     Information plays a crucial role in human life. For this reason, information consumption behavior
+has always been part of our daily lives. Our lives are influenced by information all the time. That
+is, our daily decisions are based on information we gather from different information sources [60].
+Sustainability 2018, 10, 3162                                                                            6 of 20
+
+
+
+Information consumption refers to reading content posted by other SNS users to satisfy information
+needs. Most social media offer this possibility to their users. U&G theory scholars have demonstrated
+that information needs gratifications are key determinants of a continuance intention [61]. Building
+on prior findings, we argue in this study that reading through other users’ posts can also affect a
+user’s emotional state. This can result in pleasure or emotional commitment. For example, if a user
+can gratify his/her need for information, this can result in a feeling of satisfaction, and repeating the
+action can lead to emotional commitment or can create an affective attachment to the SNS. Thus, we
+hypothesized the following:
+H3a. Information consumption positively influences the satisfaction a user gets from using the social network.
+H3b. Information consumption positively influences user emotional commitment.
+
+3.2.5. Utilitarian Value
+     The utilitarian and functional aspects of the consumption experience have been the focus
+of marketing research for decades. This is indicated as task-related and rational [62]. One of
+the reasons that an individual chooses a particular SNS is the desire to gratify his/her cognitive
+needs [52,56]. Perceived usefulness and performance improvement are key motivations for using a
+certain technology [53,63,64]. The U&G theory assumes the same and posits that users tend to choose
+a particular SNS to address their cognitive needs [65]. In order to achieve their goals, customers are
+more concerned with consumption in an efficient and timely manner [66]. In online shopping studies,
+aesthetic stimuli from the web are considered as inducing online shoppers’ cognitive, affective, and
+conative outcomes such as satisfaction, pleasure, or revisit intention [67]. We have identified utilitarian
+values in this research as utilitarian gratification, which indicates the extent to which people believe
+that a SNS can be useful for specific purposes, for example commutation. If a SNS can successfully
+meet these needs it will positively influence users’ pleasure and satisfaction [46]. We, therefore,
+hypothesized that
+H3c. Utilitarian value positively affects the satisfaction a user gets from using the social network.
+
+3.2.6. Content Participation
+      Content participation occurs when a user comments, reposts, or uses other users’ posts to create
+new content [59]. One of the reasons people consume social media is to gratify their cognitive needs
+(e.g., finding relevant content and commenting or reposting) [52]. Some users log onto SNSs in order
+to get content from other users or share their ideas. Content participation is often referred to as
+User-Generated Content (UGC). Most studies of users’ activities in online SNS in relation to UGC
+emphasized user communication behavior based on a duality: consumption (lurking and reading)
+and posting. Content participation is a key reason for social media use. SNS platforms allow users
+to express themselves, and influence how others perceive them. With the integration of social media
+in our daily lives, it is obvious that content participation is a key determinant of users’ satisfaction.
+A SNS platform that provides users with the possibility to fully express themselves can earn users’
+satisfaction and, even more, a sense of belonging that will lead to emotional commitment. In this
+study, we choose content participation because it is the essence of social media [56]. We, therefore,
+hypothesized the following:
+H3d. Content participation positively influences the satisfaction a user gets from using the social network.
+H3e. Content participation positively influences users’ emotional commitment.
+
+3.2.7. Satisfaction and Continuance Intention
+     The decision to retain or abandon a given service or product is the result of the satisfaction or
+dissatisfaction of the customer [68]. It is also noted that satisfied consumers have a higher tendency to
+purchase the same product or service and even resist offers from competitors [48]. Such consumers
+Sustainability 2018, 10, 3162                                                                      7 of 20
+
+
+
+also generate positive word of mouth. A high level of satisfaction, maintained consistently over a long
+period, leads to a prolonged relationship with the customer [46]. Several studies in E-Service found
+that customer satisfaction significantly and positively affects customer loyalty [46,48]. In addition,
+such satisfaction can create in customers an emotional commitment to the SNS. Therefore, we expect
+the following:
+H4. User satisfaction will positively affect a user’s emotional commitment.
+H5. User satisfaction will positively affect his/her continuance intention.
+
+3.2.8. Emotional Commitment and Continuance Intention
+     Emotional commitment can be referred to as an emotional attachment, a sense of identifying
+oneself or being involved in a group [69]. In an organization, emotional commitment is a critical
+predictor of continuance membership [69,70]. It also determines consumers’ loyalty to a brand [71]
+and consumers’ retention [72]. Scholars demonstrated that emotional commitment exists among the
+members of a virtual community [73,74]. Previous research on participation in virtual communities [75,76]
+has shown that emotional commitment is an important determinant of user behavior in virtual
+communities. A user with an emotional commitment to a virtual community will consider himself a
+stakeholder of the values and goals of the community [77,78]. Members of a virtual community can
+be developed because of the social relationship and interactions among them [74,79]. In the specific
+context of SNSs, users’ emotional commitment is important for forming continuance intention because
+a user with a strong emotional commitment is likely to stick to the virtual community. Hence, we
+hypothesized the following:
+H6. A user’s emotional commitment positively affects his/her continuance intention for using the online
+social network.
+
+4. Research Methodology
+
+4.1. Sample and Data Collection
+     In order to test the model and the hypothesized relationships, we conducted an online survey
+for Weibo users. We adopted the survey method because the factors investigated in this study are
+related to the respondents’ perceptions and psychology that can only be measured by self-report
+(entertainment value, social value, social participation, information consumption, utilitarian value,
+content participation, satisfaction, and emotional commitment). We also measured users’ continuance
+intention in the survey. The respondents were university students in China. The survey link was
+sent to a class WeChat social networking group. Students were asked to click on the survey link to
+be redirected to the survey website. We coupled the survey with a response-driven approach. Each
+respondent was asked to fill out the survey form online and invite other potential respondents they
+know to complete the survey. As a network, invitees were also asked to send the survey to their
+contacts. To increase the response rate, weekly reminder messages were sent to the respondents that
+did not participate in the survey. We selected students as potential participants in our survey because
+students are more exposed to Internet technologies and can, therefore, be regarded as the first users of
+online social networks. In addition, previous studies have suggested that students are representative
+of the normal population of Internet users [47,80,81]. Thus, they were suitable subjects for the current
+study. Two hundred and fifty-five responses were collected. After eliminating three unengaged cases,
+we obtained 252 valid responses. No reward was offered to students who participated in the survey.
+The descriptive statistics of the respondents are shown in Table 1.
+Sustainability 2018, 10, 3162                                                                       8 of 20
+
+
+
+                                Table 1. Demographic characteristics of respondents (n = 252).
+
+                           Demographic Characteristics          Frequency        Percentage
+                                         Gender
+                                         Female                    164             65.10%
+                                          Male                      88             34.90%
+                                          Age
+                                        Under 20                    15              6.00%
+                                        20 to 25                   175             69.40%
+                                        26 to 30                    37             14.70%
+                                        31 to 35                    12              4.80%
+                                        36 to 40                     6              2.40%
+                                        Over 40                      7              2.80%
+                                   Internet experience
+                                    Less than 1 year                2               0.80%
+                                      1 to 5 years                 45              17.90%
+                                      6 to 10 years                137             54.40%
+                                     11 to 15 years                46              18.30%
+                                     Over 15 years                  22              8.70%
+                                 Weibo usage experience
+                                    Less than 1 year               48              19.00%
+                                      1 to 2 years                 50              19.80%
+                                     Over 2 years                  154             61.10%
+
+
+4.2. Measurement Development
+      All the constructs in the study were measured using multiple scales. The items were adapted
+from previous studies with wording modification where necessary to tailor the scales to the current
+study context and avoid response bias.
+      The items were measured using the seven-point Likert scale, ranging from strongly disagree to
+strongly agree. The survey was first developed in English and translated to Chinese by academic
+Chinese native speakers. The translation was then sent to three lecturers (PhD) in management sciences
+for corrections. Next, the questions were sent to a group of 10 students to get their comprehension of
+the items. Based on their feedback, we further improved the survey to eliminate ambiguity or poorly
+worded items. After this step, we ran a pilot test with data collected from 30 students. The feedback
+we received from the pilot test allowed us to amend some items. The final items, along with their
+corresponding constructs and original sources, used in the survey are described in Appendix A.
+
+5. Data Analysis and Results
+      The empirical data in this research were analyzed using structural modeling equations
+(SEM) [82,83] supported by AMOS 23 (analysis of moment structures) software under the maximum
+likelihood estimator. The analysis proceeded in two stages. First, we estimated the measurement
+model, and second, we ran the structural model to confirm or disprove the hypotheses.
+
+5.1. Measurement Model
+     To validate our measurement model, we assessed the overall model fit, the construct’s reliability,
+and its validity. The overall model fit was assessed using the following fit indices: chi-square (X2 ),
+degree of freedom (df), normed-fit index (NFI), normed chi-square to degree-of-freedom (CMIN/DF),
+adjusted goodness-of-fit index (AGFI), goodness-of-fit index (GFI) [84], comparative fit index (CFI) [85],
+root mean squared residual (RMR), and root mean square error of approximation (RMSEA) [86]. Our
+choice of these statistics fit index is based on the study by Hair et al. that recommends the use of
+different class fit indices. The mentioned fit indices provide information on how well the data fit our
+Sustainability 2018, 10, 3162                                                                           9 of 20
+
+
+
+model [87]. Table 2 presents the cut-off criteria applied to evaluate the goodness of fit with respect to
+our observed data. As presented in the table, for our data, the measurement model showed a good fit.
+We then assessed the reliability and validity of the constructs to test the proposed hypotheses.
+
+                             Table 2. Fit indices for model measurement and structural model.
+
+                    Fit Index          Threshold         Structural Model     Measurement Model
+                        X2                    -                 7.06                   571.02
+                      df                      -                 4.00                   228.0
+                   CMIN/DF                  ≤3.0                1.77                    1.90
+                      GFI                   ≥0.90               0.99                    0.86
+                     AGFI                   ≥0.80               0.93                    0.81
+                     NFI                    ≥0.90               0.99                    0.92
+                      CFI                   ≥0.90               0.99                    0.96
+                     RMR                    ≤0.05               0.02                    0.09
+                    RMSEA                   ≤0.08               0.05                    0.06
+
+
+5.1.1. Construct Reliability
+     Reliability is the consistency of measurement. That is, the ability of an instrument to give stable
+and consistent results. The purpose of a reliability test is to confirm that the instrument really measures
+what it is supposed to measure consistently. On the other hand, validity deals with the design and
+methods of a study. It refers to the ability of an instrument to accurately measure a phenomenon.
+In the current study, we employed some commonly used indicators to assess the validity and reliability
+of our instrument: composite reliability (CR), discriminant validity, and convergent validity. Average
+variance extracted can be used to assessed convergence validity (AVE), while discriminant validity is
+                                                                     √
+determined through the maximum shared variance (MSV) and AVE. In addition, we examined item
+standard factor loadings and their corresponding reliabilities. Item reliability is the square root of the
+factor loading, and gives information about the amount of variance in an item due to the underlying
+construct instead to error.
+     As Table 3 depicts, for our model measurement, items factor loadings were above the recommended
+cut-off value of 0.7, the item reliabilities were far above the recommended value of 0.5, and all
+constructs’ composite reliability (Table 4) exceeded the recommended cut-off value of 0.7 [88,89]
+(Table 5). Thus, we conclude that the constructs were reliable.
+
+                         Table 3. Standardized factor loadings and individual item reliabilities.
+
+                                Item                Factor Loading (>0.70)   Item Reliability (>0.50)
+                         Utilitarian value
+                                UV1                          0.81                      0.65
+                                UV2                          0.86                      0.73
+                                UV3                          0.77                      0.60
+                             Social value
+                                 SV1                         0.86                      0.74
+                                 SV2                         0.89                      0.80
+                                 SV3                         0.89                      0.80
+                       Entertainment value
+                               EV1                           0.75                      0.56
+                               EV2                           0.84                      0.71
+                               EV3                           0.92                      0.86
+                    Information consumption
+                         INFO CONS 1                         0.86                      0.74
+                         INFO CONS 2                         0.91                      0.83
+                         INFO CONS 3                         0.91                      0.83
+Sustainability 2018, 10, 3162                                                                                     10 of 20
+
+
+
+                                                            Table 3. Cont.
+
+                                Item                  Factor Loading (>0.70)           Item Reliability (>0.50)
+                        Social participation
+                                SP1                              0.79                            0.62
+                                SP2                              0.96                            0.92
+                                SP3                              0.94                            0.88
+                       Content participation
+                               CP1                               0.84                            0.71
+                               CP2                               0.88                            0.77
+                               CP3                               0.85                            0.72
+                         User satisfaction
+                              PLS1                               0.97                            0.94
+                              PLS2                               0.98                            0.96
+                              PLS3                               0.94                            0.88
+                      Emotional commitment
+                           COMMIT1                               0.85                            0.72
+                           COMMIT2                               0.98                            0.96
+                           COMMIT3                               0.91                            0.83
+                      Continuance intention
+                          CONT INT1                              0.87                            0.76
+                          CONT INT2                              0.89                            0.79
+                          CONT INT3                              0.84                            0.71
+
+
+                                       Table 4. Reliability and validity of constructs.
+
+                                                                                                        √
+                            Latent Constructs                   CR           MSV         AVE                AVE
+                             Utilitarian Value                 0.85           0.49       0.66           0.81
+                               Social value                    0.91           0.49       0.77           0.88
+                           Entertainment value                 0.88           0.60       0.70           0.84
+                        Information consumption                0.92           0.60       0.80           0.89
+                           Social participation                0.92           0.61       0.80           0.90
+                          Content participation                0.89           0.52       0.74           0.86
+                             User satisfaction                 0.97           0.66       0.93           0.96
+                         Emotional commitment                  0.94           0.73       0.84           0.91
+                          Continuance intention                0.90           0.73       0.76           0.87
+
+
+                         Table 5. Threshold values of reliability and validity of constructs [90].
+
+                    Reliability        Convergent Validity                      Discriminant Validity
+                     CR > 0.70                 AVE > 0.50               √            MSV < AVE
+                                                                            AVE > Inter-construct correlations
+
+
+5.1.2. Construct Validity
+     After confirming the construct reliability, we tested convergent and discriminant validities.
+As Table 5 shows, all constructs’ AVE values were above the threshold value of 0.5, thus confirming
+convergent validity. The square root of the AVE for each construct was higher than the inter-construct
+correlation (Table 6). In addition, all constructs’ MSV values were less than their corresponding
+AVE values (Table 4). Based on these findings, we concluded that the latent constructs in our study
+demonstrate discriminant validity [90,91].
+Sustainability 2018, 10, 3162                                                                                         11 of 20
+
+
+
+                            Table 6. Square root of AVE and correlation between constructs.
+
+                                               (1)    (2)    (3)    (4)       (5)    (6)    (7)       (8)     (9)
+                     Utilitarian Value        0.81
+                   Entertainment Value        0.50    0.84
+                Information Consumption       0.51    0.77   0.89
+                       Social Value           0.70    0.58   0.56   0.88
+                  Continuance intention       0.58    0.74    0.7   0.60     0.87
+                    Social Participation      0.64    0.51   0.54   0.67     0.75    0.90
+                  Content Participation       0.63    0.56   0.46   0.70     0.62    0.72   0.86
+                     User satisfaction        0.57    0.71   0.72   0.64     0.80    0.72   0.60     0.96
+                 Emotional commitment         0.62    0.66   0.62   0.67     0.85    0.78   0.66     0.81    0.91
+      Note: Bold values in diagonal are the square root of the Average Variance Extracted (AVE) of each construct.
+      Off-diagonal correlation coefficients between constructs.
+
+
+5.2. Structural Model Analysis
+      In the previous section, we reported the fitness values for the measurement model. The model
+was found to achieve the recommended validity and reliability characteristics. Next, after testing
+the measurement model, we derived a structural model to test our hypotheses and the proposed
+model (Figure 1). We first assessed if the structural model presents a good model fit. Running the
+designed model in AMOS 23, we obtained the following values of the fit indices: Chi2 = 7.06, Df = 4,
+CMID/DF = 1.77, GFI = 0.994, AGFI = 0.929, NFI = 0.996, CFI = 0.998, RMR = 0.02, RMSEA = 0.05.
+These values fall within the acceptable ranges (Table 2), hence giving evidence of a good model fit.
+This observation allowed us to proceed to the next step. From Figure 2, we observe that statistical
+outcomes accounted for 68%, 71% and 67% of the variance in user satisfaction, emotional commitment,
+and continuance intention—an indication of the good exploratory power of the model.
+      Table 7 presents the coefficient of the conceptualized paths and their related p-values. The results
+show that user satisfaction is influenced by entertainment value, information consumption, and social
+participation, implying that H1, H3a, and H2b are supported. Furthermore, the table suggests that
+social participation and content participation can significantly predict emotional commitment, and
+that user satisfaction and emotional commitment are significant predictors of continuance intention,
+supporting H2c, H3e, H5, and H6, respectively. In addition, a significant relationship in user
+satisfaction/trust was observed, hence supporting H4.
+
+                                            Table 7. Standardized estimates.
+
+                                                                          Standardized
+     H#                         Conceptualized Path                                         p-Value           Remarks
+                                                                            Estimate
+    H1                Entertainment value → User satisfaction                0.26           <0.001           Supported
+    H2a                    Social value → User satisfaction                  0.10            0.074          Not supported
+    H2b               Social participation → User satisfaction               0.40           <0.001           Supported
+    H2c           Social participation → Emotional commitment                0.24           <0.001           Supported
+    H3a            Information consumption → User satisfaction               0.23           <0.001           Supported
+    H3b        Information consumption → Emotional commitment                0.09            0.042          Not supported
+    H3c                 Utilitarian value → User satisfaction                0.02            0.632          Not supported
+    H3d              Content participation → User satisfaction               −0.01           0.846          Not supported
+    H3e          Content participation → Emotional commitment                0.14           <0.002           Supported
+    H4                 Satisfaction → Emotional commitment                   0.48           <0.001           Supported
+    H5                  Satisfaction → Continuance intention                 0.56           <0.001           Supported
+    H6           Emotional commitment → Continuance intention                0.43           <0.001           Supported
+
+
+      However, insignificant relationships were found in the social value/user satisfaction,
+utilitarian value/user satisfaction, content participation/user satisfaction, and information
+consumption/emotional commitment pairs, meaning that H2a, H3c, H3d and H3b, respectively,
+were not supported.
+Sustainability 2018, 10, 3162                                                                        12 of 20
+
+
+
+5.3. Common Method Bias (CMB)
+     CMB is a threat to the validity of research findings when all the research data are collected from a
+single survey. It often occurs when the researcher has applied a multi-scale approach as in the case
+of our research. To avoid CMB threats in this research, we used some approaches proposed in [92].
+For example, we carefully designed the questions to ensure that they were simple and accurate and
+contained no “yes/no” answers. In addition to these procedural attempts, we applied a statistical
+approach proposed by Podsakoff [92], which is the most common approach used by researchers to
+avoid CMB problems [84]. According to the researcher, if a single factor can explain more than 50% of
+the variance in the confirmatory factor analysis, there are CMB concerns. For the current research, we
+obtained 42.5%. This result indicates a possible lack of CMB.
+
+6. Discussion
+     This study investigates the effect of different gratifications on users’ satisfaction and emotional
+commitment and how these two factors affect users’ continuance intention to use Weibo in China. The
+results show that most of our hypotheses in the proposed theoretical model were supported (Table 7).
+Also, the R-squared (R2 ) values indicate that user satisfaction, emotional commitment, and continuance
+intention can be explained through satisfactory levels of variance, thus confirming the relevance and
+significance of our research model (Figure 2). Gratifications explained 68% and 71% of the variance
+in users’ satisfaction and emotional commitment, respectively. A prior study investigated the effect
+of gratifications on continuance intention to use WeChat in China [6] and could explain 58% of the
+variance in continuance intention. In the current study, users’ satisfaction and emotional commitment
+explained 67% of the variance in continuance intention. Our study’s R2 metric allows us to suggest
+a further investigation of these two factors and, more importantly, to explore the influence of other
+factors such as gender, age, or culture [93].
+     An observation of the paths’ coefficients (Table 7) shows that three types of gratifications have a
+significant impact on user satisfaction: hedonic gratification (entertainment value), social gratification
+(social participation), and utilitarian gratification (content participation). Social gratification (content
+participation) was found to be the most important factor influencing Weibo users’ satisfaction, followed
+by hedonic gratification (entertainment value) and utilitarian gratification (information consumption)
+(Figure 2). These findings are not surprising because the primary purpose of SNS is social interaction [1].
+People use SNS to satisfy several social needs, and if a SNS can help them fulfill their needs for
+socializing online, this can result in a feeling of satisfaction [94,95]. Also, when a SNS platform is
+entertaining, users can find pleasure logging in and spending long time on it. A user will accept and
+use a SNS if it can satisfy his/her need for information [96]. Information systems, such as SNS, are
+designed to support users’ needs. The need for information is not part of the fundamental needs of
+humans (breathing, food, water, sex, and sleep) as classified by Maslow [97]; however, when one of
+these needs cannot be satisfied right away, the need for information arises [96]. This might explain
+the influence of information consumption on user satisfaction. To our knowledge, no prior studies
+attempted to investigate the impact of gratification on SNS users’ satisfaction. Our findings, therefore,
+open the way for further investigations. In this respect, social media developers should give more
+attention to designing platforms that allow users to meet their needs for social interaction, information,
+and entertainment. Considering the Weibo application, we recommend that similar platform (Twitter
+and Instagram) developers add new features in this regard to be more competitive. Unexpectedly,
+social value, utilitarian value, and content participation were not found to have a significant effect on
+user satisfaction. The reason may be that users have alternatives for information or socializing. The
+result may also be due to other factors that were not accounted for in the current study.
+     The path coefficients in Table 7 also reveal that users’ emotional commitment is significantly
+influenced by utilitarian gratification (content participation) and social gratification (social
+participation), which appear to be the most critical factors influencing users’ emotional commitment.
+Evidently, these two gratifications are related to users’ emotions. Social media users are often
+Sustainability 2018, 10, x FOR PEER REVIEW                                                                          13 of 20
+
+
+      Furthermore, of the proposed constructs, user satisfaction and user emotional commitment were
+found to have a significant impact on users’ continuance intention to use Weibo. The significant effect
+of satisfaction on continuance intention is consistent with previous studies’ findings [2,6,46,99,100].
+Sustainability 2018, 10, 3162                                                                                        13 of 20
+Social media success depends on ongoing usage rather than initial adoption [101], and this study
+confirms that satisfaction is a key determinant of online social network continuance usage intention.
+goal-oriented.
+In this  regard, we Social   interrogative
+                         suggest             motivations are
+                                    that social media           fundamental
+                                                        developers              drivers of
+                                                                      give particular        various
+                                                                                        attention  to social  media
+                                                                                                      designing     usages,
+                                                                                                                  platforms
+such
+that gain online users’ satisfaction. Along the same line, we found a significant influencecity,
+       as improving        or  maintaining    one’s  social network    [55,56].  Sometimes,     when   a user  changes     of
+the  SNS might
+satisfaction      on be  the only
+                      users’         way to keep
+                                emotional           in touchIn
+                                             commitment.       with old   friends
+                                                                  addition,   the or get   new effect
+                                                                                   significant   ones. of
+                                                                                                        This  can make
+                                                                                                           user          the
+                                                                                                                 emotional
+user  emotionally
+commitment         alsocommitted
+                          highlights to thea particular
+                                            importanceSNS. and In   addition,
+                                                                relevance       nowadays
+                                                                             of the  currentpeople
+                                                                                               study.tend
+                                                                                                       The to  base almost
+                                                                                                             reason  people
+all their   decisions     on   information    gathered    from   social media.     The  fundamental
+continue to use a SNS is not just the technology itself but also the relationships they develop with     question  derived
+from
+otherthese      findings
+        users. In    the is     how of social
+                           context    developers   will and
+                                               media,    revamp    their for
+                                                                         platform
+                                                              specifically       SNS,tousers
+                                                                                        induce    motional
+                                                                                               are free       commitment
+                                                                                                         and can  switch to
+of
+anyusers.     Despite
+      other SNS           the cost
+                     without    relevance,
+                                       or this    question
+                                          violation of  any has    been receiving
+                                                             obligation.   Therefore, less attention to
+                                                                                        emotional         date. A plays
+                                                                                                     commitment     furthera
+investigation
+crucial   role inofthethecontext
+                            impactofofSNS. It
+                                         gratifications
+                                                reflectsonthesocial  media
+                                                               extent to      users’
+                                                                           which      emotional
+                                                                                   users          commitment
+                                                                                          feel attached           will help
+                                                                                                          and involved     in
+developers
+the  community,  in and
+                    designing      platforms
+                             this factor       for sustainable
+                                          determines              consumer
+                                                        their decision         post-consumption
+                                                                         to stay with the    platform.behavior.   Contrary
+                                                                                                        Consequently,    we
+to  our expectations,
+recommend          that SNS   information
+                                  developers consumption
+                                                and managers  was notgivefound    to significantly
+                                                                            particular   attention influence
+                                                                                                     to obtainingemotional
+                                                                                                                      users’
+commitment. The
+emotional      commitment.possible reason for this non-significant effect may be due to the specific context of
+the The
+     current     study (Weibo
+             preceding              use in give
+                            discussions    China).
+                                                 us Another     possible
+                                                     confidence to         explanation
+                                                                      integrate   U&G and regarding
+                                                                                               S-O-R the   non-significant
+                                                                                                      theories in  the SNS
+effect  of  information        consumption     may    be because    Weibo    users,  who   are  mainly
+context to explore the effect of different gratifications on a user’s emotional state. We can affirm thatChinese   [98], are
+looking
+the        for information
+     different     gratifications outside
+                                      usersthe Chinese
+                                             gain         cultureaorparticular
+                                                   from using         outside their    geographical
+                                                                                  type of              area. Weibo
+                                                                                            social media   influencediffers
+                                                                                                                       their
+from   other state.
+emotional       socialThese
+                        network     platforms
+                                 emotional      such as are
+                                             responses    Twitter  in which
+                                                              crucial          users can
+                                                                       determinants     foreasily connect
+                                                                                            continued       withormembers
+                                                                                                         usage     dropout
+from   other countries (Table 8).
+behavior.
+
+
+
+
+                                             Figure 2. The structural model.
+
+                                   Table 8. Differences between Weibo
+                                   Table                        Weibo and
+                                                                      and Twitter.
+                                                                          Twitter.
+
+                                                             Weibo                                        Twitter
+                                                      Weibo                                    Twitter
+       Year Launched                                          2009                                          2006
+            Year Launched                             2009                                      2006
+ General Language Support                             Chinese & part English                         Multiple languages
+      General Language Support                Chinese & part English                     Multiple languages
+ Post the
+   Post   Same
+        the SameContent
+                  Contentininaa Short
+    Short Period                                     Possible Possible                      Not possible Not possible
+            PeriodofofTime
+                       Time
+         Retweeting/Comments              Can add personal comments           Can’t add comments when Can’tretweeting
+                                                                                                            add comments
+    Retweeting/Comments                           Can add personal comments
+                                        Are displayed as tweets and can                                when   retweeting
+                  Polls                                                                     Not available
+            Polls                          engage as
+                                    Are displayed directly
+                                                     tweetsbyand
+                                                              clicking
+                                                                  can engage directly by clicking         Not available
+             Game Center                           Available                                Not available
+        Game  Center                                         Available                                    Not available
+               Groups                              Available                                Not available
+           Groups
+            Photo Albums                           Available
+                                                             Available                      Not available
+                                                                                                          Not available
+        Photo Albums                                          Available                                  Not available
+
+     Furthermore, of the proposed constructs, user satisfaction and user emotional commitment were
+found to have a significant impact on users’ continuance intention to use Weibo. The significant effect
+of satisfaction on continuance intention is consistent with previous studies’ findings [2,6,46,99,100].
+Sustainability 2018, 10, 3162                                                                          14 of 20
+
+
+
+Social media success depends on ongoing usage rather than initial adoption [101], and this study
+confirms that satisfaction is a key determinant of online social network continuance usage intention.
+In this regard, we suggest that social media developers give particular attention to designing platforms
+that gain online users’ satisfaction. Along the same line, we found a significant influence of satisfaction
+on users’ emotional commitment. In addition, the significant effect of user emotional commitment also
+highlights the importance and relevance of the current study. The reason people continue to use a SNS
+is not just the technology itself but also the relationships they develop with other users. In the context
+of social media, and specifically for SNS, users are free and can switch to any other SNS without cost
+or violation of any obligation. Therefore, emotional commitment plays a crucial role in the context
+of SNS. It reflects the extent to which users feel attached and involved in the community, and this
+factor determines their decision to stay with the platform. Consequently, we recommend that SNS
+developers and managers give particular attention to obtaining users’ emotional commitment.
+     The preceding discussions give us confidence to integrate U&G and S-O-R theories in the SNS
+context to explore the effect of different gratifications on a user’s emotional state. We can affirm that the
+different gratifications users gain from using a particular type of social media influence their emotional
+state. These emotional responses are crucial determinants for continued usage or dropout behavior.
+
+7. Implications and Limitations
+
+7.1. Implications for Theory
+      From a theoretical view point, our study’s findings contribute to the IS literature in several ways.
+Firstly, while prior studies focus largely on initial adoption and gratifications in predicting continuance
+intention, this study steps forward to investigate the impact of gratifications on users’ satisfaction as
+well as on users’ emotional commitment.
+      Second, the findings of this study extend the use of S-O-R theory and U&G theory in the IS
+literature by investigating the role of different gratifications on a user’s emotional state (user satisfaction
+and emotional commitment), and consider these gratifications as stimuli according to the S-O-R theory.
+      Third, in addition to users’ satisfaction, our findings provide evidence that emotional commitment
+is an important factor that predicts users’ continuance intention. This is due to the special context
+of SNS that incorporates both the technology itself and the relationship with the virtual community.
+In this context, users may develop a relationship with the virtual community members after the initial
+adoption. Users’ continuance intention to use a specific SNS is, therefore, influenced by both factors
+related to technology and factors related to the relationships established in the virtual community. This
+finding is particularly worth highlighting as previous studies focused mostly on gratifications.
+      Fourth, our results show that users’ satisfaction marks a good predictor of emotional commitment,
+followed by social participation and content participation. The abovementioned findings suggest that
+user satisfaction and some gratifications (social participation and content participation) can be used in
+explaining emotional commitment. Future research should pay more attention to these factors when
+studying the determinants of a sense of belonging in the context of SNS.
+      Finally, the relationship between information consumption and emotional commitment appeared
+to be non-significant. One possible explanation for this unexpected finding may be due to the particular
+characteristics of Weibo and the sample. As shown in Table 1, approximately 65% of the respondents
+were female and 69% of the respondents were aged 20 to 25. Females may be less motivated by
+information consumption or less emotionally attached to it.
+
+7.2. Implications for Practice
+    The findings of this study provide practitioners with new insights on how to create attractive
+and pleasant platforms that may lead to user retention. The findings can also help in designing
+more efficient social networks, either locally or for a specific audience. SNSs’ benefits are many,
+both for individual users and for organizations. However, if the SNS cannot retain users on their
+Sustainability 2018, 10, 3162                                                                       15 of 20
+
+
+
+platform, these benefits cannot be achieved. The current study reveals that users’ satisfaction is a good
+predictor of continuance intention. In this regard, developers and webmasters of SNSs should regularly
+evaluate users’ satisfaction. Entertainment value, social participation, and information consumption
+are found to be good predictors of user satisfaction. To increase the entertainment value, developers
+can regularly change the look of their platforms. They can also offer more convenient channels for
+information sharing, as the results reveal the significant role of information consumption in predicting
+user satisfaction.
+     Another factor that predicts users’ continuance intention is emotional commitment. Developers
+should focus on earning users’ emotional commitment because, in the context of SNSs, users’
+continuance intention depends on the technology itself and the commitment to the relationship
+developed on the platform.
+     In addition, this study reveals that social participation is the dominant factor that influences user
+satisfaction and emotional commitment. Therefore, SNS providers should improve their services by
+making platforms more interactive for users. Moreover, the results of our study may be applicable
+to other online social networking sites, such as Facebook, MySpace, Pinterest and Profit as well as to
+firms and organizations.
+
+7.3. Limitations and Future Research
+     This study has some limitations, as does any research. Firstly, the data used in this study were
+collected from China, and hence the results may be limited to this country. Future research should
+consider whether culture has any moderating effect before generalizing our results to other countries.
+For example, a study that compares the individual and collectivistic culture aspects of Weibo usage
+will help us gain more insight [102]. Secondly, the sample used in this study included young students.
+Though they are representative of social media participants, this group cannot be used to generalize
+results across all ages and genders. Future research should consider investigating age and gender as
+moderators when predicting user pleasure and emotional commitment.
+
+8. Conclusions
+     This study integrates the U&G and S-O-R theories to investigate the impact of gratifications on
+users’ satisfaction and emotional commitment. Users’ continuance intention to use SNSs was also
+empirically investigated. The findings of this research provide empirical evidence and insights relevant
+to social media literature by showing that gratifications impact users’ satisfaction and emotional
+commitment, and also reveal the crucial roles of these emotions in forming continuance intention.
+Previous research on SNS continuance intention focused on technology-related aspects, thus limiting
+our understanding of SNS continuance intention. In addition, previous studies that investigated the
+impact of gratifications on the adoption or continuance intention failed to investigate the impact of
+these gratifications on users’ satisfaction and emotional commitment. In the specific context of SNSs,
+the continuance intention depends not only on technology-related aspects but also on the emotional
+attachment to the relationship the user developed with other members of the platform. Therefore, the
+findings of the current research are important and relevant in terms of implications for research on
+social media sustainability and for practitioners.
+
+Author Contributions: Conceptualization, I.C.W.G. and Z.Z.; Methodology, I.C.W.G.; Software, I.C.W.G.;
+Validation, I.C.W.G., Z.Z. and E.D.M.; Formal Analysis, Conceptualization, I.C.W.G.; Investigation, E.D.M.;
+Resources, Z.Z.; Data Curation, E.D.M.; Writing—Original Draft Preparation, I.C.W.G.; Writing—Review &
+Editing, I.C.W.G., E.D.M.; Visualization, I.C.W.G.; Supervision, Z.Z.
+Funding: This research received no external funding.
+Conflicts of Interest: The authors declare no conflicts of interest.
+Sustainability 2018, 10, 3162                                                                                        16 of 20
+
+
+
+Appendix A
+                                              Table A1. Survey items.
+
+               Construct                                          Item                                      Source
+            Utilitarian Value     (UV1) Weibo is useful for connecting with other people.                   [103]
+                                  (UV2) Weibo is a useful service for communication.
+                                  (UV3) Using Weibo improves my efficiency in sharing information           [104]
+                                  and connecting with others.
+                                  (SV1) Interacting on Weibo helps me to gain respect from
+                                  other members.
+                                  (SV2) Interacting on Weibo improves the way I am perceived by the
+              Social value                                                                                  [105]
+                                  other members.
+                                  (SV3) Interacting on Weibo helps me in forming warm relationships
+                                  with other members.
+                                  (EV1.) Using Weibo is fun.
+         Entertainment Value      (EV2) I enjoyed being immersed in exciting new information
+                                                                                                             [53]
+                                  on Weibo.
+                                  (EV3) I enjoy using Weibo.                                                [106]
+                                  (CP1) I assist other members of Weibo with their questions.
+                                  (CP2) I take part in discussions about community issues on Weibo.
+         Content participation                                                                               [79]
+                                  (CP3) I actively participate in activities organized by the
+                                  Weibo community.
+                                  (IC1) I accumulate broad knowledge through Weibo users’
+                                  shared information.
+                                  (IC2) I acquire a variety of information from people online
+       Information consumption                                                                              [106]
+                                  using Weibo.
+                                  (IC3) I obtain lots of useful information from people online
+                                  using Weibo.
+                                  (SP1) I use Weibo to know what is happening with my friends.
+                                  (SP2) I use Weibo almost every day as a sort of calendar to stay up
+          Social Participation                                                                               [59]
+                                  to date and find out about what my friends are doing.
+                                  (SP3) Using Weibo helps me stay connected with my friends.
+                                  (Sat1) Interaction on Weibo makes me feel happy.
+            User satisfaction     (Sat 2) Interaction on Weibo makes me feel pleased.                        [99]
+                                  (Sat 3) Interaction on Weibo makes me feel contented.
+                                  (COMMIT1) I am proud to belong to this online social network.              [99]
+       Emotional Commitment       (COMMIT2) I am very committed to my relationship with Weibo.
+                                  (COMMIT3) I care about the long-term success of Weibo.
+                                  (CI1) I will recommend this online social network to my friends.
+        Continuance Intention     (CI2) My intentions are to continue using Weibo rather than
+                                                                                                            [106]
+                                  any alternative.
+                                  (CI3) When a new type of Weibo is introduced, I will definitely try it.   [107]
+
+
+References
+1.    Boyd, D.; Ellison, N. Social network sites: Definition, history, and scholarship. IEEE Eng. Manag. Rev. 2010,
+      38, 16–31. [CrossRef]
+2.    Jin, X.L.; Lee, M.K.; Cheung, C.M. Predicting continuance in online communities: Model development and
+      empirical test. Behav. Inf. Technol. 2010, 29, 383–394. [CrossRef]
+3.    Banks, D.; Daus, K. Customer. Community: Unleashing the Power of Your Customer Base; Jossey-Bass:
+      San Francisco, CA, USA, 2002.
+4.    Ashkanasy, N.M. Cultivating communities of practice: A guide to managing knowledge. Pers. Psychol. 2002,
+      55, 739.
+5.    Lipsman, A.; Mudd, G.; Rich, M.; Bruich, S. The power of “like”: How brands reach (and influence) fans
+      through social-media marketing. J. Advert. Res. 2012, 52, 40–52. [CrossRef]
+6.    Gan, C.; Li, H. Understanding the effects of gratifications on the continuance intention to use WeChat in
+      China: A perspective on uses and gratifications. Comput. Hum. Behav. 2018, 78, 306–315. [CrossRef]
+Sustainability 2018, 10, 3162                                                                                      17 of 20
+
+
+
+7.    Bhattacherjee, A. Understanding information systems continuance: An expectation-confirmation model.
+      MIS Q. 2001, 25, 351–370. [CrossRef]
+8.    Jin, C. The perspective of a revised TRAM on social capital building: The case of Facebook usage. Inf. Manag.
+      2013, 50, 162–168. [CrossRef]
+9.    Yin, G.; Cheng, X.; Zhu, L. Understanding continuance usage of social networking services: A theoretical
+      model and empirical study of the Chinese context. In Online Communities and Digital Collaborations, Proceedings
+      of the Thirty Second International Conference on Information Systems, Shanghai, China, 4–7 December 2011; ICIS:
+      Los Angeles, CA, USA, 2011.
+10.   DeLone, W.H.; McLean, E.R. Information systems success: The quest for the dependent variable. Inf. Syst. Res.
+      1992, 3, 60–95. [CrossRef]
+11.   Taifel, H. Interindividual behavior and intergroup behavior. In Differentation Between Groups: Studies in the
+      Social Psychology of Intergroup Relations; Academic Press: England, UK, 1978; pp. 27–60.
+12.   Kang, Y.S.; Hong, S.; Lee, H. Exploring continued online service usage behavior: The roles of self-image
+      congruity and regret. Comput. Hum. Behav. 2009, 25, 111–122. [CrossRef]
+13.   Benbasat, I.; Barki, H. Quo vadis TAM? J. Assoc. Inf. Syst. 2007, 8, 7. [CrossRef]
+14.   Cao, J.; Basoglu, K.; Sheng, H.; Lowry, P.B. A systematic review of social networking research in information
+      systems. CAIS 2015, 36, 727–758.
+15.   Li, Y.; Wang, X. Online social networking sites continuance intention: A model comparison approach.
+      J. Comput. Inf. Syst. 2017, 57, 160–168. [CrossRef]
+16.   Leung, L.; Wei, R. More than just talk on the move: Uses and gratifications of the cellular phone. J. Mass
+      Commun. Q. 2000, 77, 308–320. [CrossRef]
+17.   Elihu, K. Utilization of mass communication by the individual. In The Uses of Mass Communications Current
+      Perspectives on Gratifications Reseach; Sage Publications: Thousand Oaks, CA, USA, 1974; pp. 19–32.
+18.   Katz, E.; Haas, H.; Gurevitch, M. On the use of the mass media for important things. Am. Sociol. Rev. 1973,
+      38, 164–181. [CrossRef]
+19.   Rubin, A. The uses-and-gratifications perspective of media effects. In Media Effects: Advances in Theory and
+      Research; Bryant, J., Zillmann, D., Beth, M., Eds.; Lawrence Erlbaum Associates: Mahwah, NJ, USA, 2002.
+20.   Rauschnabel, P.A. Virtually enhancing the real world with holograms: An exploration of expected
+      gratifications of using augmented reality smart glasses. Psychol. Mark. 2018, 35, 557–572. [CrossRef]
+21.   Papacharissi, Z.; Rubin, A.M. Predictors of internet use. J. Broadcast. Electron. Media 2000, 44, 175–196. [CrossRef]
+22.   Palmgreen, P.; Wenner, L.A.; Rayburn, J.D. Relations between gratifications sought and obtained: A study of
+      television news. Commun. Res. 1980, 7, 161–192. [CrossRef]
+23.   Katz, E.; Blumler, J.G.; Gurevitch, M. The Uses and Gratifications Approach to Mass Communication;
+      Sage Publication: Beverly Hills, CA, USA, 1974.
+24.   Baran, S.J.; Davis, D.K. Mass Communication Theory: Foundations, Ferment, and Future; Cengage Learning:
+      Boston, MA, USA, 2011.
+25.   Elliott, W.R.; Rosenberg, W.L. The 1985 Philadelphia newspaper strike: A uses and gratifications study. J. Q.
+      1987, 64, 679–687. [CrossRef]
+26.   Lo, O.W.Y.; Leung, L. Effects of gratification-opportunities and gratifications-obtained on preferences of
+      instant messaging and e-mail among college students. Telemat. Inform. 2009, 26, 156–166. [CrossRef]
+27.   Stafford, T.F.; Stafford, M.R.; Schkade, L.L. Determining uses and gratifications for the Internet. Decis. Sci.
+      2004, 35, 259–288. [CrossRef]
+28.   Dimmick, J.; Kline, S.; Stafford, L. The gratification niches of personal e-mail and the telephone: Competition,
+      displacement, and complementarity. Commun. Res. 2000, 27, 227–248. [CrossRef]
+29.   Hsu, M.H.; Tien, S.W.; Lin, H.C.; Chang, C.M. Understanding the roles of cultural differences and
+      socio-economic status in social media continuance intention. Inf. Technol. People 2015, 28, 224–241. [CrossRef]
+30.   Coursaris, C.K.; Osh, W.V.; Sung, J.; Yun, Y. Disentangling Twitter’s adoption and use (Dis) continuance:
+      A theoretical and empirical amalgamation of uses and gratifications and diffusion of innovations. AIS Trans.
+      Hum.-Comput. Interact. 2013, 5, 57–83. [CrossRef]
+31.   Gan, C.; Wang, W. Uses and gratifications of social media: A comparison of microblog and WeChat. J. Syst.
+      Inf. Technol. 2015, 17, 351–363. [CrossRef]
+32.   Chaouali, W. Once a user, always a user: Enablers and inhibitors of continuance intention of mobile social
+      networking sites. Telemat. Inform. 2016, 33, 1022–1033. [CrossRef]
+Sustainability 2018, 10, 3162                                                                                18 of 20
+
+
+
+33.   Ku, Y.C.; Chu, T.H.; Tseng, C.H. Gratifications for using CMC technologies: A comparison among SNS, IM,
+      and e-mail. Comput. Hum. Behav. 2013, 29, 226–234. [CrossRef]
+34.   Venkatesh, V.; Brown, S.A. A longitudinal investigation of personal computers in homes: Adoption
+      determinants and emerging challenges. MIS Q. 2001, 71–102. [CrossRef]
+35.   Xu, C.; Ryan, S.; Prybutok, V.; Wen, C. It is not for fun: An examination of social network site usage.
+      Inf. Manag. 2012, 49, 210–217. [CrossRef]
+36.   Li, H.; Liu, Y.; Xu, X.; Heikkila, J.; Heijden, H.V.D. Modeling hedonic is continuance through the uses and
+      gratifications theory: An empirical study in online games. Comput. Hum. Behav. 2015, 48, 261–272. [CrossRef]
+37.   Liu, I.L.; Cheung, C.M.; Lee, M.K. User satisfaction with microblogging: Information dissemination versus
+      social networking. J. Assoc. Inf. Sci. Technol. 2016, 67, 56–70. [CrossRef]
+38.   Woodworth, R.S. Dynamic Psychology; Columbia University Press: New York, NY, USA, 1918.
+39.   Mehrabian, A.; Russell, J.A. An Approach to Environmental Psychology; The MIT Press: Cambridge, MA,
+      USA, 1974.
+40.   Jacoby, J. Stimulus-organism-response reconsidered: An evolutionary step in modeling (consumer) behavior.
+      J. Consum. Psychol. 2002, 12, 51–57. [CrossRef]
+41.   Wang, L.C.; Baker, J.; Wanger, J.A.; Wakefield, K. Can a retail web site be social? J. Mark. 2007, 71, 143–157.
+      [CrossRef]
+42.   Parboteeah, D.V.; Valacich, J.S.; Wells, J.D. The influence of website characteristics on a consumer’s urge to
+      buy impulsively. Inf. Syst. Res. 2009, 20, 60–78. [CrossRef]
+43.   Eroglu, S.A.; Machleit, K.A.; Davis, L.M. Atmospheric qualities of online retailing: A conceptual model and
+      implications. J. Bus. Res. 2001, 54, 177–184. [CrossRef]
+44.   Peng, C.; Kim, Y.G. Application of the stimuli-organism-response (SOR) framework to online shopping
+      behavior. J. Internet Commer. 2014, 13, 159–176. [CrossRef]
+45.   Animesh, A.; Yang, S.B.; Oh, W. An odyssey into virtual worlds: Exploring the impacts of technological and
+      spatial environments on intention to purchase virtual products. MIS Q. 2011, 35, 789–810. [CrossRef]
+46.   Gu, R.; Oh, L.B.; Wang, K. Developing user loyalty for social networking sites: A relational perspective.
+      J. Electron. Commer. Res. 2016, 17, 1.
+47.   Gan, C. Understanding WeChat users’ liking behavior: An empirical study in China. Comput. Hum. Behav.
+      2017, 68, 30–39. [CrossRef]
+48.   Chiou, J.S. The antecedents of consumers’ loyalty toward Internet service providers. Inf. Manag. 2004, 41,
+      685–695. [CrossRef]
+49.   Lin, H.H.; Wang, Y.S. An examination of the determinants of customer loyalty in mobile commerce contexts.
+      Inf. Manag. 2006, 43, 271–282. [CrossRef]
+50.   McGuire, W.J. Psychological motives and communication gratification. In The uses of Mass Communications:
+      Current Perspectives on Gratifications Research; Sage Publications: Thousand Oaks, CA, USA, 1974; pp. 167–196.
+51.   Rubin, A.M. Uses-and-gratifications perspective on media effects. In Media Effects: Advances in Theory and
+      Research; Bryant, J., Oliver, M.B., Eds.; Routledge: Abingdon-on-Thames, UK, 2009; pp. 181–200.
+52.   Sundar, S.S.; Limperos, A.M. Uses and grats 2.0: New gratifications for new media. J. Broadcast. Electron.
+      Media 2013, 57, 504–525. [CrossRef]
+53.   Venkatesh, V.; Thong, J.Y.; Xu, X. Consumer acceptance and use of information technology: Extending the
+      unified theory of acceptance and use of technology. MIS Q. 2012, 36, 157–178.
+54.   Wu, H.L. Utilitarian and hedonic values of social network services. In AMCIS 2009 Proceedings, Proceeding of
+      the Fifteenth Americas Conference on Information Systems, San Francisco, CA, USA, 6–9 August 2009; Association
+      for Information Systems: Atlanta, GA, USA, 2009.
+55.   Sheldon, P. The relationship between unwillingness-to-communicate and students’ Facebook use. J. Media
+      Psychol. 2008, 20, 67–75. [CrossRef]
+56.   Hennig-Thurau, T.; Klee, A. The impact of customer satisfaction and relationship quality on customer
+      retention: A critical reassessment and model development. Psychol. Mark. 1997, 14, 737–764. [CrossRef]
+57.   Joo, J.; Sang, Y. Exploring Koreans’ smartphone usage: An integrated model of the technology acceptance
+      model and uses and gratifications theory. Comput. Hum. Behav. 2013, 29, 2512–2518. [CrossRef]
+58.   Wang, Y.; Fesenmaier, D.R. Towards understanding members’ general participation in and active contribution
+      to an online travel community. Tour. Manag. 2004, 25, 709–722. [CrossRef]
+Sustainability 2018, 10, 3162                                                                                           19 of 20
+
+
+
+59.   Heinonen, K. Consumer activity in social media: Managerial approaches to consumers’ social media behavior.
+      J. Consum. Behav. 2011, 10, 356–364. [CrossRef]
+60.   Spink, A.; Wolfram, D.; Jansen, B.J.; Saracevik, T. Searching the web: The public and their queries. J. Am. Soc.
+      Inf. Sci. Technol. 2001, 52, 226–234. [CrossRef]
+61.   Chung, N.; Koo, C.; Park, S.B. Why people share information in social network sites? Integrating with uses
+      and gratification and social identity theories. In Proceedings of the 4th Asian Conference on Intelligent
+      Information and Database Systems, Kaohsiung, Taiwan, 19–21 March 2012.
+62.   Batra, R.; Ahtola, O.T. Measuring the hedonic and utilitarian sources of consumer attitudes. Mark. Lett. 1991,
+      2, 159–170. [CrossRef]
+63.   Venkatesh, V.; Morris, M.G.; Davis, G.B.; Davis, F.D. User acceptance of information technology: Toward a
+      unified view. MIS Q. 2003, 425–478. [CrossRef]
+64.   Davis, F.D. Perceived usefulness, perceived ease of use, and user acceptance of information technology.
+      MIS Q. 1989, 13, 319–340. [CrossRef]
+65.   Blumler, J.G.; Katz, E. The Uses of Mass Communications: Current Perspectives on Gratifications Research. Sage
+      Annual Reviews of Communication Research Volume III; Sage Publications: Thousand Oaks, CA, USA, 1974.
+66.   Childers, T.L.; Carr, C.L.; Peck, J.; Carson, S. Hedonic and utilitarian motivations for online retail shopping
+      behavior. J. Retail. 2001, 77, 511–535. [CrossRef]
+67.   Wang, Y.J.; Minor, M.S.; Wei, J. Aesthetics and the online shopping environment: Understanding consumer
+      responses. J. Retail. 2011, 87, 46–58. [CrossRef]
+68.   Lemon, K.N.; White, T.B.; Winer, R.S. Dynamic customer relationship management: Incorporating future
+      considerations into the service retention decision. J. Mark. 2002, 66, 1–14. [CrossRef]
+69.   Meyer, J.P.; Allen, N.J. A three-component conceptualization of organizational commitment. Hum. Resour.
+      Manag. R. 1991, 1, 61–89. [CrossRef]
+70.   Meyer, J.P.; Stanley, D.J.; Herscovitch, L.; Topolnytsky, L. Affective, continuance, and normative commitment
+      to the organization: A meta-analysis of antecedents, correlates, and consequences. J. Vocat. Behav. 2002, 61,
+      20–52. [CrossRef]
+71.   Bhattacharya, C.B.; Sen, S. Consumer-company identification: A framework for understanding consumers’
+      relationships with companies. J. Mark. 2003, 67, 76–88. [CrossRef]
+72.   Gruen, T.W.; Summers, J.O.; Acito, F. Relationship marketing activities, commitment, and membership
+      behaviors in professional associations. J. Mark. 2000, 64, 34–49. [CrossRef]
+73.   Blanchard, A.L.; Markus, M.L. The Experienced Sense of a Virtual Community: Characteristics and Processes.
+      Available online: https://dl.acm.org/citation.cfm?id=968470 (accessed on 29 October 2014).
+74.   Koh, J.; Kim, Y.G. Sense of virtual community: A conceptual framework and empirical validation. Int. J.
+      Electron. Commer. 2003, 8, 75–94. [CrossRef]
+75.   Dholakia, U.M.; Bagozzi, R.P.; Pearo, L.K. A social influence model of consumer participation in network-and
+      small-group-based virtual communities. Int. J. Res. Mark. 2004, 21, 241–263. [CrossRef]
+76.   Wood, L.D.; Parsons, D.W.; Jones, S.; Lin, J.; Sjoblom, T.; Leary, R.J.; Shen, D.; Boca, S.M.; Barber, T.; Ptak, J.; et al.
+      The genomic landscapes of human breast and colorectal cancers. Science 2007, 16, 1108–1113. [CrossRef] [PubMed]
+77.   Ashforth, B.E.; Mael, F. Social identity theory and the organization. Acad. Manag. Rev. 1989, 14, 20–39. [CrossRef]
+78.   Dutton, J.E.; Dukerich, J.M.; Harquail, C.V. Organizational images and member identification. Adm. Sci. Q.
+      1994, 39, 239–263. [CrossRef]
+79.   Xu, B.; Li, D. An empirical study of the motivations for content contribution and community participation in
+      Wikipedia. Inf. Manag. 2015, 52, 275–286. [CrossRef]
+80.   Hackbarth, G.; Grover, V.; Mun, Y.Y. Computer playfulness and anxiety: Positive and negative mediators of
+      the system experience effect on perceived ease of use. Inf. Manag. 2003, 40, 221–232. [CrossRef]
+81.   McKnight, D.H.; Choudhury, V.; Kacmar, C. Developing and validating trust measures for e-commerce:
+      An integrative typology. Inf. Syst. Res. 2002, 13, 334–359. [CrossRef]
+82.   Byrne, B.M. Structural Equation Modeling with AMOS: Basic Concepts, Applications, and Programming; Routledge:
+      Abingdon-on-Thames, UK, 2016.
+83.   Sharma, S.K.; Gaur, A.; Saddikuti, V.; Rastogi, A. Structural equation model (SEM)-neural network (NN)
+      model for predicting quality determinants of e-learning management systems. Behav. Inf. Technol. 2017, 36,
+      1053–1066. [CrossRef]
+Sustainability 2018, 10, 3162                                                                               20 of 20
+
+
+
+84.  Bentler, P.M.; Bonett, D.G. Significance tests and goodness of fit in the analysis of covariance structures.
+     Psychol. Bull. 1980, 88, 588. [CrossRef]
+85. Bentler, P.M. Comparative fit indexes in structural models. Psychol. Bull. 1990, 107, 238. [CrossRef] [PubMed]
+86. Browne, M.W.; Cudeck, R. Alternative ways of assessing model fit. Sociol. Methods Res. 1992, 21, 230–258.
+     [CrossRef]
+87. McDonald, R.P.; Ho, M.H.R. Principles and practice in reporting structural equation analyses. Psychol.
+     Methods 2002, 7, 64. [CrossRef] [PubMed]
+88. Fornell, C.; Larcker, D.F. Evaluating structural equation models with unobservable variables and
+     measurement error. J. Mark. Res. 1981, 18, 39–50. [CrossRef]
+89. Hair, J.; Anderson, R.E.; Tatham, R.L.; Black, W.C. Multivariate Data Analysis: A Global Perspective; Pearson
+     Education: London, UK, 2010.
+90. Matemba, E.D.; Li, G. Consumers’ willingness to adopt and use WeChat wallet: An empirical study in South
+     Africa. Technol. Soc. 2018, 53, 55–58. [CrossRef]
+91. Fornell, C.; Larcker, D.F. Structural equation models with unobservable variables and measurement error:
+     Algebra and statistics. J. Mark. Res 1981, 18, 382–388. [CrossRef]
+92. Podsakoff, P.M.; Mackenzie, S.B.; Lee, J.Y.; Podsakoff, N.P. Common method biases in behavioral research:
+     A critical review of the literature and recommended remedies. J. Appl. Psychol. 2003, 88, 879–903. [CrossRef]
+     [PubMed]
+93. Lin, H.F. Determinants of successful virtual communities: Contributions from system characteristics and
+     social factors. Inf. Manag. 2008, 45, 522–527. [CrossRef]
+94. Ross, C.; Orr, E.; Sisic, M.; Arseneault, J.M.; Simmering, M.G.; Orr, R. Personality and motivations associated
+     with Facebook use. Comput. Hum. Behav. 2009, 25, 578–586. [CrossRef]
+95. Raacke, J.; Bonds-Raacke, J. MySpace and Facebook: Applying the uses and gratifications theory to exploring
+     friend-networking sites. Cyberpsychol. Behav. 2008, 11, 169–174. [CrossRef] [PubMed]
+96. Schumann, L.; Stock, W.G. The Information Service Evaluation (ISE) Model. Available online: https:
+     //arxiv.org/abs/1407.4831 (accessed on 16 July 2014).
+97. Maslow, A.H. Personality and Motivation; Harper: New York, NY, USA, 1954.
+98. Han, W.; Zhu, X.; Zhu, Z.; Chen, W.; Zheng, W. A comparative analysis on Weibo and Twitter. Tsinghua Sci.
+     Technol. 2016, 21, 1–16. [CrossRef]
+99. Lin, H.; Fan, W.; Chau, P.Y. Determinants of users’ continuance of social networking sites: A self-regulation
+     perspective. Inf. Manag. 2014, 51, 595–603. [CrossRef]
+100. Yin, G.; Zhu, L.; Cheng, X. Continuance usage of localized social networking services: A conceptual model
+     and lessons from China. J. Glob. Inf. Technol. Manag. 2013, 16, 7–30. [CrossRef]
+101. Venkatesh, V.; Davis, F.D. A theoretical extension of the technology acceptance model: Four longitudinal
+     field studies. Manag. Sci. 2000, 46, 186–204. [CrossRef]
+102. Sheldon, P.; Rauschnabel, P.A.; Antony, M.G.; Car, S. A cross-cultural comparison of Croatian and American
+     social network sites: Exploring cultural differences in motives for Instagram use. Comput. Hum. Behav. 2017,
+     75, 643–651. [CrossRef]
+103. Kim, H.W.; Chan, H.C.; Gupta, S. Value-based adoption of mobile internet: An empirical investigation.
+     Decis. Support Syst. 2007, 43, 111–126. [CrossRef]
+104. Lin, X.; Li, Y.; Wang, X. Social commerce research: Definition, research themes and the trends. Int. J. Inf.
+     Manag. 2017, 37, 190–201. [CrossRef]
+105. Sweeney, J.C.; Soutar, G.N. Consumer perceived value: The development of a multiple item scale. J. Retail.
+     2001, 77, 203–220. [CrossRef]
+106. Zhang, C.B.; Li, Y.N.; Wu, B.; Li, D.J. How WeChat can retain users: Roles of network externalities, social
+     interaction ties, and perceived values in building continuance intention. Comput. Hum. Behav. 2017, 69,
+     284–293. [CrossRef]
+107. Lien, C.H.; Cao, Y.; Zhou, X. Service quality, satisfaction, stickiness, and usage intentions: An exploratory
+     evaluation in the context of WeChat services. Comput. Hum. Behav. 2017, 68, 403–410. [CrossRef]
+
+                           © 2018 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access
+                           article distributed under the terms and conditions of the Creative Commons Attribution
+                           (CC BY) license (http://creativecommons.org/licenses/by/4.0/).
+                   © 2018. This work is licensed under
+    https://creativecommons.org/licenses/by/4.0/ (the “License”).
+Notwithstanding the ProQuest Terms and Conditions, you may use this
+         content in accordance with the terms of the License.
+

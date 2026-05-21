@@ -1,0 +1,1059 @@
+                                                                      Energy Policy 48 (2012) 717–729
+
+
+
+                                                     Contents lists available at SciVerse ScienceDirect
+
+
+                                                                      Energy Policy
+                                                 journal homepage: www.elsevier.com/locate/enpol
+
+
+
+
+Barriers to widespread adoption of electric vehicles: An analysis of consumer
+attitudes and perceptions
+Ona Egbue, Suzanna Long n
+Department of Engineering Management and Systems Engineering, Missouri University of Science and Technology, 600W. 14th St., Rolla, MO 65409-0370, USA
+
+
+
+
+H I G H L I G H T S
+
+c We sample technology enthusiasts to determine attitudes toward electric vehicles.
+c Knowledge and perceptions differ across gender, age, and education groups.
+c High degree of uncertainty is associated with electric vehicles.
+c Battery range is the biggest concern followed by cost.
+c Sustainability has less weight compared to electric vehicle cost and performance.
+
+
+
+
+a r t i c l e i n f o                                 abstract
+
+Article history:                                      Electric Vehicles (EVs) are promoted as a viable near-term vehicle technology to reduce dependence on
+Received 16 December 2011                             fossil fuels and resulting greenhouse gas (GHG) emissions associated with conventional vehicles (CVs).
+Accepted 5 June 2012                                  In spite of the beneﬁts of EVs, several obstacles need to be overcome before EVs will be widely adopted.
+Available online 27 June 2012
+                                                      A major barrier is that consumers tend to resist new technologies that are considered alien or unproved,
+Keywords:                                             thus, policy decisions that consider their critical concerns will have a higher level of success. This
+Electric vehicles                                     research identiﬁes potential socio-technical barriers to consumer adoption of EVs and determines if
+Consumer attitudes                                    sustainability issues inﬂuence consumer decision to purchase an EV. This study provides valuable
+Socio-technical barriers                              insights into preferences and perceptions of technology enthusiasts; individuals highly connected to
+                                                      technology development and better equipped to sort out the many differences between EVs and CVs.
+                                                      This group of individuals will likely be early adopters of EVs only if they perceive them to be superior in
+                                                      performance compared to CVs. These results can guide policymakers in crafting energy and transporta-
+                                                      tion policy. It can also provide guidance to EV engineers’ decision in incorporating consumer preference
+                                                      into EV engineering design.
+                                                                                                                        & 2012 Elsevier Ltd. All rights reserved.
+
+
+
+
+1. Introduction                                                                       stimulus funding to promote the use of alternative fuels
+                                                                                      (Skerlos and Winebrake, 2010). The American Recovery and
+   The transportation sector is responsible for approximately 14%                     Reinvestment Act (ARRA) of 2009 provides over $2 billion for
+of global greenhouse gas emissions and this is projected to                           electric vehicle and battery technologies, geared toward achieving
+increase to 50% by 2030 (IEA, 2007). This projection implies that                     a goal of one million electric vehicles on U.S. roads by 2015 (Canis,
+the current transportation system is unsustainable. A transforma-                     2011). These investments and targets imply that U.S. policy-
+tion of the global transportation sector is necessary to reduce                       makers accept that large scale adoption of electric drive vehicles
+greenhouse gas emissions, air pollution and dependence on fossil                      may be a sustainable solution to growing environmental, eco-
+fuels. Electric Vehicles (EVs) are a viable near-term transportation                  nomic and energy concerns in transportation. In addition, almost
+technology capable of providing sustainable mobility. In the U.S.,                    all major car manufacturers are demonstrating interests in EVs
+large deployment of EVs can play a signiﬁcant role in addressing                      and developing new passenger and commercial cars (Lieven et al.,
+some of these problems (Natural Resources Defense Council,                            2011).
+2007). Recently, the U.S. government allocated considerable                               Despite these potential advantages, signiﬁcant barriers remain
+                                                                                      to widespread adoption of EV technology and currently, they
+                                                                                      represent a small market share of vehicles in service. Previous
+  n
+      Corresponding author. Tel.: þ1 573 3417621; fax: þ1 573 341 6567.               research suggests that battery technology limitations and high
+      E-mail address: longsuz@mst.edu (S. Long).                                      battery cost are the major obstacles to widespread adoption of
+
+0301-4215/$ - see front matter & 2012 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.enpol.2012.06.009
+718                                                         O. Egbue, S. Long / Energy Policy 48 (2012) 717–729
+
+
+Table 1
+Description of electric vehicle types.
+
+  Vehicle   Description                                                                           Beneﬁts
+  type
+
+  HEV       Electric vehicles that use an internal combustion engine in addition to an electric   Better fuel economy, less expensive to run and lower emissions than
+            motor.                                                                                similar conventional vehicles
+  PHEV      Electric vehicles with smaller internal combustion engine and more powerful           Better fuel economy, less expensive to run and lower emissions than
+            electric batteries that can be recharged.                                             similar HEVs and conventional vehicles. Offers ﬂexibility of fuel source
+  BEV       Electric vehicles that derive motive power exclusively from onboard electrical        No liquid fuels and zero emissions at tailpipe. Less expensive to run than
+            battery packs that can be charged with a plug through an electric outlet.             similar HEVs and conventional vehicles.
+
+
+
+EVs (Axsen et al., 2010). As a result, much research is aimed                             entire propulsion power is provided from electricity. EVs come in
+towards addressing the limitations placed on performance by the                           several varieties. The HEV combines the ICE along with an electric
+weight, bulk and storage capacity of batteries (Payton, 1988;                             motor to achieve a higher fuel economy than similar-sized
+Sovacool and Hirsh, 2009). However, we argue that this view does                          vehicles. Some commercially available HEVs include the Toyota
+not reveal key areas of consumer resistance to EVs. It is important                       Prius, Ford Escape Hybrid and Honda Civic Hybrid. The Plug-in
+to view EVs as part of a socio-technical system in order to break                         Hybrid Electric Vehicle (PHEV) has a smaller internal combustion
+the divide between the technical and the social. The term ‘‘social-                       engine than the HEV and has a larger battery capable of powering
+technical’’ encompasses technological, cultural, social, political                        the vehicle for distances between 20 and 60 miles (Sovacool and
+and economic barriers (Sovacool and Hirsh, 2009). According to                            Hirsh, 2009). In addition, the PHEV battery is rechargeable and
+Sovacool (2009), technologists and policymakers usually separate                          can be restored to full charge by connecting a plug to an external
+technical concerns from social concerns while describing techno-                          electric source. PHEVs offer the higher fuel efﬁciency of EVs
+logical development. However, the ‘‘social’’ barriers may pose as                         within the all-electric range, but also the ﬂexibility of conven-
+much of a problem as the ‘‘technical’’ in the development of EVs                          tional fuels for extended trips. Some examples of PHEVs currently
+for the mainstream consumer market. In this study, we analyze                             in the market are the Chevrolet Volt and Toyota Prius Plug-in
+socio-technical barriers particularly relating to consumers.                              Hybrid. The BEV is powered solely by a rechargeable electric
+   In this research, we investigate how differences in consumer                           battery and has batteries that are usually larger than the PHEV
+populations change opinions and perceptions about EVs and can                             and can travel for up to 100 miles on one full charge. BEVs
+be used to determine potential socio-technical obstacles to EV                            represent a ‘carbon free’ mode of transportation if electricity for
+adoption. We address two questions regarding EVs: (1) what are                            charging is generated from renewable include the Nissan leaf,
+the socio-technical barriers to consumer adoption of EVs? And (2)                         Mitsubishi i-MiEV and Tesla Roadster. For the three categories of
+how much inﬂuence does sustainability have on EV purchase                                 EVs shown in Table 1, there exist different variants each with a
+decision? Using a survey administered to technology enthusiasts                           distinct range of electric driving depending on the battery
+and potential EV owners, we categorize perceptions and prefer-                            capacity of the vehicle.
+ences in order to identify the barriers to widespread acceptance of                          The fundamental technological constraint to the commerciali-
+electric vehicles. The task of comparing the attitudes and percep-                        zation of EVs is energy storage (Anderman, 2007; Mandel, 2007).
+tions of our sample with the general population is left to future                         According to Axsen et al. (2010), battery technology is limited by
+research. This research considers functional attributes of EVs such                       tradeoff between ﬁve major attributes including power, energy,
+as driving range, battery life and EV costs. Furthermore, we                              longevity, cost and safety. Energy storage and energy density
+examine symbolic attributes which have been determined to                                 determine the range and mass of the battery system, respectively.
+inﬂuence consumer decisions in general vehicle use (Steg, 2005;                           The battery range limits the distance an EV can travel on an all-
+Steg et al., 2001; Verhoef and Wee, 2000) as well as in the use of                        electric range and on a single charge. The range issue has the
+Hybrid Electric Vehicles (HEVs) (Heffner et al., 2007; Kahn, 2007;                        greatest impact on BEVs, which do not have the ﬂexibility of fuel
+Turrentine and Kurani, 2007) and Battery Electric Vehicles (BEVs)                         source like HEVs and PHEVs and therefore may require charging
+(Skippon and Garwood, 2011).                                                              en route during long trips that exceed the range of the batteries.
+   Insights gained from the results of this research will shed more                       Consequently, there is also a need for EV charging infrastructure
+light on public attitudes and preferences related to EVs. This                            to charge EVs during trips. In addition, high power is important
+information will guide policymakers in crafting energy and                                because they translate into motive force for vehicle acceleration.
+transportation policy based on the entire EV sociotechnical                                  Battery cost is a key determinant in the economic viability of
+system. This research will also provide guidance to EV engineers’                         EVs especially PHEVs and BEVs. Pesaran et al. (2007) estimate that
+decision in incorporating consumer preference into EV engineer-                           advanced batteries cost between $800 to $1000/kW h. One of the
+ing design.                                                                               key goals of the U.S. Department Of Energy (DOE) Vehicle
+                                                                                          Technology Program (2010) is to reduce cost of high-energy,
+                                                                                          high-power batteries from $1200/kW h in 2008 to $300/kW h
+2. Background                                                                             by 2014 to enable cost-competitiveness of PHEVs.
+
+2.1. Electric vehicle technology                                                          2.2. Consumer attitudes and motivation
+
+   Conventional vehicles (CVs) have internal combustion engines                              Public attitudes and preferences for EVs must be considered in
+(ICEs) that burn petroleum, operate inefﬁciently and emit a                               developing market share in this area. EVs must not only overcome
+signiﬁcant amount of greenhouse gasses. Alternative Fuel Vehi-                            the technological problems facing the battery technology but also
+cles (AFVs) are vehicles designed to operate on at least one                              social issues related to consumers in order to achieve commercial
+alternative to petroleum and diesel and include EVs, bio-fuel                             success. Consumer acceptance is crucial to the continuing success
+vehicles, fuel cell vehicles, compressed natural gas vehicles etc.                        of a sustainable transportation sector (Ozaki and Sevastyanova,
+EVs or electric drive vehicles are vehicles in which partial or                           2011). However, consumers tend to be resistant to new
+                                                  O. Egbue, S. Long / Energy Policy 48 (2012) 717–729                                         719
+
+
+technology that is considered unfamiliar or unproven. Therefore,              technology (Moore, 2002). This small group of early adopters has
+failure by EV manufacturers and policy makers to identify and                 positive attitudes to novelty and is likely to adopt new technol-
+overcome consumer issues may result in continued low accep-                   ogies (Heffner et al., 2007). On the other hand, some individuals
+tance of EVs long after the technical problems are resolved.                  are uncomfortable with technological change and uncertainty,
+    The theory of planned behavior (TPB) by Ajzen (1991) explains             and therefore are hesitant to accept innovations (Edison and
+the factors inﬂuencing consumer behavior. According to TPB, the               Geissler, 2003). According to Modahl (1999), 50% of Americans
+main determining factors of behavioral intention are attitudes,               are technology pessimists; are averse to technology. The majority
+which are inﬂuenced by knowledge and experience, subjective                   of consumers, while making choices, stick to ‘‘notions of tradition
+norms that the consumer believes is acceptable by society, and                and familiarityy’ rather than embracing a new technology
+the perceived impact of the behavior. In this context, consumer               (Sovacool and Hirsh, 2009).
+acceptance of technology is considered an intention to adopt, use,                In recent times, however, there are increasing reasons to adopt
+or support its development (Ajzen, 1991). The main reasoning of               EVs including rising and volatile gasoline prices, greenhouse gas
+the TPB is that actions are chosen based on an analysis of the                emissions, increased dependence on imported petroleum, and the
+alternatives through which the optimum outcome is achieved                    very high fuel economy of EV.
+(Lane and Potter, 2007).
+    Research shows that some common barriers to the adoption of
+any new technology include lack of knowledge by potential
+adopters, high initial costs and low risk tolerance (Diamond,                 3. Methodology
+2009). A study by Oliver and Rosen (2010) indicates that con-
+sumer acceptance of HEVs is limited partly due to perceived risks             3.1. Survey
+with new products and tradeoffs between vehicle fuel efﬁciency,
+size and price. The general public’s perception of risk is based on               An internet-based survey (see appendix A) was developed and
+experience, emotions, the media and other non-technical sources               used in this research to collect data from a sample population.
+(Sjoberg, 1998). In general, media and social networks often                  The target population comprised mainly of current owners of CVs
+inﬂuence values that affect consumer choices (Rogers, 2003;                   with the intention of capturing opinions, perceptions and atti-
+Lane and Potter 2007).                                                        tudes of individuals who are prospective owners of EVs. Data was
+    In terms of ﬁnancial beneﬁts, individuals are more likely to              collected from students, faculty and staff at a technological
+choose options that maximize utility based on their preferences,              university that specializes mainly in science, technology and
+knowledge of alternatives and budget (Roche et al., 2010). The                engineering undergraduate and graduate programs. In terms of
+initial cost of an EV is signiﬁcantly higher when compared to a               knowledge considerations, we consider the vast majority of the
+gasoline powered ICE vehicle and this cost increases linearly with            sample population as technology enthusiasts. Technology enthu-
+battery size or the range of the car. Duvall (2002) estimates that            siasts are individuals that are better connected with global
+the extra cost of owning a HEV ranges between $2500 and                       technology development, have high level of quantitative skills
+$14,000 compared to ICE vehicles. In Duvall’s estimation, he used             and are more equipped to sort out the many technological,
+the average national gasoline price at the time, which was $1.65              ﬁnancial and environmental differences between EVs and con-
+per gallon. Due primarily to battery cost, EVs particularly PHEVs             ventional gasoline powered vehicles. For this study, we consider
+and BEVs are signiﬁcantly more expensive than CVs. Another cost               these individuals to be likely early adopters only if they perceive
+consideration is the price of gasoline. van Bree et al., (2010) found         EVs to be superior in performance compared to ICE vehicles.
+that increase in gas prices inﬂuences consumer behavior. In a                     Over 500 responses were received but some were rejected due
+study on consumer adoption of HEVs, Gallagher and Muehlegger                  to incompleteness. As a result, 481 responses were used for
+(2011) found that consumers usually make the decision to buy                  further analysis. The main objective of the survey was to char-
+HEVs in response to increase in gas prices and government                     acterize potential EV owners in order to elucidate knowledge,
+incentives.                                                                   interests, perceptions, attitudes, and barriers pertaining to EVs as
+    Non-ﬁnancial reasons, especially those associated with envir-             well as views on sustainability. A secondary purpose of the survey
+onment and energy can inﬂuence consumers’ decisions to pur-                   was to relate certain socio-economic characteristics including age,
+chase an EV (Zypryme Research and Consulting, 2010). Hence, the               education, gender, experience and income to the individual
+potential for EVs to create social beneﬁts by reducing petroleum              perceptions and attitudes towards EVs. We hypothesize that
+consumption and GHG emissions can appeal to certain consu-                    these factors would inﬂuence individual attitudes and percep-
+mers. Environmental values are powerful predictors of certain                 tions. Furthermore, we test to see if there are any statistical
+consumer actions and positively inﬂuence willingness to engage                differences between students and non-students.
+in actions that protect the environment (Oliver and Rosen, 2010).                 The survey included four sections. The ﬁrst section of the
+Heffner et al. (2007) found that, to this group of consumers, who             survey asked for respondents’ gender, age, and other socio-
+show high levels of environmental awareness, choosing a HEV                   economic details. Respondents’ perceptions and attitudes towards
+symbolizes ideas related to one’s individuality and is used to                EV attributes were examined in the second section. In the third
+communicate interests and values. Studying HEV purchases in Los               section, respondents were questioned about environmental and
+Angeles County, Kahn (2007) found that environmentalists are                  sustainability issues. Finally, in the fourth section, respondents
+more likely to purchase HEVs compared to non-environmental-                   were asked changes desired in the EV technology and pressing
+ists. Similarly, Gallagher and Muehlegger (2011) found that social            questions.
+preferences for environmental quality and energy security were a
+major determinant for consumer adoption of HEVs. Gallagher and
+Muehlegger concluded that social preferences increased HEV
+sales more than rising gas prices or tax incentives.                          3.2. Statistical data analysis
+    Furthermore, historical trends in technology adoption suggest
+that while new technology is intrinsically attractive to a few early             The chi-square test was employed to investigate the differ-
+adopters, including visionaries and technology enthusiasts, the               ences in perceptions and attitudes among the sample population
+majority of consumers will remain close-minded about the new                  (Greenwood and Nikulin, 1996; Janes, 2001). The chi-square test
+720                                                         O. Egbue, S. Long / Energy Policy 48 (2012) 717–729
+
+
+for two-way tables is in the form of                                                    Table 3
+                                                                                        Experience with AFVs.
+        X
+        s X
+          r
+               ðnij mij Þ   2
+Qp ¼                                                                                      Experience with electric vehicles and other alternative fueled vehicles
+        i¼1j¼1
+                    mij
+                                                                                                                          Number of responses            (%)
+      and
+        ni nij                                                                            None                            225                            47
+mij ¼                                                                                     Hybrid electric                 184                            38
+         n
+                                                                                          Battery electric                 80                            17
+where mij is the expected value of the frequencies in the ith row                         Biofuel                          67                            14
+                                                                                          Plug-in hybrid electric          36                             7
+and jth column and nij are marginal totals. Qp is the Pearson chi-
+                                                                                          Other                            20                             4
+square statistic and has an asymptotic chi-square distribution
+with (s–1) (r–1) degrees of freedom when the row and column
+                                                                                        4.2. EV knowledge, experience and interest
+variables are independent.
+   The chi-square test is used to investigate statistical association
+                                                                                            Fifty-three percent of the sample had some experience with
+between variables. This is done primarily by testing the null
+                                                                                        AFVs and 47% (n¼225) reported having no experience. Further
+hypothesis of no association between a set of groups and out-
+                                                                                        breakdown of survey results shown in Table 3 illustrates that 38%
+comes for a response. For large values of Qp, this test rejects the
+                                                                                        had experience with HEVs, 17% with BEVs and 7% with PHEVs.
+null hypothesis in favor of the alternative hypothesis of general
+                                                                                            Chi-square analysis showed that there were signiﬁcant differ-
+association. We use the standard 5% or 0.05 cut-off for deﬁning
+                                                                                        ences in prior experiences with AFVs based on gender
+what is a statistically signiﬁcant difference. Therefore an asso-
+                                                                                        (Qp ¼17.442; df¼ 1, p¼ o0.0001). The results suggest that males
+ciated p-valueo0.05, means that there is signiﬁcant evidence of
+                                                                                        were more likely than females to indicate some experience with
+an association between variables.
+                                                                                        EVs. Moreover, no signiﬁcant differences based on age (Qp ¼3.801,
+   In the following sections, we summarize the results from the
+                                                                                        df¼2, p ¼0.1495), level of education (Qp ¼2.0976, df ¼1,
+surveys and then relate the responses based on different
+                                                                                        p¼0.1475), and income (Qp ¼ 7.7106, df¼ 3, p¼0.0524) were
+categories.
+                                                                                        observed. Differences between students and non-students was
+                                                                                        also not statistically signiﬁcant (Qp ¼0.0005, df ¼1, p ¼0.9829). In
+                                                                                        gauging awareness of particular EV types, respondents identiﬁed
+4. Results and discussion                                                               that they were most aware of HEVs (95%) followed by PHEVs
+                                                                                        (81%) and lastly BEVs (76%).
+4.1. Sample description                                                                     It is interesting to see that the level of awareness reﬂects the
+                                                                                        technology curve and the market; HEVs are most prevalent in the
+    The sample has a signiﬁcantly higher representation of males                        market, PHEVs, which are not as widespread as HEVs, are more
+(71%) compared to females (29%). The overall sample is relatively                       popular than BEVs are.
+young with majority of respondents (88%) between the ages of 18                             Respondents were also asked to rate their interest in AFVs on a
+and 44. The age of respondents can be attributed to the fact the                        4 point likert scale from 1 (no interest) to 4 (high interest).
+majority of the population are undergraduate and graduate                               Considering that the majority of the sample consists of engineers
+students. From an education standpoint, the majority (84%) of                           or engineers in the making our initial hypothesis was that a
+the sample is working towards or has completed an under-                                strong interest towards AFVs would be evident. The majority of
+graduate degree or graduate degree. One should note that the                            the population indicated moderate (43%) or high interest (38%) in
+sample collected may not necessarily be representative of the                           AFVs. The overall average rating of self-reported interest in AFVs
+general population; however, it provides helpful information                            was a composite score of 3.14 out of 4. Chi-square tests showed
+about technology enthusiasts. Detailed demographic attributes                           statistically signiﬁcant association between interest in AFV, gen-
+of the sample are presented in Table 2.                                                 der (Qp ¼15.6035, df ¼3, p ¼0.0014) and education (Qp ¼12.4608,
+                                                                                        df¼3, p ¼0.006). Again, males were more likely than females to
+Table 2                                                                                 indicate some interest in AFVs. In addition, individuals with
+Characteristics of the sample population.
+                                                                                        graduate degrees expressed more interest in AFV than those
+ Sample attributes                                                          (%)         individuals with undergraduate or lower degrees. When asked
+                                                                                        speciﬁcally about interests in EVs, respondents showed less
+ Sample size                                                                481         interest. There were signiﬁcant differences in interests in EVs
+ Gender                          Male                                       71%
+                                                                                        based on gender, education and age. There were no statistically
+                                 Female                                     29%
+ Ethnicity                       White                                      85%         signiﬁcant differences in interest based on income. Furthermore,
+                                 Asian                                       7%         there were no statistical differences between the student popula-
+                                 African American                            2%         tion and the non-student population. As was the case with
+                                 Hispanic Latino                             1%         interests in AFVs, males and individuals working towards or had
+ Age                             18–24                                      62%
+                                 25–44                                      26%
+                                                                                        completed a graduate degree expressed more interest in EVs. The
+                                 45 and over                                12%         level of appeal of different types of EVs to respondents followed
+ Occupation                      Students                                   80%         the same trend as respondents’ level of awareness of EV types,
+                                 Faculty                                    11%         with HEVs being ranked as the most appealing type of EV
+ Education                       Some college/associates                    14%
+                                                                                        followed by PHEVs and then BEVs.
+                                 Undergraduate (Complete/in progress)       51%
+                                 Graduate (Complete/in progress)            32%             Most associations with EVs were with regard to environment,
+ Household Income                Under $25,000                              22%         battery performance and charging, efﬁciency, high purchase cost,
+                                 $25,000–$49,999                            15%         fossil fuels, alternative energy and the future in that order.
+                                 $50,000–$74,999                            16%         Respondents who generally had a very positive view of EVs cited
+                                 $75,000–$99,999                            12%
+                                 $100,000 and above                         20%
+                                                                                        the efﬁciency of EVs in terms of fuel saving; ‘‘higher MPG’’ and
+                                                                                        ‘‘non-gas-guzzler’’. Furthermore respondents referred to EVs as
+                                                            O. Egbue, S. Long / Energy Policy 48 (2012) 717–729                                                       721
+
+
+the future of transportation; ‘‘the way of the future’’ and ‘‘future                     between concerns and gender with the largest number of males
+of travel. Environmental beneﬁts were also associated with EVs;                          expressing concern about battery range while the largest number
+‘‘green’’, ‘‘zero emissions’’ and ‘‘environmental friendly’’. Negative                   of females were most concerned about cost. There were no
+associations with EVs included high purchase cost, limited battery                       statistically signiﬁcant differences in concerns based on age,
+longevity, battery range, long recharging time, and environmental                        education, income or between students and non-students. A full
+impacts from increased fossil fuels use at power plants to                               breakdown of concerns is presented in Table 6.
+generate electricity for charging EVs.                                                       Despite the fact that less than 1% of respondents identiﬁed
+    Results showed an average likelihood to purchase an AFV with an                      safety as the most important concern, only 57% of the respon-
+overall interest composite score of 2.59 out of 4; 49% of respondents                    dents agreed or strongly agreed that EVs are a safe mode of
+indicated that they were either likely or very likely to purchase an                     transportation while 26% indicated they were unsure. The large
+AFV. Thirty seven percent and 15% chose ‘somewhat likely’ and ‘not at                    number of ‘unsure’ responses suggests that there is limited
+all likely’, respectively. Chi Square test showed no statistical signiﬁ-                 understanding of EV safety even among technology enthusiasts.
+cant differences in likelihood to purchase an AFV based on gender                        Differences in responses regarding EV safety were statistically
+(Qp ¼2.6291, df¼3, p¼0.4524), age (Qp ¼6.8569, df¼ 6, p¼0.3343),                         signiﬁcant based on gender (Qp ¼ 30.5974, df ¼5, p ¼ o.0001) with
+income (Qp ¼0.4589, df¼3, p¼0.2668), and level of education                              males (27%) more likely to strongly agree that EVs were safe
+(Qp ¼2.5921, df¼3, p¼0.4589). There were also no signiﬁcant differ-                      compared to females (10%). Also, females were more unsure and
+ences between students and non-students (Qp ¼ 2.6318, df¼3,                              neutral about the safety of EVs compared to males. Furthermore,
+p¼0.4519).                                                                               individuals that indicated some experience with AFVs were more
+    Furthermore, respondents identiﬁed decrease or elimination of                        likely to strongly agree that EVs were safe compared to indivi-
+the use of petroleum as the most appealing attribute of an EV                            duals lacking experience. Individuals that had no prior experience
+followed by lower maintenance costs and then greenhouse gas                              with EVs were more uncertain about EV safety at 16% compared
+reduction (See Table 4). Comfort and style received the lowest
+ratings. A summary table showing chi-square results is shown in
+                                                                                         Table 6
+table 5.
+                                                                                         Concerns about EVs.
+
+                                                                                             Biggest concern about EVs
+4.3. Concerns about EVs
+                                                                                                                                   Number of responses               (%)
+
+   Overall, EV battery range limitation was cited as the biggest                             Battery range                         158                               33
+concern (33%, n¼141) followed by high cost (27%, n ¼117) and                                 Cost                                  129                               27
+charging infrastructure (17%, n ¼58). These concerns reafﬁrm                                 Charging infrastructure                83                               17
+some of the issues identiﬁed initially by respondents when asked                             Other                                  58                               12
+                                                                                             Reliability                            47                               10
+about associations with EVs. Chi-square analysis showed signiﬁ-                              Safety                                  6                                1
+cant evidence of an association (Qp ¼ 14.2165, df¼5, p¼0.0143)
+
+
+Table 4
+Ranking of electric vehicle attributes.
+
+  Ranking of EV attributes
+
+  Attribute                                         5 (most appealing)     4        3           2          1 (least appealing )   Mean (N¼ 438)       Std. Dev. (N¼ 438)
+
+  Decrease/eliminate the use of petroleum           176                     91       48          59         64                    3.5845              1.4808
+                                                    40%                    21%      11%         13%        15%
+  Less maintenance                                   88                    100      146          57         47                    3.2853              1.2287
+                                                    20%                    23%      33%         13%        11%
+  Reduced greenhouse gas emissions                   70                    100       93          74        101                    2.9178              1.3972
+                                                    16%                    23%      21%         17%        23%
+  Looks/style                                        48                     64       65         100        161                    2.4018              1.3875
+                                                    11%                    15%      15%         23%        37%
+  Comfort                                            56                     86       83         148         65                    2.8174              1.2672
+                                                    13%                    20%      19%         34%        15%
+
+
+
+Table 5
+Summary of Chi Square results.
+
+  Variables                               Demographics
+
+                                          Gender                          Age                                    Education                  Income
+
+                                          Qp          df     p-value      Qp            df       p-value         Qp          df   p-value   Qp           df     p-value
+
+  Concerns                                14.2165     5       0.0143      12.2402       10       0.2692           8.689      5    0.1221    17.0461      15     0.316
+  Safety                                  30.5974     5      o .0001      17.2026       10       0.0700          10.0075     5    0.075     24.0643      15     0.064
+  Experience with AFVs                    17.4419     1      o .0001       3.801         2       0.1495           2.0976     1    0.1475     7.7106       3     0.0524
+  Familiarity with ‘Sustainability’        0.4398     1       0.5072       7.3624        2       0.0252           6.0624     1    0.0138     5.857        3     0.1188
+  Interest in AFV                         15.6035     3       0.0014       8.385         6       0.2112          12.4608     3    0.006      6.4584       9     0.6933
+  Interest in EV                          23.3997     3      o .0001      15.2957        6       0.0181          15.363      3    0.0015     5.6689       9     0.7725
+  Likelihood to purchase AFV               2.6291     3       0.4524       6.8569        6       0.3343           2.5921     3    0.4589    11.1313       9     0.2668
+  EV sustainability                       23.492      4       0.0001       7.0611        8       0.5301           9.276      4    0.0546     5.3243      12     0.9463
+722                                                    O. Egbue, S. Long / Energy Policy 48 (2012) 717–729
+
+
+to only 4% of individuals who indicated having some experience                     50 mpg, and 37 mpg, respectively. In addition, the PHEV and BEV
+with EVs. These ﬁndings indicate a relationship between prior                      use lithium-ion batteries that are capable of an all-electric range of
+experience and perceptions of EV safety. Exposing individuals to                   35 miles and 100 miles, respectively. It is assumed that the vehicles
+EVs will likely reduce perceptions of EVs as being unsafe.                         are driven for 15,000 miles per year over a period of 10 years. The
+    The average cost of gasoline ($/gallon) at which respondents                   cost is calculated for two different gasoline price scenarios. The
+(n¼395) will be persuaded to purchase an EV was calculated to                      cost of ownership at the average 2011 U.S. regular gasoline price of
+be $5.42/gallon with conﬁdence interval of $1.75 and using                         $3.52/gallon is compared with $5.42/gallon which is the average
+a ¼0.05. The mode and median were $5.00 and $5.00, respec-                         gasoline price indicated by the study sample. The baseline manu-
+tively. There was a wide range of gas prices given and several                     facturer’s suggested retail price (MSRP) for each vehicle was used.
+individuals indicated that price is conditional on factors such as                 The cost of electricity for charging the PHEV and BEV is held
+initial cost of the EV, electricity cost, performance and range. A                 constant at 11.9 cents/kW h based on the 2011 U.S. average
+considerable number of respondents showed unconditional will-                      residential electricity retail price. The maintenance and repair costs
+ingness to purchase EVs by indicating that they needed no                          are obtained from Kelly Blue Book, which provides ﬁve-year
+persuasion to purchase an EV whereas a few respondents                             ownership costs for vehicles. After the ﬁfth year, we assume that
+expressed strong resistance and indicated they will ‘walk ﬁrst’                    repair and maintenance costs remain constant throughout the rest
+implying that drastic increase in gas prices alone was not enough                  of the vehicle lifetime. Currently the EVs under consideration have
+incentive to purchase an EV. Mainly individuals with this position                 warranties on batteries for 8 years/100,000 miles. We assume that
+indicated prices ranging from $50 to an inﬁnite amount of dollars.                 the EV batteries will need replacing at the end of the warranty
+There was considerable skepticism among respondents and the                        period. The U.S. DOE vehicle technologies program 2014 goal of
+word ‘depends’ featured considerably in responses. In general, the                 $300/kW h is used to calculate battery cost for the 16 and 24 kW h
+results are consistent with ﬁndings of Diamond (2009) that as                      lithium-ion batteries of the BEV and PHEV, respectively. A local
+long as PHEV purchase price is high, market penetration will not                   Toyota dealership provides an estimate of approximately $2500 for
+increase signiﬁcantly unless gasoline prices rise. The same rea-                   a new Prius nickel–metal hydride battery with roughly $500 for
+soning can also be applied to the adoption of HEVs and BEVs as                     installation. This installation estimate is also added to the PHEV
+our results indicate a relationship between general EV adoption                    and BEV battery replacement cost. Finally, we consider the impact
+and gasoline price. This ﬁnding suggests that higher gasoline                      of the 2009 ARRA $7500 tax credit on the cost of ownership of the
+prices together with lower EV purchase price will positively                       PHEV and BEV. This calculation does not consider other direct costs
+impact market penetration of EVs. As gas prices rise, more people                  such as depreciation, insurance, registration and vehicle taxes.
+consider EVs to be worthwhile investments. Consequently, a                             At $3.5/gallon of gasoline, the additional cost of ownership
+signiﬁcant number of the sample population believe that prices                     compared to a CV is $1137, $16,268 ($8768 with tax credit) and
+will rise in the future and that purchase of an EV represent an                    $12,329 ($4829 with tax credit) for the HEV, PHEV and BEV,
+intelligent response to the higher prices.                                         respectively. At $5.42/gallon of gasoline this cost is reduced to
+    Our results are contrary to a previous study on EVs that show                   $2661, $7915 ($415 with tax credit) and $2834 ( $4666 with
+that cost is the main attribute governing vehicle purchase                         tax credit) for the HEV, PHEV and BEV, respectively. Our calcula-
+decision (Zypryme Research and Consulting, 2010). The expecta-                     tions indicate that at $5.42/gallon of gasoline the BEV and PHEV
+tion in this study was that cost would be the greatest concern                     are economically competitive if AARA incentives are considered.
+considering that the majority of our sample population consists of                 The difference in cost of ownership between the EVs and CVs are
+college students earning limited income. However, the fact that                    signiﬁcantly higher partly due to battery replacement costs.
+cost was ranked lower than battery range may be ascribed to that                   Therefore, if EV battery lifetime is improved and/or battery cost
+fact that the technologically minded target group is more likely to                further reduces this cost difference will be less.
+rank technical problems higher than ﬁnancial problems.
+    A comparison of the 10-year cost of ownership for a CV (Chevy                  4.4. Battery: driving range and battery charging
+Cruze), a HEV (Toyota Prius), a PHEV (Chevy Volt) and a BEV
+(Nissan LEAF) is presented in Table 7. The CV, HEV and PHEV in this                   In terms of fuel source and storage, EVs (particularly BEVs)
+study have a combined fuel economy of 30 miles per gallon (mpg),                   have two disadvantages compared to ICE vehicles; EV batteries
+Table 7
+Comparison of vehicle 10-year cost of ownership.
+
+                           10-year vehicle ownership cost
+
+                           $3.52/gallon gasoline                                                 $5.42/gallon gasoline
+
+ Item                      CV(Chevy          HEV (Toyota    PHEV (Chevy        BEV (Nissan       CV(Chevy         HEV (Toyota   PHEV (Chevy   BEV
+                           Cruze)            Prius)         Volt)              Leaf)             Cruze)           Prius)        Volt)         (Nissan
+                                                                                                                                              Leaf)
+
+ Vehicle purchase          $16,800           $24,000        $39,145            $35,200           $16,800          $24,000       $39,145       $35,200
+   price
+ EV battery                       –           $3,000          $5,300            $7,700                 –           $3,000        $5,300        $7,700
+   replacement
+ 240 V charger                    –                –               –            $2,200                 –                 –           –         $2,200
+   installation
+ Repairs                    $5,480            $4,624         $5,424             $4,480            $5,480           $4,624        $5,424        $4,480
+ Maintenance                $6,496            $5,331         $5,060             $4,846            $6,496           $5,331        $5,060        $4,846
+ Gasoline                  $17,605           $10,563         $2,117                 $0           $27,100          $16,260        $3,259            $0
+ Electricity                     0                 0         $5,603             $4,284                 –                –        $5,603        $4,284
+ Total                     $46,381           $47,518        $62,649            $58,710           $55,876          $53,215       $63,791       $58,710
+ Total with AARA 2009                                       $55,149            $51,210                                          $56,291       $51,210
+   incentive
+                                                            O. Egbue, S. Long / Energy Policy 48 (2012) 717–729                                                       723
+
+
+are more expensive and bulky, and refueling is typically slow;                          of EVs would decrease but consumers would then pay for a
+approximately 1–20 kW for electric versus 5000 kW for gasoline                          monthly subscription, similar to a cell phone plan to cover the
+(Pearre et al., 2011). This means that initial BEVs, which rely                         cost of the battery ownership and the price of recharging and/or
+solely on onboard batteries, will have less range than gasoline                         swapping the battery. Thirty one percent of respondents indicated
+powered vehicles, and cannot be quickly refueled en route. These                        willingness to purchase an EV if the ownership of the battery and
+problems do not impact PHEVs as much because they can be                                vehicle were separated and such a battery swapping plan were
+refueled by either electricity or liquid fuels. With regard to our                      available for a monthly subscription. Twenty-ﬁve percent of
+driving range analysis, this study focuses mainly on BEVs because                       respondents were against the notion of battery swapping, while
+they present the greatest range limitation.                                             43% were unsure. An advantage of the battery swapping idea is
+   The majority of respondents (71%) travel fewer than 20 miles                         the separation of the battery ownership from the vehicle. Con-
+per day, 79% travel fewer than 30 miles per day while 87% travel                        sidering that EV battery constitutes a large portion of the cost of
+fewer than 40 miles per day. These results are consistent with the                      the vehicle, early failure of the battery was a concern for some
+National Household Travel Survey (2011) which shows that on                             respondents because of the high cost of replacement. Despite
+average a person travels about 36 miles. Our analysis shows that                        being informed that EVs coming to the market today have
+even with limited range, ﬁrst-generation PHEVs and BEVs, which                          warranties on their batteries of around 8–10 years, 42% of
+are generally between 40 and 100 miles could provide a large                            respondents indicated that they would be ‘‘very worried’’ about
+percentage of daily travel needs, assuming that batteries are                           the degradation or possible failure of their EV’s battery and 48%
+charged daily. However, occasional long trips may not be possible                       were ‘‘somewhat worried’’.
+on BEVs without recharging the battery during the trip.
+   In general, greater range is more desirable but as the range of
+the battery increases so does the cost. The question is: what is the                    4.5. Sustainability of EVs as a transportation option
+minimum range that you require before considering to purchase a
+BEV? Only 32% of respondents were interested in BEVs with a                                 Eighty-three percent (n ¼401) of respondents indicated some
+battery range between 0 and 100 miles, 23% chose ranges                                 familiarity with the concept of sustainability. In addition, 79%
+between 100 and 200 miles, while 45% chose ranges greater than                          (n ¼379) of the sample indicated that sustainability inﬂuenced
+200 miles. The average minimum range desired was 215 miles.                             their decision when purchasing a vehicle. Chi-square analysis
+Table 8 compares actual daily driving distance to desired BEV                           showed signiﬁcant evidence of differences in familiarity with
+range. These results stand in stark contrast to self-reported                           sustainability based on age (Qp ¼7.3624, df ¼2, p ¼0.0252) and
+average daily driving distances. There is clearly a large gap                           education (Qp ¼6.0624, df ¼1, p ¼0.0138). More individuals work-
+between individual expectations of the driving range of a BEV                           ing towards or had completed a graduate degree were familiar
+and actually daily driving distance. This disparity may be partly                       with the idea of sustainability compared to those working
+due to range anxiety, which is the fear of being stranded in a BEV                      towards or had completed an undergraduate degree. Also, respon-
+because it has insufﬁcient range to reach its destination. Battery                      dents in the 18–24 age range were more likely to be unfamiliar
+technology is advancing rapidly and range limitations will not be                       with the term sustainability compare to those ages 25 and above.
+a lasting problem (Pearre et al., 2011). If battery performance                         Those respondents that indicated they were knowledgeable about
+continues to improve at a steady rate then a major issue to be                          sustainability were asked to provide a deﬁnition in their own
+addressed is attracting an adequate market for EVs to support                           words. Although deﬁnitions varied, three different categories
+limited range EVs in the period before battery technology                               were evident. The vast majority of deﬁnitions were related to
+improves.                                                                               product/resource longevity (32%), resource conservation (26%),
+   Many responses indicated that choice of battery range would                          and protecting the environment (14%). In addition, a number of
+depend on how long it took to recharge the battery. Many                                respondents also provided overall deﬁnitions of sustainability
+respondents also indicated that if EVs could quickly be recharged                       that addressed environmental, economic and social dimensions;
+on the go that they would not expect the range to be as great.                          ‘‘having a zero net impact on environment, economy, and social
+Only 32% of the sample thought charging an EV was convenient                            structure.’’
+compared to refueling a gasoline vehicle. Thirty-six percent of                             BEVs were ranked the most environmentally sustainable EV,
+respondents consider charging an EV inconvenient whereas 32%                            followed by PHEVs and then HEVs (see Table 9). This shows an
+were unsure.                                                                            inverse of the responses for awareness and appeal of EVs.
+   Another option for long distance travel with EVs is the idea of                      A signiﬁcant percentage (43%, n¼206) of respondents were
+battery swapping. Battery swapping refers to quickly replacing a                        neutral about EVs being more sustainable than traditional CVs
+EVs depleted battery with a fully charged one at a battery swap                         and other AFVs. The results, shown in table 10, suggest that while
+station. In this case, the battery ownership would likely be                            sustainability considerations inﬂuence respondents’ vehicle pur-
+separated from vehicle ownership, meaning that the initial price                        chase choice, majority remain uncertain about sustainability of
+
+
+Table 8                                                                                 Table 9
+Actual daily driving distance (in miles) vs. preferred BEV range (in miles).            Ranking of electric vehicles based on environmental sustainability.
+
+ Average miles driven per day vs. desired BEV range                                                  Ranking of EV sustainability
+
+ Distance/range (miles)             Average miles driven            Desired BEV           Attribute 3 (most           2     1 (least         Mean         Std. dev.
+                                    per day (%)                     range (%)                       sustainable)            sustainable)     (N ¼481)     (N ¼481)
+
+ Less than 10                       47                               0                    BEV        220               94   167              2.13         0.8904
+ 11–20.                             24                               0                               46%              20%   35%
+ 21–30                               8                               4                    HEV        126              148   207              1.83         0.814
+ 31–40                               8                               2                               26%              31%   43%
+ 41–50                               5                               9                    PHEV       135              239   107              2.06         0.7069
+ Greater than 50                     9                              86                               28%              50%   22%
+724                                                          O. Egbue, S. Long / Energy Policy 48 (2012) 717–729
+
+
+Table 10                                                                                 gasoline but increasing fossil fuel generated electricity. These
+Perceptions of sustainability of EVs relative to other vehicles.                         responses indicate that some of the sampled technologically
+                                                                                         minded individuals question environmental impacts of EVs and
+  Electric vehicles are more sustainable compared to traditional gasoline-
+  powered vehicles and other alternatives                                                calls for more communication and debate on the subject. Ques-
+                                                                                         tions posed showed gaps in the understanding of the environ-
+                                 Number of responses                (%)                  mental impacts of EVs because studies (Duvall et al., 2007;
+                                                                                         Jaramillo et al., 2009) have shown that PHEVs have the potential
+  Strongly agree                  32                                 7
+  Agree                          119                                25
+                                                                                         to substantially reduce greenhouse gas emissions. In addition,
+  Neutral                        206                                43                   lifecycle analyses by Jaramillo et al. (2009) show that PHEVs emit
+  Disagree                        88                                18                   50% less greenhouse gas compared to gasoline and diesel vehicle
+  Strongly disagree               36                                 7                   fuels, even when coal is the primary source of electricity.
+                                                                                             From the open-ended questions posed in the survey, it is
+                                                                                         evident that there was a somewhat strong awareness and under-
+EVs compared to CVs and other alternatives. This view of EVs can                         standing of the beneﬁts and constraints of EVs. Considerable
+be attributed to some comments made by respondents such as;                              understanding of the comprehensive technical details of EVs
+‘‘no use of fossil fuels in the car but increase fossil fuels used at                    may have contributed to more reserved judgment. This argues
+power plants to fuel the car.’’, ‘‘Vehicles that run on electricity                      for more communication; otherwise, there is a risk of negative
+generated from gas or coal power’’, ‘‘transferring greenhouse                            perceptions being embedded in public opinion.
+gasses from roads to power plants’’ and ‘‘yaren’t even green
+considering most of our electricity comes from coal plants’’. This
+ﬁnding implies that some individuals with high environmental                             5. Conclusions and implications for transportation
+awareness may not consider purchasing EVs as beneﬁcial to the                            policymakers
+environment. Such perceptions of EVs serve as a potential
+obstacle to EV adoption.                                                                     The sample used in this study may not be representative of the
+    Differences based on gender (Qp ¼23.492, df ¼4, p¼0.0001)                            entire population due to differences in environmental awareness,
+were statistically signiﬁcant with 57% of females being more                             education and income of majority of respondents; however, it
+neutral on the sustainability of EVs compared to 37% of males.                           provides helpful insights into preferences and attitudes of techno-
+There was no signiﬁcance in differences based on education level.                        logically minded individuals. Our results show that attitudes,
+Individuals that indicated they consider sustainability before                           knowledge and perceptions related to EVs differ across gender,
+purchasing a vehicle indicated an average gas price of $5.20 in                          age, and education groups. Furthermore, our ﬁndings suggest that
+order to be persuaded to buy an EV compared to $6.30 for                                 although sustainability and environmental beneﬁts of EVs have a
+individuals that do not consider sustainability when making                              major inﬂuence on EV adoption they are ranked behind cost and
+vehicle purchase decisions. This suggests that individuals with                          performance. Overall, we conclude that a moderate to high interest
+high sustainability awareness are likely to adopt EV technology                          in EVs exists despite several reservations expressed towards EVs. In
+sooner that individuals with low sustainability awareness.                               general, attitudes towards EVs were neither wholly positive nor
+                                                                                         wholly negative, however, completely negative attitudes to EV
+4.6. Unaddressed concerns about electric vehicles                                        technology detected, though minimal, should not be ignored.
+                                                                                             Evidence provided in this study emphasizes the need to address
+    In concluding the survey respondents were asked, ‘‘What, if                          socio-technical barriers facing EVs. As previously mentioned, some
+anything, could be done to make you want to purchase an EV?’’                            major challenges faced by EVs include battery technology, battery
+Some representative responses include; ‘‘Show me they are truly                          costs and charging infrastructure. However, consumer acceptance is
+sustainable’’; ‘‘I want something cost-efﬁcient that doesn’t burn a                      important as it is key to the commercial success (or failure) of EVs,
+hole through my energy bill’’; ‘‘Reduce Cost, Increase Range,                            even if the other criteria are met. A major potential barrier to
+Decrease Recharge Time’’; ‘‘Give a bigger tax credit. ’’; ‘‘Evidence                     widespread EV adoption detected among our technologically
+of its reliability, safety and cost savings’’. Other comments include                    minded target group is the uncertainty associated with the EV
+‘‘Cost not much more than a gasoline ICE vehicle’’ and ‘‘Cost of                         battery technology and sustainability of fuel source. Some of this
+gasoline reaches insane levels’’.                                                        uncertainty may be attributed to unfamiliarity with the EV tech-
+    The majority of respondents had questions relating to the battery                    nology but may also be due to the fact that several individuals in
+technology, raw material supply, environmental impacts, appearance,                      this group are not convinced that EVs are a better option than some
+operation and performance of EVs, cost, and how electric cars                            currently available CVs. The fact that some members of this group
+compare to conventional vehicles and other AFVs. Respondents were                        question the sustainability and environmental performance of EVs
+interested in learning more about the mechanisms of charging, how                        compared to ICE vehicles may mean that some individuals with
+the battery range limitation can be overcome and how to secure the                       high environmental awareness or values may not consider the
+mineral resources necessary for large-scale battery manufacturing.                       purchase of an EV as beneﬁcial to the environment.
+Concerns about cost were evident because cost was the subject of                             Current incentives such as tax credits to subsidize the cost of
+several questions (17%); this includes the initial cost, maintenance                     EVs and fuel taxes may have little effect on EV market penetration
+cost and payback period. In addition, questions were asked about                         if consumers have low conﬁdence in EV technology. Therefore,
+how EVs could be made more economically competitive to conven-                           certain measures need to be taken to increase the market share of
+tional gasoline powered vehicles. Some respondents wondered when                         EVs. These measures, some of which are already being explored,
+EVs will become widely available and questioned if there were some                       include education, increased investments in EV technology, infra-
+battery problem which manufacturers were not being open about.                           structure, battery swap programs, strong warranties on the EV
+    In terms of environmental impacts, the sampled individuals                           batteries and perhaps increased tax credits to subsidize the cost
+were very critical about environmental impacts of EVs especially                         of EVs. Since public opinion can be inﬂuenced through media and
+regarding fuel sources for generating electricity to charge EVs.                         social networks, policy makers can use this medium to inﬂuence
+They demanded answers that disproved the notion that adoption                            the public appreciation for non-ﬁnancial beneﬁts of adopting EVs
+of EVs was just ‘‘trading one problem for another’; reducing                             such as energy security and reduction of ecological footprint
+                                                           O. Egbue, S. Long / Energy Policy 48 (2012) 717–729     725
+
+
+Table A1
+
+ Electric vehicle consumer survey                                                      (%)
+
+ 1. What is your gender?
+ Male                                                     342                          71
+ Female                                                   136                          28
+ Prefer not to say                                        3                            1
+ Total                                                    481                          100
+
+
+
+ 2. What ethnicity best describes you?
+ White                                                    408                          85
+ Native American/                                         2                            0
+   American Indian
+ African-American                                         8                            2
+ Hispanic/Latino                                          4                            1
+ Asian                                                    36                           7
+ Other, please specify                                    23                           5
+ Total                                                    481                          100
+
+
+
+ 3. What is your age (in years)?
+ 481 Responses
+
+
+
+ 4. What is your occupation?
+ Student                                                  385                          80
+ Faculty                                                  52                           11
+ Other Missouri S&T                                       44                           9
+   Staff, please specify
+ Total                                                    481                          100
+
+
+
+ 5. Please indicate your highest level of education (include degree you are currently working on)
+ Elementary                                             0                         0
+ High school/GED                                        9                         2
+ Some college/                                          69                        14
+   associates
+ Undergraduate                                          247                       51
+   degree
+ Masters                                                77                        16
+ PhD                                                    74                        15
+ Post doctorate                                         5                         1
+ Total                                                  481                       100
+
+
+
+ 6. Area of highest degree/major?
+ 481 Responses
+
+
+
+ 7. What is your annual family income from all sources before taxes?
+ Under $25,000                                      108                                22
+ $25,000–$39,999                                    42                                 9
+ $40,000–$49,999                                    28                                 6
+ $50,000–$74,999                                    76                                 16
+ $75,000–$99,999                                    56                                 12
+ $100,000–$149,999                                  75                                 16
+ over $150,000                                      21                                 4
+ Prefer not to say                                  75                                 16
+ Total                                              481                                100
+
+
+
+ 8. Please describe in a few words what comes to your mind when you think about electric vehicles:
+ 481 Responses
+
+
+
+ 9. What type of electric vehicles or other vehicles that use alternative energy sources have you had experience
+    with? Select all that apply.
+ None                                                       225                          47
+ Biofuel                                                    67                           14
+ Hybrid electric                                            184                          38
+ Plug-in hybrid                                             36                           7
+    electric
+ Battery electric                                           80                           17
+ Other, please specify                                      20                           4
+
+
+
+ 10. How would you rate your interest in cars that use alternative energy sources?
+ No interest                                         22                          5
+726                                                      O. Egbue, S. Long / Energy Policy 48 (2012) 717–729
+
+
+Table A1 (continued )
+
+ Little interest                                        69                           14
+ Moderate interest                                      209                          43
+ High interest                                          181                          38
+ Total                                                  481                          100
+
+
+
+ 11. How would you rate your interest towards electric vehicles (EVs)?
+ No interest                                         44                              9
+ Little interest                                     82                              17
+ Moderate interest                                   213                             44
+ High interest                                       142                             30
+ Total                                               481                             100
+
+
+
+ 12. How likely would you be to consider purchasing a vehicle that uses alternative fuel?
+ Not at all likely                                  73                           15
+ Somewhat likely                                    176                          37
+ Likely                                             123                          26
+ Very likely                                        109                          23
+ Total                                              481                          100
+
+
+
+ 13. Which of the three electric vehicle types are you aware of? Please check all that apply.
+ Hybrid electric                                       455                         95
+   vehicle (HEV)
+ Plug-in hybrid                                        389                         81
+   electric vehicle
+   (PHEV)
+ Battery electric                                      365                         76
+   vehicle (BEV)
+
+
+
+ 14. Please rank the following EV types in terms of which appeals to you the most (1 being the most
+   appealing and 3 being the least appealing) An ICE (internal combustion engine) is an engine used in
+   most conventional cars in which combustion of fuel (usually gas and diesel) occurs A HEV (hybrid
+   electric vehicle) adds a battery and electric motor to a car that uses internal combustion (IC) engine
+   which is usually powered by gasoline or diesel. A PHEV (Plug-in hybrid electric vehicle) uses HEV
+   technology but its battery can be recharged via the electric grid, providing purely electric power for a
+   limited range. A BEV (Battery electric vehicle) operates solely on an electric battery and also features a
+   plug in charger
+ Top number is the          1                           2                             3
+   count of
+   respondents
+   selecting the
+   option. Bottom is
+   percent of the total
+   respondents
+   selecting the
+   option.
+                           208                          128                          145
+ HEV
+                           43                           27                           30
+                           134                          253                          94
+ PHEV
+                           28                           53                           20
+                           139                          100                          242
+ BEV
+                           29                           21                           50
+
+
+
+ 15. Please rank the following attributes of EVs in terms of which appeals to you the most (1 being the most appealing and 5 being the least appealing)
+ Top number is the         1                           2                         3                          4                          5
+   count of
+   respondents
+   selecting the
+   option. Bottom % is
+   percent of the total
+   respondents
+   selecting the
+   option.
+ Decrease/eliminate        183                          92                           52                         63                     64
+  the use of
+                           40                           20                           11                         14                     14
+  petroleum
+                           93                           103                          151                        57                     47
+ Less maintenance
+                           21                           23                           33                         13                     10
+ Reduced greenhouse        81                           106                          96                         77                     103
+   gas emissions           17                           23                           21                         17                     22
+                           50                           71                           70                         101                    165
+ Looks/style
+                           11                           16                           15                         22                     36
+                           58                           94                           97                         155                    67
+ Comfort
+                           12                           20                           21                         33                     14
+                                                          O. Egbue, S. Long / Energy Policy 48 (2012) 717–729    727
+
+
+Table A1 (continued )
+
+ 16. How many miles per day do you drive on average?
+ Less than 10                                      226                                47
+ 20-Nov                                            117                                24
+ 21–30                                             38                                 8
+ 31–40                                             37                                 8
+ 41–50                                             22                                 5
+ Greater than 50                                   41                                 9
+ Total                                             481                                100
+
+
+
+ 17. As the size of an EV battery increases, the range increases, but so does the cost. With that in mind,
+   how many miles minimum would the vehicle range have to be before you would consider buying a
+   battery electric vehicle (BEV):
+ 481 Responses
+
+
+
+ 18. What do you consider your biggest concern about EVs?
+ High cost                                         129                                27
+ Battery range                                     158                                33
+ Safety                                            6                                  1
+ Reliability                                       47                                 10
+ Charging                                          83                                 17
+   infrastructure
+ Other, please specify                             58                                 12
+ Total                                             481                                100
+
+
+
+ 19. How much ($/gallon) would gasoline have to cost to persuade you to drive an EV?
+ 481 Responses
+
+
+
+ 20. Do you consider charging an EV an inconvenience?
+ Yes                                               177                                37
+ No                                                148                                31
+ Unsure                                            156                                32
+ Total                                             481                                100
+
+
+
+ 21. ‘‘Quick-charging‘‘ refers to a higher voltage charging that is capable of charging your vehicle’s battery
+   in a shorter period of time than a standard wall outlet. If such chargers were available at public
+   stations similar to gas pumps, how quickly would you expect your battery to be charged from empty to
+   full?
+ 1–5 min                                                 144                          30
+ 5–10 min                                                185                          38
+ 10–15 min                                               88                           18
+ Greater than 15 min                                     64                           13
+ Total                                                   481                          100
+
+
+
+ 22. EVs that are coming to the market today have warranties on their batteries of around 8–10 years.
+   Knowing that batteries constitute a large portion of the cost of an EV, how concerned are you about the
+   degradation or possible failure of your EV’s battery.
+ Very worried                                           205                         43
+ Somewhat worried                                       230                         48
+ Not worried                                            46                          10
+ Total                                                  481                         100
+
+
+
+ 23. Would you be more willing to purchase an EV if the ownership of the battery and the vehicle were
+   separated such that you could purchase the vehicle without the battery for a lower price and instead
+   pay for a monthly subscription, similar to a cell phone plan, which covers the cost of battery ownership
+   and the price of recharging and/or swapping your battery?
+ Yes                                                    154                         32
+ No                                                     120                         25
+ Unsure                                                 207                         43
+ Total                                                  481                         100
+
+
+
+ 24. Do you like the idea of ‘‘battery swap stations‘‘ where your depleted battery could be swapped out
+   and replaced with a fully charged battery in one minute?
+ Yes                                                    320                        67
+ No                                                     63                         13
+ Unsure                                                 98                         20
+ Total                                                  481                        100
+728                                                     O. Egbue, S. Long / Energy Policy 48 (2012) 717–729
+
+
+Table A1 (continued )
+
+ 25. Do you have accessibility to an external electrical outlet to charge an EV where your car is parked at
+   your primary residence?
+ Yes                                                     244                        51
+ No                                                      237                        49
+ Total                                                   481                        100
+
+
+
+ 26. Electric vehicles are a safe mode of transportation
+ Strongly agree                                        89                            19
+ Agree                                                 188                           39
+ Neutral                                               120                           25
+ Disagree                                              26                            5
+ Strongly disagree                                     13                            3
+ Unsure                                                45                            9
+ Total                                                 481                           100
+
+
+
+ 27. Are you familiar with the term ‘‘sustainability‘‘?
+ Yes                                                    401                          83
+ No                                                     80                           17
+ Total                                                  481                          100
+
+
+
+ 28. If you answered ‘‘yes‘‘ to question 27, what does sustainability mean to you?
+ 380 Responses
+
+
+
+ 29. When purchasing a vehicle, does sustainability of the vehicle inﬂuence your decision?
+ Yes                                                  379                        79
+ No                                                   102                        21
+ Total                                                481                        100
+
+
+
+ 30. Electric vehicles are the most sustainable choice of personal transportation when compared with
+   traditional gasoline-powered vehicles and other alternatives
+ Strongly agree                                        32                         7
+ Agree                                                 119                        25
+ Neutral                                               206                        43
+ Disagree                                              88                         18
+ Strongly disagree                                     36                         7
+ Total                                                 481                        100
+
+
+
+ 31. Rank the following types of electric vehicles in terms of which is a more environmentally sustainable
+   mode of transportation. (1 being the most environmentally sustainable and 3 being the least
+   environmentally sustainable)
+ Top number is the         1                             2                          3
+   count of
+   respondents
+   selecting the
+   option. Bottom % is
+   percent of the total
+   respondents
+   selecting the
+   option.
+ Battery electric          220                         94                            167
+   vehicle                 46                          20                            35
+ Hybrid electric           126                         148                           207
+   vehicle                 26                          31                            43
+ Plug-in hybrid            135                         239                           107
+   electric vehicle        28                          50                            22
+
+
+
+ 32. What, if anything, could be done to make you want to purchase an EV?
+ 336 Responses
+
+
+
+ 33. What questions, if any, do you have about electric vehicles and alternative energy vehicles, in
+   general?
+ 175 Responses
+
+
+
+6. Future work                                                                       public in other to provide insight on how different types of
+                                                                                     consumers perceive EVs as well as to highlight individual similarities
+    This study focused on the perceptions and attitudes of a techno-                 and differences between the two different consumer groups.
+logical minded group towards EVs. Future research will compare the                      The cost of vehicle ownership discussed in this paper also
+attitudes and perceptions of this sample with those of the general                   leads to opportunities for future work. In Europe, gas prices are
+                                                             O. Egbue, S. Long / Energy Policy 48 (2012) 717–729                                                            729
+
+
+typically much higher compared to the United States. Therefore,                          Lieven, T., Muhlmeier, S., Henkel, S., Walker, J., 2011. Who will buy electric cars?
+without other incentives, consumers will likely be more moti-                                An empirical study in Germany. Transportation Research D 16 (3), 236–243.
+                                                                                         Mandel, J., 2007. Battery developers fueling plug-in hybrids’ race to market.
+vated to purchase EVs in Europe than in the United States. A                                 Greenwire. /http://www.eenews.net/Greenwire/2007/09/18/1/S.
+follow-up research will apply the same methodology used in this                          Modahl, M., 1999. Now or Never: How Companies Must Change Today to Win the
+study to European data.                                                                      Battle for Internet Consumers. Harper Business, New York, NY.
+                                                                                         Moore, G., 2002. Crossing the Chasm: Marketing and Selling High-Tech Product to
+                                                                                             Main Stream Customers. Harper Collins, New York.
+                                                                                         Natural Resources Defense Council, 2007. The Next Generation of Hybrid Cars:
+Acknowledgments
+                                                                                             Plug-in Hybrids Can Help Reduce Global Warming and Slash Oil Dependency.
+                                                                                         National Household Travel Survey, 2011, Summary of Travel Trends, 2009 National
+  This research was partially funded by DOE Award # DE-                                      Household Travel Survey. /http://nhts.ornl.gov/2009/pub/stt.pdfS (Accessed,
+                                                                                             September 2011).
+EE0002012.
+                                                                                         Oliver, J.D., Rosen, D.E., 2010. Applying the environmental propensity framework:
+                                                                                             a segmented approach to hybrid electric vehicle marketing strategies. The
+                                                                                             Journal of Marketing Theory and Practice 18 (4), 377–393.
+Appendix A                                                                               Ozaki, R., Sevastyanova, K., 2011. Going hybrid: An analysis of consumer purchase
+                                                                                             motivations. Energy Policy 39 (5), 2217–2227.
+    See Table A1 here.                                                                   Payton, T., 1988. The electric car-some problems of driver attitudes and product
+                                                                                             ﬁt. Journal of the Market Research Society 30 (1), 73–86.
+                                                                                         Pearre, N.S., Kempton, W., Guensler, R.L., Elango, V.V., 2011. Electric vehicles: How
+References                                                                                   much range is required for a day’s driving? Transportation Research Part C:
+                                                                                             Emerging Technologies 19 (6), 1171–1184.
+                                                                                         Pesaran, A., Market, T., Tataria, H., and Howell, D., 2007. Battery requirements for
+Ajzen, I., 1991. The theory of planned behavior. Organizational Behavior and
+                                                                                             plug- in hybrid electric vehicles: analysis and rationale. Paper presented at the
+    Human Decision Processes 50, 179–211.
+                                                                                             23rd International Electric Vehicle Symposium and Exposition (EVS-23),
+Anderman, M., 2007. Status and Prospects of Battery Technology for Hybrid
+                                                                                             Anaheim, California, December 2007.
+    Electric Vehicles, Including Plug-in Hybrid Electric Vehicles, Brieﬁng to the
+                                                                                         Roche, M., Mourato, S., Fischedick, M., Pietzner, K., Viebahn, P., 2010. Public
+    U.S. Senate Committee on Energy and Natural Resources. Advanced Auto-
+                                                                                             attitudes towards demand for hydrogen fuel cell vehicles: a review of the
+    motive Batteries, Oregon House, CA.
+Axsen, J., Kurani, K.S., Burke, A., 2010. Are batteries ready for plug-in hybrid             evidence and methodological implications. Energy Policy 38 (10), 5301–5310.
+    buyers? Transport Policy 17 (3), 173–182.                                            Rogers, E.M., 2003. Diffusion of Innovations, ﬁfth ed Free Press, New York.
+Canis, B., 2011. Battery manufacturing for hybrid and electric vehicles: policy          Sjoberg, L., 1998. Why do people demand risk reduction?. In: Lydersen, S., Hansen,
+    issues. Congressional Research Service /http://nepinstitute.org/get/CRS_Re               G.K., Sandtorv, H.A. (Eds.), ESREL-98: Safety and Reliability. 751–758. A. A.
+    ports/CRS_Energy/Energy_Efﬁciency_and_Conservation/Batteries_for_Hybri                   Balkema, Trondheim.
+    d_and_Elec_Vehicles.pdfS (Accessed April 10 2011).                                   Skerlos, S.J., Winebrake, J.J., 2010. Targeting plug-in hybrid electric vehicle policies
+Diamond, D., 2009. The impact of government incentives for hybrid-electric                   to increase social beneﬁts. Energy Policy 38 (2), 705–708.
+    vehicles: evidence from U.S. states. Energy Policy 37 (3), 972–983.                  Skippon, S., Garwood, M., 2011. Responses to battery electric vehicles: UK
+Duvall, M., 2002. Comparing the Beneﬁts and Impacts of Hybrid Electric Vehicle               consumer attitudes and attributions of symbolic meaning following direct
+    Options for Compact Sedan and Sport Utility Vehicles. Electric Power Research            experience to reduce psychological distance. Transportation Research Part D:
+    Institute, Final Report.                                                                 Transport and Environment 16 (7), 525–531.
+Duvall, M., Knipping, E., Alexander, M., Tonachel, L., Clark, C., 2007. Environmental    Sovacool, B.K., 2009. Rejecting renewables: the socio-technical impediments to
+    Assessment of Plug-in Hybrid Electric Vehicles, Nationwide greenhouse gas                renewable electricity in the United States. Energy Policy 37 (11), 4500–4513.
+    emissions. EPRI, Palo Alto, CA, Report 1015325.                                      Sovacool, B.K., Hirsh, R.F., 2009. Beyond batteries: an examination of the beneﬁts
+Edison, S.W., Geissler, G.L., 2003. Measuring attitudes towards general technology:          and barriers to plug-in hybrid electric vehicles (PHEVs) and a vehicle-to-grid
+    antecedents, hypothesis and scale development. Journal of Targeting, Mea-                (V2G) transition. Energy Policy 37 (3), 1095–1103.
+    surement and Analysis for Marketing 12 (2), 137–156.                                 Steg, L., Vlek, C., Slotegraaf, G., 2001. Instrumental-reasoned and symbolic-
+Gallagher, K.S., Muehlegger, E.J., 2011. Giving green to get green? incentives and           affective motives for using a motor car. Transportation Research Part F: Trafﬁc
+    consumer adoption of hybrid vehicle technology. Journal of Environmental                 Psychology and Behaviour 4 (3), 151–169.
+    Economics and Management 61 (1), 1–15.                                               Steg, L., 2005. Car use: lust and must. Instrumental, symbolic and affective motives
+Greenwood, P.E., Nikulin, M.S., 1996. A Guide to Chi-Squared Testing. J.Wiley, New           for car use. Transportation Research Part A: Policy and Practice 39 (2-3),
+    York.                                                                                    147–162.
+Heffner, R., Kurani, K.S., Turrentine, T.S., 2007. Symbolism in California’s early       Turrentine, T.S., Kurani, K.S., 2007. Car buyers and fuel economy? Energy Policy 35
+    market for hybrid electric vehicles. Transportation Research Part 12 (6),
+                                                                                             (2), 1213–1223.
+    396–413.
+                                                                                         U.S. Department Of Energy Vehicle Technologies Program, 2010. Vehicle Technol-
+International Energy Agency, 2007 World energy outlook: summary and conclu-
+                                                                                             ogies Program: Goals, Strategies, and Top Accomplishments /http://www1.
+    sions, /http://www.worldenergyoutlook.orgS (Accessed January 8 2011).
+                                                                                             eere.energy.gov/vehiclesandfuels/pdfs/pir/vtp_goals-strategies-accomp.pdfS.
+Kahn, M.E., 2007. Do greens drive Hummers or hybrids? Environmental ideology
+                                                                                         van Bree, B., Verbong, G.P.J., Kramer, G.J., 2010. A multi-level perspective on the
+    as a determinant of consumer choice. Journal of Environmental Economics and
+    Management 54 (2), 129–145.                                                              introduction of hydrogen and battery-electric vehicles. Technological Fore-
+Lane, B., Potter, S., 2007. The adoption of cleaner vehicles in the UK: exploring the        casting and Social Change 77 (4), 529–540.
+    consumer attitude–action gap. Journal of Cleaner Production 15 (11–12),              Verhoef, E. and Wee, B., 2000. Car Ownership and Status: Implications for Fuel
+    1085–1092.                                                                               Efﬁciency Policies from the Viewpoint of Theories of Happiness and Welfare
+Janes, J., 2001. Categorical relationships: Chi-square. Library Hi Tech 19 (3),              Economics. Tinbergen Institute Discussion Paper. TI 2000-076/3. /http://
+    296–298.                                                                                 www.tinbergen.nl/discussionpapers/00076.pdfS (Accessed April 10, 2011).
+Jaramillo, P., Samaras, C., Wakeley, H., Meisterling, K., 2009. Greenhouse gas           Zypryme Research and Consulting. The Electric Vehicle Study. 2010. /http://www.
+    implications of using coal for transportation: life cycle assessment of coal-to-         zpryme.com/SmartGridInsights/The_Electric_Vehicle_Study_Zpryme_Smart_
+    liquids, plug-in hybrids, and hydrogen pathways. Energy Policy 37 (7),                   Grid_Insights_Airbiquity_Sponsor_December_2010.pdfS. (Accessed June 2,
+    2689–2695.                                                                               2011).
+

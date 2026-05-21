@@ -1,0 +1,1682 @@
+     SHIFTING GEARS
+
+   An Economic Geography Analysis of
+Australia's Downstream Automotive Sector
+
+
+         Research Report for Industry
+                 January 2025
+
+
+
+
+                 Andrew Warren
+             E: awarren@uow.edu.au
+I pay respect to the past, present and future Traditional
+Custodians of this nation. I acknowledge the continuation
+of cultural, spiritual, and educational practices of
+Aboriginal and Torres Strait Islander peoples.
+
+
+
+
+Table of Contents
+  01 Project overview                            02 Shifting Gears
+            An outline of the                         The restructuring of
+            research project                          Australia’s auto
+            .......................... pp. 2-3        sector................ pp. 4-6
+
+
+
+
+  03       Dataset 1                             04   Dataset 2
+          Market characteristics of                   Automobiles as
+          Australia’s auto economy                    complex, evolving
+          .......................... pp. 7-17         technologies
+                                                      ......................... pp. 18-24
+
+
+
+
+  05       Dataset 3                             06   Dataset 4
+           The consumer-
+                                                      Workforce insights and
+           product relationship
+                                                      struggles over skills
+           ......................... pp. 25-37
+                                                      ........................ pp. 38-47
+
+
+
+
+  07 The Road Ahead                              08   References
+          Forward-looking insights                    A list of references used
+          on Australia’s post-                        in this report
+          production auto sector                      ........................ p. 50
+          ......................... p. 48-49
+
+
+                                                                                            1
+                 01 Project overview
+                    An outline of the research project
+This report presents data collected from primary and secondary research on a multi-year
+project titled   'Economic geographies of transition: beyond Australian automotive
+production'. The research project was funded by the Australia Research Council (ARC)
+under the ‘Discovery Early Career Research Award (DECRA)’ scheme.
+
+The DECRA project (DE180100492) examined the spatial and economic aspects of
+restructuring unfolding in Australia’s automotive sector, specifically so-called secondary,
+‘aftermarket services’. The focus on aftermarket services was deliberate. In October 2017,
+the last new passenger cars made in Australia rolled off assembly lines in GM-Holden’s
+Elizabeth factory on the outskirts of Adelaide. Over the previous 12 months, Ford
+(Broadmeadows, Geelong) and Toyota (Altona) also ceased making new cars domestically,
+ending a high-value manufacturing industry that had provided well-paid, unionised jobs and
+been a source of national pride for close to a century (see McDonagh 2011).
+
+A range of factors explained the closure of new car manufacturing in Australia. These
+factors included Australia being a small, geographically isolated market; a dramatic shift in
+consumer preferences from large family sedans to SUVs and dual-cab utes; the
+comparatively high costs of manufacturing vehicles domestically; increased competition
+from newly industrialised countries, and Australia’s removal of import tariffs and
+government assistance that had spurred a classic ‘branch-plant’ spatial arrangement to
+new car production.
+
+Mirroring the United States, in the post-war period Australia’s settlement pattern became
+characterised by detached housing in suburban areas (urban sprawl) closely associated
+with new road infrastructure and rising car dependency. By 2020, there were roughly 775
+vehicles per 1,000 residents in Australia, a 31% increase in ownership rates from 1990.
+
+While new production has ended, costing around 30,000 full-time equivalent jobs,
+Australia’s high levels of car dependency continue to support a large, spatially dispersed
+aftermarket economy. This aftermarket is underpinned by technical services and products
+that maintain the safe and reliable use of vehicles alongside their second-hand value
+(Warren and Gibson 2021). Importantly, while car manufacturing and assembly are spatially
+mobile and increasingly fragmented across global production networks (GPNs),
+aftermarket services require geographical proximity to cities and towns where car
+ownership levels and dependency are high.
+
+Aftermarket commercial services are connected to the production and consumption of
+motor vehicles, forming a considerable economic enterprise in their own right (Warren and
+Gibson 2021). Aftermarket activities include specialised services and products such as
+maintenance and repair (M&R), aftermarket accessories, spare parts, materials recycling,
+insurance and financial products, and the sale of user-generated data, such as that now
+captured via telematics technology.
+
+                                                                                          2
+Responding to a lack of research on product aftermarkets, including for Australia’s
+automotive sector, the DECRA Project aimed to develop an evidence base and analytical
+framework to offer new insights into aspects of industrial change that have major
+implications for the national economy and a spatially mobile society.
+
+Integrating insights from more than 60 semi-structured interviews, quantitative data sets,
+and ethnography in auto servicing shops, the project traced structural changes in
+aftermarket industries and documented transition experiences among place-based auto
+businesses. Conceptually, a relational economic geography framework was deployed to
+help interpret emerging technical and competitive dynamics among auto repair and
+maintenance businesses. These place-based firms service an increasingly complex and
+information-rich consumer product manufactured by globally-networked brands and
+multinational corporations.
+
+Through an immersive research process, the project was also able to examine the changing
+skill requirements among a traditionally male-dominated ‘blue-collar’ workforce. In light of
+struggles identified within downstream auto businesses to fill vacant positions with suitably
+skilled and experienced workers, the report concludes by making three recommendations
+for industry groups and policy-makers. These recommendations are intended to assist in
+reproducing a skilled and valued workforce well-equipped for the future. In addition to this
+report, a series of academic publications are connected to the research and can be
+accessed via the Reference List contained on page 50.
+
+Importantly, the data sets presented in this report help to illustrate how the causes of
+industrial transformation involve a combination of factors. In the auto sector, the multi-
+scale factors driving change include the effects of government laws and policies (e.g. US
+Clean Air Act 1999; Inflation Reduction Act 2022), evolving technologies and intellectual
+property rights, changes to production and retailing practices, the reliance on cars for
+mobile everyday life, and struggles to reproduce a workforce skilled at keeping cars in
+reliable working order. A key objective of the report is to offer policy-relevant insights as
+new forms of regulation emerge globally around the sharing of technical and proprietary
+information among industry actors; so-called ‘right-to-repair’ laws.
+
+The chief investigator on the project was Dr Andrew Warren, an economic and labour
+geographer based in the Australian Centre for Culture, Environment, Society, and Space
+(ACCESS) at the University of Wollongong (UOW). A broader groups of researchers also
+contributed to the project, including:
+
+- Dr Chris Gibson, Senior Professor, ACCESS, UOW
+- Dr Pauline McGuirk, Senior Professor and Director, ACCESS, UOW
+- Mallee Smith, Research Assistant, School of Geography & Sustainable Communities, UOW
+- Craig Lyons, Research Assistant, ACCESS, UOW
+- Rebecca Vaartjes, Research Assistant, ACCESS, UOW
+- Dr Ren Hu, Lecturer, School of Commerce, Jiangsu University of Science and Technology
+
+For further information on the project contact Dr Andrew Warren, E: awarren@uow.edu.au)
+
+
+
+
+                                                                                          3
+                     02 Shifting Gears
+                        The restructuring of Australia’s
+                        auto sector
+Restructuring has been a near-permanent feature of advanced industrial economies since
+the early 1970s (Warren 2019). The auto sector has been an emblematic example of such
+transformation. Writing about the deindustrialisation of America’s economy four decades
+ago, Bluestone and Harrison (1982: 114) pointed out that “no single product with its extensive
+linkages to other economic sectors… has ever so dominated the imagination of the
+population, or base of a national economy as did the car”. The auto sector is deeply
+interconnected with a range of other commercial functions and activities: road and
+infrastructure works; urban planning and suburbanised housing developments; corporate
+finance and personal credit markets; legislative and regulatory approaches spanning trade
+policy to environmental protection; personal mobility and lifestyles; regional economic
+development; technological and organisational change, employment and skilled labour
+markets (Pavlínek 2020; Pollard et al. 2021; Warren and Gibson 2021). In the 1960s, across
+advanced economies, up to one in six jobs were indirectly connected to the automobile
+(Bluestone and Harrison 1982).
+
+By the 1970s, cars had become a quintessential product of globalising capitalism. With a drive
+for greater efficiency and returns on investment, auto brands increasingly segmented and
+dispersed production among tiers of original equipment manufacturers (OEMs) and
+subcontractors (Sturgeon et a. 2008; Rutherford and Holmes 2014).
+
+Then, in 1990s, amendments to the U.S. Clean Air Act required all cars sold in the country to
+be fitted with On-Board Diagnostic (OBD) technology. The goal was to reduce urban air
+pollution by improving fuel efficiency and lowering exhaust emissions. More sophisticated
+generation II OBD technologies were mandated from 1996 onwards. The EU followed suit in
+1999 and regulated the compulsory installation of diagnostic technologies (Directive
+1999/96/EC, Art. 4).
+
+Meanwhile, Australia lagged. Amendments to the Motor Vehicles Standards Act (1989) only
+occurred in 2006. U.S. and EU regulation precipitated a range of innovations in auto design
+and manufacturing. Whilst couched in an environmental agenda, technological changes
+were accelerated by automakers in the 2000s and 2010s as part of targeted marketing
+strategies aimed at selling more new vehicles (Vinsel 2019).
+
+Also important to the story of industrial restructuring was the changing preferences of
+consumers, a reminder that end-users co-create successful brands. In markets such as
+Australia large family sedans were top-sellers for several decades e.g. the Ford Falcon,
+Holden Commodore, and Toyota Camry. These were also designs being manufactured
+onshore. Yet, by the 2010s, an increasing portion of the new car market favoured small
+hatchbacks, SUVs, and 4WDs. Hatchbacks offered greater fuel economy and convenience for
+inner-city driving. SUVs and 4WDs, including dual-cab utes, offered a raised drive height and
+greater flexibility in use for ‘trades’ workers and busy families alike.
+
+
+                                                                                            4
+By the 2020s, the highest-selling car models in Australia were the Toyota Hilux and Ford
+Ranger, both diesel-powered 4WDs with significant towing and off-road capabilities. This
+collection of factors help to explain the restructuring of the auto industrial complex, which
+took on a distinctive character in Australia (cf. Warren 2019).
+
+As auto plants were shuttered in Melbourne, Geelong, and Adelaide, Australia became an
+import-only car market. As mentioned, the significance of the plant closures included the
+loss of 30,000 well-paid jobs across industrial, working-class communities (Beer 2018). More
+broadly, the nation’s industrial capacity was also negatively impacted.
+
+Multinational automakers pointed to a range of factors in deciding to divest from Australian
+branch plant production: comparatively high production costs; competition among global
+firms; constrained economies of scale in a small, geographically isolated region; falling levels
+of state support; low import tariffs amid free trade agreements with major auto exporting
+nations (e.g. China, Japan, South Korea), and an increasingly segmented new car market.
+
+A Federal Senate Economics Committee Inquiry (2015) preceded the plant closures and
+focused on mapping the future of a post-production ‘auto economy’. The inquiry noted that
+“the downstream sectors will account for around 95 per cent of all activity within the
+Australian automotive industry after 2017”(SECI 2015: 4). By February 2023, post-production
+activities such as car retailing (sales), servicing and repair, accessories and spare parts trade
+contributed around 350,000 jobs nationwide. Auto repair and maintenance was the single
+largest industry, comprising 153,600 jobs or 44% of auto industry employment (ABS 2023).
+
+High vehicle ownership rates, rapid technological change, and the inability to self-service an
+elaborate machine have deepened the reliance of Australian consumers on buying after-
+sales services from specialised businesses. With the end of new car production, historically
+celebrated in the national economic imaginary, downstream activities such as maintenance
+and repair were recognised as crucial to sustaining the working condition of motor vehicles.
+Today, cars are products not only crucial to personal mobility but also the ability for many
+households to access life opportunities (Warren and Gibson 2023).
+
+Contrasting macroscale indicators pointing to growing aggregate demand for downstream
+services, a granular view suggested local auto businesses were facing a specific set of
+challenges. During the Senate Inquiry, the Motor Trades Association of Australia (MTAA 2015:
+11) reported that downstream auto businesses were enduring “a period of unprecedented
+restructuring and economic upheaval”. Brand-aligned dealerships were facing declining
+margins on new car sales and strict franchise conditions pushed by powerful automakers.
+Spatially dispersed independent mechanic shops, comprising 90% of the business count,
+were losing aftermarket share and closing at an alarming rate. Meanwhile, industry groups
+reported a looming skills shortage among an undervalued workforce that faced new training
+and upskilling requirements.
+
+Across hierarchical production networks, established automakers continued to wield
+multidirectional power (Sturgeon et al. 2008; Pavlinek 2020). Such power infiltrated post-
+production services and auto shops via the control of retailing practices and flows of
+informational content associated with a complex, evolving consumer product.
+
+The Senate Inquiry’s final report noted a structurally uneven downstream auto sector and
+emphasised the need for exploring strategies to effectively regulate business practices.
+Research presented in this report commenced amid ongoing industry upheaval and
+uncertainty about the future of auto-related aftermarket services.
+                                                                                              5
+                                                 60+ brands
+
+
+
+
+                                             350+ models
+
+
+
+                                             58,443 auto businesses
+
+
+
+
+                                                          1.5% annual
+                                                          business
+                                                          growth,
+                                                          2018-2023
+
+
+
+                                         111,300 motor
+                                             mechanics
+                                                 (2021)
+
+
+
+
+                                    10.6 years = the average age of
+  400,000 cars                      the national fleet
+scrapped in 2023
+
+
+
+                   780 registered
+                   vehicles per      EVs and Hybrids =
+                   1,000 people       12% of new car
+                   (2023)              sales in 2023
+                                03           Dataset 1
+                              Market characteristics of
+                              Australia’s auto economy
+Table 1: Australian new car sales and market share of major brands, 2023.
+Source: FCAI 2023.
+
+
+                               Market        Sales
+  Auto brand      Australian                               Global HQ          Australian HQ
+                              share (%),    change
+                  sales, 2023
+                                2023          (%),
+                                           2019-2023
+
+    1. Toyota       215,240      17.7        ˄ 4.6%    Toyota City          Melbourne
+
+    2. Mazda        100,008       8.2                  Fuchū, Hiroshima     Melbourne
+                                             ˄ 2.4%
+
+     3. Ford        87,800       7.2         ˄ 38.7%   Dearborn, Detroit    Melbourne
+
+      4. Kia         76,120      6.3        ˄ 23.8%    Seoul, South Korea   Adelaide
+
+   5. Hyundai       75,183       6.2        ˅ -12.7%   Seoul, South Korea   Sydney
+
+  6. Mitsubishi     63,511       5.2        ˅ -23.7%   Minato City, Japan   Melbourne
+
+      7. MG         58,346       4.8        ˄ 600.8%   Shanghai, China      Sydney
+
+    8. Tesla        46,116       3.8        ˄ 1,463%   Austin, Texas        Sydney
+
+   9. Subaru        46,114       3.8         ˄ 15.3%   Tokyo, Japan         Brisbane
+
+  10. Isuzu Ute     45,341       3.7         ˄ 79.3%   Yokohama, Japan      Melbourne
+
+
+  Other brands      403,001      33.1        ˄ 10.8%
+
+
+   Total sales      1,216,780      -         ˄ 1.8%
+
+
+
+
+                                                                                              7
+Figure 3: Motor vehicle registrations by state/territory. Source: ABS 2021.
+
+
+
+
+   Figure 4: The best selling vehicles (brand/model) in Australia, 2023.
+   Source: VFACTS 2024.
+
+
+
+
+                                                                              8
+Figure 5: The share of motor vehicle sales by segment, 2012 vs 2022. Source:
+Author’s analysis of VFACTS annual reports.
+
+
+
+
+Figure 6: The age composition of Australia’s motor vehicle fleet 2016 vs. 2021.
+Source: Author’s analysis of ABS Motor Vehicle Census.
+
+
+
+
+                                                                                  9
+Figure 7: The business share of the downstream auto sector by number of
+employees, 2021. Source: Author’s analysis of ABS Motor Vehicle Census and
+ATO Business Registration data.
+
+
+
+
+Figure 8: The business share of the downstream auto sector by annual
+turnover, 2021. Source: Author’s analysis of ABS Motor Vehicle Census and ATO
+Business Registration data.
+
+
+
+
+                                                                             10
+Figure 9: Motor vehicle sales and market share by type of buyer, 2022. Source:
+Author’s analysis of VFACTS annual reports.
+
+
+
+
+Figure 10: Motor vehicle registrations in Australia by major brand. Source:
+Author’s analysis of ABS Vehicle census 2021.
+
+
+
+
+                                                                              11
+    Australia’s New Car Market
+In 2023, new car sales in Australia topped 1.21 million. This
+represented a sales record, surpassing the previous high of 1.18
+million new cars exchanged in 2017.
+Some noticeable trends in the new car market included:
+
+Shifting Geographies of Production: In 2023, China overtook
+South Korea to become the third-highest source country for new
+vehicle imports in Australia, now only behind Japan and Thailand.
+Market Competition: Sales data highlights the significant
+competition for market share in Australia. Several less established
+marques and models (e.g. MG, Tesla, Isuzu) are capturing market
+share from established brands (e.g. Toyota, Hyundai). This trend in
+brand diversification indicates that Australian consumers are
+seeking out greater value for money.
+A Record Year for EV sales: More than 87k fully electric cars were
+sold in Australia during 2023. This volume of EVs equated to a
+record 7.2% of overall sales.
+Electrification: Including battery electrics (BEVs), plug-in hybrids
+(PHEV) and hybrids (HEV), nearly 200k electrified cars were sold
+across Australia in 2023. This volume of electrified vehicle sales
+represented 16.5% of total new sales nationally.
+The Tesla Brand: For the first time, Tesla entered the top 10 for
+sales by brand. Tesla continued to have Australia’s two highest-
+selling electrified cars: the Model Y and Model 3. These two models
+achieved more than 46k sales in 2023.
+
+
+
+
+                                                                   12
+Map 1: The Top 5 Source Countries for Australia’s Imported Motor Vehicles, 2019.
+Source: Author’s Research
+
+
+
+
+Map 2: The Top 5 Source Countries for Australia’s Imported Motor Vehicles, 2023.
+Source: Author’s Research
+
+
+
+
+                                                                                   13
+Figure 11: A comparison of Australia’s motor vehicle imports by Country of Origin (Top 5,
+value A$ Billions) for 2019 and 2023. Source: Author’s Research.
+
+
+
+
+              2019                                                       2023
+
+
+
+Figure 12: Top-selling car model, total sales, and market share (%) by brand in 2023.
+Source: Author’s research.
+
+
+
+
+                                                                                        14
+Figure 13a: The average contribution (%) from commercial activities to the revenue of auto
+servicing shops. Source: Author’s primary research with five integrated car dealerships,
+2019 to 2023.
+
+
+
+
+Figure 13b: The average contribution (%) from different commercial activities to the net
+profitability of car dealerships. Source: Author’s primary research with five integrated car
+dealerships, 2019 to 2023.
+
+
+
+
+                                                                                          15
+                What are aftermarkets?
+ An aftermarket includes the secondary commercial transactions linked to the
+ consumption and ongoing circulation of primary commodities. For durable
+ consumer products, such as cars, computers, personal electronics, equipment, and
+ household appliances, a significant amount of economic activity now occurs in
+ aftermarkets. Such commercial activity includes specialised, technical services
+ (e.g. repair of a faulty transmission) and brand-specific products (e.g. spare parts
+ that require calibration).
+ Expanding design complexity, intellectual property claims, regulatory conditions,
+ financial obligations, safety, and sustainability concerns mean that consumers
+ must now engage the services of aftermarket businesses rather than conduct DIY
+ repairs or maintenance as was common in an earlier era of automobility.
+
+Auto mechanic workshops are a prime example of an aftermarket business. Australia’s auto
+repair and maintenance industry (ANZSIC S9419) includes a range of aftermarket services
+that are directly linked to motor vehicles and their day-to-day use, including:
+
+   General mechanical repairs and logbook servicing (maintenance)
+   Smash repair (panel beating, spray painting)
+   Cooling system and radiator repairs
+   Engine repairs and reconditioning work
+   Exhaust system or muffler repairs
+   Gearbox and transmission repairs
+   Commercial and fleet vehicle repairs and maintenance
+
+                                   27,000+ aftermarket
+                                        businesses
+
+      Total revenue in 2022 of                           79,800 employees
+                      A$12.8B
+
+
+
+                                                                   A$4.1B earned in wages
+
+  CAGR 2017-2022 = 0.4%
+
+
+                                                                 Motor vehicle servicing =
+                                                                 54.1% of aftermarket
+     Muffler, brake and exhaust                                  revenue
+  repairs = 15.2% of aftermarket
+                         revenue     Engine repairs = 24.7% of
+                                       aftermarket revenue
+                                                                                             16
+                        03                   Dataset 1
+                       Summary: Market characteristics
+                       of Australia’s auto economy
+The tables, figures, and maps presented in Dataset 1 explored some of the key dynamics of
+Australia’s auto markets: both the primary ‘new’ car market and downstream ‘aftermarket’
+activities. Table 1 illustrates the popularity of different auto brands. In 2023, Toyota enjoyed
+the highest share of the new car market with 17.7% of all sales. This figure represented a
+significant drop from 21% in 2022. Future results will give a better indication of any trend.
+Following Toyota, Mazda enjoyed a new market share of 8.2% with Ford (7.2%) in third place,
+boosted by sales from two models: the Ranger and Everest.
+
+When compared to other advanced, car-dependent economies, Australia now has one of the
+world’s most segmented markets. New car sales per brand are roughly 14 times greater in the
+U.S. and eight times more concentrated in the UK. Market diversification has created
+opportunities and challenges for car dealerships and aftermarket businesses.
+
+The research behind this report found that very few franchise dealerships (outside of Toyota
+dealers) can now sustain profitability as single-brand outfits. The vast majority of Australia’s
+3,500+ dealerships now offer 3-5 different marques to ensure consumer foot traffic.
+Likewise, the research found that for independent mechanic shops, a diversifying market
+requires becoming familiar with how to fix a bigger range of brand-related technologies with
+design variations, different driving platforms, and idiosyncrasies.
+
+Equally significant for aftermarket services is that SUVs and 4WDs now dominate Australia’s
+car market. Figures 3 and 4 show that consumers have a strong preference for larger dual
+cab utes and high-riding SUVs with no family sedan in the top 10 for sales in 2023. By
+contrast, just a decade ago nearly 60% of all new car sales were family-oriented passenger
+vehicles. In 2023, 56% of new car sales in Australia were SUVs, up from 22.9% in 2012.
+
+Of note, sales of BEVs, PHEVs and HEVs continue to grow in Australia, with Tesla breaking into
+the top 10 for sales in 2023. While the uptake of electric technologies is expanding, evidence
+collected from the research underscores the reality that a full transition of the nation’s fleet
+from internal combustion engines (ICE) to an EV-dominant market will take decades. The
+speed of the transition is explained by a range of factors, further explored in Section 5 of this
+report.
+
+Finally, a series of useful insights emerge from the data regarding aftermarket services.
+Figures 13a and 13b were compiled from research with five franchise dealerships (2019 to
+2023). These dealerships were based in the city of Wollongong, Australia, 70 kms south of
+Sydney. Interviews with dealership managers and staff showed that while new car sales
+contributed around 50% to business revenue, margins on new cars averaged just 3%. By
+contrast, aftermarket maintenance and repair services averaged 25% of annual revenue
+but had a net profit margin of 19%. In total, the contribution of aftermarket services to
+dealership profits averaged nearly 60%. While the new car market shifted during 2021/2022
+following the effects of the global pandemic, supply chain disruptions, and inflation, by mid-
+2023 business trends had returned to near pre-COVID norms.
+                                                                                              17
+                            04                  Dataset 2
+                           Automobiles as complex,
+                           evolving technologies
+Figure 14: Insights into the complexity of new model cars (non-EVs).
+
+         32,000 individual
+              parts
+
+
+
+
+                                                                          Production network
+                                           200+ original equipment
+                                                                           dispersed across
+                                            manufacturers (OEMs)
+                                                                             20+ countries
+ 100M+ lines of code
+
+
+
+
+300+ electronic control
+     units (ECUs)
+                                       100+ sensors                30+ individual computers
+
+
+
+
+‘We tell customers: “Your car, is like a spaceship on wheels”. They experience the
+technology by pushing buttons, using cameras, setting temperatures, connecting Bluetooth.
+Behind all that is advanced tech, especially in a product that’s driven all over the place in all
+types of conditions. Parts, sensors, materials, and computers in our cars make travel
+comfortable. But on the other side, it’s created problems for us. We deal with the faulty,
+worn out, and broken side of things. We have to keep the spaceship on wheels working’.
+(Auto mechanic, Interview excerpt)
+                                                                                               18
+Figure 15: Passenger car recalls in Australia by model and variant, 1993-2023. Source:
+Author’s analysis of Department of Infrastructure and Transport data.
+
+
+
+
+Figure 16: Passenger car recalls in the United States by model and variant, 1993-2022.
+Source: Author’s analysis of National Highway Safety Administration data.
+
+
+
+
+                                                                                         19
+Map 3: The top 20 exporters of motor vehicles by value (millions of US$), 2023. Source:
+Author’s analysis of WTO and UN Comtrade data.
+
+
+
+
+Map 4: The top 10 exporters of motor vehicle parts and accessories by value (millions of US$),
+2023. Source: Author’s analysis of WTO and UN Comtrade data.
+
+
+
+
+                                                                                          20
+Figure 17: Revenue from semi-conductor sales to the global auto industry, 2012-2023.
+Source: Author’s analysis of WTO and UN Comtrade data.
+
+
+
+
+Figure 18: The changing contribution of electronic componentry to the cost of new car
+production. Source: Author’s analysis of WTO, UN Comtrade and S&P World custom data.
+
+
+
+
+                                                                                       21
+                Evolving automotive
+                   technologies:
+Telematics are an evolving technology for sending, receiving, and
+storing data on vehicle performance, driving habits, and locational
+information via telecommunication devices that plug into onboard
+diagnostic or controller area network ports. Telematic devices use
+a SIM card and onboard modem to enable communication through
+mobile networks.
+
+
+
+
+1. In-car devices log location,
+                                            2. Data is transmitted via cellular or
+driving, and performance data.
+                                            satellite networks to secure servers
+e.g. speeds relative to location; engine
+idling, fuel consumption, driver habits,    where it is interpreted.
+engine diagnostics, faults and breakdowns
+
+
+
+
+                                                            3. Vehicle information
+ 4. Data can help improve vehicle management                can be analysed on a
+ (e.g. scheduled servicing, diagnostics) but also           computer or mobile app
+ potentially on-sold to data brokers and used by            in real-time.
+ product developers, insurers, and advertisers.
+
+  According to Berg Insight (2023), 47.2 million aftermarket telematics
+hardware devices were sold globally in 2022 with a market value of A$4B
+                                                                                     22
+                           04                  Dataset 2
+                          Summary: Automobiles as
+                          complex, evolving technologies
+The figures, tables, and maps presented in Dataset 2 share insights into the evolving,
+complex technologies that comprise modern automobiles. The technological architecture
+of cars shapes aftermarket services directly, including fault diagnosis, repair processes,
+maintenance scheduling, new parts sourcing, access to brand-specific equipment,
+workforce training, and upskilling. With cars being the primary mode of transport for most
+Australian households, a breakdown or delay in a repair has a major impact on mobility and
+daily lives. As outlined in Figure 14, motor vehicles are now the world’s most high-tech
+consumer product.
+
+However, despite the integration of complex, networked and evolving digital technologies,
+cars remain prone to unexpected breakdowns. Vehicles require ongoing expenditure on
+repair and maintenance services to ensure good working order. Importantly, as indicated in
+Figures 15 and 16, the increasing complexity of cars also corresponds with an increasing
+number of annual recalls across different marques, models, and variants. For example,
+between 2019 and 2023, Australian motorists experienced an average of 175 car-based
+recalls per annum, as registered with the Department of Transport and Infrastructure. This
+level of product recall represented a 111% increase compared to the period 2009-2013 and a
+370% increase compared to the period 1993-1997.
+
+Whilst the overall size of Australia’s motor vehicle fleet increased by 29% between 2010 and
+2023, the more dramatic increase in the rate of vehicle recalls suggests that the increasing
+technological complexity of cars is correlated to an increasing number of faults requiring
+remediation by qualified technicians. Repair work related to a vehicle recall is usually
+covered by the manufacturer but often represents a safety or disruption risk to a consumer
+using a car with an identified fault.
+
+As visually represented by Maps 3 and 4 (page 20), an increasing number of vehicles are now
+exported from newly industrialised countries such as China, Thailand, India, the Czech
+Republic, Slovakia, Mexico, and Brazil. In 2023 China became the world’s largest
+manufacturer and exporter of finished automobiles on a unit basis and sat second to
+Germany in terms of export value (US$). When focused on export markets, Germany
+remains at the top of the global value chain but is likely to experience increased competition
+for market share and earnings amid the transition to electrified cars.
+
+The global geography of auto manufacturing is a significant factor for local aftermarket
+businesses and consumers who will require access to brand-specific technical information,
+proprietary software, and equipment to access and deliver affordable, timely repair and
+maintenance services. Indeed, the research found that in 2023 a growing proportion of
+repair jobs in mechanic shops (20-25%) required access to brand-specific technical data,
+diagnostics and/or design schematics. This proportion of jobs is double the 10% figure
+formally reported by the Federal Government in 2021.
+
+                                                                                          23
+Following the maps, Figures 17 and 18 provide further insights into the expanding
+technological complexity of modern automobiles. Figure 17 shows the growing revenues
+earned by semiconductor manufacturers from the sale of microchips to auto brands and
+OEMs. Indeed, the CAGR in the trade between automakers and ‘chip’ manufacturers was
+10.5% between 2013 and 2023. Automakers purchased US$54 billion worth of microchips in
+2023 alone with most analysts predicting strong forward growth as digital technologies,
+including artificial intelligence(AI) become an ever more important feature in selling
+vehicles.
+
+Figure 18 illustrates the contribution of electronic componentry to the overall cost of
+manufacturing a motor vehicle. The material costs from electronic componentry have
+grown from 18.2% of overall production in 2000 to more than 40% in 2022.
+
+The infographic on page 22 describes perhaps the most controversial technological
+development unfolding within the automotive sector: telematics. The ability to capture,
+transmit, interpret, and on-sell user-generated data has become the backbone of the tech
+sector. Through everyday driving practices, motorists are now deeply implicated in the
+generation of an enormous volume of data related to driving habits, geographical mobility,
+vehicle performance, and fault diagnosis.
+
+There are a range of ways in which accurate data on car use and performance can be
+beneficial for motorists and carmakers. These potential benefits include the ability to more
+efficiently repair vehicles and improve overall reliability.
+
+Equally, there are considerations for regulators and policy-makers regarding the privacy
+and rights of consumers who may not consent to having aspects of their personal lives
+shared with data brokers, product developers, or advertisers. In addition, the increased
+digital connectivity of vehicles is also raising cyber-security concerns as the risk of having
+personal data stolen by hackers grows.
+
+Perhaps more than any other mass-produced consumer technology, cars illustrate the
+increasingly complex and stretched-out relationships between economic actors: global
+brands, OEMs/manufacturers, shippers, retailers, credit providers, repairers, parts
+wholesalers and distributors, market regulators, policy-makers, and final consumers who
+rely on their car to go about busy, mobile lives.
+
+The research behind this report shows that there is still much to resolve around the
+informational politics of complex, technology-rich products.
+
+
+
+
+                                                                                             24
+                      05                       Dataset 3
+                    The consumer-product relationship
+
+ Consumption = the exchange of goods and services to meet needs and
+wants. Crucially, these needs and wants are socially mediated and change
+                           over time and space.
+Australia has one of the highest rates of car ownership, per capita fuel consumption, and
+vehicle-related travel distance, of any country. The factors that explain Australia’s car
+dependency are multiple, including urban settlement patterns, government policy
+(industrial, transport, taxation), cultural views that link cars to ideas of freedom, personal
+choice, comfort and flexibility, and economic factors spanning job creation to financial
+investments in road infrastructure.
+
+For many Australian households and families, car ownership has enabled a mobile lifestyle.
+Cars support trips to places of work, small business and commercial activities, attendance at
+social or community events, family holidays, and road trips. Increasingly, however, car
+ownership is a major cost burden. The costs of running a car relate to credit-backed
+purchasing, insurance premiums, and fuel costs. Motor vehicles also continue to make a
+significant contribution to Australia’s annual greenhouse gas emissions, air and noise
+pollution.
+
+While expensive and environmentally damaging, car ownership often remains socially
+necessary. Without access to a vehicle, the majority of Australians would be unable to easily
+access places of work, education, health and childcare, social activities, grocery stores, and
+other essential services. For these reasons, cars remain important to access what Polllard et
+al. (2023) refer to as ‘life opportunities’.
+
+What the research project set out to investigate was the modern-day experience of car use
+and ownership, including how consumers access aftermarket servicing and repairs. Hence, in
+this section of the report, results are presented that highlight key trends, consumer-facing
+problems, and potential policy mechanisms that may support competitive aftermarket auto
+industries while improving the overall ownership experience for Australians.
+
+In addition to interview material, participant observation at shops, and ABS data, this section
+also draws from a comparative analysis conducted of emergent policy responses in
+Australia, the U.S. and the EU. Such policy measures aim to address issues of inequitable and
+unfair access to proprietary information for delivering aftermarket services on increasingly
+complex vehicles. Such legislative and regulatory frameworks are commonly referred to as
+‘Right-to-Repair’ bills.
+
+When the research commenced in 2019, Australia did not have formal, mandatory ‘Right-to-
+Repair’ legislation covering aftermarket servicing of consumer goods. However, the situation
+shifted mid-way through the project, providing an opportunity to examine if new legislative
+actions taken by Government had their intended impact.
+
+                                                                                                 25
+Figure 19: Trends in transport modes for travel from place of residence to place of paid
+work. Source: Author’s analysis of ABS Census and Time Series Data.
+
+
+
+
+Figure 20: A comparison of transport modes for travel from place of residence to place of
+paid work, 2006 to 2021. Source: Author’s analysis of ABS Census and Time Series Data.
+
+                 2006                                              2016
+
+
+
+
+                2011                                               2021
+
+
+
+
+                                                                                           26
+ Figure 21: The most popular modes of travel to work in 2021. Source: Author’s analysis of
+ ABS Census and Time Series Data.
+
+
+    Car, as driver                                   Worked at home                Did not go
+                                                                                    to work
+
+
+
+
+                                                                     Train           Bus      Truck
+                                                     Car, as
+                                                    passenger
+                                                                     Walked,        Bicycle
+                                                                      only
+
+“You’re certainly very aware when you run a mechanic shop that many people really rely
+on their car. They need their car to go about their busy lives. So, no car for a week is very
+disruptive and can mean they have no way to get around for work, for kids’ sports, for all
+the other things we need to do”. (Owner/Manager of an Independent shop)
+
+
+“I have a love-hate relationship with my car (laughs). I love the freedom and flexibility I
+get from owning a car. I can go places I couldn’t get to on the train or bus. But I hate the
+amount of money it costs me. The petrol costs, repaying a loan, filling it with petrol, even
+servicing it. It’s literally tens of thousands a year when you sit and work it all out. That’s a
+lot”. (Customer of a multi-brand dealer0based service centre)
+
+
+“One of the rules we have in the service             “Oh, where we live [suburban Sydney],
+centre is that cars and customers are                and with our family, we don’t have any
+worked on and fixed together. Usually a              real option but to run two cars.
+car off the road means someone’s life is             Whether it’s getting to work or running
+being disrupted, and that leads to                   three kids around for different things.
+frustration”. (Owner/Manager of an                   There’s just no way I can get to places I
+Independent shop)                                    need to go without my car. Simple as
+                                                     that”. (Customer of an independent
+                                                     mechanic shop)
+                                                                                                27
+ Map 5: Total motor vehicle registrations by Australian state and territory.
+ Source: Author’s analysis of Australian Automobile Association data
+
+
+
+
+Map 6: Electric vehicle registrations as a % of total vehicles by Australian state and
+territory. Source: Author’s analysis of Australian Automobile Association data.
+
+
+
+
+                                                                                         28
+Consumer Insights: What are the servicing needs of EVs,
+Plug-in hybrid vehicles (PHEVs) and hybrid vehicles?
+As the share of electric-powered vehicles increases, consumer-related questions have
+focused on the aftermarket servicing and repair needs of EVs e.g. battery packs, motors,
+suspension, braking systems, remote software updates, and over-the-air servicing.
+
+Leaving aside petrol-related savings, some reports, including by Yale’s School of the
+Environment, suggest that scheduled maintenance and repair costs on EVs will be reduced
+by up to 40% over traditional ICE vehicles. Cost-savings are explained by the reduced need
+for the expert labour of mechanics and the ability to utilise networked digital technologies
+for remote, over-the-air software updates, diagnostic reports, and rapid identification of
+servicing needs. Broadly speaking, consumers may visit mechanic shops less often and be
+empowered to handle system updates from home or organise maintenance only when
+instructed by a vehicle’s ‘smart’ operating systems.
+
+On the flipside, however, other evidence uncovered through the course of the research
+project indicated that any savings made in scheduled servicing are offset by higher upfront
+costs (retail), lower resale value, and increased aftermarket costs related to more frequent
+replacement of tyres, malfunctioning battery packs, expensive parts/componentry, and
+higher insurance premiums.
+
+For example, several interviews with auto technicians who had worked on EVs uncovered
+expensive issues with traditionally ‘minor’ repairs such as replacing headlights and shock
+absorbers. In these instances, the time to complete repairs, including recalibration, added
+40-50% to the cost for similar work on an ICE vehicle. Likewise, according to technicians the
+additional weight of EVs over ICE equivalents (typically 20% heavier) and instant torque
+means the lifespan of tyres is reduced by up to a quarter.
+
+
+
+
+ Table 2: A comparison of registered vehicle types by Australian state and territory, 2024.
+ Source: Author’s analysis of Australian Automobile Association data, 2024
+
+State                          ICE vehicles Battery EVs Plug-in Evs   % EVs 2024 % EVs 2021
+New South Wales                5,464,456    49,768      161,980       3.73%       1.43%
+
+Victoria                       4,907,595    41,546      114,127       3.07%       1.10%
+Queensland                     4,148,122    34,495      95,697        3.14%       1.10%
+South Australia                1,424,754    7,624       33,841        2.91%       1.14%
+Western Australia              2,199,707    15,801      49,411        2.96%       1.02%
+Tasmania                       483,043      3,139       7,550         2.16%       0.77%
+Northern Territory             147,188      464         3,681         2.74%       0.93%
+
+Australian Capital Territory   300,249      6,467       11,768        5.73%       2.20%
+                                                                                           29
+Consumer Insights: What are the servicing needs of EVs,
+Plug-in hybrid vehicles (PHEVs) and hybrid vehicles?
+Perhaps most significantly, the research found that EVs are considerably more expensive to
+comprehensively insure while value depreciation is also currently greater than for
+comparable ICE models.
+
+For instance, from interviews with two different smash repairers it was revealed that typical
+owners of Model Y and Model 3 Tesla’s paid around $2,700 p.a. to insure. By comparison,
+insurance costs for an ICE-powered Toyota Rav 4 or Mitsubishi Outlander, with the same
+providers, averaged $1,250 per annum, a 116% reduction. Higher insurance costs are related
+to the difficulties in repairing expensive battery packs compromised in an accident, the high
+costs of imported parts, and small number of businesses certified to do repair work on
+rapidly evolving technologies.
+
+In terms of resale value, EVs also currently stack-up poorly compared to ICE cars. The table
+below is derived from data captured in December 2023 by the Australian Automotive Dealers
+Association and AutoGrab. It shows a significant difference in resale value between EVs and
+ICE cars. Factors that help to explain the difference in resale value include the relatively
+higher price of EVs to begin with, the smaller used market for EVs, consumer uncertainty
+regarding the technology, and the rapid speed of technological change surrounding EVs.
+
+
+
+
+ Table 3: A comparison of value depreciation rates for electric vehicles (EVs) and internal
+ combustion engine (ICE) vehicles. Source: Author’s analysis of Australian Automobile
+ Association data, 2024
+
+ Vehicle Age   EV % of original value   ICE % of original value   EV to ICE % diff. in depreciation and ($
+                                                                  value diff. assuming vehicle cost of $70k)
+
+ 0-2 years     82.8%                    95.5%                     - 14.2% (-$8,890)
+
+ 3-4 years     57.6%                    85.9%                     - 39.4% (-$19,810)
+
+ 5-6 years     24.1%                    68.8%                     - 96.2 (-$31,290)
+
+                                                                                                         30
+ Table 4: A general classification of maintenance and repair (M&R) services provided to
+ motoring consumers by Australian auto mechanical shops. Source: Author’s research.
+
+Type of M&R        Description of services and contribution to shop revenue
+  Product     Recalls are common in the auto industry and are made by either a
+  recalls     manufacturer voluntarily or ordered by a consumer authority/law owing to
+              a critical or safety fault with a car’s operation that requires immediate
+              repair. The costs of new parts and labour are covered by brands/ OEMs.
+              E.g. 2017 global recall of Takata airbags; 2018 recall of Toyota HiLux utes due
+              to faulty DPFs; 2021-2023 Ford Everest recall for faulty batteries; 2021-2022
+              BMW iX recall due to a software malfunction. See:
+              https://www.vehiclerecalls.gov.au/recalls/browse-all-recalls
+
+ Warranty     M&R work completed to remedy a fault or systems problem impacting the
+  repairs     use and/or safety of the vehicle. The costs of parts and labour are covered
+              under the manufacturer-backed warranty or, in some cases, through an
+              extended warranty sold to consumers by dealerships (often on behalf of a
+              third-party).
+              E.g. replacing a faulty part or component on a car. Warranty repairs
+              constitute 10-15% of servicing revenue at dealerships.
+
+Breakdown M&R work outside of a warranty period completed on a vehicle that has
+  repairs broken down and cannot under normal circumstances, continue to be
+              driven safely. The costs of towage, parts and labour are born by the
+              owner/consumer.
+              E.g. repairs to a blown radiator or transmission failure. Breakdown repairs
+              constitute 15-20% of servicing revenue at dealerships and independent
+              shops.
+
+ Logbook      The general M&R work performed on a car according to the recommended
+ servicing    schedule set by the manufacturer. The costs of this work are born by the
+              owner/consumer, with many newer model cars covered by a ‘capped price’
+              program that coincides with the warranty period.
+              E.g. filter and fluid changes, brake pads, timing belt replacements,
+              suspension bushes etc. Logbook servicing constitutes ~60% of M&R revenue
+              at dealerships and >75% at independent shops.
+
+
+
+
+                                                                                            31
+Timeline: Consumer-facing aftermarket regulation
+* Prior to 2014: Aftermarket car servicing in Australia is provided by brand-
+aligned, integrated dealerships, franchise service centres (e.g. Ultra Tune,
+Midas), or independent mechanical shops. Dealerships have contractual
+relationships with one or more brands while independents usually have no
+contractual alignment to brands/OEMs.
+    Broadly, more than 90% of consumers with newer model cars still under a
+    manufacturer warranty use a dealership to service their vehicle.
+    Independents dominate aftermarket share for older vehicles (>5 years) not
+    covered by a warranty. Here servicing needs are set out in a logbook
+    provided by the manufacturer.
+* 2014-2015: As vehicles become increasingly complex machines with
+advanced systems, concerns and complaints grow to the ACCC and State-
+based Fair Trading Agencies over whether independent shops are being
+unfairly treated by manufacturers, favouring their dealership network in
+terms of information sharing, access to technical specifications, and
+mechanic training programs.
+   Globally, other nations begin to roll-out so-called ‘Right-to-Repair’ (RTR)
+   laws that aim to make access to repair-relevant information fair and
+   equitable between brand-aligned dealerships and independent shops.
+* 2016: The Australian Government rolls out a voluntary information-sharing
+scheme for the motor vehicle servicing industry.
+   The voluntary scheme aims to ensure that schematic, diagnostic, parts,
+   and recalibration information is shared between automakers (OEMs) and
+   aftermarket service shops, particularly independents.
+* 2021: Only three of the 15 highest-selling carmakers in Australia are openly
+providing independent mechanic shops with access to the same information
+as dealerships.
+   Carmakers cite protection of proprietary information, safety, security and
+   lack of training as reasons for withholding or censoring information from
+   independents.
+* July 2022: Australia’s first RTR bill is introduced, the Motor Vehicle
+Information Scheme (MVIS), explicitly for the auto sector.
+    The MVIS aims to help ensure independents can access the same codified
+    information as dealerships for “a price (scheme price) that does not
+    exceed the fair market value of the information” (MVIS 2022, p. 11).
+
+                                                                                 32
+Figure 21: National household expenditure on transport, $ per week. Source: Author’s
+analysis of Australian Automobile Association data, 2024.
+
+
+
+
+Figure 22: National household expenditure on auto maintenance and repair, $ per week.
+Source: Author’s analysis of Australian Automobile Association data, 2024.
+
+
+
+
+                                                                                        33
+Figure 23: Transport-related expenditure for Australian households, 2016 to 2024 ($ per
+week). Source: Author’s analysis of Australian Automobile Association data, 2024.
+
+
+
+
+Figure 24: Expenditure of Australian households, 2016 to 2024 as a % of total transport
+costs. Source: Author’s analysis of Australian Automobile Association data, 2024.
+
+
+
+
+                                                                                          34
+                      05                  Dataset 3
+                      Summary: The consumer-product
+                      relationship
+The figures, tables, participant quotes, and descriptions presented in Dataset 3 illustrate
+changing patterns of motor vehicle use among Australian consumers. Focusing on the
+consumer-product relationship, the data shows that many Australians continue to rely on
+access to a motor vehicle for their day-to-day lives, though with some major changes
+regarding aspects of car usage for work-related trips.
+
+Figures 19 and 20 reveal trends in car use related to accessing places of paid work. The
+proportion of work-related trips involving use of a motor vehicle, as a driver or passenger,
+declined sharply from 67.3% in 2016 to 56.3% at the 2021 Census. The biggest explanatory
+factor in the decline of car-related trips to work was the COVID-19 pandemic. The
+pandemic caused major disruptions to the typical geographical patterns of paid work.
+Throughout 2024, many Australians continued to work from home (WFH) during part of
+their working week. Despite some employers mandating a return to centralised workplaces
+(e.g. CBD-based office spaces), many employees in service industries continue to seek out
+opportunities for hybrid and flexible patterns of work that incorporate work from home.
+
+Of note, public transport usage between 2016 and 2021 trended downwards, also likely due
+to social distancing norms following public health measures during the pandemic response
+of 2020 and 2021. Increasing public transport usage remains a major challenge for policy-
+makers, particularly as growth areas in Australia’s largest cities tend to follow greenfield
+land releases accompanied by urban sprawl. Many large residential developments are
+dislocated from public transport infrastructure such as rail lines with the result being a
+stubborn car dependency for personal mobility.
+
+Big shifts in the geography of paid work and thus work-related travel are further illustrated
+in Figure 20 on page 26. The figure reveals how 21% of Australian workers engaged in WFH
+on Census day in 2021, a substantial rise from the three previous Census periods where less
+than 5% of employees worked from home.
+
+Despite recent changes in car use for work-related travel, the series of quotes from
+research participants, shown on page 27, underscore the close and enduring relationship
+between Australians and their cars. As a young parent and customer at an independent
+mechanic shop explained when asked about their car use: “There’s just no way I can get to
+places I need to go without my car”.
+
+Following the series of quotes from participants in the study, Maps 5 and 6 provide a visual
+representation of car registrations across Australia’s states and territories. The level of
+vehicle registrations closely maps to the population size of states/territories and the
+settlement patterns of major cities and towns.
+
+
+
+
+                                                                                          35
+Table 2 highlights growth in the proportion of electric-powered vehicles, as registered by
+state and territory. As of mid-2024, the ACT (5.73%) and NSW (3.73%) had the highest rates
+of EV ownership. NSW alone now has more 211k registered battery electric and plug-in
+hybrid vehicles, increasing from 81k in 2021. Meanwhile, Tasmania (2.16%) and the Northern
+Territory (2.74%) have the lowest rates of uptake in electrified vehicles.
+
+The insights provided on page 30 and via Table 3 shed light on a much-publicised debate
+over the costs of EV ownership relative to conventional ICE-powered vehicles. Some initial
+studies, including by researchers at Stanford University, have suggested that EV servicing
+costs will be considerably lower than comparable ICE models. Such studies emphasise the
+ability to conduct over-the-air software updates, systems checks, and diagnostic tests,
+negating the need to take a vehicle to a service centre.
+
+However, there is also emerging evidence that the story of aftermarket cost savings for
+consumers is not so clear-cut.
+
+While the general servicing costs of EVs may be lower compared to ICE cars, consumers
+may find they are paying higher insurance premiums, replacing tyres more frequently (EVs
+are ~20% heavier than ICE cars, on average), and requiring access to specialised
+technicians when it comes to recalibrating electrical parts and componentry.
+
+Another important consideration for many car buyers is resale or second-hand value. Again,
+EVs significantly underperform in terms of value depreciation compared to traditional ICE
+vehicles. While still a relatively ‘new’ consumer technology, the value of EVs 3-4 years old
+averages 39% less than similar ICE models. The following scenario is instructive.
+
+If two families are in the market for a mid-sized SUV in the range of $70,000, the electric
+model could be worth up to $19,800 less than the ICE variant after 3-4 years. At 5-6 years of
+age, current resale data suggests that EVs hold just a quarter of their original new car value.
+This compares to ICE vehicles that retain around 68% of their value after 5-6 years.
+
+Table 4 on page 31 then outlines four broad, general categories of car maintenance and
+repair identified through the research: 1. product recalls, 2. warranty repairs, 3. breakdown
+repairs, and 4. logbook servicing, equivalent to scheduled maintenance. These four
+categories of maintenance and repair reflect both the service needs of car owners
+alongside the specific type of work provided by auto aftermarket businesses.
+
+While product recalls and warranty repair costs are usually covered by manufacturers,
+breakdown repairs and scheduled logbook servicing are usually the responsibility of car
+owners/users.
+
+For consumers, breakdowns are particularly disruptive as they are often unexpected,
+meaning any resulting disruption is not planned for. Scheduled maintenance, however, can
+be planned around personal schedules and family routines. In this way, repair work can have
+very different spatial and temporal characteristics compared to maintenance.
+
+
+
+
+                                                                                           36
+In terms of consumer behaviour, rights and responsibilities, the timeline on page 32
+accounts for some of the significant recent changes in Australia regarding auto
+aftermarket services and so-called ‘right-to-repair’ laws. In 2016, a voluntary code of
+practice was introduced nationally to encourage automakers to share service-relevant
+information with independent mechanic shops.
+
+However, by 2020 only 3 of the 15 highest-selling brands in Australia were openly sharing
+information with independent shops, such as technical service bulletins (TSBs), calibration
+procedures, onboard diagnostics, and software upgrades. In response, the federal
+government passed legislation that resulted in the Motor Vehicle Information Scheme
+coming into effect on 1 July 2022.
+
+The legislation now requires automakers selling cars to consumers in Australia to grant
+independents access to the same codified information as their dealerships. The technical
+information can be accessed by independents for “a price (scheme price) that does not
+exceed the fair market value of the information” (MVIS 2022, p. 11).
+
+Regardless, the research heard from several independent shop owners and managers who
+described long wait times for repair-related information, including incomplete schematics,
+poor technical support, and high one-off fees that added substantial costs for small
+businesses and their customers. While viewed as a major step forward, some in the auto
+industry argued the regulation was proving “less effective than we had hoped for”
+(Manager, Independent auto shop).
+
+Focusing on transport-related expenditure among Australian households, Figures 21 to 24
+over pages 33-34 offer insights into the growing costs of running a vehicle, including
+servicing car loans, paying for fuel, and insurance. For example, the average car loan
+repayment increased by 65.3% between 2020 and 2024, which is an annualised increase of
+13.0%.
+
+By the second quarter of 2024, the average weekly spend on a car loan stood at $211.80 per
+week, or roughly 46% of a household’s weekly spend on transport. Likewise, fuel costs
+increased 67.1% (to $101.40 by Q2 of 2024) while insurance expenses had risen 46.8% since
+2020 to reach $43.60 per week.
+
+By contrast, the rate of increase for aftermarket auto servicing, including scheduled
+maintenance (e.g. logbook servicing) and running repairs, was a more modest 23.3%. When
+annualised, the increase of 4.7% p.a. is in close alignment with the rise of the consumer
+price index (CPI).
+
+At the other end of the spectrum, expenditure on public transport declined by -5.0%
+between 2020 and 2024, averaging $21.0 per week.
+
+Overall, by mid-2024 the average Australian household was spending a record $459 each
+week on transport, equivalent to 17.0% of median household income.
+
+
+
+
+                                                                                          37
+                           06                  Dataset 4
+                           Workforce insights and
+                           struggles over skills
+A final collection of empirical insights derived from the research project focus on the skilled
+workforce in Australia providing auto-related maintenance and repair services. The post-
+production auto workforce not only helps to sustain the safe, reliable working order of
+vehicles but also the mobility of Australians, more broadly.
+
+Two of the key workforce-related questions the research aimed to help answer were:
+
+1. What are the training requirements and key skills needed by workers who maintain and
+repair complex modern vehicles?
+
+2. What are the barriers to developing a skilled and valued auto maintenance and repair
+workforce?
+
+In seeking to shed light on these questions, the research integrated both qualitative and
+quantitative data.
+
+Qualitative methods encompassed several rounds of interviews spanning auto mechanics,
+customer care staff, shop managers, and dealer principals. Participant observation was also
+conducted in dealer service centres and independent shops to capture in-depth insights
+into the work of auto maintenance and repair.
+
+Quantitative data was collected from ABS Census and custom data requests, alongside
+publicly available data sets published by industry groups such as the Motor Trades’
+Association Australia (MTAA) and Australian Automobile Association (AAA).
+
+This section on workforce dynamics concludes with three recommendations, emerging
+from the wider research project. These recommendations aim to assist industry
+stakeholders, policy-makers, and training institutions to further develop a future workforce
+that is well-equipped to service complex vehicles, which help to keep Australians spatially
+mobile.
+
+A crucial point the report emphasises is that reproducing a suitably trained and skilled
+workforce will require a clear understanding of the labour process behind maintaining and
+repairing new model motor vehicles, and for the skills of workers in such downstream
+industries to be appropriately valued.
+
+
+
+
+                                                                                            38
+ Figure 25: An overview of the workforce dynamics for dealership-based and
+ independent auto servicing shops. Source: Author’s research.
+
+
+
+
+“I started in 96’ when you plugged in a one-directional scanner to get a fault code. There
+were 80-odd codes. A fix procedure was one-page. Today, there’s a thousand codes, and
+my laptop scans 25 internal computers for one car. Diagnostic books for engines can be
+   1,500 pages. Just the engine. We have to calibrate radars, read schematics, interpret
+        software. We have to be professionals and not [appear] dirty and grubby”.
+                               (Auto mechanic, Dealership)
+
+
+                                                                                        39
+Figure 26: A general overview of career pathways for auto mechanics/technicians
+employed in brand-aligned dealer shops. Currently, around 99% of mechanics/ technicians
+are men. The vast majority of auto shop employees are from working-class backgrounds
+routed into the industry from high school. The research found that for many early career
+workers entering the industry there was a significant disconnect between initial
+understandings of the work demands and the realities of their day-to-day role. Source:
+Author’s research.
+
+
+
+
+ “So much tech comes together in a
+ car nowadays. When something
+ goes haywire, the driver’s screwed.
+ Can’t get to work or the kids to
+ school. I’m the expert who can
+ identify and fix the problem, no
+ matter how long it takes. It’s what I
+ love about my job. Working out           “How we work on cars has totally changed. The
+ causes of problems. Just me, some        licensing means investing in new equipment,
+ fancy-looking tools, and the car.        tools, reprogramming systems, and tech training.
+ With every car different, it keeps       Cars will break down. Technology always fails at
+ the work interesting. … You have to      some point. When it happens nowadays, the
+ be precise about it, too. There’s no     problems are usually complicated to fix. The
+ half-arsed approach. I see it like,      technology has magnified everything: getting the
+ “I’m going to get this fixed. Solve      diagnosis right; ordering and refitting parts;
+ the puzzle.” It’s a job that’s getting   recalibrating them; annoyed customers. …Every
+ appreciated more, I think”.              aspect of our job is a new technology or
+ (Mike, 50s, dealer-based supervisor      computer program. All the problems, fix
+ technician, 30+ years’ experience)       procedures, digital tools, parts, fitting, it keeps
+                                          moving. You gotta keep up”.
+                                          (Dan, 30s, Pro-technician, 15+ years’ experience)
+
+                                                                                           40
+Figure 27: An overview of minimum training completed by auto technicians and customer
+care staff employed in servicing shops. Source: Author’s research.
+
+Auto technicians                                                          Customer care staff*
+Qualification/Study details:                                              Qualifications/Study details:
+Certificate III in Light Vehicle Mechanical Technology                    Certificate III in Automotive Administration
+(AUR30620); 20 core units + 16 elective units                             (AUR30116); 10 core units + 8 elective units
+Illustrative ANZSCO Identifier:                                           Illustrative ANZSCO Identifier:
+“Motor Mechanic – General” (321211)                                        “General Clerk” (531111)
+ASCED Qualification:                                                      ASCED Qualification:
+“Automotive Engineering & Technology” (0305)                              “Office Studies” (0809)
+Core Units of Study:                                                      Core Units of Study:
+    Follow environmental and sustainability best practice in   Work in an automotive administration role
+    an auto workplace                                          Respond to customer needs in an auto workplace
+    Follow safe working practices in an auto workplace         Build customer relations in an auto workplace
+    Test and repair basic electrical circuits                  Follow environmental and sustainability best
+    Diagnose, repair spark ignition engine management          practice in an auto workplace
+    systems                                                    Communicate effectively in an auto workplace
+    Test, charge and replace batteries and jump-start          Use information technology systems
+    vehicles                                                   Adapt work processes to new technologies in an
+    Diagnose, repair charging systems                          automotive workplace
+    Diagnose, repair starting systems                          Maintain business image in an automotive
+    Diagnose, repair ignition systems                          workplace
+    Diagnose, repair light vehicle steering systems            Maintain quality processes in an automotive
+    Diagnose, repair light vehicle hydraulic braking systems   workplace
+    Diagnose, repair light vehicle suspension systems          Follow safe working practices in the workplace
+    Diagnose, repair light vehicle engines
+    Diagnose, repair light vehicle emission control systems Examples of Elective Units of Study:
+    Carry out servicing operations                             Manage complex customer requirements in an
+    Develop and carry out diagnostic test strategies           automotive workplace
+    Inspect and service braking systems                        Read, respond to automotive workplace
+    Diagnose, repair cooling systems                           information
+    Inspect, service engines                                   Resolve routine problems in an automotive
+     Inspect, service petrol fuel systems                      workplace
+    Use and maintain tools/equipment in the workplace          Write routine texts in an automotive workplace
+Examples of elective units of study:                                           Work effectively with others in an auto workplace
+                                                                               Process customer complaints in an auto
+    Diagnose, repair electronically controlled systems                         workplace
+    Depower, re-initialise hybrid electric vehicles                            Maintain customer aftermarket relations
+    Service electrical components in hybrid electric vehicles                  Sell automotive products and services
+    Inspect, maintain battery electric vehicles                                Promote automotive products and services
+    Diagnose, repair network electronic control systems                        Conduct online transactions in an automotive
+    Diagnose, repair vehicle dynamic control systems                           workplace
+    Diagnose, repair instruments and warning systems                           Comply with legal requirements when selling auto
+    Apply knowledge of ADAS technology to vehicle pre-                         products and services
+    repair scans                                                               Process accounts payable and receivable
+    Diagnose, repair electronically controlled suspension                      Handle mail
+    Select, install performance enhanced suspension                            Use business technology
+    products                                                                   Engage the customer
+    Diagnose, repair light vehicle mechanical fuel systems                     Use numbers in an auto workplace
+    Diagnose, repair light vehicle automatic transmissions                     Communicate business information in an auto
+    Assemble, fit braking system components                                    workplace
+    Inspect damaged systems and recommend repairs
+ Note: AUR= Automotive Retail, Service and Repair Training Package (updated June 2022); ANZSCO= Australian and New Zealand
+ Standard Classification of Occupation; ASCED= Australian Standard Classification of Education. Insights shared by research participants.
+                                                                                                                                            41
+Figure 28: Total workers in Australia’s post-production auto-economy and the % share for
+each occupational category. Source: Author’s analysis of ABS Census 2021.
+
+
+
+
+Figure 29: The % share of occupations in Australia’s overall auto sector. Source: Author’s
+analysis of ABS Census 2021.
+
+
+
+
+                                                                                        42
+Figure 30 and Table 5: Auto-related employment by occupation type, 2022. Source:
+Author’s analysis of VFACTS annual report and NCEVR data 2024).
+
+
+
+
+                                                                                   43
+Figure 31: A comparison of apprenticeship completion rates for all occupations, trade-
+based occupations, and auto-related occupations. Total workers in Australia’s post-
+production auto-economy and the % share for each occupational category. Of note,
+between 2012 and 2022 the number of auto apprenticeships completed in Australia fell by
+67%. Source: Author’s analysis of NCVER time series data 2024.
+
+
+
+
+On the benefits of an auto mechanic trade:
+“What really attracted me to becoming a mechanic was the fact you get to repair things
+that people need. Like, cars will always break down and need fixing. I’ll never get bored of
+the work and I’ll never be out of a job” (Auto mechanic, male, 40s, Independent shop)
+
+What attracted you to work in the auto industry?       On the upskilling demands of the
+“Since high school I just had this fascination with    industry:
+cars, you know? How they work and how useful           “Oh, finishing my training at TAFE, I
+they are in your life. From the time you get your      was a very green mechanic. It took me
+licence, your car gives you this new freedom to go     a good five years after my
+places, hang out with friends, meet new people,        apprenticeship to feel really confident
+and do things you can’t without a car. It sort o       at diagnosing issues and being able to
+expands you world. You can even express yourself       fix a problem, especially on new model
+through your car and that’s a big part of why I like   cars. They are complicated machines”.
+working in the industry to this day” (Customer         (Auto mechanic, male, 20s,
+Service Agent, female, 30s, Dealership).               Dealership).
+
+Advice for younger mechanics entering the auto industry:
+“What I am really big on teaching to our younger mechanics is that they need a real
+commitment to learning on the job. Once they’ve finished their apprenticeship, they’ll still
+be updating and refining their skills throughout their career in the industry. But the job of an
+auto mechanic or technician, we say, is evolving with the car itself. No way can you sit still
+and stop doing training courses or learning new systems and tools. It makes the work
+interesting but also challenging”. (Service Manager, male, 50s, Dealership)
+                                                                                               44
+                          06                  Dataset 4
+                     Summary & Policy Recommendations:
+                     Workforce insights & struggles over skills
+
+According to the National Skills Commission (NSC, 2021, p. 1) of 34 auto-related
+occupations assessed for the Skills Priority List (SPL), “62% were found to be in shortage,
+compared with 19% for all occupations”. Across occupations found to have significant
+shortages, there was a strong concentration in downstream auto M&R services, including
+mechanics, auto electricians, panel beaters, trimmers and painters.
+
+During the project, the research uncovered a consistent story of local auto servicing shops
+experiencing problems recruiting suitably qualified and experienced staff to fill job
+vacancies. These results align closely to insights from labour market analysis conducted by
+the NSC and Motor Trades Association Australia (MTAA). For example, the NSC (2021)
+reported that auto-sector employers filled just 47% of advertised vacancies in 2020/21,
+with an average of 1.8 suitable applicants per job vacancy. Alarmingly, 30% of employers
+received no suitable applicants for advertised positions. By comparison, employers outside
+the auto sector reported to the NSC that 61% of vacancies were filled in 2021 (NCS 2021)
+
+In terms of workforce skills and expectations, the NSC (2021) found that 90% of employers
+required applicants to hold a formal qualification, typically a trade-level qualification (such
+as a Certificate III or IV). Where qualifications were specified, employers received an
+average of 3.8 qualified applicants per vacancy, but 50% of these were deemed unsuitable.
+
+Overall, the main reasons why applicants were found unsuitable when applying for an
+automotive-related vacancy were twofold. First, 58% of employers noted applicants had a
+lack of general experience in the occupation. Second, 54% of employers reported to the
+NSC (2021, p. 4) that applicants had a “lack of qualifications”. Other reasons given for the
+worker shortage included “insufficient specific skills or experience (39%)” and “performing
+poorly at one or more stages of the recruitment process (38%)” (NCE 2021, p. 4).
+
+In addition, there are discrepancies between urban and rural/regional areas when it comes
+to skill shortages in Australia’s auto sector. For instance, employers based in regional areas
+filled just 45% of their vacancies and received an average of 1.4 suitable applicants per
+vacancy.
+
+The above figures compare to auto employers in urban locations who filled 50% of
+vacancies and had 2.2 suitable applicants per vacancy. Across all Australian employers,
+there was an average of 12.8 job applicants per vacancy with 2.9 suitable applicants per
+advertised position (NSC 2021).
+
+
+
+                                                                                            45
+The labour market data indicates that Australia’s auto sector is facing a workforce crisis,
+indicated by a relatively low proportion of suitably qualified and experienced applicants for
+vacant jobs. If the skills shortage becomes ingrained, there will be significant negative
+impacts to both auto businesses that keep motor vehicles in good working order and
+consumers who rely on them for mobility and commerce.
+
+In response to skill shortages and employer difficulties filling job vacancies, auto industry
+groups and associations have lobbied governments to shift policies and increase skilled
+migration quotas. The broad aim of such strategies is to attract a higher number of
+migrants with the technical skills and relevant experience to fill shortages in key industries.
+
+In contrast to a focus on labour migration, this ARC-funded research makes three
+recommendations that focus on developing a suitably skilled and valued local workforce.
+The three recommendations are intended to support the development of a workforce to
+support the growth of the downstream auto sector and the safe mobility of all Australians.
+
+Recommendation one is for auto groups, government policy-makers, and educational
+institutions (e.g. TAFE, secondary schools) to collectively revisit how younger Australians
+are being recruited and trained for trade-based and technical careers, specifically in
+auto-related industries. This recommendation responds to the finding that the work of
+mechanics, auto electricians, panel beaters, and painters has fundamentally transformed in
+the last decade. Such transformation is due to the combined effects of evolving auto
+technologies, new environmental regulations (e.g. emissions reduction targets), and
+consumer habits (e.g. favouring larger SUVs/4WDs).
+
+Equally important is that skills are not merely attributes that an employer buys and deploys.
+Skills are context- and information-rich capacities developed in an ongoing social process.
+This social process includes learning in workplaces via on-the-job training and mentoring,
+alongside formal training institutions such as Australia’s TAFE and university systems.
+
+
+
+
+                                                                                                46
+Recommendation two is for a new evidence-based national strategy to more accurately
+communicate what a job in the auto sector now involves. Such a marketing and educational
+campaign should include highlighting the career benefits of working in a fast-paced area of
+the economy, and the skills needed to work on/with automobiles and consumers who rely
+on them for their mobile daily lives. Emerging from interviews with auto shop employees,
+the project found that current routes into the sector poorly represent the importance of
+learning about aspects of automotive software, reading design schematics, fault
+diagnostics, creative problem-solving, and abstract analytical thinking.
+
+It is no longer accurate to narrowly define auto work as ‘blue-collar’. A changing labour
+process - the social and technical aspects of work - necessitates shifting popular
+perceptions about what a job in the auto sector entails. A closer understanding of the work
+will also assist with better preparing automotive workers, including studying subjects such
+as maths and engineering at secondary school level.
+
+Recommendation three is for employers and local businesses in the auto sector to adopt a
+strong internal focus on fostering workplace cultures that more equally value the skills mix
+within their workforce. Such a skills mix includes, for example, technical roles in repair and
+maintenance alongside customer care roles that are increasingly vital to the profitability
+and competitiveness of auto shops that need to maintain a high car count (through-put)
+and high levels of customer satisfaction, including through digital channels.
+
+Recommendation three emerges from participant observation in auto shops, which
+revealed how workers in dealerships and independent auto shops often had uneven
+experiences of skills recognition related to managers’ perceptions of their ‘replaceability’
+and contributions to the operations of a business.
+
+In addition to recognising their processual qualities, skills are both a key mechanism by
+which workers express agency in workplaces and labour markets (Warren and Gibson
+2023). Skills also underpin the success of auto businesses that must focus on servicing a
+complex technical product and serving customers who rely on their vehicles for daily life.
+
+
+
+
+                                                                                             47
+                  07 The Road Ahead
+             Forward-looking insights on Australia’s
+             post-production auto sector
+As complex manufactured products, modern automobiles are both expensive and durable.
+Conventional market economics and government industrial policy tend to focus attention
+on the point of production where well-paid, unionised jobs are concentrated. Downstream
+aspects of product use, maintenance and repair tend to be comparatively neglected (Fine
+2002). Going beyond a partial view of commodity relations, this ARC-funded research
+explicitly focused on Australia’s post-production automotive sector, as the nation entered a
+new era of import-only automobility.
+
+Amid climate change and emissions reduction goals, there is a growing focus among
+researchers, policy-makers, businesses, and institutions on second-hand markets, reuse
+practices, repairability and recycling to improve material circularity. The goal is to reduce
+wastefulness and create more opportunities for sustainable and inclusive economic
+growth.
+
+In the auto sector, aftermarket activities now underpin a process of extended profit-
+making and accumulation entangled with the rhythms of mobile, day-to-day life (Pollard et
+al. 2021). This project has emphasised five key dynamics shaping Australia’s downstream
+auto sector, which require future research and policy attention.
+
+The five inter-related dynamics identified as being crucial to downstream automotive
+services include:
+
+1. the relationship between a dispersed and diversified primary market and locally
+embedded aftermarket services such as auto maintenance and repair.
+
+2. the influence of evolving technologies on value capture in downstream activities such as
+parts, data harvesting, servicing, and repair.
+
+3. the politics of informational sharing and control, which will require a carefully
+coordinated regulatory approach.
+
+4. consumer dependency on automobiles for accessing life opportunities in cities and
+regions, and
+
+5. institutional struggles over the reproduction of critical skills needed in downstream
+industries such as maintenance and repair. An expert workforce is required to diagnose
+faults, repair complex problems (breakdowns), and maintain working order.
+
+The results of the research project clearly show that amid the influence of complex and
+evolving technologies on branded consumer products, downstream services are an arena
+increasingly defined by contestation and struggle between different competing actors -
+corporate firms, brand-aligned dealerships/retailers, and independent service providers.
+
+
+                                                                                            48
+Modern cars are now ostensibly open-ended vehicles that support profit-seeking activities
+over a longer, consumptive cycle. Through entanglements with everyday life cars can be
+theorised as unfinished commodities (things of value) where opportunities to realise
+surplus value are calculated, coordinated, and competed over once they are being used.
+
+As right-to-repair movements and regulating institutions target aspects of maintenance
+and repair, spare parts trade, and data transfer the informational control over complex and
+evolving products is a reminder that certain actors remain powerful forces in lucrative
+aftermarket domains.
+
+The post-production and post-sale lives of global commodities encapsulate different
+relations and modes of power. The dispersed production networks typical of many
+manufactured consumer goods are structured by hierarchical power relations (Sturgeon
+et al. 2008; Coe and Yeung 2015).
+
+This research has found that the power of global brands and OEMs is not restricted to the
+sphere of production or retailing. Manufacturing firms can exert power over the post-sale
+lives of products that become the legal property of others.
+
+Moreover, despite recent regulatory efforts in Australia to support the open and fair sharing
+of technical and design information (e.g. MVIS 2022 legislation), struggles continue for
+many independent service providers in the timely and affordable access to informational
+content crucial for servicing and repair.
+
+Such informational content includes access to software codes, design schematics,
+technical service bulletins, recalibration and fix procedures. Manufacturers can charge
+technological rents for technical information that is often incomplete, unsupported and
+slow in arriving to independent shops and customers.
+
+A final message from this research is that researchers and policy-makers need to combine
+insights across production, distribution and consumption-related activities. Such insights
+are increasingly valuable in a world where consumer goods are mass-produced via
+stretched-out spatial networks and where access to affordable post-sale servicing is vital to
+ensure that people’s social lives are not further disrupted.
+
+Ultimately, incorporating activities such as maintenance and repair into economic analyses
+can help better account for the different experiences of owning, using, working on, and
+profiting from commodities that continue to circulate in time and space long after they
+leave the factory gates, retail store or distribution centre.
+
+
+
+
+                                                                                          49
+                                                                                          45
+                08                        References
+               A list of reference cited in the report
+Australian Automobile Association. 2024. Transport Affordability Data Report. Available:
+https://www.aaa.asn.au/research-data/
+Australian Bureau of Statistics (ABS). 2021. General Community Profile: Wollongong, LGA18450.
+Available: https://www.abs.gov.au/census/find-census-data/community-
+profiles/2021/LGA18450
+ABS. 2021. Motor Vehicle Census, Australia. Available: HERE
+Australian Government. 2022. Motor Vehicle Information Scheme. Available: HERE
+Australian Government. 2024. Department of Infrastructure, Transport, Regional Development,
+Communications and the Arts data catalogue. Available:
+https://catalogue.data.infrastructure.gov.au/
+Beer, A. 2018. The closure of the Australian car manufacturing industry: Redundancy, policy and
+community impacts. Australian Geographer 49(3): 419-438.
+Berg Insight. 2023. Embedded car OEM telematics subscribers exceeded 200 million in 2022.
+Report Available: HERE
+Bluestone, B. and Harrison, B. 1982. The Deindustrialization of America: Plant Closings, Community
+Abandonment, and the Dismantling of Basic Industry. Basic Books.
+Coe, N. and Yeung, H.W.C. 2015. Global production networks: Theorising economic development
+in an interconnected world. Oxford University Press.
+Federal Chamber of Automotive Industries (FCAI). 2024. VFACTS: Annual Sales Reports. Available:
+https://www.fcai.com.au/get-vfacts/
+Fine, B. 2002. The World of Consumption. Routledge.
+McDonagh, G. 2011. Historical overview of the collision repair industry in Australia and transfers of
+power through rationalization. PhD dissertation, University of South Australia.
+Motor Trades Association of Australia (MTAA). 2015. Automotive Industry Senate Inquiry
+Submission. Available: https://www.mtaa.com.au/submissions/archive
+National Skills Commission (NSC). 2021. Skills Priority List Findings: Automotive and Engineering
+Trades Workers. Available: HERE
+Pavlínek, P. 2020. Restructuring and internationalisation of the European automotive industry.
+Journal of Economic Geography 20(2): 509-541
+Parliament of Australia. 2015. Future of Australia’s automotive industry. Senate Economic
+Committee Inquiry. Final report available:
+https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Economics/Automotive_i
+ndustry_2014
+Pollard, J., Blumenberg, E. and Brumbaugh, S. 2021. Driven to debt: Social reproduction and
+(auto)mobility in Los Angeles. Annals of the American Association of Geographers 111(5): 1445-
+1461.
+Rutherford, T.D. and Holmes, J. 2014. Manufacturing resiliency: economic restructuring and
+automotive manufacturing in the Great Lakes region. Cambridge Journal of Regions, Economy
+and Society 7(3): 359-378.
+Sturgeon, T., Van Biesebroeck, J. and Gereffi, G. 2008. Value chains, networks, and clusters:
+reframing the global automotive industry. Journal of Economic Geography 8(1): 1-25.
+Vinsel, L. 2019. Moving Violations: Automobiles, Experts, and Regulations in the United States.
+Johns Hopkins University Press
+United States Department of Transportation. 2024. National Highway Traffic Safety
+Administration Data Catalogue. Available: https://www.nhtsa.gov/data
+Warren, A. 2019. Labour Geographies of Workplace Restructuring: An Intra-labour Analysis.
+Antipode 51(2): 681-706.
+Warren, A. and Gibson, C. 2021. The commodity and its aftermarkets: Products as unfinished
+business. Economic Geography 97(4): 338-365.
+Warren, A. and Gibson, C. 2023. Struggles over skills: lived experiences of evolving technologies
+and gendered hierarchies at work. Annals of the American Association of Geographers 113(5):
+1071-1091.
+                                                                                                 50
+         An Economic Geography Analysis of Australia's Downstream Automotive Sector
+
+
+Warren, A. (2025). Shifting Gears: An Economic Geography Analysis of
+Australia’s Downstream Automotive Sector. Australian Centre for
+Culture, Environment, Society and Space (ACCESS). Research Report for
+Industry. [Please cite using the DOI].
+

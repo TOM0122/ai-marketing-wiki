@@ -1,0 +1,23 @@
+# macOS local metadata
+.DS_Store
+**/.DS_Store
+
+# Obsidian machine/session state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+.obsidian/cache/
+.obsidian/plugins/*/data.json
+
+# Temporary/editor artifacts
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Generated binary OCR outputs can be regenerated from raw PDFs.
+# Keep outputs/ocr-text tracked because it is useful for search and wiki distillation.
+outputs/ocr-pdfs/
+outputs/*.log
+outputs/*failures*.tsv

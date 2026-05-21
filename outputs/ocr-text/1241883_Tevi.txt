@@ -1,0 +1,1892 @@
+ Consumer Insight Supports the “Leap” to a Creative Idea by Shifting the Advertising
+
+                           Appeal from Functional to Emotional
+
+
+
+                                           Abstract
+
+
+
+Account planners identify and articulate a key strategic resource, consumer insight, from
+
+which creative ideation is said to “leap.” We argue that insight gives creatives a license to
+
+develop emotional advertising that connects with consumers. An experiment is performed
+
+using 60 working creatives who developed creative advertising ideas under three treatment
+
+conditions; a strong insight, a weak one and a no primed insight control. Although the
+
+knowledge domains creatives use in executions appear similar across the three conditions,
+
+providing insight leads to more emotional appeals rather than functional ones, especially for
+
+strong insight.
+
+
+Management Slant
+
+   •   Consumer insight influences creative work by shifting the orientation of creative
+
+       execution toward emotional appeals, rather than functional appeals.
+
+   •   Strong insights (as opposed to weak ones) are more efficient in shifting creative work
+
+       toward emotionality, giving up less functionality and gaining more emotionality.
+
+   •   Consumer insight does not constrain creatives to the original insight’s knowledge
+
+       domain. Instead it liberates creatives to pursue executional ideas related, yet divergent
+
+       from the insight knowledge domain.
+
+   •   Insight may be more important for the development of an emotional advertising
+
+       appeal, because it tends to involve human motivation. Functional advertising appeals
+
+       are usually product-related.
+
+
+
+                                                                                                1
+       Advertising researchers have long sought to understand the role of emotional and
+
+rational appeals in advertising. Teichert et al. (2018) reviews this considerable literature and
+
+suggests a framework for the choice of advertising appeals based on target audience
+
+demographics and the advertiser’s objectives. Some scholars (e.g., Tevi and Koslow, 2018)
+
+have gone so far as to argue that judicious application of emotional or rational appeals
+
+defines what advertising is. However, most of this research is focused on what effects
+
+finished ads have on consumers—and not on how one goes about managing the creative
+
+development process to make more emotional or functional advertising in the first place.
+
+       To approach the creative development process’ use of affective or information
+
+appeals, Choi et al. (2017) studied Clio award-winning ads for how they might implement
+
+planning tools like the FCB grid. They show that ads in general tend to follow the FCB grid’s
+
+planning recommendations for utilitarian or value expressive appeals depending on think/feel
+
+or high/low involvement categories. But Clio award-winning ads tend to be highly emotive
+
+regardless of the strategies suggested by the FCB grid. When only print and television
+
+winners were considered, over 90% of all award-winning ads were emotionally oriented.
+
+Similar concerns were raised by Kilgour, Sasser and Koslow (2013) who also noted how
+
+advertising considered award-winning tend to eschew strategic considerations. Thus, a major
+
+concern is how to manage the creative development process to achieve the client’s strategic
+
+objectives while getting the balance right between emotional and functional appeals.
+
+       One tool account planners use to manage the creative process is the creative brief—
+
+and a critical element increasingly adopted in that brief is consumer insight (Hackley,
+
+2003a&b; Gordon, 2002; Morrison and Hayley, 2006; Fallon and Senn, 2006). Parker, Ang
+
+and Koslow (2018) explain that consumer insight in advertising can be defined as a human
+
+truth which focuses on human motivation but also incorporates a tension that can be solved
+
+by a brand’s attributes or benefits, in an original way. The idea behind insight is that when an
+
+
+                                                                                                   2
+account planner identifies a deep human truth about consumer motivation, it is used to inform
+
+the advertising message proposition, which gives creative executions a stronger strategic
+
+focus (Steel, 1998; Hackley, 2003a&b). Insight acts as a priming cue that focuses on a
+
+strategic orientation from which creative ideation can leap. While constraining the strategic
+
+knowledge domain that will solve the advertising problem, insight should also liberate
+
+creatives’ divergent thinking within this domain space (Parker, Ang and Koslow, 2018). That
+
+is, insight should provide the context for the advertising, but not actually be the idea.
+
+       However, from a creative thinking perspective, providing an insight may sometimes
+
+constrain the knowledge domain used for divergent thinking, and unintentionally limit the
+
+ability to arrive at an original idea. Specifically, an insight can be viewed as a priming cue
+
+that fixates the creatives on a specific knowledge domain. In this context, creativity scholars
+
+(e.g., Ford, 1996; Marsh et al., 1996; Schilling, 2005; Wiley, 1998) would argue that what
+
+planners call insight could impose mental set fixation, a hindrance to genuine creative
+
+thinking. Only if the prime is particularly useful and original—that is, the insight is strong—
+
+would quality ideas result. However, if the prime or insight is weak, then poorer creative
+
+work may likely follow. For example, Kilgour and Koslow (2009), manipulated the priming
+
+of a past, failed campaign—which should have been ignored. This weakened creativity, as
+
+those past failed ideas showed up in subsequent creative work.
+
+       If insight does help manage the creative development process, then its positive effects
+
+should be apparent in the work creatives develop. Yet, there are at least two different ways to
+
+assess at its effect on creative work. The first is to confirm if creatives actually adhere to the
+
+literal strategic directions planners are trying to provide through insight. In this case, the
+
+knowledge domain of the insight should appear in finished advertising.
+
+       The trouble with this first form of assessment is that even though creatives might
+
+accept a consumer insight as a starting point of ideation that does not mean this is also the
+
+
+                                                                                                     3
+ending point. That is, it is entirely possible that creatives will use insight to initiate concepts
+
+that once completed, appear to have little to do with the original insight initially provided.
+
+Creatives may indeed try to follow direction from account planners, but given the
+
+unpredictable path of creative thinking, creatives may still start with the knowledge domain
+
+implied by an insight, but leap into an entirely different domain and finish someplace new.
+
+        A second route to confirming insight’s influence on creatives comes from Mitchell
+
+(2002) who suggests that from a practitioner perspective, insight helps creatives get to a more
+
+emotional advertising appeal. This is because insight can be seen as encouraging emotional
+
+communication rather than a focus on a unique selling proposition (USP). Given the “blurring
+
+of product differences in many market categories” (p. 45), many creatives do not want to tell
+
+stories about a products USP. Instead, they want to stay connected with consumers by
+
+bringing them into the creative process (Drake, 1984). So, giving creatives a consumer
+
+insight allows creative license to tell narratives about people in the context of products and
+
+thus build the emotional connection between the brand and consumer. Insight, then, manages
+
+the use of advertising’s appeals by directing the orientation of creative execution rather than
+
+shifting the knowledge domain.
+
+        To explore the role of insight, this research performs an experiment using 60
+
+professional creatives from Sydney, Australia. They are asked to create both a print and
+
+television advertisement for a category that is typically functionally-oriented. We then test if
+
+adding a consumer strong or weak insight to the brief can alter the balance of functionality
+
+and emotionality, by shifting creative execution from the former to the latter.
+
+        First, we confirm that creatives themselves do use consumer insights, and distinguish
+
+between strong and weak ones, yet other creatives who judge the work frequently cannot
+
+recognize that specific insight reflected in the final advertisement. However, judges can still
+
+identify which campaigns are based on some kind of insight—that is, any insight—and which
+
+
+                                                                                                      4
+are not. That is, while insight imparts a recognizable style in advertising, consumer insight
+
+does not constrain creatives to the original insight’s knowledge domain. Second, we predict
+
+emotionality and functionality with the use of a strong and weak insight and a no primed
+
+insight control and demonstrate that insight orientates advertising execution toward an
+
+emotional appeal. Third, we also examine insight’s effect on judges’ perceptions of perceived
+
+advertising effectiveness. Like Teichert et al. (2018) we show that both emotional and
+
+functional appeals positively influence effectiveness. However, if insight increases emotional
+
+appeals at the expense of functional ones, then there may be no net influence on judges’
+
+perceptions of effectiveness—an effect we confirm empirically.
+
+       Implications for how to manage the creative advertising development process are
+
+explored. However, given this is the first controlled experiment on creative professionals to
+
+manipulate insight and as only two insights are studied, this research serves as a critical case
+
+study into what is possible rather than the last word. We clearly do not find insight to be a
+
+panacea that solves fundamental strategic or creative issues. If insight is a human truth, then
+
+it makes sense that it should shift advertising from functional to emotional. But future
+
+research needs to understand insight in a wider context of advertising strategy formation.
+
+
+
+                                THEORY DEVELOPMENT
+
+
+
+       Recent work by Parker, Ang and Koslow (2018) views insight through a lens of
+
+absorptive capacity. This concept was initially proposed by Cohen and Levinthal (1990) to
+
+understand why some firms are more innovative than others. Lane, Koka and Pathak (2006)
+
+add more detail to this model in that there are three separate steps. First, individuals must
+
+identify the information needed. Next, they need to assimilate this knowledge in the firm.
+
+Finally, they need to have a system of exploiting this assimilated knowledge.
+
+
+                                                                                                   5
+       Advertising agencies do this absorptive process so routinely that an agency is often
+
+thought of as ideas factory: it takes information about consumers and brands and transforms
+
+them into finished advertisements. Account planning implements the first two steps of this
+
+process. First, planners determine what information is needed and if any is lacking, then they
+
+have to find or infer what the advertising problem is that advertising is designed to address.
+
+Second, planners need to organize and assimilate this knowledge in the form of a creative
+
+brief in order to solidify the key message the advertising should communicate to resolve the
+
+advertising problem. Contained within this key strategic document is an insight that is used to
+
+impart a strategic idea into the message proposition. Finally, creative professionals exploit the
+
+brief and insight to develop advertising execution. Therefore, insight can be thought of as a
+
+seed from which creative ideation can leap.
+
+
+
+Insight as a Starting Point in Creative Ideation
+
+       In increasingly competitive markets, finding a differentiated expression of a brand
+
+benefit in advertising can be challenging to achieve. Product attributes and functional benefits
+
+can be quickly superseded, and increasingly emotional benefits are feeling like commodities
+
+(Tikkanen and Vaariskoski, 2010). Although some observers can be inferred to assume that
+
+advertising agencies can perform magic, a more realistic perspective is that one has to
+
+manage the creative process well. The starting place for managing the process is often
+
+account planning (Koslow, 2015).
+
+       Account planners in advertising agencies facilitate four essential functions: 1) they act
+
+as the consumer voice, 2) provides strategic direction for the brand, 3) inspire creativity
+
+among creatives and 4) protect the client’s interest (Crosier, Grant and Gilmore, 2003; Haley,
+
+Taylor and Morrison, 2014). Central to achieving these functions is the account planner’s role
+
+in developing a creative brief that connects the brand with the consumer and provides
+
+
+                                                                                                 6
+inspiration to creatives in their development of the big idea (Steel, 1998; Haley, Taylor and
+
+Morrison, 2014).
+
+        An important element widely adopted by account planners in constructing the creative
+
+brief is insight (Fallon and Senn, 2006; Hall, 2002; Mitchell, 2002; Steel, 1998; Gordon,
+
+2002). This “community of practitioners” suggest insight is built from an understanding of
+
+“truths” which represent unexpected findings about human behaviour. Haley et al. (2014)
+
+suggest account planners must identify “basic truths” and “interpret culture” in order to
+
+identify insights that will inspire creative execution. Similarly, planning practitioners refer to
+
+insight as “truths” that deepen the understanding of the relationship between consumers, the
+
+brand, category and competition (Gordon, 2002; Steel, 1998). For example, Fallon and Senn
+
+(2006) advise marketers to find the “emotional truth of the brand” (p. 78) arguing that good
+
+planning cases “start the conversation where the consumer was” (p. 89).
+
+        This notion of insight as a “human truth” is supported by Parker, Ang and Koslow
+
+(2018) who define insight as “(1) a succinct socio-cultural expression of human motivation or
+
+need which (2) contains an inherent tension that can be resolved by the brand attribute or
+
+benefit, in a manner that is (3) original, because it has not previously been applied to the
+
+category,” (p. 244). Critical to this definition is the tension inherent in the insight that the
+
+brand can resolve. By example, in the case of Persil, the human truth that all parents want
+
+their children to escape the bedroom and explore the outside world is resolved by the benefit
+
+of superior stain removal. Consequently, it is this tension-benefit relationship that drives
+
+usability of the insight domain.
+
+        Ultimately the insight and the benefit are used by the planner to construct a creative
+
+advertising message proposition. Parker, Ang and Koslow (2018) provide an example of a
+
+human truth that “teenage boys are sexually aspirant but socially insecure” which can be
+
+resolved by the brand benefit of “social confidence.” The insight and benefit can be linked
+
+
+                                                                                                   7
+using the message proposition: Brand X is “your best first move.” This message proposition
+
+represents a succinct expression of the core promise made by the brand to the consumer. At
+
+the heart of the message proposition is the insight which points to the direction in which the
+
+creatives should ideate.
+
+        The account planner’s search for insight is therefore a highly creative and complex
+
+task. The account planner can search for insight in consumer research; in personal domain
+
+knowledge; by challenging conventions around the consumer, the brand, the category or the
+
+competition; through borrowed sources or around truths that may reside in proximity to the
+
+brands central narrative or brand positioning (Parker, Ang and Koslow, 2018). However, not
+
+all insights are of equal value in informing the advertising message proposition. The
+
+attributes of quality insight can be distinguished based on their originality for the category,
+
+the relatability of the insight by consumers, its usability that flows from the benefits ability to
+
+resolve the tension in the insight, and the vision the insight holds for the brand.
+
+        When insight suddenly reveals itself as a creatively congruent solution to the
+
+advertising problem it is often associated with the “Aha! Moment” (Haley, 2014; Parker, Ang
+
+and Koslow, 2018). An account planner experiences this event shifting from impasse to
+
+solution. Zaltman (2014) suggests insight is something initially hidden that needs to be
+
+uncovered: “a realization—an idea—that feels correct; it is a thought experienced as true at
+
+the moment it reaches awareness” (p. 373). When a planner identifies a creatively congruent
+
+insight they completed a large part of the creative process. The role of creative is to find a
+
+creative expression of that strategic idea. That is, the planner has done the first two steps of
+
+the absorptive capacity process and the creative need only do the third. In many instances, it
+
+is likely that the insight can be largely translated into the advertising execution fairly directly.
+
+        On the surface, one can logically assume that an advertising idea resulting from an
+
+insight has an orientation that is identifiable as coming from the insight. Yet, the resulting
+
+
+                                                                                                   8
+creative idea will be subject to the “leap” in ideation that the creative brings to bear on the
+
+problem. Thus, one can look at a set of ideas and identify which were based on an insight—
+
+any insight—and which were not. But because the creative had to take a “leap” in coming up
+
+with the idea, the original insight may not be recognizable in the final advertising execution.
+
+       By way of illustration, consider the now famous Dove Real Beauty Sketches
+
+campaign (WARC, 2014). This outstanding work was built from the insight that the biggest
+
+barrier to a woman feeling beautiful is her inner beauty critic. The big idea was to show that
+
+women are more beautiful than they think, which manifest in a television execution that used
+
+a trained FBI sketch artist to draw women according to their own description, in order to
+
+compare it to that of a stranger.
+
+       This seminal ad has all the hallmarks of being based on insight—human motivation is
+
+on display, the tension between different perspectives of beauty is highlighted, and it’s
+
+profoundly original. If one knew the insight before seeing the ad, it is evident that the ad
+
+almost literally executes that insight. However, if one did not know the original insight, and
+
+were asked to guess what the original insight might have been, we argue that the accuracy in
+
+hitting the original insight will be low. For instance, in the case of the Dove example cited
+
+above, it is difficult to see how someone not privy to the insight could possibly retrofit the
+
+execution to the insight knowledge domain. There may be various insights the layperson
+
+might infer from the execution, for example, beauty is in the eye of the beholder.
+
+       Other work on insight and creativity show similar patterns. For example, Fallon and
+
+Senn (2006) provide multiple cases studies where insight progresses to a creative idea. If one
+
+follows how the campaigns evolve, they are clear applications of the insight. Also, an insight
+
+orientation is evident in the finished ads. But, in each situation, one would still be hard
+
+pressed to start with the final creative idea and infer the specific insight from which the idea
+
+came. Thus, our first hypothesis is:
+
+
+                                                                                                   9
+       H1: When creatives use insight as a starting point for ideation, one will not be able to
+
+               identify the actual insight in the resulting work, even though the work will be
+
+               seen as being based on some kind of insight.
+
+
+
+Alternatives Influences of Insight: Emotional and Functional Advertising
+
+       Another important question of insight remains: does insight shift the orientation of
+
+advertising toward more emotional advertising appeals? To explore this, we first review the
+
+literature on rational and emotional appeals which advertising scholars have long
+
+distinguished between (see Benson, 1938; MacInnis and Jaworski, 1989; Park, Jaworski, and
+
+MacInnis, 1986; Shimp and Andrews, 2013). Emotional appeals represent an attempt to elicit
+
+an affective consumer connection to a brand by focusing on consumers’ hedonic needs
+
+(MacInnis and Jaworski, 1989; Dahlén, Lange and Smith, 2010), which can be positive (for
+
+example, love, joy, or hope), or negative (for example, guilt, shame or fear) depending on the
+
+intended affective response (See Panda et al., 2013; Keshari and Jain, 2014). Rational
+
+appeals, on the other hand, tend to be more about informational content. Stafford and Day
+
+(1995) suggest that rational appeals are a straightforward presentation of factual information.
+
+In this way, rational appeals focus on the products utilitarian benefits informing key
+
+functional characteristics of a product (Resnik and Stern, 1977; Johar and Sirgy, 1991).
+
+       The reason advertising appeals are important is because they activate broadly two
+
+different buying motivations: utilitarian or hedonic. Utilitarian needs relate to rational buying
+
+motivations whereas hedonic needs involve the social, experiential, and sensory aspects that
+
+underpin our emotional consumption motivations. Rational appeals are more appropriate for
+
+products that satisfy predominantly utilitarian needs (e.g., washing detergent, insurance)
+
+while emotional appeals are more appropriate for products that fulfill predominantly hedonic
+
+needs (e.g., beer, sports cars) (see Armstrong, 2011; Johar and Sirgy, 1991; Sirgy and Johar,
+
+
+                                                                                               10
+1992). However, these two need states are not mutually exclusive, as both can be filled
+
+simultaneously (Voss, Spangenberg and Grohmann, 2003). For example, a farmer or
+
+tradesman considering purchasing a new utility vehicle may care for functional features (such
+
+as a large tray top), as well as hedonic features (such as a desired ‘macho’ self-image).
+
+       Researchers have demonstrated that the advertising appeal should match the choice of
+
+product being advertised. This is because different levels of consumer involvement with
+
+product and services lead to different levels of elaboration in the processing of marketing
+
+information (see Petty and Cacioppo, 1984). Some researchers suggest that emotional
+
+advertising appeals that focus on hedonic needs are more effective when involvement is low,
+
+while rational appeals that focus on utilitarian needs are more effective when product
+
+involvement is high (Johar and Sirgy, 1991; Sirgy and Johar, 1992). Others argue that
+
+emotional advertising appeals are more appropriate where there is little differentiation
+
+between brands in a category (Belch and Belch, 2004), or that emotional benefits are most
+
+appropriate when there is little rational reasoning that can be associated with a product
+
+benefit (Panda et al., 2013). These themes suggest the level of involvement, the type of need
+
+the product fulfills and the degree of competition influences the type of appeal appropriate.
+
+       However, researchers have also shown that emotional appeals are gaining in
+
+importance over time—possibly as a response to increased competitive pressure. A few
+
+decades ago, work like Stewart and Furse (1985) or Stewart and Koslow (1989) celebrated
+
+the rational, functional brand differentiating message. For older consumers, rational appeals
+
+still hold some sway (Sudbury-Riley and Edgar, 2016), however, more recently, emotional
+
+appeals have been seen to be more powerful, especially on television (Hornik, Ofir and
+
+Rachamim, 2017). Emotional appeals appear to make Super Bowl advertising effective (Kim,
+
+Freling and Grisaffe, 2013) and they also have stronger effects in countries with medium to
+
+high GDP per capita (Zarantonello, Schmitt and Jedidi, 2014). Although the general pattern
+
+
+                                                                                                11
+of the FCB grid remains regarding matching appeals to category characteristics, the relative
+
+value of emotional appeals has increased (Geuens, De Pelsmacker and Faseur, 2011).
+
+
+
+Does Insight Support Emotional or Functional Appeals?
+
+        Despite all the discussion of emotional and functional appeals, a more difficult
+
+problem is how to design such executions in the first place. If one wanted to develop more
+
+emotional advertising for a rationally oriented category, how should one do this? For Rossiter
+
+(2008) the starting point is the key benefit claim, which then directs creative ideation. This
+
+claim is essentially the persuasive key to selling the brand, which is often called the
+
+campaign theme or copy platform, or underlying strategy of a campaign (Koslow, Sasser and
+
+Riordan, 2006). Such a claim may or may not be stated in the ad, and sometimes it’s explicit
+
+and at other times implicit. Rossiter (2008) provides useful examples, but does not include a
+
+formal definition, or identify how a fundamental benefit claim is chosen in the first place.
+
+        However, a root problem is most of the categorizations of advertising appeals tend to
+
+be tautological. There is an implicit assumption that account planners and clients can manage
+
+the creative process by choosing from the list of appeals and then achieve that desired appeal
+
+in the finished creative execution. That is, researchers used the finished executions to
+
+identify, evaluate and infer whether a rational or emotional appeal was strategically intended
+
+rather than examine how the appeals came to emanate from the information provided to
+
+creatives in the creative brief. This distinction is all the more critical if the starting points of
+
+ideation are different from ending points. It is therefore essential to our understanding of how
+
+advertising manifests as either an emotional or functional appeal as a consequence of the
+
+elements of message strategy contained in the creative brief.
+
+        Not surprisingly, therefore, the previous advertising academic literature says little
+
+about the role of consumer insight in helping shape the advertising appeal. If consumer
+
+
+                                                                                                   12
+insight can help set the direction of the creative process (Parker, Ang and Koslow, 2018), the
+
+next question to ask is what kind of appeal usually results? Fallon and Senn (2006) provide
+
+multiple examples of how insights about consumers make their way into advertising that
+
+aimed to appeal to emotions. For clients like Citi, Holiday Inn Express, Skoda, Lee Jeans and
+
+others, account planners looked for emotional truths that light up a focus group and then
+
+creatives can appeal to these emotionally laden themes in advertising. Since human
+
+motivation is defined as a critical part of consumer insight, when creatives use consumer
+
+insight, the outcome is likely to be an emotional advertisement. In other words, linking the
+
+brand to the human motivation would now orientate the strategic focus of the advertising
+
+toward an emotional benefit (Mitchell, 2002), rather than a functional appeal. This informs
+
+our second hypothesis:
+
+
+
+       H2: Providing creatives with insight will lead to an increased use of emotional
+
+               appeals but decreased functional appeals in advertising.
+
+
+
+However, Is Insight Just Another Priming Cue?
+
+       An alternative perspective on insight might consider it as just another type of priming
+
+cue influencing creative work, possibly imposing a constraint on divergent thinking known as
+
+functional fixedness (Birch and Rabinowitz, 1951; Simonton, 1995; Wiley, 1998). This
+
+concept involves the failure to use familiar domain knowledge in an unfamiliar way.
+
+Functional fixedness results when people experience difficulty moving past the traditional
+
+domain knowledge conventions that guide thinking to automatically arrive at a
+
+preconditioned idea (Duncker and Lees, 1945; Gick and Lockhart, 1995; Schilling, 2005;
+
+Wiley, 1998) or a familiar problem–solution combination (Luchins, 1942). Fixation may not
+
+only inhibit the production of ideas per se, but it may also make those ideas less original
+
+
+                                                                                               13
+(Smith, Ward, and Schumacher, 1993). Fixation can originate from existing domain
+
+knowledge, or it can come about from informational cues that prime creatives to specific
+
+knowledge domains (Kilgour and Koslow, 2009; Marsh, Landau, and Hicks, 1996; Smith,
+
+Ward, and Schumacher, 1993).
+
+       However, regardless of the source of fixation its effect is not readily observable to
+
+those doing the creating. A widespread cognitive bias, fixation seems to be extremely
+
+problematic in innovation and creativity settings (see Zynga, 2013). This unseen bias affects
+
+both novices and experts, but sometimes these biases affect experts more than novices in that
+
+experts carefully train themselves to solve problems in set routines efficiently. By merely
+
+providing insight—any insight, strong or weak—this should restrict the range of ideation
+
+possible, thus restricting the originality in an execution. Insight creates a strategic focus that
+
+creatives may feel limits their ability to jump across to unusual knowledge domains to solve
+
+the advertising problem. That is, insight puts creatives in a narrow box or intellectual
+
+“straight-jacket,” which is hard to break out of, no matter how much effort is expended. It
+
+may be that insights keep one on a strategic orientation, but the level of originality is merely a
+
+function of the narrow range of ideas within which the ideation is kept.
+
+       However, fixation can still enhance originality if the domain one fixates on provides a
+
+fertile area for ideation. That is, if an insight is strong, originality may appear to increase, but
+
+not due to the usual route of a creative’s hard work resulting in an outstanding execution.
+
+Koslow (2015) suggests a situation where creatives literally execute a strong insight and find
+
+that the quality of the work is greatly enhanced. In effect, when planners are providing a
+
+strong insight to creatives, planners are providing the necessary level of originality for an
+
+outstanding execution and all the creative needs to do is execute it. Where a weaker insight is
+
+provided, however, the domain may be less fertile so creative work may still shift from
+
+functional to emotional, but not as efficiently as when a strong insight is used.
+
+
+                                                                                                  14
+       H3: Stronger insight will produce a more efficient trade-off of emotional appeals for
+
+                 functional appeals.
+
+
+
+       Although insight may alter the orientation of the advertising, another question is
+
+whether that advertising is more effective as a result. That is, should finding and using an
+
+insight raise the agency’s confidence in presenting their ideas to a client? If insight acts as a
+
+cue, then insight is not some magic wand enhancing all advertising but instead must adhere to
+
+some kind of trade-off (Kilgour and Koslow, 2009). Thus, any increase in the use of
+
+emotional appeals would have to be offset by a reduction in functional appeal. In addition,
+
+the net influence on effectiveness may simply be a result of the value of emotional or
+
+functional appeals themselves. Insight cues may alter the mix of emotional and functional
+
+appeals, but the increase in one at the expense of the other may suggest little net influence on
+
+effectiveness.
+
+
+
+       H4: Although use of insight increases the use of emotional appeals at the expense of
+
+                 functional one, there is little net change in effectiveness.
+
+
+
+                                             METHOD
+
+
+
+       To test the hypotheses, an experiment was undertaken to explore directly whether
+
+providing insight can alter the caliber of work creative professionals produce. To assess the
+
+quality of the work produced, we used external judges to ensure objectivity. The experiment
+
+adopted a 3x2 design. Manipulations were between subjects across three levels: strong
+
+insight, weak insight and no primed insight as the control condition. To provide some
+
+generalization to different media, all subjects produced both a print and television ad.
+
+
+                                                                                                15
+Sample
+
+       The study was conducted among 60 Sydney based advertising agency creatives. 20
+
+Participants were assigned to each of the three conditions. Specifically, 20 creatives received
+
+a strong insight, 20 creatives received a weak insight and 20 creatives received no primed
+
+insight as the control. The use of professional creatives was a deliberate design feature to
+
+assist in avoiding external validity issues (Nickerson, 1999).
+
+       The participants were all employed as professional creatives in 15 Sydney based
+
+advertising agencies. Thirteen of the agencies involved were international agency networks,
+
+and two were large privately-owned agencies. Seven participants were freelancers working at
+
+one of the multinational agencies on the day of the experiment. The average age of the
+
+participants was 37.5 years, with an average 13.6 years industry experience. Among the
+
+participants were 20 art directors, 21 copywriters, and 19 creative directors. There were 42
+
+male and 18 female participants. Twenty-one participants had either regularly or always
+
+worked on an automotive client, twenty-four occasionally, five rarely, and ten had no
+
+category experience. The participants were all randomly assigned to treatment conditions.
+
+
+
+Procedure
+
+       The task involved developing a television and a print advertisement against a
+
+fictitious brief for an automotive brand. This creative task was modeled on Kilgour and
+
+Koslow (2009) however, an automotive utility vehicle or “ute” (or “pick-up” truck in
+
+American English) was substituted for insecticide spray. The automotive category was
+
+chosen given the anticipated differences in creatives experience levels across the category,
+
+and because advertising in the automotive category frequently communicates product
+
+attributes and functional benefits.
+
+
+
+
+                                                                                               16
+       Participants were provided with an experiment booklet containing clear instructions.
+
+All the response booklets contained a creative brief that outlined the advertising objectives
+
+(to persuade shoppers for competing work utility vehicles to include in their consideration
+
+set), target audience (farmers and tradesmen), proposition (no harder working utility vehicle)
+
+and several product attributes (10% more power than competitors; 15% larger scratch-
+
+resistant tray; rust-resistant underbody and all-wheel drive). However, the booklets varied as
+
+to whether they contained a strong, weak or no insight condition.
+
+       The creatives were given 40 minutes to complete the advertising creativity task. The
+
+first 10 minutes was used to brainstorm ideas to solve the advertising problem. They then
+
+chose their best idea for print and their best idea for television and spent 15 minutes preparing
+
+each of the advertising executions. The researcher called time at the following intervals: 10
+
+minutes, 15 minutes and 15 minutes. The experiment took place in a meeting room at each of
+
+the advertising agencies involved. All creatives commenced and finished the experiment
+
+within the same time frame. Those participants who received an insight in their booklet were
+
+instructed to use the insight to help inform the advertising message proposition. The control
+
+group were not instructed to use an insight of their choosing, however there was nothing to
+
+prohibit them using an insight at their discretion. At the completion of the experiment,
+
+participants completed a self-evaluation questionnaire.
+
+
+
+Pre-test: Identifying Strong and Weak Insights
+
+       The quality of insight was pre-tested among account planners to determine the strong
+
+and weak insight conditions. Nine account planners submitted insights they believed relevant
+
+to advertising the fictitious utility vehicle. There was an overlap in some of these insights that
+
+were ultimately reduced to nine unique insights listed in Table 1. These insights were then
+
+rated by a different sample of 20 account planners on 15 items across a seven-point scale
+
+
+                                                                                                17
+ranging from strongly disagree (-3) to strongly agree (3). The insights were loaded onto four
+
+multi-item scales. This included originality and the following three measures of
+
+appropriateness: familiar and motivating to consumers, fits with the strategy and message
+
+proposition, and usable for creatives. Each of the scales was reliable, with Cronbach’s alpha
+
+values ranging between .76 and .96.
+
+                                <<Insert Table 1 about here>>
+
+       Table 1 also lists the scores on the four scales used to evaluate insight. Most insights
+
+were high on some scales, but not on others. However, only one insight was high on all four
+
+scales, and one was low on all four. Thus, the strong insight adopted in the experiment was
+
+“for tradesmen and farmers their vehicle is a point of pride, like scars that prove one’s
+
+toughness.” The weak insight adopted was “men do hard work.” These two insight
+
+conditions are labelled, pride/scars (for strong insight), and hard work (for weak insight).
+
+
+
+Coding
+
+       The creative work completed by creatives was evaluated and subsequently coded by
+
+two senior practicing creatives. The first judge was a senior art director while the second was
+
+a copy based creative director. Both had extensive international agency experience,
+
+automotive category experience and had participated in industry award judging. The judges
+
+were paid and highly motivated to score the work accurately. The judges also coded blind to
+
+the treatment conditions.
+
+       To achieve consistency in the assessments between judges, extensive training was
+
+undertaken. The judges were provided with two print and two television advertisements.
+
+They were given a copy of the generic creative brief, minus any insight condition. After
+
+assessing the work, the coders discussed any differences in scores and the researcher clarified
+
+any outstanding questions. The judges then proceeded to evaluate 10% of the print and
+
+
+                                                                                               18
+television executions within the different treatments. These were again checked, and the
+
+coder agreement was recorded as averaging .910 for print and .827 for television.
+
+
+
+Scales
+
+         Four single-items scales were used to explore whether or not judges could see the
+
+insight. Two of these asked the judges to “Rate the creative work in its ability to express the
+
+following insights.” The two insights provided were the strong and weak insights, and the
+
+response scale ranged from “very much so” (6) to “not at all” (0). Also, judges were asked to
+
+“Rate the extent to which the focus of the creative is about” and offered two ending phrases,
+
+“Human truth” and “Consumer insight.” The same seven-point response scale was used as
+
+well.
+
+         Two three-item scales were constructed to measure functionality and emotionality.
+
+Functional advertising is that which uses functional and rational appeals as well as focus on
+
+product features. Emotional advertising is that which uses emotional and non-rational appeals
+
+as well as focus on image. The appeals items were measured with the request to “Rate the
+
+creative work in its ability to express the follow consumer appeals.” These appeals were
+
+phrased as “Functional appeal,” “Rational appeal,” “Feature appeal,” “Emotional appeal,”
+
+“Non-rational appeal” and “Image appeal.” All six items were measured with the same seven
+
+item response scale ranging from “Not at all” (0) to “Very much so” (6).
+
+         Table 2 shows the factor analysis loadings for functionality and emotionality. Two
+
+factors were identified by the scree plot and the eigenvalues >1 test. The two factors
+
+explained 75.8% of the variance. All the expected loadings are above .6, and the highest cross
+
+loading is less than -.35. Overall, a good fit was achieved.
+
+                                 <<Insert Table 2 about here>>
+
+
+
+
+                                                                                              19
+       Effectiveness was also measured with a single-item scale ranging from “far less than
+
+average” (-3) to “far above average” (+3) with “average” being the midpoint (0). The
+
+phrasing of the item was “Rate the PRINT execution” and on the next line was the word
+
+“effectiveness”. Parallel phrasing was used for television.
+
+
+
+                                          FINDINGS
+
+
+
+       The data were analyzed in two steps. First, we confirmed whether the creatives or
+
+judges could see whether the creatives kept to insight themes offered by the treatments or
+
+used insights at all. Second, we modeled functionality and emotionality with insight. Third,
+
+effectiveness was modeled using all the same independent measures used in the first two
+
+models, plus functionality and emotionality.
+
+       The models used were all HLM models with the individual respondent (ID) used as a
+
+random effect. Each subject produced two responses, so HLM could control for skill
+
+differences among creative professionals. Although it is more complex that other methods
+
+like ANOVA or GLM, using the latter methods would take up a degree of freedom for each
+
+respondent, making it more difficult to find statistical significance. Another variable
+
+investigated indicated which media, print or TV, the ad used. However, this variable was only
+
+significant in the emotionality model. The analysis process also checked for all two-way
+
+interactions, none of which were significant. Several demographic variables (e.g., age,
+
+gender, job role, education, agency, years of experience and whether or not the respondent
+
+was a freelancer) were used, however, again were not significant directly or as interactions
+
+with other variables.
+
+       Individual creative participants could identify when they were given an insight and
+
+claimed they used it. To check this, subjects were asked, “was there an insight explicitly
+
+
+                                                                                               20
+stated in the brief you were given” with responses ranging from definitely no (1) to definitely
+
+yes (6). The strong and weak insight conditions had means of 4.9 and 4.55 respectively which
+
+were not statistically different from one another (p=.33). The no primed insight control had a
+
+mean of 2.55, which was significantly different from the two insight groups (p<.0001 in both
+
+cases). Subjects were also asked to rate how strong the insight in the brief was with possible
+
+responses ranging from extremely weak (1) to extremely strong (6). The strong insight
+
+condition achieved a mean of 4.25 which was statistically different from the means for the
+
+weak and no insight conditions 2.35 and 3.0 (p<0.0001 and p=.0002 respectively).
+
+       The four single-item scales relating to insight and truth were modeled in HLM using
+
+media and insight conditions as independent variables. In the case of the two items measuring
+
+whether the ad was perceived to be an application of the two insights used in the experiment,
+
+there were no significant differences regarding insight treatment. That is, judges’ rating of
+
+whether or not the scar/pride insight is expressed is not different among the three strong,
+
+weak or no insight conditions (p=.166). The judges’ rating of whether or not the hard-work
+
+insight is expressed is again not different among the three conditions (p=.384). However, for
+
+the other two items relating to “Human truth” and “Consumer insight,” both were predicted
+
+by insight condition (p=.0002 and p=.0004 respectively). Figure 1 plots the mean levels from
+
+the analyses.
+
+                                <<Insert Figure 1 about here>>
+
+       In Figure 1, the right side shows the two items relating to the literal application of the
+
+two insights. On the left are the two items relating to the judges seeing any human truth or
+
+consumer insight in a creative execution. Although the two items rating the expression ability
+
+of the insight have higher means than the other two, former are still only mid-point on the
+
+response range, between somewhat and moderately. For judges’ perceptions of human truth
+
+or consumer insight, there is more discrimination between the treatments, but the levels are
+
+
+                                                                                                21
+lower. The no primed insight control is perceived to use insight “very little” while the weak
+
+insight uses insight “A little.” The strong insight condition level is just shy of “somewhat”
+
+being perceived as using either a human truth or consider insight. Although creatives are not
+
+noticeably using the insights provided in the treatments, those given a stronger insight do end
+
+up being observed as employing some kind of insight, whether or not it was the one provided.
+
+Thus, H1 is supported.
+
+       The emotionality and functionality of the creative executions are modeled in Table 3
+
+as HLM models. In both cases, the fit is high. Although HLM does not provide the familiar
+
+R2 measure of fit, some idea of the level of fit can be inferred by comparing similar models. If
+
+the models were fit as repeated measures models with fixed effects for respondent
+
+differences, the variance explained would be 65% and 67% for emotionality and functionality
+
+respectively. The insight condition predicts both emotionality and functionality but does so
+
+differently in each model. Strong insights tend to have a positive effect on emotionality, and a
+
+negative effect on functionality. Hence, H2 is supported.
+
+                                <<Insert Table 3 about here>>
+
+       To address the third hypothesis comparing strong and weak insights consider Figure
+
+2. Expressed in standard units, the figure shows the influence of insight conditions
+
+influencing emotionality and functionality simultaneously. The means for the three
+
+conditions are plotted along with ovals, representing their means’ 95% joint confident
+
+regions. In the lower right of the figure is the mean for the no primed insight control
+
+condition. Although more functionally oriented than the other two conditions, it is lower on
+
+emotionality. Both insight conditions are on the upper left, showing that they increased
+
+emotionality at the expense of functionality. However, the strong insight condition is to the
+
+upper right of the weak insight condition, and the means are jointly separated. That is, the
+
+strong insight condition reduced functionality less while increasing emotionality more. That
+
+
+                                                                                                22
+is, the strong insight condition is more efficient in orientating a creative execution toward a
+
+more emotional appeal. Therefore, H3 is supported.
+
+                                <<Insert Figure 2 about here>>
+
+        The model for perceived effectiveness is also listed in Table 3. Both functionality and
+
+emotionality increased effectiveness but the inclusion of demographic variables and
+
+interactions were explored by proved not significant. However, neither insight nor media had
+
+direct influence on effectiveness. Given insight shifted appeals from functional to emotional,
+
+the net influence on effectiveness was not significant. That is, insight alters the character of
+
+the appeals, but does not expand effectiveness. Thus, H4 is supported.
+
+
+
+                                         DISCUSSION
+
+
+
+        Although insight is seen as an important tool in practice, its contribution to creative
+
+advertising development is less straightforward. Consumer insight does not tell creatives
+
+what knowledge domains to express. Neither is a specific insight something that reveals itself
+
+when one inspects creative executions. Insight guides creativity by liberating creatives to tell
+
+narratives about people. Observers can tell consumer insight was used, but they find it harder
+
+to identify the breadcrumb trail of a specific insight. The strength of insight relates to how it
+
+shapes the orientation of the advertising appeal in creative execution. In the current study,
+
+functional appeals were common in the automotive “ute” category explored. However strong
+
+insight results in a creative execution that has an emotional appeal spawned from the human
+
+truth captured in the insight’s knowledge domain. Thus, insight gave creatives a starting
+
+point—a motivational angle from which to generate divergent ideas. From there they could
+
+leap to the creative idea.
+
+
+
+
+                                                                                                   23
+Future Research and Limitations
+
+       This study looked through the lens of creative judges to determine if insights made
+
+creative executions more emotive, but further work should validate whether insight makes the
+
+creative work more emotive to consumers. In moving the brand closer to human motivation,
+
+an insight is likely to affect consumer evaluations of the brand more favorably. This could
+
+also extend to brand recall, as emotional advertising tends to be remembered more than
+
+rational messages (Madison, 1999). Additional research may investigate insight’s effect on
+
+attitudes toward the advertising, attitudes toward the brand and purchase intent. That is, this
+
+study does show how a utility vehicle that is arguably a high involvement item for a farmer or
+
+tradesman can be paired with a strong emotional appeal. However, we do not show whether a
+
+rational advertising appeal would elicit stronger consumption behavior.
+
+       Similar to any experiment this study has limitations. First, the time allowed to
+
+complete the task and the artificial condition associated with the environment under which
+
+the experiment is conducted can affect the results (Harrington, 1975). The time frame given
+
+to creatives to complete the experiment was short compared to that afforded in practice. This
+
+could impair the quality of divergent thinking capability of creatives in the elaboration of
+
+their ideas. Second, the creatives were asked to prepare a print and television commercial
+
+using different ideas. In practice, they would most likely develop a single-minded campaign
+
+idea relevant to both media. The experiment also deliberately focused on an automotive
+
+category where product attributes frequently support the brand promise. Replacing product
+
+attributes with non-product attributes or an experiential or symbolic benefit may have further
+
+advanced the emotional appeal of the advertising. Finally, the experiment was conducted
+
+among individual creatives, whereas in practice, creativity is socially constructed between art
+
+director and copywriter and other agency actors. We were motivated to avoid these
+
+limitations, but we needed to accept them to gain cooperation of creatives and their agencies.
+
+
+                                                                                               24
+       Future research needs to consider the possibility that strong insights may sometimes
+
+lead to more, yet better fitting, functional appeals. That is, we have generally followed
+
+Parker, Ang and Koslow’s (2018) lead in that insight is based on a human truth, but there
+
+may be other kinds of truths where product attributes or functional benefits lead to insight or
+
+simply a powerful functionally oriented execution. For example, Fallon and Senn’s (2006)
+
+planning work attempts to get to “the essential truth of the Bahamas” (p. 157) and designed
+
+the destination’s advertising and website around a framework that could accommodate its
+
+diverse offerings. In a product category dominated by emotional appeals, such an approach
+
+may be useful to move appeals from emotional to functional.
+
+       Of the nine insights considered in Table 1, it is noticeable that the insights considered
+
+most useful to creatives are the more emotive ones (e.g., insights 1, 5 and 8). However, the
+
+less emotive ones (e.g., insights 2, 4, 6 and 7), score modestly on some of Table 1’s
+
+dimensions. A wider set of insights may have identified some that were strong, but less
+
+emotive. Or a valuable direction may be adding some emotive power to weaker insights. For
+
+example, the weak hard-work insight may have been strengthened by adding emotion,
+
+possibly appending a phrase like “measured in depth of suntan or buckets of sweat.”
+
+Alternatively, insight may have it strongest influence when it hones the proposition. Only
+
+additional research can really address these concerns.
+
+       Experiments using professional creatives are uncommon so the potential for
+
+understanding creativity theory by studying professional practices is immense. No
+
+experiment in advertising development uses a large sample size of professional creatives, and
+
+only one other study, Kilgour and Koslow (2009), uses a modest-sized sample. But both that
+
+study and this suggest that advertising practices influence creative thinking, sometimes aiding
+
+creativity, but sometimes holding it back. Although one can use populations of advertising
+
+students to understand some aspects of creative thinking (e.g., Griffin, 2008), studying
+
+
+                                                                                               25
+proven creative elites provides a unique opportunity for pushing the boundaries of our
+
+knowledge of creative thinking.
+
+
+
+Implications
+
+        A significant implication for academics is that we challenge scholars’ assumption that
+
+creatives freely choose among appeal types. For example, Armstrong (2011) lists almost 200
+
+“advertising principles” or execution factors, including 30 rational execution elements and
+
+nine emotional ones. He, like most executional factors researchers, recommends advertisers
+
+choose from this list when developing advertising. In an ideal world possibly it can be a free
+
+choice, but in practice, use of appeals is limited by the kinds of information contained in the
+
+creative brief. Functional information is typically available from clients, who can describe the
+
+product or service in great detail. But if one wants an emotive appeal, then creatives need the
+
+right inputs, especially a strong insight.
+
+        The key implication for practitioners also stresses that to develop an emotional
+
+appeal, one option is to find a powerful consumer insight. If insight is lacking or weak in
+
+quality, attempting to develop highly emotive advertising may not work. Thus, diagnosing
+
+the strength of an insight may well be the basis of a quality brief. Unfortunately, few
+
+advertising researchers explore how the planning function limits, enables or manages creative
+
+ideation, but future research desperately needs to understand these critical planning inputs.
+
+For example, some insights may be said to be more scalable, relating to more individuals in a
+
+target market, or across different media or platforms. Alternatively, other insights may be
+
+more enduring by having greater stability across campaigns or longevity over time.
+
+        However, if marketers and advertising agencies want rational advertising with
+
+functional appeals, then they may not want to rely on an insight incorporating a human truth.
+
+
+
+
+                                                                                                26
+Providing insight to a creative means she will work to use it in some way—by developing
+
+emotional advertising and leaving more functional appeals aside.
+
+       This research also emphasizes that the starting points account planners give their
+
+creatives matter. Therefore, if a planner seeks creatives to generate a range of alternative
+
+appeals, one approach is to provide independent sets of creatives different starting points, in
+
+the form of diverse insights or propositions. In general, the framing of information provided
+
+to creatives is critical so planners need be cognizant of this. They also need to consider
+
+alternative ways of presenting research that manage creatives well.
+
+       However, the assumption always made was that finding that persuasive angle around
+
+which to build an emotional appeal was something that came naturally to good creatives and
+
+they didn’t need management—at least in this aspect of creative work. That is, emotional
+
+appeals were always assumed to be there, close at hand, ready to use, if the client needed
+
+them and was open to using them. What was assumed to need management was keeping
+
+creatives on-strategy, and hence providing consumer insight in a creative brief was viewed as
+
+critical to getting the right knowledge domains expressed. But supplying insight to creatives
+
+only gives them the starting point for ideation, not the ending point, so insight doesn’t really
+
+manage advertising knowledge domains. How consumer insight operates is in a less expected
+
+way, that of a tool to get to emotional advertising—especially in a functionally oriented
+
+category—by finding a consumer insight based on a deep human truth. Overall, there is much
+
+more to learn about how creatives make their celebrated magic, but this study still provides a
+
+roadmap to finding emotional advertising, something that starts with consumer insight.
+
+
+
+
+                                                                                               27
+                                      REFERENCES
+
+ARMSTRONG, J. S. “Evidence-based Advertising.” International Journal of Advertising 30, 5
+
+       (2011): 743-767.
+
+BELCH, G. E., and M. A. BELCH. Advertising and Promotion: An Integrated Marketing
+
+       Communications Perspective 6th. New York: NY: McGraw-Hill, 2004.
+
+BENSON, J. “Trends in Consumer Advertising.” Journal of Marketing 3,1 (1938): 20-26.
+
+BIRCH, H. G, and H. S. RABINOWITZ. “The Negative Effect of Previous Experience on
+
+       Productive Thinking.” Journal of Experimental Psychology, 41, 2 (1951): 121.
+
+CHOI, H., L. KELLEY., L.N. REID., J. UHRICK., and K. KUO. “Judgements of Highly Creative
+
+       Advertising: Presence of Functional Matching and the FCB Planning Model in Clio-
+
+       Winning Advertisements.” Creativity Research Journal, 30, 2 (2018): 152–163.
+
+CROSIER, K., I. GRANT, and C. GILMORE. “Account Planning in Scottish Advertising
+
+       Agencies: A Discipline in Transition.” Journal of Marketing Communications, 9
+
+       (2003): 1–15.
+
+DAHLÉN, M., F. LANGE, and T. SMITH. Marketing Communications: A Brand Narrative
+
+       Approach. Chichester, UK: John Wiley & Sons, 2010.
+
+DRAKE, M. “The Basics of Creative Development Research.” International Journal of
+
+       Advertising, 3, 1 (1984): 43–49.
+
+DUNCKER, K., and L. LEES. “On Problem-Solving.” Psychological Monographs, 58, 5 (1945):
+
+       1–113.
+
+FALLON, P., and F. SENN. Juicing the Orange: How to Turn Creativity into a Powerful
+
+       Business Advantage, Harvard Business Press, 2006.
+
+FORD, C. M. “A Theory of Individual Creative Action in Multiple Social Domains.” Academy
+
+       of Management Review, 21, 4 (1996): 1112–1142.
+
+
+
+
+                                                                                        28
+GEUENS, M., P. DE PELSMACKER, and T. FASEUR. “Emotional Advertising: Revisiting the
+
+       Role of Product Category.” Journal of Business Research, 64, 4 (2011): 418-426.
+
+GICK, M. L., and R. S. LOCKHART. “Cognitive and Affective Components of Insight.” In The
+
+       Nature of Insight, R. J. Sternberg and J. E. Davidson, eds. Cambridge, MA: The MIT
+
+       Press, 1995.
+
+GORDON, W. “Brands on the Brain: New Scientific Discoveries to Support New Brand
+
+       Thinking.” In Brand New Brand Thinking: Brought to Life by 11 Experts who do, M.
+
+       Baskin and M. Ellis, eds. London: Kogan Page, (2002): 103-121.
+
+GRIFFIN, W. G. “From Performance to Mastery: Developmental Models of the Creative
+
+       Process.” Journal of Advertising, 37, 4 (2008): 95-108.
+
+HACKLEY, C. “Account Planning: Current Agency Perspectives on an Advertising Enigma.”
+
+       Journal of Advertising Research, 43, 2 (2003b): 235-245.
+
+HACKLEY, C. “From Consumer Insight to Advertising Strategy: The Account Planner’s
+
+       Integrative Role in Creative Advertising Development.” Marketing Intelligence &
+
+       Planning, 21 7 (2003a): 446–452.
+
+HALEY, E., R. TAYLOR, and M. MORRISON. “How Advertising Creatives Define Excellent
+
+       Planning.” Journal of Current Issues & Research in Advertising, 35, 2 (2014): 167-
+
+       189,
+
+HALL, M. “Creative Thinking with Discipline: Practical Research Applications from Brand
+
+       Building Theory.” In Brand New Brand Thinking: Brought to Life by 11 Experts Who
+
+       Do, Merry Baskin and Mark Ellis, eds. London: Kogan Page, 2002.
+
+HARRINGTON, D. M. “Effects of Explicit Instructions to ‘Be Creative’ on the Psychological
+
+       Meaning of Divergent Thinking Test Scores.” Journal of Personality, 43, 3 (1975):
+
+       434–454.
+
+
+
+
+                                                                                            29
+HORNIK, J., C. OFIR, and M. RACHAMIM. “Advertising Appeals, Moderators, and Impact on
+
+       Persuasion: A Quantitative Assessment Creates a Hierarchy of Appeals.” Journal of
+
+       Advertising Research, 57, 3 (2017): 305-318.
+
+JAWORSKI, B. J., and D. J. MACINNIS. “Marketing Jobs and Management Controls: Toward a
+
+       Framework.” Journal of Marketing Research, 26, 4 (1989): 406-419.
+
+JOHAR, J. S., and J. M. SIRGY. “Value-Expressive Versus Utilitarian Advertising Appeals:
+
+       When and Why to Use Which Appeal.” Journal of Advertising, 20. 3 (1991): 23-33.
+
+KESHARI, P., and S. JAIN. “Consumer Response to Advertising Appeals: A Gender Based
+
+       Study.” Journal of Marketing and Communication, 9, 3 (2014): 37-43.
+
+KILGOUR, M., and S. KOSLOW. “Why and How Do Creative Thinking Techniques Work?
+
+       Trading Off Originality and Appropriateness to Make More Creative Advertising.”
+
+       Journal of the Academy of Marketing Science, 37, 3 (2009): 298–309.
+
+KIM, J. W., T. H. FRELING, and D. B. GRISAFFE. “The Secret Sauce for Super Bowl
+
+       Advertising: What Makes Marketing Work in the World’s Most Watched
+
+       Event?” Journal of Advertising Research, 53, 2 (2013): 134-149.
+
+KOSLOW, S. “I Love Creative Advertising: What It Is, When to Call for It, and How To
+
+       Achieve It”, Journal of Advertising Research, 55, 1 (2015): 5–8.
+
+KOSLOW, S., S. L. SASSER, and E. A. RIORDAN. "Do Marketers Get the Advertising They
+
+       Need or the Advertising They Deserve? Agency Views of How Clients Influence
+
+       Creativity.” Journal of Advertising, 35, 3 (2006): 81–101.
+
+LANE, P. J., B. R. KOKA, and S. PATHAK. “The Reification of Absorptive Capacity: A Critical
+
+       Review and Rejuvenation of the Construct.” Academy of Management Review, 31, 4
+
+       (2006): 833-863.
+
+LUCHINS, A. S. “Mechanization in Problem Solving: The Effect of Einstellung.”
+
+       Psychological Monographs, 54, 6 (1942): 248.
+
+
+                                                                                           30
+MACINNIS, D. J., and B. J. JAWORSKI. “Information Processing from Advertisements: Toward
+
+       an Integrative Framework.” Journal of Marketing, 53, 4 (1989): 1-23.
+
+MADISON, C. “Researchers Work Advertising into an Emotional State.” Adweek, 5 November
+
+       (1990): 30.
+
+MARSH, R. L., LANDAU, J. D. and HICKS, J. L. “How Examples May (and May Not) Constrain
+
+       Creativity.” Memory & Cognition, 24, 5 (1996): 669–680.
+
+MITCHELL, C. “The Company Brand: Looking Inside the Vision.” In Brand New Brand
+
+       Thinking: Brought to Life by 11 Experts Who Do, M. Baskin and M. Ellis, eds.,
+
+       London: Kogan (2002): 103–121.
+
+MORRISON, M., and E. HALEY. “The Role of Account Planning in US Agencies.” Journal of
+
+       Advertising Research, 46, 1 (2006): 124-131.
+
+NICKERSON, R. “Enhancing Creativity.” In Handbook of Creativity, R. J. Sternberg, ed. New
+
+       York: Cambridge University Press (1999): 392–429.
+
+PANDA, T. K., T. K. PANDA, and K. MISHRA. “Does Emotional Appeal Work in Advertising?
+
+       The Rationality Behind Using Emotional Appeal to Create Favourable Brand
+
+       Attitude.” IUP Journal of Brand Management, 10, 2 (2013): 7-23.
+
+PARK, W. C., B. J. JAWORSKI, and D. J. MACINNIS. “Strategic Brand Concept-Image
+
+       Mangement.” Journal of Marketing, 50, 4 (1986): 135-145.
+
+PETTY, R. E., and J. T.CACIOPPO. “The Effects of Involvement on Responses to Argument
+
+       Quantity and Quality: Central and Peripheral Routes to Persuasion.” Journal of
+
+       Personality and Social Psychology, 46, 1 (1984): 69-81.
+
+RESNIK, A., and B. L. STERN. “An Analysis of Information Content in Television
+
+       Advertising.” Journal of Marketing, 41, 1 (1977): 50-53.
+
+ROSSITER, J. R. “Defining the Necessary Components of Creative, Effective Ads.” Journal of
+
+       Advertising, 37, 4 (2008): 139-144.
+
+
+                                                                                        31
+SCHILLING, M. A. “A ‘Small-World’ Network Model of Cognitive Insight.” Creativity
+
+       Research Journal, 17, 2–3 (2005): 131–154.
+
+SHIMP, T. A., and C. ANDREWS. Advertising, Promotion and Supplemental Aspects of
+
+       Integrated Marketing Communications, 9th ed., Mason, OH: Thomson South-Western,
+
+       2013.
+
+SIMONTON, D. K. “Foresight in Insight? A Darwinian Answer.” In The Nature of Insight, R. J.
+
+       Sternberg and J. E. Davidson, eds. Cambridge, MA: The MIT Press, 1995.
+
+SIRGY, J. M., and J. S. JOHAR. “Value Expressive Versus Utilitarian Appeals: A Reply to
+
+       Shavitt.” Journal of Advertising, 21l, 2 (1992): 53-54.
+
+SMITH, S. M., T. B. WARD, and J. S. SCHUMACHER. “Constraining Effects of Examples in a
+
+       Creative Generation Task.” Memory & Cognition, 21, 6 (1993): 837–845.
+
+STAFFORD, M. R., and E. DAY. “Retail Services Advertising: The Effects of Appeal, Medium,
+
+       and Service.” Journal of Advertising, 24, 1 (1995): 57-71.
+
+STEEL, J. Truth, Lies, and Advertising: The Art of Account Planning, New York: Wiley, 1998.
+
+SUDBURY-RILEY, L., and L. EDGAR. “Why Older Adults Show Preference for Rational Over
+
+       Emotional Advertising Appeals: A UK Brand Study Challenges the Applicability of
+
+       Socioemotional Selectivity Theory to Advertising.” Journal of Advertising Research,
+
+       56, 4 (2016): 441-455.
+
+TEICHERT, T., D. HARDECK., Y. LIU., and R. TRIVEDI. “Effects of Advertising Appeals in
+
+       Context: Marketing Objectives and Consumer Demographics.” Journal of Advertising
+
+       Research, 58, 3 (2018): 363-379.
+
+TEVI, A. and S. KOSLOW. “How Rhetoric Theory Informs the Creative Advertising
+
+       Development Process: Reconciling Differences between Advertising Scholarship and
+
+       Practice.” Journal of Advertising Research, 58, 1 (2018): 111-128.
+
+
+
+
+                                                                                          32
+TIKKANEN, I., and M. VAARISKOSKI. “Attributes and Benefits of Branded Bread: Case
+
+      Artesaani.” British Food Journal, 112, 9 (2010): 1033-1043.
+
+VOSS, K. E., E. R. SPANGENBERG, and B. GROHMANN. “Measuring the Hedonic and Utilitarian
+
+      Dimensions of Consumer Attitude.” Journal of Marketing Research, 40, 3 (2003):
+
+      310-320.
+
+WARC. “Dove: Real Beauty Sketches.” (2014) retrieved:
+
+       https://www.warc.com/content/article/cannes/dove_real_beauty_sketches/101973
+
+WILEY, J. “Expertise as Mental Set: The Effects of Domain Knowledge in Creative Problem
+
+       Solving.” Memory & Cognition, 26, 4 (1998): 716–730.
+
+ZARANTONELLO, L., B. H. SCHMITT, and K. JEDIdi. “How to Advertise and Build Brand
+
+       Knowledge Globally: Comparing Television Advertising Appeals across Developed
+
+       and Emerging Economies.” Journal of Advertising Research, 54, 4 (2014): 420-434.
+
+ZYNGA, A. “The Cognitive Bias Keeping Us from Innovating.” Harvard Business Review,
+
+       June 13 (2013) 1-5, available at https://hbr.org/2013/06/the-cognitive-bias-keeping-
+
+       us-from.
+
+
+
+
+.
+
+
+
+
+                                                                                              33
+                                                                    Table 1
+
+                                                         Pretest Evaluations of Insights
+
+                                                                                           Familiar and
+ Order                                                                                     motivating to   Fits with strategy   Usable for
+number                            Insight                                Original           consumers       and proposition     creatives
+   1      Blue-collar workers put out the hard yakka to build the
+                 dreams of the country and its people while silently       .98                 1.22               .21             1.10
+                 holding dreams of their own.
+  2       Smart people get hard-working equipment to do their dirty
+                                                                           .52                 1.72              2.03              .46
+                 jobs.
+  3       There is nobility in hard work.                                  .22                 1.83               .76              .48
+  4       Work is physical, success is mental.                             .38                  .27              -.64              .31
+  5       For tradesmen and farmers their vehicle is a point of pride,
+                                                                          1.23                 1.80              1.78             1.38
+                 like scars that prove ones toughness.
+  6       Men do hard work.                                              -1.97                 -.10              -.86            -1.97
+  7       Tradesman and farmers don’t want bells and whistles; they
+                 simply need a truck that can stand up to the              .53                 2.02              2.13              .42
+                 punishment of a hard day’s work.
+  8       Farmers and tradesmen wear a uniform of scrapes, mud,
+                                                                          1.37                 1.62               .99             1.34
+                 sweat and blood.
+  9       Everyone has a secret to hide                                    .22                  .22             -1.84              .05
+NOTE:—Scales range from -3 to +3 with pooled standard error of .292.
+
+                                                                                                                                             34
+                      Table 2
+
+Factor Loadings of Emotionality and Functionality
+
+
+
+                      Functionality Emotionality
+
+Rational appeal           .957          -.061
+
+Functional appeal         .929           .079
+
+Features appeal           .683          -.247
+
+Non-rational appeal       -.023          .921
+
+Emotional appeal          .049           .900
+
+Image appeal              -.349          .672
+
+Cronbach’s Alpha          .825           .793
+
+NOTE:—VARIMAX rotation used.
+
+
+
+
+                                                    35
+                                             Table 3
+
+        HLM Models Predicting Emotionality, Functionality and Effectiveness
+
+
+
+
+                             Functionality                 Emotionality       Effectiveness
+
+                          Estimate p-value Estimate p-value Estimate p-value
+
+Covariance Parameters
+
+Intercept        ID           .167       .074           .187           .054   .193           .011
+
+Residual                      .697   <.0001             .673       <.0001     .414       <.0001
+
+Solution for fixed effects
+
+Intercept                     .537       .002           .056           .025   .001       1.000
+
+                 Print                                 -.683       <.0001
+Media
+                  TV                                   0               .
+
+                 Strong      -.692       .004           .526           .025
+
+Insight          Weak        -.920       .001           .331           .153
+
+                 None        0           .             0               .
+
+Functionality                                                                 .546       <.0001
+
+Emotionality                                                                  .436       <.0001
+
+Fit statistics
+
+-2 Res Log Likelihood            323.2                         322.9                 282.9
+
+AIC                              327.2                         326.9                 286.9
+
+
+
+
+                                                                                                    36
+                                                         Figure 1
+
+Judges’ Rating of How Different Insights are Portrayed by Creatives when Under Strong,
+
+                                            Weak or No-Insight Conditions
+
+
+
+
+                      6
+
+                      5
+
+
+
+
+ Judges' assessment
+                      4
+
+                      3
+
+                      2
+
+                      1
+
+                      0
+                          Human truth      Consumer insight   Scars/pride insight     Hard-work insight
+
+                                 Strong insight          Weak insight               No insight
+
+
+
+
+                                                                                                          37
+                                                                        Figure 2
+
+Trade-off of Emotionality and Functionality among Strong, Weak and No-Insight Conditions
+
+
+
+
+                                                                    0.5
+                               Strong insight
+                               condition,
+
+
+
+
+   High Emotionality
+                               joint mean                           0.4
+
+
+
+                                                                    0.3
+
+
+
+                                                                    0.2
+
+
+
+                                                                    0.1
+
+
+
+                                                                        0
+             -0.8      -0.7   -0.6   -0.5   -0.4   -0.3   -0.2   -0.1       0     0.1   0.2   0.3   0.4   0.5   0.6   0.7   0.8
+
+
+                                                                   -0.1
+
+
+
+                                                                   -0.2
+
+
+
+
+   Low Emotionality
+                       Weak insight                                -0.3
+                       condition,
+                       joint mean                                               no insight
+                                                                   -0.4         condition,
+                                                                                joint mean
+
+                                                                   -0.5
+                         Low Functionality                                                     High Functionality
+
+
+
+
+                                                                                                                                  38
+

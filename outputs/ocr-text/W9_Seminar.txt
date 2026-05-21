@@ -1,0 +1,628 @@
+Marketing
+Research
+Week 9
+           Housekeeping: About the Exam
+• Exam weighting: the exam accounts for 50% of your final grade
+• Duration of the exam: The exam will have a duration of 2 hours, and an additional 15 minutes allocated
+  for reading time.
+• Exam type: On-campus digital exam
+• Exam format: LMS Quiz with lockdown browser. Ensure that you have downloaded the browser on your
+  computer for the exam.
+• Your task: The exam will consist of MCQs and long-answer type questions. You need to answer all
+  questions.
+• Authorised materials: You are permitted to bring the textbook, paper-based notes, and a non-
+  programmable calculator without added text ability to the exam venue.
+           Housekeeping: Looking forward
+• Week 9: Association + Correlation
+• Week 10: Regression
+• Week 11: Data visualization + (Principal Component Analysis or Cluster Analysis) + Group work day
+• Week 12: Review
+Recap
+
+
+
+
+        4
+          Recap: Tests for Means
+Compare a single mean to a test value (pre-specified by researcher)
+• H0: μ = test value    univariate
+• One sample t-test
+Compare two means
+• H0: μ1 = μ2     bivariate
+• If μ1 and μ2 are from the same population: paired samples t-test
+• If μ1 and μ2 are from two different populations: independent samples t-test
+Compare more than two population means (m groups)
+• H0: μ1 = μ2 = μ3 = … = μm     multivariate
+• One-way ANOVA
+          Topics for today
+1. Testing for Associations
+  • Pearson product moment correlation coefficient
+  • Spearman rank order correlation coefficient
+  • Chi-square test of association
+2. Activities
+3. Bivariate Regression (if time permits)
+
+
+
+
+                                                     6
+Testing for
+Associations
+
+
+
+
+               7
+1.         Identify and formulate the problem
+
+2.            Determine the research design
+
+3.   Design the sample and method of data collection
+
+4.                   Collect the data
+
+5.                   Analyze the data
+
+6.      Interpret, discuss, and present the findings
+
+7.                      Follow-up
+
+
+
+                                                       8
+Playing video games in lockdown can be good for mental health
+        Testing for Associations
+Features of describing an association
+• Presence of association
+• Direction of association
+• Strength of association
+
+
+
+
+                                        10
+                        Correlation ≠ Causation
+
+
+
+
+https://www.linkedin.com/pulse/correlation-vs-causality-krishnakumar-ramanathan/
+
+                                                                                   11
+Testing for Associations (Part I)
+
+        Types of Test                       Purpose of Test
+Chi-Square Analysis (X2)   Test for relationship between two nominal
+                           variables.
+Spearman Rank Order        Test for relationship between two variables that
+Correlation Coefficient    are not nominal and that at least one is ordinal.
+Pearson Product Moment     Test for relationships between two interval
+Correlation Coefficient    and/or ratio variables.
+
+
+
+
+                                                                               12
+Testing for Associations (Part I)
+
+
+                   Nominal      Ordinal   Interval/Ratio
+
+   Nominal        Chi-square
+
+    Ordinal       Chi-square   Spearman
+
+ Interval/Ratio                Spearman     Pearson
+
+
+
+
+                                                           13
+             Correlation
+❑ Explore the strength and direction of the linear relationship between two variables.
+• Correlation indicates association NOT causation.
+• correlation coefficient (r) shows the strength of association
+  between two metric variables
+  ▪   below 0.30 indicates a weak relationship
+  ▪   between 0.30 and 0.49 indicates a moderate relationship
+  ▪   above 0.49 indicates a strong relationship
+
+
+Example
+• How strongly are sales related to advertising expenditures?
+• Is there an association between market share and the size
+  of the sales force?
+                                                                                         14
+             Pearson Product Moment Correlation
+Assumption
+• Level of measurement (metric: Interval/ratio)
+• All variable information must be from the same subject
+• Independence of observations
+• Linear relationship between variables
+
+
+
+
+                                                           15
+              Pearson Product Moment Correlation
+•    Generate scatterplots to inspect for violations and nature of relationship (using SPSS)
+    ▪ Graphs -> Scatter/Dot
+    ▪ Dependent variable (DV) along the Y axis
+    ▪ Independent variable (IV) along the X axis
+
+
+• Check the distribution of the data points
+ ▪ Is the cluster shape even (homoscedasticity)
+ ▪ Can you draw a straight line through the main cluster of points
+ ▪ Direction pointed by the line (upward or downward)
+
+
+
+
+                                                                                               16
+             Pearson Product Moment Correlation
+
+
+
+
+•   Two interval scale variables → Pearson Product Moment Correlation
+•   Significance level: 5%
+•   Testing variables: Willingness to recommend (nps), General satisfaction (sat1)
+•   Hypothesis: There is an association(correlation) between willingness to recommend and customer
+                                                                                                     17
+    satisfaction with Oddjob Airways.
+              Pearson Product Moment Correlation
+Analyze → Correlate → Bivariate → Select variables of interest → Tick ‘Pearson’ and ‘Two-tailed’
+
+
+
+
+                                                                                                   18
+    Pearson Product Moment Correlation
+
+
+
+
+                                                                      Pearson Correlation Coefficient (r)
+
+
+
+
+H0: There is NO association/correlation between NPS and overall satisfaction for Oddjob Airways.
+H1: There is an association/correlation between NPS and overall satisfaction for Oddjob Airways.      19
+            Pearson Product Moment Correlation
+How to report the results of Pearson product moment correlation?
+
+
+Example
+In this test, we hypothesized that there is an association between willingness to recommend and customer
+satisfaction with Oddjob Airways. The result of a Pearson Product Moment Correlation test shows a
+significant and positive correlation between willingness to recommend and satisfaction (r = .771, p < .001).
+Thus, the hypothesis is supported.
+
+
+                                                        r = correlation coefficient
+
+
+
+
+                                                                                                               20
+            Important Notes about (Pearson) Correlation
+            Coefficient: r
+•   r describes a ”linear relationship” between two variables
+    • r = 0: NO linear relationship
+       • However, there could still be a curvilinear relationship:
+
+    •   r = ±1: a straight line can describe the relationship
+
+•   Coefficient of determination (r2) = r*r
+    • % of the variation in one variable can be accounted by the other one
+    • E.g., r2 = 0.36 (r = 0.6) means that 36% of the variation in one variable can be
+      explained by the other variable
+    • Similar idea as “R-square” in a bivariate regression model (with one IV; one DV)
+Outlier’s impact on Pearson Correlation
+         Moderate relationship →            Strong relationship
+
+
+
+
+The Pearson correlation coefficient is easily affected by outliers. Why?
+           Important Notes about Correlation
+           Coefficient: r
+• Correlation does NOT indicate causality
+ • E.g. Increase in Christmas card sales does not cause Christmas;
+• Statistical significance is NOT the same as substantive significance (or economic significance,
+  practical significance).
+ • E.g. Unit sales = 100 + 0.0005*Ad Spending in $
+ – Every $10,000 spending will lead to 5 more units sales
+ – If the unit price is low, then little substantive significance
+• Correlation is NOT interaction
+ • Interaction: TWO independent variables act together to affect your dependent variable. E.g.,
+   the attitude (Y) toward the advertisements (X1) varies with the mood (X2) and the
+   interaction (X1*X2)
+              Spearman Rank Order Correlation
+❑ Measure the strength and direction of a relationship between two variables that are
+  not nominal and that at least one is ordinal.
+
+
+
+Example
+
+
+
+
+•   One ratio, one ordinal variables → Spearman rank order correlation
+•   Significance level: 5%
+•   Testing variables: number of flights taken (nflights), latest flight (flight_latest)
+•   Hypothesis: There is an association between the number of flights taken during the last 12 months and the
+                                                                                                                24
+    most recent flight taken with Oddjob Airways.
+           Spearman Rank Order Correlation
+Preliminary Analysis: Graphs → Chart Builder → Scatter/Dot → Scatter Plot
+
+
+
+
+                                                                2
+
+
+                                                                            25
+                                                            1
+           Scatter plot
+• Choose from “Scatter/Dot”
+• Once the chart preview shows up:
+ • nflights to Y axis
+ • flight_latest to X axis
+
+
+
+
+                                     26
+            Spearman Rank Order Correlation
+*Tip – Create ID*
+Transform → Compute Variable → Enter ‘ID’ under Target Variable → double click ‘$Casenum’ under Functions and Special Variables
+
+
+                                                                                    Outlier: ID = 935, whose z-score for
+                                                                                    the number of flights is 21.93 (above
+                                                              Outlier!              3). Considering that this individual
+                                                                                    took 457 flights, with the most recent
+                                                                                    one occurring within the last 6
+                                                                                    months, it is evident that this outlier
+                                                                                    is likely due to a data entry error.
+                                                                                    Since the original data is missing, the
+                                                                                    data needs to be deleted.
+
+                                                                                    Tip – Keep record in Syntax
+                                                                                    ex) “*nflights outlier ID=935, data deleted*”
+
+
+
+                                                                                                                                    27
+          Dealing with the outlier(s) for nflights
+• Note: To properly check the outliers, use the Z value for nflight, “Znflight” (= demeaned variable /SD
+  of nflight)
+• Analyze -> Descriptive statistics -> Descriptive -> Select ‘nflights’-> Check ‘save standardized values as
+  variables’
+• Analyze -> Descriptive Statistics -> Frequencies -> Check the relevant statistics in “Statistics”.
+• You can clear the outlier. However, make a copy of your original dataset before making any changes
+  to it. (e.g., Transform → Compute Variable → Target Variable = ‘nflights_backup’ and Numeric
+  Expression = ‘nflights’).
+
+
+
+
+                                                                                                               28
+             Spearman Rank Order Correlation
+Analyze → Correlate → Bivariate → Select variables of interest → Tick ‘Spearman’
+
+
+
+
+                                                                                   29
+          Spearman Rank Order Correlation
+
+
+
+
+             Note: this is done AFTER the outlier was removed.
+H0: There is NO association/correlation between the number of flights during the last 12 months and
+the latest flight with Oddjob Airways.
+H1: There is an association/correlation between the number of flights during the last 12 months and the 30
+latest flight with Oddjob Airways.
+            Spearman Rank Order Correlation
+How to report the results of Spearman Rank Order Correlation?
+
+
+Example
+In this test, we hypothesized that there is an association between the number of flights taken during the
+last 12 months and the most recent flight taken with Oddjob Airways. The result of a Spearman Rank Order
+Correlation test shows a significant, negative correlation between these two variables (r = -.497, p < .001).
+Customers who have taken more flights in the last 12 months are more likely to have taken their most
+recent flight recently. Thus, the hypothesis is supported.
+
+                                                  r = Spearman correlation coefficient
+
+
+
+
+                                                                                                                31
+            Chi-Square Analysis
+❑ Examine whether two nominal variables are associated in the population
+• Summarize in a two-way frequency table, “cross-tabulation (crosstab)”
+• The test compares the observed frequencies of the responses with the expected frequencies
+• Does not assess direction of the relationship
+• Examples: the relationship between the following variables, including socio-demographic(e.g., sex,
+  education groups, income groups), Ad exposure (Y/N), Purchase (Y/N), Brand choice (Coke/Pepsi/Dr.
+  Pepper)
+Assumptions for Chi-Square test
+• Independence of observation
+  − Each observation should be generated by a different subject and no subject is counted twice
+• Size of expected frequencies
+  – Ideally the minimum expected frequency for each variable/cell should be 5
+                                                                                                       32
+            Chi-Square Analysis
+Example
+
+
+
+
+ •   One nominal and One ordinal variables -> Chi-square analysis (it disregards the order though!)
+ •   Significance level: 5%
+ •   Variables: Home country (country), Traveler Status (status)
+ •   Hypothesis: There is an association between the home country and the traveler's status.
+             Chi-Square Analysis
+Analyze → Descriptive Statistics → Crosstabs → One variable to Row → The other variable to Column(s) → [Statistics] →
+Tick ‘Chi-square’ and ‘Contingency Coefficient’ → continue → [Format] → Tick ‘Expected’ and ‘Row’ → Continue
+
+
+
+
+                                                                                                                        34
+             Chi-Square Analysis
+Analyze → Descriptive Statistics → Crosstabs → One variable to Row → The other variable to Column(s) → [Statistics] →
+Tick ‘Chi-square’ and ‘Contingency Coefficient’ → continue → [Cells] → Tick ‘Expected’ and ‘Row’ → Continue
+
+
+
+
+                                                                                                                        35
+Chi-Square Analysis
+
+
+
+
+      Results should not be interpreted when more than 20% of the cells
+      have an expected count of less than 5, or if any cell has an expected
+      count of less than 1.
+
+
+                                                                              36
+Chi-Square Analysis
+
+                      There is only one French traveler, resulting in three cells with
+                      an expected count of fewer than 5.
+
+                      Solution 1: Exclude France from the analysis
+                      (Data → Select Cases → Choose 'If condition is satisfied' →
+                      Click 'If’ → double click 'Home country' → Enter “~= 4” →
+                      Continue)
+                      *4 indicates France
+
+
+
+
+                      Solution 2: Merge France with another country
+
+
+                                                                                    37
+38
+Chi-Square Analysis
+
+
+
+
+               v
+
+
+
+
+                      39
+Chi-Square Analysis
+
+
+                      H0: Country and traveler status are NOT associated
+                      H1: Country and traveler status are associated
+
+
+
+
+                                                                           40
+          Chi-Square Analysis
+
+
+
+
+• Contingency Coefficient: Quantify the strength of association
+  between two categorical variables. 0 (no association) to 1
+  (perfect association)                                           41
+            Chi-Square Analysis
+How to report the results of Chi-Square tests?
+Example
+In this test, we hypothesized that there is an association between the home country and the traveler's
+status. The result of a Chi-Square test shows a significant association between these two variables
+(𝑥 2 (6, 1065) = 35.638, p < .001). It was found that among USA travelers, 77.9% have blue status, and
+11.3% have gold status. In contrast, among Austrian travelers, 47.2% have blue status, and 19.4% have
+gold status. Germany and Switzerland (combined with France) show similarities in terms of traveler
+status, with Blue status German customers accounting for 63% of the German customers. The
+contingency coefficient (C) is .180.
+
+    X2 (degree of freedom, sample size) = chi-square value
+
+
+      Note: Remember to interpret your crosstab in layman’s terms if there is a significant association.
+                                                                                                           42
+Recap: Testing for Associations (Part I)
+
+   Types of Test              Purpose of Test
+   Chi-Square Analysis (X2)   Test for relationship between two nominal
+                              variables.
+
+   Spearman Rank Order        Test for relationship between two variables
+   Correlation Coefficient    where at least one is ordinal.
+
+   Pearson Product Moment     Test for relationships between two interval
+   Correlation Coefficient    and/or ratio variables.
+
+
+
+
+                                                                            43
+Types of Regression Analysis
+
+
+   Types of Test          Purpose of Test
+   Bivariate Regression   Analyze the linear relationship between an
+   Analysis               independent variable and an interval/ratio
+                          dependent variable.
+
+   Multiple Regression    Analyze the linear relationship between multiple
+   Analysis               independent variables and an interval/ratio
+                          dependent variable.
+
+
+
+
+                                                                             44
+            Regression Analysis
+Importance of regression analysis
+• Regression analysis is one of the most important methods in quantitative market research
+• Marketing and strategy departments of major companies (e.g. Procter & Gamble, BMW Group, Nestlé)
+  use regression analysis regularly for decision-making
+
+
+Regression analysis can
+    1. Indicate if independent variables have a significant relationship with a dependent variable.
+    2. Indicate the relative strength of different independent variables’ effects on a dependent variable.
+    3. Make predictions.
+
+
+
+* In this lecture we introduce linear regression (OLS)
+                                                                                                             45
+The Regression Analysis Estimate a Line Using
+the Observations
+
+                      The regression estimation procedure
+                      attempts to fit a best possible line. This line
+                      is optimal if the squared distances to all
+                      observation points are minimized. Thereby:
+                      1.   Positive and negative deviances don’t
+                           balance each other
+                      2.   Bigger deviances are weighted
+                           disproportionately high
+                      If the assumptions of the regression are
+                      harmed, the line might not be the true line!
+
+
+                                                                        46
+             Understanding Regression Analysis
+      Notation
+
+                 Y = α + β1x1 + e                                                                                      Error (e)
+
+
+      Y          dependent variable
+      α          Intercept                                                                                   ŷ
+      β1         Regression parameter
+      x1         Independent variable
+      e          Error or residual
+
+      For multiple regression:
+      y = α + β1x1 + β2x2 + β3x3 + e                                   Constant (α)
+
+
+           Predicted (or estimated) value
+                                                                                                                                   47
+
+* Details about multiple regression and the process of conducting a regression analysis will be discussed next week.
+            Bivariate Regression Analysis
+
+    Example
+
+
+
+
+•    Two interval scaled variables → Bivariate Regression                  (*commitment is the average of 3 commitment variables
+                                                                           (com1, com2, com3) measured on a 7-point Likert scale)
+•    Significance level: 5%
+•    Independent variable: satisfaction with on-board experience (s8)
+•    Dependent variable: commitment (commitment)
+•    Hypothesis: there is a linear association between satisfaction with on-board experience and commitment.
+                                                                                                                            48
+          Bivariate Regression Analysis
+▪y = b0 + b1 x + e     Respondents   x    y
+ H0: b1 = 0                 1        2    2
+ H1: b1 ≠ 0                 2        2    2
+                            3        2    2
+                            4        1    3
+                            5        2    3
+                            6        5    7
+                            7        6    5
+                            8        5    6
+                            9        4    4
+                           10        4    5
+
+                                              49
+             Bivariate Regression Analysis
+Analyze → Regression → Linear → Select dependent variable (to dependent) and independent variable (to block)
+
+
+
+
+                                                           *Tip
+                                                           Right click any variable and                        50
+                                                           select ‘Display variable names’
+Bivariate Regression Analysis
+
+
+
+
+   Unstandardized Coefficient “B” in the Coefficient Table: The
+   strength of the association between x and y.
+
+
+
+   H0: b1 = 0
+   H1: b1 ≠ 0         y = b0 + b1 x + e   y = 2.035 + 0.037x + 1.546
+
+                                                                       51
+Bivariate Regression Analysis
+                                                          Error term
+
+
+
+
+R Square:
+- Measures how well the regression line explains the real data points.
+- Shows the percentage of variance in the dependent variable explained by the
+   independent variable.
+- A model is considered to have a good fit if R Square is .20 or above.
+- R Square helps you assess whether you’ve constructed a good hypothesis.
+
+
+                                                                                52
+            Bivariate Regression Analysis
+How to report the results of Bivariate Regression Analyses?
+
+
+Example
+In this test we hypothesized that satisfaction with on-board experience affects commitment. The result of a
+Bivariate Regression Analysis shows that satisfaction with on-board experience has a significant impact on
+commitment (B = 0.037, p < .001). Thus the hypothesis is supported.
+
+
+
+
+                                                                                                          53
+

@@ -1,0 +1,502 @@
+Marketing
+Research
+Week 6
+Recap
+
+
+
+
+        2
+       Topics for Today
+1. Determining sampling methods
+2. Determining sample sizes
+3. Avoiding nonresponse
+4. Workshop in SPSS
+5. Group work
+
+
+
+
+                                  3
+Determining
+sampling
+methods
+     The Market Research Process
+
+1.           Identify and formulate the problem
+
+2.              Determine the research design
+
+3.     Design the sample and method of data collection
+
+4.                     Collect the data
+
+5.                     Analyze the data
+
+6.        Interpret, discuss, and present the findings
+
+7.                        Follow-up
+Sampling
+           • Why do we draw units from a
+             population?
+           • How do we draw units from a
+             population?
+
+
+
+
+                                           6
+        Population versus sample
+Population: The entire group of individuals in which     Sample: The part of the population we
+we are interested.                                       actually examine and for which we do
+    Example: All humans, all working-age people in       have data.
+    Melbourne, all dog owners                            A statistic is a number describing a
+Census: data collected from every member of the          characteristic of a sample (e.g., sample
+population                                               mean)
+A parameter is a number describing a characteristic of
+the population (e.g., population mean)                   How well the sample represents the
+                             Sample                      population depends on the sample
+                                                         design.
+              Population
+        Types of Sampling
+• Probability sampling
+ – Every element of the known population has a known, nonzero probability of being
+   selected.
+ – Sample is representative. Thus, findings are projectable to the entire population
+ – Sampling error can be computed, and inferential statistics can be calculated
+
+
+• Nonprobability sampling
+ – Cannot make inferences about the general population
+ – Generally used for qualitative research
+ —convenience, judgment, quota, snowball
+
+                                                                                       8
+Sampling Procedures
+
+
+
+
+                      9
+         Sampling frame
+Sampling frame: List of every object in the target population
+• Can be expensive and time-consuming, but very important
+
+
+How to obtain a list of every object?
+• E.g., membership list (for existing members), voter list (for election)
+• It is difficult to be exhaustive
+  – Rare events may not make the list – e.g., drug users, undocumented immigrants
+        Sampling Frame Error
+                               Target Population:
+A type of non-sampling error   Adults who currently
+                               live in Melbourne
+
+
+
+
+              Sampling            Sampling Frame:
+              Frame Error         Telephone directories
+      Simple Random Sampling
+❖ Purest form of random sampling
+❖ Selected by rolling dice, roulette wheel, drawing
+  names from a hat, random number generation
+❖ Need a list naming and identifying the population
+  (where to find these?)
+❖ Seldom used because of inconvenience
+
+
+
+
+                                                      12
+          Simple Random Sampling
+
+❖ Each element in the population has an equal chance to be selected.
+
+
+ ❖ Advantage: Good generalizability and unbiased results
+
+
+ ❖ Disadvantage: difficult to obtain a complete, current and accurate listing of the target population
+   elements (i.e., sampling frame). Each sampling unit needs to be identified.
+
+
+ ❖ Application: random-digit-dialing (RDD) technique to generate random telephone numbers.
+
+
+
+
+                                                                                                         13
+         Systematic Sampling
+❖ Substitute for, and more practical than simple random
+  sampling
+❖ nth name selection
+❖ Skip interval = population size divided by sample size
+❖ When to use?
+ o Restricted budget
+ o Results needed in a short timeframe
+ o Overall population is large → hard to obtain            Skip Interval = 4
+   sampling frame
+ o Low risk of data manipulation
+
+                                                                               14
+       Systematic Sampling
+❖ Advantages
+  o Simple and quick implementation
+  o Samples are evenly distributed
+  o Less opportunity for data manipulation
+
+
+❖ Disadvantages
+  o Size of the population cannot be determined accurately
+  o Natural degree of randomness needed.
+     o Example: if odd number = male; even number = female. What is the potential
+        problem?
+
+                                                                                    15
+       Stratified Sampling
+❖ Reduce sampling error by splitting the population into groups
+❖ Process:
+ ✓ Identify classification factor
+ ✓ Split population by classification factor
+ ✓ Draw random (or systematic) samples from each group
+❖ Results in homogeneous-within, heterogeneous between sample groups
+
+
+
+
+                                                                       16
+              Stratified Sampling
+❖ Advantage:
+✓ Ensure important strata are in the sample
+✓ The sample is more representative (greater
+   precision)
+❖ Disadvantage:
+✓ Sometimes challenging to find the basis for
+   stratifying
+✓ Implementation can be hard if there are too many
+   strata
+❖ Example:
+✓ For new products, divide the potential consumers
+   based on age/gender etc.
+
+                                                                     17
+  https://www.simplypsychology.org/stratified-random-sampling.html
+        Cluster Sampling
+❖ Process:
+ ✓ Identify representative clusters of the population (e.g., counties, cities, city blocks)
+ ✓ Draw a random sample from one or several clusters (instead of every cluster)
+❖ Creates heterogeneous-within, homogeneous between sample groups
+
+
+
+
+                                                                                              18
+Sampling Type Comparison
+
+
+
+
+                                                                      19
+                   https://conceptshacked.com/probability-sampling/
+  Nonprobability Sampling Techniques
+
+
+                           Nonprobability Sampling
+
+
+
+
+       Convenience     Judgmental             Quota        Snowball
+        Sampling        Sampling             Sampling      Sampling
+
+
+
+NO guarantee that your sample will be representative.
+Whether an element enters the sample or not depends on researcher’s judgement.
+         Convenience Sampling (Accidental)
+A sample of convenient elements
+• They happen to be in the right place at the right time
+• e.g., the students in the front row, “people-on-the-street” interview, mall intercept
+  interview
+
+
+
+Advantages
+• Least expensive
+• Least time consuming
+Disadvantages
+• Not representative → hard to generalize findings
+         Judgmental Sampling (purposive)
+The elements/subjects are selected based on the judgment of the researcher
+• Examples: test markets, expert witness in the court, subjects in the focus group
+• Popular in qualitative studies
+
+
+Advantages
+• Low cost and still less time consuming than most of the techniques
+Disadvantages
+• Results depend on the judgment of the researcher
+• No guarantee for a representative sample
+        Quota Sampling
+Two-step process
+• Develop quotas for each control characteristic
+• Convenience or judgment sampling to fulfill the quota
+
+
+In short, it is like a “restricted” judgmental sampling
+• Pros and cons are like the ones in judgmental sampling
+
+                  Control Characteristic: Percentage in    Quota Sample
+Example:          Gender                  population
+                  Male                     42%             420
+                  Female                   58%             580
+                                           100%            1,000
+        Snowball Sampling (referral sampling)
+Select an initial group
+The subsequent subjects are selected based on the referrals
+Example:                                    Advantages
+                                              Hard-to-reach population
+                                               • (difficult to obtain sampling frame)
+                                               • e.g., drug users, people with double
+                                                 nationality, undocumented immigrants,
+                                                 field experts
+                                            Disadvantages
+                                              Difficult to obtain the initial sample
+                                              Community bias → no guarantee for
+                                              representative sample
+             Summary
+                   Probability Sampling                                          Non-Probability Sampling
+
+Each element has                          A random sample                                                     Subsequent
+                                                                    Sample based on
+  a known and                                of clusters is                                                 selection based
+                                                                      convenience
+   equal prob.                                 selected                                                       on referrals
+
+
+
+    Simple                                     Cluster                                                         Snowball
+                                                                    Convenience
+   Random
+
+                                             A random sample of
+    Every kth element                      elements selected from        Sample based                        Two-stage restricted
+       is selected                               each stratum            On judgment                         judgmental sampling
+
+
+           Systematic                     Stratified                          Judgmental                     Quota
+Sampling Error
+
+
+
+
+  https://stats.mom.gov.sg/SL/Pages/How-Reliable-Is-A-Sample-Concepts-and-Definitions.aspx   26
+          Sampling Error (calculation)
+How accurate is the sample result?
+What is the percentage of people who have ever reviewed a restaurant? (probability)
+• Sample1 = 70%
+• Population = 73%
+• Sampling error= 3%
+How many times have you reviewed a restaurant in the last 3 months? (mean)
+• Sample1 = 5.8
+• Population = 5.5
+• Sampling error= 0.3
+
+
+
+                                                                                      27
+Determining
+sample sizes
+        Sample Sizes
+❖ Intuition: Increasing the sample size of a randomly selected sample helps reduce
+  sampling error.
+❖ The marginal benefit of increasing the sample sizes becomes smaller as the sample
+  becomes larger. An increase from n=40 to n=60 (i.e., + 50%) is more beneficial than
+  from n=1,000 to n=1,020 (i.e., + 2% ).
+❖ The sample size required is (almost) unrelated to the size of the population.
+
+
+
+
+                                                                                        29
+         Determining Acceptable Sample Sizes (1)
+Collecting more data provides greater reliability but
+does not improve validity.
+
+
+However, the cost of greater samples is high.
+• Web surveys $0,35-$10,00 per additional
+respondent
+• Face-to-face $50 -$200 per additional respondent
+• Larger samples take longer time to collect – may not
+support quick decision-making
+• Could hurt validity in extreme cases
+                                                         30
+Principles of Hypothesis Testing
+
+
+
+
+     https://pub.towardsai.net/understanding-type-i-and-type-ii-errors-in-hypothesis-testing-956999e60e17
+                                                                                                            31
+         Determining Acceptable Sample Sizes (2)
+❖ Calculate the expected nonresponse
+ ✓ For example: we need 100 usable responses. If we expect the response to be 10%,
+   approach 1000 potential respondents.
+
+
+❖ Sample size recommendations are per group. If you want to compare 2 groups, take
+  twice the sample size.
+
+
+❖ Be aware of bots participating. Surveys on social media or websites are likely to attract
+  these. (see Paas, L. J., & Morren, M. (2018). Please do not answer if you are reading
+  this: Respondent attention in online panels. Marketing Letters, 29, 13-21.)
+
+                                                                                              32
+        Calculate CI and Sample Sizes
+
+
+Q1. Have you ever left an online review for a restaurant that you visited?
+___Yes ___ No
+
+
+
+Q2. How many times in the past 3 months have you left a review for a restaurant?
+___times
+
+
+ What kind of scale type?
+
+
+                                                                                   33
+        Margin of Error (E) and Confidence Interval (CI)
+
+Margin of Error (E) = maximum expected difference between the true population value
+and the sample estimate — due to random sampling.
+The margin of error is influenced by
+ ✓ Confidence level (e.g., z-value)
+ ✓ Population standard deviation (σ)
+ ✓ Sample size (n)
+
+
+Confidence Interval (CI) = The range within which the true population value likely falls.
+               CI = Point Estimate ± Margin of Error
+
+
+                                                                                            34
+       Confidence Interval (mean)
+Q2. How many times in the past 3 months have you left a review for a restaurant? ____
+times
+                                                   • To be 90% confident, z value = 1.65
+CI for mean =                                      • To be 95% confident, z value = 1.96
+                                                   • To be 99% confident, z value = 2.58
+
+
+Assume
+• Sample=100
+• Sample mean=5.8
+• Sample standard deviation=1.2
+Confidence interval (95%) = 5.8 ± 1.96*[1.2/sqrt(100)]
+                             = 5.8 ± 1.96*0.12
+                             = 5.8 ± 0.24
+                                                                                           35
+                             = (5.56, 6.04)
+      Use Confidence Interval (mean) to Calculate Sample Size
+
+• If the margin of error is specified, we can use the confidence interval formula to
+  calculate the required sample size.
+
+
+              𝜎
+          𝐸=𝑧
+               𝑛
+
+• Example: Suppose the standard deviation (σ) is known to be 5. What is the sample
+  size required to construct a 95% confidence interval with a margin of error (E) of 1?
+
+• n = (1.96 x 5 / 1)2 = 96.04 → 97
+
+                                                                                          36
+    Confidence Interval (proportion)
+
+Q1. Have you ever reviewed a restaurant that you visited? ___Yes ___ No
+
+
+ Confidence interval for a proportion =
+
+
+ Assume:
+ ● Sample size (n) = 200
+ ● Sample proportion (𝑝) Ƹ = 76%
+ Confidence interval (95%) = 76% ± 1.96*sqrt[(76%*24%)/(200)]
+                              = 76% ± 5.90%
+                              = (70.1%, 81.9%)
+
+
+                                                                          37
+    Use Confidence Interval (proportion) to
+    Calculate Sample Size
+
+             Ƹ𝑝(1 − 𝑝)Ƹ
+         𝐸=𝑧
+                 𝑛
+
+If prior research shows that 20% of people surveyed have never reviewed a
+restaurant, what is the size of the sample to construct a 95% confidence
+interval with a margin of error of 5%?
+
+
+       n = 20% * (1-20%) * (1.96/5%)2 = 245.9 → 246
+
+                                                                            38
+Qualtrics Sample Size Calculator
+https://www.qualtrics.com/blog/calculating-sample-size/
+                                    Confidence interval 99%
+
+
+
+
+                                                              39
+                   Population 100X greater
+        How to determine nonprobability sample sizes?
+The sample size formula cannot be used for nonprobability samples
+• Determining the sample size is a subjective, intuitive judgment
+
+
+Sample sizes are often determined using less formal approaches
+                Avoiding
+                Nonresponse
+
+
+Lecture 5, part 3
+      Nonresponse
+Nonresponse characterizes surveys and polls. Few participate.
+
+This has led researchers to conclude we are surveying “the tails of
+the distribution” – we are not obtaining representative samples.
+
+What to do?
+1. Design choices (in W5)
+    • Design good questions
+    • Design good surveys
+    • Consider administration
+    • Pretest
+2. Analysis choices
+    • Missing data treatment
+                                                                      42
+                 Design Good Surveys
+
+Based on Don Dillman!
+1. pre-notice letter-establish a bond
+2. send out survey and sponsor letter
+3. thank you/reminder
+4. replacement questionnaire
+5. special procedures (calling & other channels)
+
+
+
+
+                                                   43
+

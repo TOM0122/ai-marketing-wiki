@@ -1,0 +1,1079 @@
+      Journal of Broadcasting & Electronic Media
+
+
+
+
+      ISSN: 0883-8151 (Print) 1550-6878 (Online) Journal homepage: www.tandfonline.com/journals/hbem20
+
+
+
+
+Uses and Grats 2.0: New Gratiﬁcations for New Media
+
+S. Shyam Sundar & Anthony M. Limperos
+
+To cite this article: S. Shyam Sundar & Anthony M. Limperos (2013) Uses and Grats 2.0: New
+Gratiﬁcations for New Media, Journal of Broadcasting & Electronic Media, 57:4, 504-525, DOI:
+10.1080/08838151.2013.845827
+
+To link to this article: https://doi.org/10.1080/08838151.2013.845827
+
+
+
+
+       Published online: 02 Dec 2013.
+
+
+
+       Submit your article to this journal
+
+
+
+       Article views: 36834
+
+
+
+       View related articles
+
+
+
+       Citing articles: 192 View citing articles
+
+
+
+
+                      Full Terms & Conditions of access and use can be found at
+            https://www.tandfonline.com/action/journalInformation?journalCode=hbem20
+      Uses and Grats 2.0: New Gratifications
+                 for New Media
+                  S. Shyam Sundar and Anthony M. Limperos
+
+    This article responds to recent calls for conceptual and methodological re-
+    finement, issued by uses-and-gratifications scholars (Rubin, 2009; Ruggiero,
+    2000), for studying emergent media. Noting that studies on the uses of the
+    Internet have generated a list of gratifications that are remarkably similar to
+    those obtained from older media, it identifies two measurement artifacts—
+    (1) measures designed for older media are used to capture gratifications from
+    newer media; and (2) gratifications are conceptualized and operationalized
+    too broadly (e.g., information-seeking), thus missing the nuanced gratifications
+    obtained from newer media. It challenges the notion that all gratifications are
+    borne out of innate needs, and proposes that affordances of media technology
+    can shape user needs, giving rise to new and distinctive gratifications. A
+    sample of new gratifications and potential measures for those are provided.
+
+
+      ‘‘It’s really the messaging service we didn’t know we needed until we had it’’
+                                                        Biz Stone, co-founder, twitter.com
+
+
+   Thanks to the Internet, the concept of ‘‘active audience’’ has now reached a
+pinnacle. Proposed by early uses-and-gratifications (U&G) researchers (e.g., Rubin,
+1993) to capture the purposiveness and attentiveness in media consumption and
+contrast it with the general assumption of a ‘‘passive audience’’ among media-
+effects scholars (Rubin, 2009), the notion of an active audience has steadily moved
+from an assumption to obvious reality. Internet audiences are so active now that
+
+
+S. Shyam Sundar (Ph.D., Stanford University) is a distinguished professor of communication and co-director
+of the Media Effects Research Laboratory at Penn State University. His research examines social psychological
+aspects of technological affordances in digital media.
+Anthony M. Limperos (Ph.D., Pennsylvania State University) is an assistant professor in the Division of
+Instructional Communication & Research at the University of Kentucky. His research focuses on the uses
+and effects of video games and new communication technologies in health, entertainment, and instructional
+contexts.
+The first author was supported in this research by the U. S. National Science Foundation (NSF) via Standard
+Grant No. IIS-0916944 and by the Korea Science and Engineering Foundation under the WCU (World Class
+University) program funded through the Ministry of Education, Science and Technology, S. Korea (Grant No.
+R31-2008-000-10062-0) and awarded to the Department of Interaction Science, Sungkyunkwan University,
+Korea (where he served as visiting professor).
+© 2013 Broadcast Education Association    Journal of Broadcasting & Electronic Media 57(4), 2013, pp. 504–525
+DOI: 10.1080/08838151.2013.845827                                      ISSN: 0883-8151 print/1550-6878 online
+
+                                                    504
+                   Sundar and Limperos/NEW GRATIFICATIONS FOR NEW MEDIA 505
+
+
+we seldom refer to them as ‘‘audiences.’’ Instead, we call them ‘‘users,’’ in keeping
+with the letter and spirit of the U&G paradigm.
+   Usage implies volitional action, not simply passive reception. What explains this
+transformation in our media consumption? The answer may lie in the nature of the
+media themselves. The tools offered by modern media have expanded the range and
+scope of our interactions with media content. While a simple dial characterized the
+sum total of user interactions with a traditional radio receiver and a remote-control
+device channeled our interactions with a television set, current-day media technolo-
+gies (e.g., the computer) offer a wide variety of action possibilities for the user—the
+keyboard invites us to type, the mouse to point, the hyperlink to click, the joystick
+to navigate, the haptic sensors to scroll, and so on. Human-computer interaction
+researchers (Norman, 1999) have conceptualized these ‘‘actionable properties’’ as
+‘‘affordances’’ (Gibson, 1977) that are visually suggestive of the nature of user
+interaction with the medium. Increasingly, these affordances are allowing Internet
+users to not only experience media in newer ways, but also actively contribute
+their own content, given the rise in interfaces and applications that are premised
+on user-generated content (UGC).
+   While previously the notion of ‘‘media’’ referred to a handful of mass communi-
+cation tools such as newspapers, radio, television, and film, the current academic
+conception of media is broader, reflecting the proliferation of new communication
+technologies in recent times. Media today range from a plethora of devices (smart
+phones, robots) to channels (Internet, cable) to venues on those channels (social net-
+working sites, home shopping network) and/or devices (smartphone apps), affording
+users the ability to not only interact with these ‘‘media’’ (human-computer interac-
+tion) but also interact through them to communicate with other users (computer-
+mediated communication). As Sundar and Bellur (2011) note, it is problematic to
+conceptualize convergent media like the Internet as a single monolithic source.
+Instead, it is more useful to disaggregate such media into their constituent affor-
+dances (e.g., interactivity) and study the uses and gratifications obtained from each
+of those affordances. For example, we would make discoveries about the psychology
+of interactivity per se, in a way that is independent of the medium offering that
+interactivity so that we can generalize this knowledge to future technologies (Nass
+& Mason, 1990). Some affordances are present to a greater degree in certain media,
+with interactivity, for example, being lower in newspapers (given the structure of
+letters to the editor and other feedback mechanisms) than in computer-based media
+(Rafaeli, 1988). Sundar (2008) argues that the affordances of digital technologies
+transform our media experience by inviting us to engage with content in such a
+personal way that we not only act, but actively construct meaning.
+   Does this expanded scope of user interactions lead to a net increase in the grati-
+fications obtained from modern media? If so, is this increase simply one of volume?
+Or do we seek and obtain new gratifications from new technologies? Perhaps more
+fundamentally, do new media create new needs, which they then proceed to gratify,
+as suggested by the co-founder of Twitter? Historically, U&G research has been
+criticized on the grounds that it is too audience-centered and does not consider
+506   Journal of Broadcasting & Electronic Media/December 2013
+
+
+how the technology itself can influence the selection of—and gratifications obtained
+from using—media (Lichenstein & Rosenfeld, 1983; Ruggiero, 2000). Considering
+that the focus of uses and gratifications studies is often not the technology of the
+medium per se and considering that much of the research is governed by the tenets
+and methods of traditional U&G research, it is likely that our understanding of new
+media use is dominated by social psychological factors rather than medium-related
+aspects. With this in mind, we elaborate upon the possibility that the technology
+itself could be responsible for creating new gratifications, so that we can increase the
+scope, relevance, and robustness of U&G research for explaining new media use in
+initial stages and beyond. To do this, we review past U&G studies on different media
+technologies and then discuss potential gratifications suggested by four classes of
+affordances—modality, agency, interactivity, and navigability—in modern digital
+media, proposing specific new gratifications that can be measured in future U&G
+studies that focus on such media.
+
+
+                U&G Research in Mass Communication
+
+  According to Katz, Blumler, and Gurevitch (1974), U&G research is concerned
+with ‘‘(1) the social and psychological origins of (2) needs, which generate (3) ex-
+pectations from (4) the mass media or other sources, which lead to (5) differential
+patterns of media exposure (or engagement in other activities), resulting in (6) need
+gratifications and (7) other consequences, perhaps mostly unintended ones’’ (p. 20).
+This approach assumes that people have innate needs that can be satisfied by media.
+Gratifications are conceptualized as ‘‘need satisfactions,’’ which are obtained when
+a person’s needs are met by certain types of media sources that match their ex-
+pectations (Katz et al., 1974). This original outline of U&G from the 1970s governs
+scholarly research on media gratifications to this day.
+  Broadly, U&G is an audience-centered approach, which posits that individuals
+have particular needs that drive selection of certain types of media (Rubin, 2009).
+The overarching goal of U&G research is to understand the interaction between the
+origins of media user needs and context (Palmgreen, Wenner, & Rosengren, 1985).
+Regardless of medium or context, the emphasis of traditional U&G research is on
+individual differences and active audience members (Haridakis, 2002), meaning that
+gratifications obtained from media are largely based on a given user’s pre-existing
+needs, rather than on specific technological features of media.
+  In keeping with this assumption, U&G researchers have often focused on social
+and psychological variables as determinants of motivation to use certain types
+of media (e.g., Conway & Rubin, 1991; Rubin, 2009). Others have focused on
+the difference between gratifications that are ‘‘sought’’ and ‘‘obtained’’ through
+media use (e.g., Palmgreen & Rayburn, 1979; Palmgreen, Wenner, & Rayburn,
+1980), further underscoring user determinism in the media-use equation. In essence,
+the dominant belief appears to be that motives or needs drive the actual use or
+gratification obtained from different types of media. Accordingly, in U&G research,
+                   Sundar and Limperos/NEW GRATIFICATIONS FOR NEW MEDIA 507
+
+
+motives (often modeled as latent constructs) reflect the gratifications that people
+seek and potentially receive from media use (Rubin, 2009). In contemporary ap-
+proaches to U&G, social and psychological factors guide behaviors which then
+mold expectations about perceived or actual media use (Palmgreen et al., 1985;
+Rubin, 2009).
+
+
+
+Media Gratification Typologies
+
+   Although the U&G perspective has been applied in a variety of ways to understand
+media, the bulk of the work in this area has focused on understanding gratifications
+of media use (So, 2012). U&G researchers have identified many ‘‘gratifications’’
+over the past 60 years by using the classic two-step methodological approach of
+focus groups followed by surveys (Greenberg, 1974; Lucas & Sherry, 2004; Rubin,
+2009; Rubin & Bantz, 1987).
+   However, in recent years, U&G researchers have tended to dispense with the
+first step of the two-step process and administered survey instruments from studies
+of older media, modified slightly to suit the particular medium under investigation.
+For example, Papacharissi and Rubin (2000) combined pre-existing measures of
+interpersonal, traditional media, and new media motives/gratifications measures in
+order to shed light on why people use the Internet. After assessing the responses
+to their survey, the researchers found that people use the Internet for interpersonal
+reasons, to pass time, information-seeking, convenience, and entertainment pur-
+poses. Similarly, Haridakis, & Hansen (2009) used the pre-existing measures of
+Internet gratifications (identified by Papacharissi, & Rubin, 2000) and television
+viewing (Rubin, 1983) and found that people view and share YouTube videos
+for convenient entertainment, interpersonal connection, convenient information-
+seeking, escape, co-viewing, and social interaction. While these two examples are
+revealing with regard to the general reasons that people use the Internet and specific
+Web sites like YouTube, the reflected gratifications are almost identical to those
+that have historically been identified as salient for traditional media like radio and
+television.
+   Video games, the Internet, social networking sites, and devices such as MP3
+players and tablets are considered to be relatively new types of media in popular
+culture as well as in research. If these media are new, do they provide new types
+of gratifications, leading to new felt needs among users? To further investigate this
+claim, we identified and reviewed 20 U&G studies (see Figure 1) that contained
+gratification typologies for major media from the 1940s to the present day. This
+review of the literature revealed considerable overlap between gratifications for
+both old and new media, suggesting that there are some core reasons for media
+use that cut across specific media vehicles of the time. For example, many studies
+have shown that arousal, escape, learning, habit, social interaction, companion-
+ship, information-seeking, passing time, relaxation, and entertainment to be the
+salient gratifications derived from watching television (Greenberg, 1974; Rubin,
+508   Journal of Broadcasting & Electronic Media/December 2013
+
+                                      Figure 1
+               Gratifications Obtained from New Media (1940–2011)
+
+
+
+
+Each color represents a specific type of gratification identified in the U&G literature and shared
+by two or more media. Gratifications that are unique to a given medium are not colored. Across
+the landscape of U&G studies from 1940 to 2011, two trends are noteworthy: (1) As we move
+from old to newer media, it appears that new gratifications do emerge with new technology;
+(2) Some broad gratifications, especially those related to social and information functions, tend
+to get more nuanced and specific with newer media.
+
+
+
+
+1981, 1983). The entertainment gratification has been associated with television
+(Greenberg, 1974; Rubin, 1983), the Internet (Papacharissi & Rubin, 2000), video
+games (Lucas & Sherry, 2004), YouTube (Haridakis & Hansen, 2009), Facebook
+(Joinson, 2008; Raacke & Bonds-Raacke, 2008), MP3 players (Zeng, 2011), and
+Twitter (Liu, Cheung, & Lee, 2010). This should not come as a surprise because
+researchers tend to borrow measures used with analogous older-media contexts,
+but it does give rise to a larger question concerning the nature and specificity of
+media-related gratifications. When comparing the gratifications from early television
+studies to the Internet and new communication technologies, one is left with the
+impression that newer media do not really afford any new gratifications that cannot
+be found in traditional media. This could be due to the fact that there are fairly
+consistent and overlapping gratifications that people have for using various media,
+or could be a result of the measures that are often employed to understand new
+media.
+                   Sundar and Limperos/NEW GRATIFICATIONS FOR NEW MEDIA 509
+
+
+    Could the overlap in gratifications be a result of using gratifications measures de-
+    signed for older media and therefore not reflective of the new gratifications poten-
+    tially obtained from newer media?
+
+   Overlap in gratification typologies is very common across the communication
+literature. For example, the research on the uses and gratifications of video games
+identified such gratifications as competition and challenge (Lucas & Sherry, 2004),
+which were noted 60 years earlier as gratifications derived from listening to radio
+talk shows (Herzog, 1944). In the earliest studies involving U&G of television,
+Greenberg (1974) and Rubin (1981, 1983) identified gratifications like entertain-
+ment, social interaction, and information-seeking. Roughly 35 years later, the same
+gratifications have been identified for a variety of new media like blogging (Kaye
+& Johnson, 2002), interactive news (Yoo, 2011), YouTube (Hardakis & Hansen,
+2009), and social-networking Web sites (Joinson, 2008; Raacke & Bonds-Raacke,
+2008). Even when other researchers have identified seemingly unique gratifications
+obtained from different types of new media, these too have been associated with
+more traditional media, sometimes under different labels (see Figure 1). Although
+it is entirely possible that we seek out new media for reasons that are similar to
+those for selecting and using older media, we must also consider the possibility that
+nuanced (and perhaps ‘‘new’’) gratifications obtained from using the Internet and
+other new communication technologies have not been fully specified, even though
+they may be captured by gross measures of larger categories of gratifications.
+
+    Could the overlap in gratifications be a result of using overly broad categories of
+    gratifications (e.g., information-seeking, entertainment) and therefore not sensitive
+    enough to identify the specific gratifications obtained from newer media?
+
+   Rubin (2009) recently pointed out that U&G would greatly benefit from ‘‘in-
+creased specificity, especially as attention is turned to new media’’ (p. 176). In
+the few instances where researchers have emphasized specific, rather than general,
+gratifications, we have seen new gratifications emerge. These tend to be specific
+to a given medium at the time it is introduced, but become a routinely sought
+gratification from later media. For example, mobility was identified for the first time
+as a gratification obtained from using cell phones (Wei & Lo, 2006), but is now
+an integral gratification obtained from all mobile devices, including ‘‘tablets’’ such
+as iPad (Kim, Sundar, & Park, 2011). Personal identity enhancement and photo
+sharing were recognized as new gratifications from using Facebook, the popular
+social networking site (Joinson, 2008), but are now obtained routinely from a whole
+suite of Web 2.0 applications, including mobile photo-sharing applications such as
+Instagram (Wortham, 2011).
+   Even though unique medium-specific gratifications have been identified in some
+studies, a few broad categories of gratifications dominate the U&G literature on
+most media technologies (see Figure 1). According to the original tenets of U&G,
+gratifications are rooted entirely in social and psychological origins of needs (Katz
+et al., 1974). U&G researchers would argue that some media meet certain needs
+510   Journal of Broadcasting & Electronic Media/December 2013
+
+
+while others fulfill a slightly different configuration of needs. If this is the case,
+every emergent gratification that is obtained from each new medium is merely a
+reflection of needs that already existed, signaling that gratifications from new media
+are reflections of primary needs rather than manifestations of new needs.
+   However, this focus on a finite set of human needs is somewhat limiting, par-
+ticularly when it comes to articulating newer gratifications derived from emergent
+media. An exclusive focus on users’ needs would mean, as Elliot (1974) argued, that
+U&G cannot predict anything useful past an elaborate construction of media use
+based on individual differences. But, perhaps more important, it hinders the concept
+of gratifications by surrogating it to needs (Becker, 1979). Conceptually, the gratifi-
+cations that we derive from media need not necessarily be driven by innate needs,
+but could be triggered by features we experience while using particular media.
+The interactivity of most modern media makes possible such a conceptualization
+whereby users are not always goal-directed at the beginning of their engagement of
+media, but tend to develop needs during the course of their media interaction. U&G
+scholars have historically distinguished between ‘‘content gratifications’’ (obtained
+from media content) and ‘‘process gratifications’’ (from using the media) (Rubin,
+2009). But, neither the content nor the process is fixed or finite when users browse
+through different Web sites or navigate their way through video game worlds.
+Stafford, Stafford, and Schkade (2004) claim that this gives rise to a third kind of
+gratification, relating to the use of media as a social environment.
+   Beyond these three broad classifications of process, content, and social gratifica-
+tions, the literature on U&G studies does not offer specific insight into the changing
+nature of media-related gratifications. In order to capture the increasing volume and
+diversity of gratifications being obtained by such heavily used media products as
+Twitter, Facebook, and mobile games, it is time that we broaden our focus beyond
+social and psychological origins of needs, and also consider potential influences of
+the perceived capabilities of the media technology upon our gratifications.
+
+
+               Technology as a Source of Gratifications
+
+   Lichtenstein and Rosenfeld (1983) first proposed that medium-specific gratifi-
+cations are predicted by characteristics of media themselves rather than innate
+needs or perceptions of use. This essentially means that certain gratifications are
+predicted by using different types of technologies, rather than felt needs. The idea
+that gratifications obtained are not necessarily predicated on strong pre-existing
+needs was evident even in non-interactive media, with researchers noticing that the
+gratifications sought from the media do not always predict gratifications obtained
+from them (Palmgreen et al., 1985). Recently, Rubin (2009) offered a nuanced
+definition of gratifications (as ‘‘expectations and desires that emanate from, and are
+constrained by, personal traits, social context, and interaction’’ p. 167), noting that
+the media user’s ‘‘degree of initiative or activity : : : has been seen as more variable
+than absolute’’ (p. 168) in recent times. With the explosive growth of interactive
+                   Sundar and Limperos/NEW GRATIFICATIONS FOR NEW MEDIA 511
+
+
+media in the last 2 decades, the time has come to take seriously the changing
+nature of user interactions with media, and the newer, more specific gratifications
+that they engender instead of simply relying on gratifications used in research with
+older media.
+   A fundamental source of the changing nature of user gratifications is the tech-
+nology of the medium itself. Ruggiero (2000) suggested that aspects of technol-
+ogy (e.g., interactivity, demassification, and asynchronicity) would be important
+for future U&G research, in that they will provide researchers an array of new
+behaviors to examine. Newer media are characterized by newer functionalities,
+thereby altering ‘‘process gratifications.’’ At the same time, they also determine
+‘‘content gratifications’’ by influencing the nature of content accessed, discussed,
+and created when users interact with such media. For example, historically, U&G
+researchers have treated the pursuit of these gratifications as being motivationally
+driven (e.g., Hearn, 1989), with media users orienting either to the medium in
+a ‘‘ritualized’’ way for diversion or to its content in an ‘‘instrumental’’ way for
+achieving a particular utilitarian goal (Rubin, 1984). It is clear that newer media
+have ushered in new rituals (e.g., game-playing, checking Facebook news feed)
+and new instrumental activities (e.g., using a search engine, pulling up smartphone
+apps for tracking one’s health behaviors). Furthermore, new features (e.g., mobility,
+augmented reality) offered by each new medium can themselves provide process
+gratifications. For example, the affordance of mobility has quickly resulted in a
+number of new rituals, such as flipping out a phone when the plane lands and
+watching a movie on one’s tablet during one’s subway commute. Such gratifications
+may reflect latent needs that were hitherto unfulfilled, but their realization is clearly
+driven by the new possibilities offered by the technology of the medium. Content
+gratifications, especially when construed broadly as the pursuit of information and
+entertainment, may not be altered by the technology, but the process gratifications
+relating to the context and method of consuming information and entertainment are
+likely to be influenced by the interaction opportunities offered by the medium.
+   How users interact with a given medium is dictated at least in part by the affor-
+dances in the technology of the medium (Norman, 2002). The notion of affordances
+is rooted in perceptual and evolutionary psychology and is based on the argument
+that visual stimuli in our environment suggest how we are supposed to interact with
+them (Gibson 1977, 1986). For example, a computer invites a person to type and
+the shape of a shoe implies that it is to be worn on your foot. Gibson (1986) also
+viewed affordances in a constructivist way, consisting of the interaction between
+the world and an actor. For instance, a news Web site affords users the possibility of
+browsing current news items much like in a newspaper. Additionally, some of these
+Web sites now allow users to post news and submit stories that end up being part
+of actual news feeds. In sum, affordances visually suggest not only how users can
+interact with the interface, but also how they can contribute and construct content
+by using that interface.
+   That said, there are numerous affordances offered by modern media, raising the
+need for a systematic approach to categorizing them and studying their contribution
+512   Journal of Broadcasting & Electronic Media/December 2013
+
+
+to specific gratifications. The variable-centered approach (Nass & Mason, 1990)
+offers a solution by disaggregating technologies into their constituent variables.
+One such class of variables, called task variables, relates closely to the notion
+of affordances. The MAIN Model (Sundar, 2008) identifies four classes of tech-
+nological affordances in digital media—modality, agency, interactivity, and navi-
+gability—that have been shown over the years to have significant psychological
+consequences. The model posits that these affordances provide cues to media
+users, which then trigger cognitive heuristics (mental shortcuts) about character-
+istics of the content that they consume. These heuristics, or snap judgments, can
+lead to either quick or ‘‘heuristic processing’’ (Chaiken, 1980) of content or guide
+more effortful ‘‘systematic processing’’ of content. The cues could come in the
+form of the mere existence of an affordance on an interface (e.g., presence of
+chat function) and/or metrics (e.g., # of Facebook friends) assembled by an af-
+fordance.
+   Given this, a distinct possibility is that the affordances of modern media will
+lead users to expect certain gratifications and thereby shape the fulfillment that
+they receive by using these media. We illustrate this with a few examples of new-
+media gratifications derived by users when they engage with the four technological
+affordances identified by the MAIN Model.
+
+
+Modality-based Gratifications
+
+   Modality refers to the different methods of presentation (e.g., audio or pictures) of
+media content, appealing to different aspects of the human perceptual system (e.g.,
+hearing, seeing). The Internet’s ability to provide content in multiple modalities (text,
+pictures, audio, video) is the reason why we sometimes refer to it as ‘‘multimedia.’’
+Research indicates that presenting information in multiple modalities is not simply
+convenient, but also perceptually and cognitively significant. As it turns out, we
+process information from one modality quite differently than another, expending far
+more cognitive effort with textual information and experiencing greater distraction
+with audiovisual representation of information (e.g., Sundar, 2000). Moreover, some
+modalities unique to the Internet, such as animation and pop-ups, are shown by
+research to evoke visceral responses in users, commanding our attention while
+simultaneously inviting our wrath (Diao & Sundar, 2004). In addition to dictating
+how we perceive and process content, modality enhancements in digital media
+serve to cue cognitive heuristics about the quality of underlying content. The MAIN
+Model argues that the visual modality is more trusted than text, i.e., pictures cue
+the ‘‘realism heuristic’’ leading us to quickly conclude that if something is pho-
+tographed, then it must be more real than if it is simply written about in textual
+form. We feel that a meeting via videoconferencing is more real than one via
+audioconferencing because of the additional affordance of video. More advanced
+modalities like virtual reality can cue the ‘‘being-there heuristic,’’ leading us to factor
+in the authenticity and intensity of our experience when making judgments about
+                    Sundar and Limperos/NEW GRATIFICATIONS FOR NEW MEDIA 513
+
+                                      Table 1
+                Possible New Gratifications from Media Technology
+
+Modality               Agency                Interactivity             Navigability
+
+Realism        Agency-Enhancement         Interaction     Browsing/Variety-Seeking
+Coolness       Community building         Activity        Scaffolds/Navigation aids
+Novelty        Bandwagon                  Responsiveness  Play/Fun
+Being There    Filtering/Tailoring        Dynamic control
+               Ownness
+
+Note. This list is not exhaustive. Each new proposed gratification is theorized to originate
+from one or more of the 4 broad classes of technological affordances.
+
+
+the content delivered through that experience. Newer stylish modalities like the
+cover-flow feature on an iPod could cue the ‘‘coolness heuristic’’ on the one hand,
+leading to a generally positive consideration of message content, but also cue the
+‘‘novelty heuristic’’ on the other hand, leading to uncertainty during the interaction.
+In this way, the modality of presentation can be quite influential in dictating our
+stance toward content delivered by Internet-based media.
+   As media users become saturated with devices and interfaces that offer such
+modality affordances, their expectations from media are likely to be dictated by
+these heuristics. For example, ‘‘coolness’’ is a gratification that we have now come
+to seek with new interfaces released by Apple, and ‘‘novelty’’ is a gratification that
+we seek in new video game consoles that include gestural modality in addition
+to more traditional modalities of interaction. We anticipate greater ‘‘realism’’ from
+news Web sites that have live video feeds in addition to text, and fully expect
+to enter a new world when browsing a virtual environment such as Second Life.
+The realism with which we can experience mediated portrayals of reality and the
+feeling of ‘‘being there’’ in a mediated environment are examples of gratifications
+made possible by innovations in the modality affordance of technologies underlying
+modern-day media. (See Table 1 for a list of modality-based gratifications). When
+mapped onto traditional U&G communication orientations, realism and being-there
+gratifications would likely serve an instrumental purpose whereas coolness and
+novelty would apply more to ritualized use of the medium.
+
+
+Agency-Based Gratifications
+
+   Under the MAIN Model, the agency affordance of the Internet allows us all to be
+agents or sources of information. While the role of gatekeeping has historically been
+the domain of a privileged few, now anybody can serve as a gatekeeper of content
+on the Internet. Blogs allow us to broadcast our own content or filter other content
+on the Web. The rise of user-generated content, in the form of such platforms and
+sites as YouTube and Facebook, has profoundly altered the sender-receiver equation
+514   Journal of Broadcasting & Electronic Media/December 2013
+
+
+of communication, but more importantly given rise to new gratifications (Shao,
+2009). Studies show that digital media users are more agentic and like to assume
+the role of sender or source of information, thanks to widespread proliferation of
+customization technologies (Sundar, Oh, Bellur, Jia, & Kim, 2012). They are also
+motivated to build community, as manifested in their efforts to participate in online
+forums in large numbers, post comments on others’ blogs and contribute willingly
+to collaborative filtering applications that dominate so many Web sites. In fact, they
+rate content chosen or favored by other users as being more worthy than that offered
+by professional journalists (Sundar & Nass, 2001). Therefore, agency-enhancement
+and community-building are gratifications driven by affordances that (a) let users
+to serve as sources of content, both individually and collectively, and (b) convey
+others’ reception of their postings (Stavrositu & Sundar, 2012).
+   In terms of transmitting meaning, self-agency can connote own-ness whereas
+other-agency may lead to the application of either the expertise heuristic, machine
+heuristic, or bandwagon heuristic, depending on whether the other is a professional
+gatekeeper, a bot, or the collective user base respectively. Again, these heuristics
+serve as repositories of meaning for users, especially in terms of deriving gratifica-
+tions from the media being used. The fact that other-agency leads to the application
+of bandwagon heuristic is quite well established (e.g., Sundar, Oeldorf-Hirsch &
+Xu, 2008). When we are given information about what other customers bought on
+Amazon.com or what the most forwarded news stories of the day are, we tend to
+be swayed by the choices of our unknown peers. But, this heuristic becomes a
+gratification when we begin to expect them on interfaces and feel disadvantaged
+when they are unavailable. Consider this example: Before the diffusion of travel
+Web sites, most of us booked hotel rooms in remote locations, often over the phone,
+without ever knowing the experiences of previous hotel guests. Today, the hotel-
+booking routine for most of us is quite different. We have come to expect guest
+ratings and comments about the hotels under consideration before we book them
+online. Even if one other user has left a comment saying that they found a cockroach
+in the bathroom of the hotel suite in which they stayed, that will likely give us pause.
+More generally, we have begun to expect some general consensus information about
+the value of a product or service when we go to e-commerce Web sites, in the form
+of numeric cues (e.g., star ratings) and/or user comments. This need for assessing
+the bandwagon around a service, commodity, or an issue is a classic example of a
+need facilitated by user interactions with affordances offered by new media. Clearly,
+advances in collaborative filtering technology have made us seek this gratification
+(of viewing collective opinions of others) when using modern-day media, be it other
+customers’ experiences on an e-commerce site or other readers’ views on a news
+site.
+   In general, agency-based gratifications such as agency-enhancement, community-
+building, bandwagon, filtering/tailoring, and ownness (Table 1) are made possible
+by a suite of new interface tools relating to customization and crowd-sourcing,
+serving mostly instrumental goals of highly motivated and involved users.
+                   Sundar and Limperos/NEW GRATIFICATIONS FOR NEW MEDIA 515
+
+
+Interactivity-Based Gratifications
+
+   Interactivity is defined as the affordance that allows the user to make real-time
+changes to the content in the medium. The interactivity affordance goes to the heart
+of audience activity by allowing users to interact with and through the medium.
+News presentation is no longer static; the consumer dynamically manages it. Re-
+search has shown that some interactive features such as drags (as on a map) are
+physiologically significant, commanding heightened attention, while also tending to
+impede the processing of content (Sundar & Constantin, 2004). Nevertheless, they
+have become the norm on news Web sites, so much so that the presence of a map
+on any media interface triggers the interaction heuristic (Sundar, 2008). If, upon
+seeing a map on a non-interactive Web site, users drag their mouse on it unsuc-
+cessfully and are disappointed as a result, then this signals a need for interaction.
+Likewise, several new gratifications are likely to be triggered by the proliferation
+of interactive media—users are likely to expect greater levels of activity from their
+media experiences, they would want their media interfaces to be responsive to
+their actions, they will expect to be given more choice and greater control, they
+will expect more embedded hyperlinks to click through, more flow in their media
+experiences, and so on. As a result, activity, responsiveness, choice, control, and
+flow may well be the next generation of gratifications that we seek from interactive
+media (Table 1).
+   In general, interactivity has proven to be a double-edged sword, with users
+desiring more of it, but responding negatively to content delivered via high lev-
+els of interactivity. For example, studies with political-candidate Web sites have
+demonstrated that interactivity has a positive effect on user impressions of the
+candidate up to a point, but too much interactivity is as bad as no interactivity,
+partly because it entails more effort on the part of the user and partly because it
+results in a rigorous scrutiny of content (Sundar, 2007). Interactivity assures intense
+engagement with content—good content will appear much better, but most content
+on most Internet sites is mediocre, so interactivity is likely to highlight flaws in
+content that might have otherwise been ignored. These characteristics can, over
+time, drive a general preference toward interactive interfaces, making the need for
+interactivity as common a gratification as information-seeking.
+   The very presence of interactivity on a Web site or any other digital application is
+likely to convey meaning to users (Sundar, 2008). For example, it signifies openness
+of information access and the participatory nature of a forum, which can directly
+lead to positive perceptions of the content even without an effortful consideration
+of the nature of the content. The usefulness of such mental shortcuts (or heuristics)
+might indeed motivate a greater need for interactivity in media interfaces. It is akin
+to accountability that we automatically expect from those in whom we entrust
+responsibility. Just like we expect our bank accounts to be insured by FDIC, we
+expect our media to be equipped with the ability to provide an open forum for user
+feedback and participation.
+516   Journal of Broadcasting & Electronic Media/December 2013
+
+
+  In sum, the proliferation of interactive features has expanded our expectations as
+well as bandwidth for the degree of interaction and activity that we prefer to have
+with modern media interfaces. Moreover, we expect our media to be responsive to
+our actions in real-time and provide us dynamic control over the interface. Together,
+the various gratifications related to interactivity (Table 1) suggest that this affordance
+serves a highly utilitarian orientation toward the medium and its operation.
+
+
+
+Navigability-Based Gratifications
+
+   Navigability is the affordance that allows user movement through the medium.
+The fact that the Internet is a space rather than simply a window means that archi-
+tectural and interior design considerations enter into the communication equation,
+making navigation a key aspect of the online user experience. Gratifications like
+play and the quality of ‘‘information scent’’ (to follow, for example, in a search
+engine; see Pirolli, 2007) are likely to predominate, indicating the broader range and
+scope of information obtained and entertainment derived from Internet-based media.
+Affordances designed to aid user navigation can convey rich meanings pertaining to
+the presence of variety and the benevolence of the designer implied by the scaffolds
+that are made available to the user.
+   The common activity of freely navigating from one site to another on the Internet
+and ‘‘checking out’’ various links is said to trigger the ‘‘browsing heuristic’’ (Sundar,
+2008). This has become an essential process gratification, which, when taken away,
+leads to complaints. If a media interface limits user navigability, this is likely to lead
+to dissatisfaction, meaning that browsing is a gratification that we have come to
+expect. Likewise, we have come to expect that we will be scaffolded through every
+step of the checkout process on an e-commerce Website. We expect error messages
+and warnings before any drastic commitment is made on our behalf (e.g., ‘‘Are you
+sure you want to proceed?,’’ ‘‘Clicking the Submit button will charge your credit
+card,’’ and so on). The scaffolding gratification is a powerful one and probably drives
+the bulk of our commercial transactions on Internet-enabled media devices. When
+an e-commerce site charges our account without proper scaffolds, we complain
+and demand our money back even though we pressed the ‘‘purchase’’ button. This
+is because we expect sites to step us through the process, making it an important
+gratification. So much so that we expect to be given the option to opt-in rather than
+opt-out of default settings in social networking sites and other venues where privacy
+is a major concern.
+   The play gratification, arising from the fun element of moving through spaces or
+levels, is best realized in game interfaces that have superior navigability affordances
+than less dynamic interfaces. The escapism and immersion that are induced by the
+affective state of play are best realized when the navigational structure of the inter-
+face affords a continuous sense of exploration and smooth transitions. In general, as
+evident from the variety of spatial metaphors that we use to describe Internet-based
+media (e.g., cyberspace, information superhighway, iway), it is clear that navigation
+                   Sundar and Limperos/NEW GRATIFICATIONS FOR NEW MEDIA 517
+
+
+is an essential gratification that we seek from these media. While browsing and
+play gratifications signal a ritualistic orientation toward the medium, the scaffolding
+gratification arises from a utilitarian orientation toward the transactions performed
+via the medium.
+   To sum up, each technological affordance stimulates a unique set of gratifica-
+tions. While the modality affordance is primarily associated with perceptual grat-
+ifications, the agency affordance serves gratifications related to gatekeeping and
+UGC, the interactivity affordance triggers gratifications related to user activity and
+system responsiveness, and the navigability affordance caters to user movement
+in the space created by the medium. Clearly, these gratifications are quite differ-
+ent from the bulk of the gratifications identified in the U&G literature over the
+decades. Table 1 provides a list of new gratifications emerging from expectations
+associated with new media and Table 2 lists potential measures to capture those
+gratifications.
+
+
+                  New Technology, New Gratifications?
+
+   In a recent review of U&G research, Krcmar and Strizhakova (2009) stated,
+‘‘while it is certainly true that different media have different motivations for use,
+generating typologies with little attempt to integrate them at a broader level may
+do little to forward uses and gratifications as a meaningful approach’’ (p. 56).
+When one examines the larger body of gratification typologies and how scattered
+it is, the suggestion of condensing the multitude of gratifications into three or four
+broad typologies is certainly a sensible one. In fact, integrating typologies seems
+to be emerging as the primary and most parsimonious way to apply U&G to new
+communication technologies. Much of the current literature in this area (Chen,
+2011; Haridakis & Hansen, 2009; Papacharissi & Mendelson, 2007; Yoo, 2011)
+shows a great deal of conceptual overlap from previous studies, but also clearly
+indicates that more nuanced gratifications are emerging. For example, Papacharissi
+and Mendelson (2011) found in their study of Facebook gratifications that question-
+naire items relating to historically distinct gratifications (‘‘habit’’ and ‘‘pass time’’;
+‘‘relaxation’’ and ‘‘entertainment’’) loaded together, suggesting that the configuration
+of gratifications is changing for newer media. It is clear that relying simply on broad
+categories of gratifications and existing measures may indeed be obfuscating our
+ability to understand potentially new gratifications. One of the strengths of the U&G
+approach is that it is flexible and allows us to understand what people are doing
+with the media, in an inductive manner. In this article, we have argued that many
+gratifications that emanate from technological affordances have remained untapped
+across the broader U&G literature.
+   Research has shown that technological affordances are indeed perceptually and
+psychologically significant (Reeves & Nass, 2000; Sundar, 2008). If U&G researchers
+continue to view media gratifications as solely governed by innate human states or
+psyche (e.g., cognitive, motivational, or emotional factors), then our descriptions of
+518   Journal of Broadcasting & Electronic Media/December 2013
+
+
+                                        Table 2
+                        Potential Measures of New Gratifications
+
+I use communication technology (e.g., Second Life, iPod, Blackboard) because : : :
+
+Modality
+                                        Realism
+
+ 1. I know the content is real and not made up
+ 2. It is like communicating face-to-face
+ 3. The experience is very much like real life
+ 4. It lets me to see it for myself.
+
+                                       Coolness
+
+ 5. It is unique
+ 6. It is distinctive
+ 7. It is stylish.
+
+                                        Novelty
+
+ 8. It is new
+ 9. The technology is innovative
+10. The interface is different
+11. The experience is unusual.
+
+                                      Being There
+
+12. It helps me immerse myself in places that I cannot physically experience
+13. It creates the experience of being present in distant environments
+14. I feel like I am able to experience things without actually being there.
+
+Agency
+                                 Agency-Enhancement
+
+15. It allows me to have my say
+16. It allows me to assert my identity
+17. It allows me to send my thoughts to many
+18. It gives me the power to broadcast to my followers.
+
+                                  Community-Building
+
+19. I can connect with others
+20. It allows me to expand my social network
+21. It makes me realize that I am part of a community
+22. It allows me to build social capital.
+
+                                                                        (continued)
+                   Sundar and Limperos/NEW GRATIFICATIONS FOR NEW MEDIA 519
+
+                                       Table 2
+                                     (Continued )
+
+                                         Bandwagon
+
+23. It allows me to review opinions of others before I make decisions
+24. It comforts me to know the thoughts and opinions of others
+25. It allows me to compare my opinions with those of others.
+
+                                   Filtering/Tailoring
+
+26. It allows me to set my preferences
+27. I can avoid viewing things that I do not want to see
+28. It allows me to sort through information and share it with others.
+
+                                         Ownness
+
+29. Once I use it, I feel like it is mine
+30. It features content that is a true reflection of myself
+31. It allows me to customize so that I can make it my own.
+
+Interactivity
+                                         Interaction
+
+32. I expect to interact with the system
+33. I can perform a number of tasks
+34. I can specify my needs and preferences on an ongoing basis.
+
+                                          Activity
+
+35. I feel active when I use it
+36. It is not a passive interaction
+37. I get to do a lot of things on it.
+
+                                    Responsiveness
+
+38. It is responsive to my commands
+39. It responds well to my requests
+40. It can anticipate my needs.
+
+                                   Dynamic Control
+
+41. It gives me control
+42. It allows me to be in charge
+43. I am able to control my interaction with the interface
+44. I am able to influence how it looks
+45. I am able to influence how it works.
+
+                                                                         (continued)
+520   Journal of Broadcasting & Electronic Media/December 2013
+
+                                      Table 2
+                                    (Continued )
+
+Navigability
+                             Browsing/Variety-Seeking
+
+46. It allows me to obtain a wide variety of information
+47. It helps me to skim and check out various links
+48. It allows me to surf for things that I am interested in
+49. It allows me to browse freely.
+
+                            Scaffolding/Navigation Aids
+
+50. The interface helps me every step of the way
+51. The device is easy to use and explore
+52. It allows me to link to other pieces of information
+53. It offers a number of visual aids for more effective use
+54. It will double-check with me before performing a risky transaction.
+
+                                      Play/Fun
+
+55. It is fun to explore
+56. It lets me play
+57. I enjoy escaping into a different world.
+
+
+
+the uses and gratifications of emerging communication technologies will be very
+similar to what we already know about traditional media. This will not only limit
+our understanding of the appeal of new media, but also curtail our efforts to connect
+media uses and gratifications to specific behavioral and cognitive effects.
+   In our earlier review of gratification typologies, each specific medium was dis-
+cussed in terms of the gratifications that it could provide. Some of these typologies
+are broad and encompassing (e.g., gratifications of television) while others are
+more nuanced and diverse. After studying a variety of different traditional media,
+McQuail, Blumler, and Brown (1972) concluded that diversion, personal relation-
+ships, personal identity, and surveillance were the broad motives and gratifications
+for using traditional media. Of these gratification concepts, surveillance and its
+related concepts (e.g., information-seeking) remain constant across most gratification
+studies. Now, consider the following example, which illustrates how current U&G
+approaches capture what people are doing with new media: Surveillance is an
+identified and inherent need that has strong social and psychological origins. This
+much is beyond dispute. However, the broad notion of a surveillance gratification
+may be understood in a completely different way when one considers technological
+affordances. It has become common practice for Internet users to seek opinions
+when they watch entertainment online, make purchases or plan events. In the past,
+                   Sundar and Limperos/NEW GRATIFICATIONS FOR NEW MEDIA 521
+
+
+if one were to visit a virtual museum or plan a trip to Paris, chances are media
+would not be able to provide information that would be helpful in planning the
+trip. These days, Web sites offer an array of modality and interactivity affordances
+that elicit heuristics such as being there and responsiveness. These heuristics are
+likely to dictate the gratifications that one obtains from these media. A 360-degree
+interactive panoramic view of the convention floor when visiting the Democratic
+party’s Web site might elicit the feeling of ‘‘being there.’’ This is made possible by
+a modality affordance. With such affordances becoming commonplace, we have
+come to expect virtual tours. It is now quite common for us to check out a place
+online before visiting it physically, be it a park, restaurant, or neighborhood. We
+have also become used to seeing user reviews of the place that we are planning to
+visit (agency affordance) and pictures of the surrounding area (modality affordance).
+These elicit the bandwagon heuristic and realism heuristic respectively, each im-
+pacting a different gratification.
+   One could make the argument that all of these affordances merely aid in fulfilling
+the need of information-seeking. However, information-seeking encompasses almost
+everything we do online. Although this broad category does provide insight into
+general gratifications of Internet use, it is likely that information-seeking itself is a
+very general term encompassing a collection of more nuanced gratifications. For
+instance, information-seeking gratifications might be driven by a need for authen-
+ticity (interactivity of hotel view) or consistency (user reviews matching your own
+perceptions) or both. Identification of nuanced gratifications that map onto these
+specific needs underlying the larger gratification of information-seeking addresses
+Rubin’s (2009) call for greater specificity in U&G research with newer media (see
+Table 1).
+   The needs fulfilled by various affordances of modern media can be disaggregated,
+as we have suggested, in order to propose specific gratifications that meet those
+specific needs rather than some generalized category of needs. The bulk of U&G
+research has treated gratifications as somewhat static and arising from pre-existing
+needs, but our approach motivates a focus on the process behind the formation of
+gratifications. We suggest that technological innovations have given rise to new af-
+fordances, which in turn have cultivated in users new needs that they seek to gratify
+from their media experiences. The runaway success of social networking sites (e.g.,
+Facebook) and microblogging services (e.g., Twitter) speak to technology’s potential
+to create and satisfy new gratifications. How these newly developed gratifications
+impact user reception of traditional media as well as forthcoming media is an area
+of future research with rich theoretical potential.
+   In conclusion, we recommend that U&G researchers adopt an affordance-based
+framework for identifying gratifications sought and obtained from media. This means
+triangulating the traditional emphasis on purely social and psychological needs
+with technology-driven needs. The latter is best understood by investigating the
+various affordances offered by newer media, such as the four classes identified
+by the MAIN Model and discussed in this article. An understanding of how users
+engage the affordances of newer media will help researchers devise more specific
+522   Journal of Broadcasting & Electronic Media/December 2013
+
+
+measures for capturing the nuanced and specific gratifications obtained from newer
+media. The next step is to devise survey measures that will not only tap into
+emergent uses and gratifications, but also deconstruct and specify them in ways
+that help us distinguish the gratifications derived from different media, both old and
+new. We have provided a list of measures in Table 2 as a starting point. A focus
+on key technological affordances will help us situate the source of gratifications
+in specific functionalities of media interfaces that may be offered to a different
+degree by different media. This will not only head off the criticism that we are
+proliferating a whole new set of gratifications for each new medium, but also help
+build theories that relate technological affordances with human needs, in the context
+of understanding the uses and gratifications sought and obtained from emergent
+media.
+
+
+
+                                       References
+
+Becker, L. B. (1979). Measurement of gratifications. Communication Research, 6, 54–73. doi:
+    10.1177/009365027900600104
+Berelson, B. (1949). What ‘‘missing the newspaper’’ means. In P. F. Lazarsfeld and F. N. Stanton
+    (Eds.), Communication Research 1948–1949 (pp. 111–129). New York, NY: Harper.
+Chaiken, S. (1980). Heuristic and systematic information processing and the use of source
+    versus message cues in persuasion. Journal of Personality and Social Psychology, 39, 752–
+    766. doi: 10.1037/0022-3514.39.5.752
+Chen, G. M. (2011). Tweet this: A uses and gratifications perspective on how active Twitter
+    gratifies a need to connect with others. Computers in Human Behavior, 27, 755–762. doi:
+    10.1016/j.chb.2010.10.23
+Conway, J. C., & Rubin, A. M. (1991). Psychological predictors of television viewing motiva-
+    tion. Communication Research, 18, 443–463. doi: 10.1177/009365091018004001
+Diao, F., & Sundar, S. S. (2004). Orienting responses and memory for Web advertisements:
+    Exploring effects of pop-up window and animation. Communication Research, 31(5), 537–
+    567. doi: 10.1177/0093650204267932
+Elliot, P. (1974). Uses and gratification research: A critique and sociological alternative. In
+    J. G. Blumler & E. Katz (Eds.). The uses of mass communications: Current perspectives on
+    gratifications research (pp. 249–268). Beverly Hills, CA: Sage.
+Ferguson, D. A., Greer, C. F., & Reardon, M. E. (2007). Uses and gratifications of MP3 players
+    by college students: Are iPods more popular than radio? Journal of Radio and Audio Media,
+    14, 102–121. doi: 10.1080/10955040701583197
+Gibson, J. J. (1977). The theory of affordances. In R. Shaw & J. Bransford (Eds.), Perceiving,
+    acting and knowing: Toward an ecological psychology. Hillsdale, NJ: Lawrence Erlbaum
+    Associates.
+Gibson, J. J. (1986). The ecological approach to visual perception. Hillsdale, NJ: Lawrence
+    Erlbaum Associates.
+Greenberg, B. S. (1974). Gratifications of television viewing and their correlates for British
+    children. In J. G. Blumler & E. Katz (Eds.), The uses of mass communications: Current
+    perspectives on gratifications research (pp. 71–92). Beverly Hills, CA: Sage.
+Haridakis, P. M. (2002). Viewer characteristics, exposure to television violence, and aggres-
+    sion. Media Psychology, 4, 235–353. doi: 10.1207/S1532785XMEP0404_02
+Haridakis, P., & Hansen, G. (2009). Social interaction and co-viewing with YouTube: Blending
+    mass communication reception and social connection. Journal of Broadcasting & Electronic
+    Media, 53, 317–335. doi: 10.1080/08838150902908270
+                     Sundar and Limperos/NEW GRATIFICATIONS FOR NEW MEDIA 523
+
+
+Hearn, G. (1989). Active and passive conceptions of the television audience: Effects of a
+    change in a viewing routine. Human Relations, 42, 857–875. doi: 10.1177/0018726789
+    04201>01
+Herzog, H. (1940). Professor quiz: A gratification study. In P. F. Lazarsfeld and F. N. Stanton
+    (Eds.), Radio and the printed page (pp. 64–93). New York, NY: Duell, Sloan & Pearce.
+Herzog, H. (1944). What do we really know about daytime serial listeners? In P. F. Lazarsfeld
+    & F. N. Stanton (Eds.), Radio research 1943–1943 (pp. 3–33). New York, NY: Duell, Sloan
+    & Pearce.
+Joinson, A. (2008). Looking at, looking up or keeping up with people? Motives and uses of Face-
+    book. Proceedings of the CHI Conference, 1027–1036. doi: 10.1145/1357054.1357213
+Katz, E., Blumler, J. G., & Gurevitch, M. (1974). Utilization of mass communication by the
+    individual. In J. G. Blumler & E. Katz (Eds.). The uses of mass communications: Current
+    perspectives on gratifications research (pp. 19–32). Beverly Hills, CA: Sage.
+Kaye, B. K., & Johnson, T. J. (2002). Online and in the know: Uses and gratifications of the
+    web for political information. Journal of Broadcasting & Electronic Media, 46, 54–71. doi:
+    10.1207/s15506878jobem4601_4
+Kim, K. J., Sundar, S. S., & Park, E. (2011). The effects of screen-size and communication
+    modality on psychology of mobile device users. Proceedings of the 2011 Annual Confer-
+    ence Extended Abstracts on Human Factors in Computing Systems (CHI EA’11), 1207–
+    1212. doi: 10.1145/1979742.1979749
+Krcmar, M., & Strizhakova. Y. (2009). Uses and gratifications as media choice. In T. Hartmann
+    (Ed.). Media choice: A theoretical and empirical overview (pp. 53–69). New York, NY:
+    Routledge.
+Lichtenstein, A., & Rosenfeld, L. B. (1983). Uses and misuses of gratification research: An
+    explication of media functions. Communication Research, 10, 97–109. doi: 10.1177/00936
+    5083010001005
+Liu, L. B., Cheung, M. K., & Lee, K. O. (2010). Understanding Twitter usage: What drives
+    people to continue to tweet. PACIS 2010 Proceedings. Paper 92. http://aisel.aisnet.org/pacis
+    2010/92
+Lucas, K., & Sherry, J. L. (2004). Sex differences in video game play: A communication based
+    explanation. Communication Research, 31, 499–523. doi: 10.1177/0093650204267930
+McQuail, D., Blumler, J. G., & Brown, J. (1972). The television audience: A revised perspective.
+    In D. McQuail (Ed.), Sociology of mass communication (pp. 135–165). Harmondsworth,
+    UK: Penguin.
+Nass, C., & Mason, L. (1990). On the study of technology and task: A variable-based approach.
+    In J. Fulk & C. Steinfield (Eds.), Organizations and communication technology (pp. 46–67).
+    Newbury Park, CA: Sage.
+Norman, D. A. (1999). Affordance, conventions, and design. Interactions, 6(3), 38–42. doi:
+    10.1145/301153.301168
+Norman, D. A. (2002). The design of everyday things. New York, NY: Basic Books.
+O’Keefe, G., & Sulanowski, B. (1995). More than just talk: Uses and gratifications, and the
+    telephone. Journalism and Mass Communication Quarterly, 72, 922–933.
+Palmgreen, P., & Rayburn, J. D. (1979). Uses and gratifications and exposure to public televi-
+    sion: A discrepancy approach. Communication Research, 6, 155–179. doi: 10.1177/0093
+    65027900600203
+Palmgreen, P., Wenner, L. A., & Rayburn, J. D. (1980). Relations between gratifications sought
+    and obtained: A study of television news. Communication Research, 7, 161–192. doi:
+    10.1177/009365028000700202
+Palmgreen, P. C., Wenner, L. A., & Rosengren, K. E. (1985). Uses and gratifications research:
+    The past 10 years. In K. E. Rosengren, L. A. Wenner, & P. C. Palmgreen (Eds.), Uses and
+    gratifications research: Current perspectives (pp. 11–37). Beverly Hills, CA: Sage.
+Papacharissi, Z., & Mendelson, A. M. (2007). An exploratory study of reality appeal: Uses and
+    gratifications of reality TV shows. Journal of Broadcasting & Electronic Media, 52, 355–
+    370. doi: 10.1080/08838150701307152
+524   Journal of Broadcasting & Electronic Media/December 2013
+
+
+Papacharissi, Z., & Mendelson, A. (2011). Toward a new(er) sociability: Uses, gratifications,
+    and social capital on Facebook. In S. Papathanassopoulos (Ed.), Media perspectives for the
+    21st century (pp. 212–230). New York, NY: Routledge.
+Papacharissi, Z., & Rubin, A. (2000). Predictors of Internet use. Journal of Broadcasting &
+    Electronic Media, 44, 175–196. doi: 10.1207/s15506878jobem4402_2
+Pirolli, P. L. T. (2007). Information foraging theory: Adaptive interaction with information. New
+    York, NY: Oxford University Press.
+Raacke, J., & Bonds-Raacke, J. (2008). MySpace and Facebook: Applying the uses and grat-
+    ifications theory to exploring friend-networking sites. CyberPsychology & Behavior, 169–
+    174. doi: 10.1089/cpb.2007.0056
+Rafaeli, S. (1988). Interactivity: From new media to communication. In R. P. Hawkins, J. M.
+    Wiemann & S. Pingree (Eds.), Advancing communication science: Merging mass and
+    interpersonal processes (pp. 110–134). Newbury Park, CA: Sage.
+Reeves, B., & Nass, C. (2000). Perceptual bandwidth. Communications of the ACM, 43(3),
+    65–70. doi: 10.1145/330534.330542
+Rubin, A. M. (1981). An examination of television viewing motivations. Communication
+    Research, 8, 141–165. doi: 10.1177/009365028100800201
+Rubin, A. M. (1983). Television uses and gratifications: The interactions of viewing patterns
+    and motivation. Journal of Broadcasting, 27, 37–51. doi: 10.1080/08838158309386471
+Rubin, A. M. (1984). Ritualized and instrumental television viewing. Journal of Communica-
+    tion, 34(3), 67–77. doi: 10.1111/j.1460-2466.1984.tb02174.x
+Rubin, A. M. (1993). Audience activity and media use. Communication Monographs, 60, 98–
+    105. doi: 10.1080/03637759309376300
+Rubin, A. M. (2009). The uses-and-gratifications perspective on media effects. In J. Bryant &
+    M. B. Oliver (Eds.), Media effects: Advances in theory and research 3rd ed. (pp. 165–184).
+    New York, NY: Routledge.
+Rubin, A. M., & Bantz, C. R. (1987). Utility of videocassette recorders. American Behavioral
+    Scientist, 30, 471–485. doi: 10.1177/000276487030005003
+Ruggiero, T. E. (2000). Uses and gratifications theory in the 21st century. Mass Communication
+    & Society, 3, 3–37. doi: 10.1207/S15327825MCS0301_02
+Shao, G. (2009). Understanding the appeal of user-generated media: A uses and gratifications
+    perspective. Internet Research, 19, 7–25. doi: 10.1108/10662240910927795
+So, J. (2012). Uses, gratifications, and beyond: Toward a model of motivated media ex-
+    posure and its effects on risk perception. Communication Theory, 22, 116–137. doi:
+    10.1111/j.1468-2885.2012.01400.x
+Stafford, T. F., Stafford, M. R., & Schkade, L. L. (2004). Determining uses and gratifications for
+    the Internet. Decision Sciences, 35, 259–288. doi: 10.1111/j.00117315.2004.02524.x
+Stavrositu, C., & Sundar, S. S. (2012). Does blogging empower women? Exploring the role
+    of agency and community. Journal of Computer-Mediated Communication, 17, 369–386.
+    doi: 10.1111/j.1083-6101.2012.01587.x
+Sundar, S. S. (2000). Multimedia effects on processing and perception of online news: A study
+    of picture, audio, and video downloads. Journalism & Mass Communication Quarterly,
+    77(3), 480–499. doi: 10.1177/107769900007700302
+Sundar, S. S. (2007). Social psychology of interactivity in human-website interaction. In A. N.
+    Joinson, K. Y. A. McKenna, T. Postmes, & U-D Reips (Eds.), The Oxford handbook of
+    Internet psychology (pp. 89–104). Oxford, UK: Oxford University Press.
+Sundar, S. S. (2008). The MAIN model: A heuristic approach to understanding technology
+    effects on credibility. In M. J. Metzger & A. J. Flanagin (Eds.), Digital media, youth, and cred-
+    ibility (pp. 72–100). Cambridge, MA: The MIT Press. doi: 10.1162/dmal.9780262562324.
+    073
+Sundar, S. S., & Bellur, S. (2011). Concept explication in the Internet age: The case of
+    interactivity. In E. P. Bucy & R. L. Holbert (Eds.), Sourcebook for political communication
+    research: Methods, measures, and analytical techniques (pp. 485–500). New York, NY:
+    Routledge.
+                      Sundar and Limperos/NEW GRATIFICATIONS FOR NEW MEDIA 525
+
+
+Sundar, S. S., & Constantin, C. (2004, May). Does interacting with media enhance news
+   memory? Automatic vs. controlled processing of interactive news features. Paper presented
+   at the 54th annual conference of the International Communication Association, New
+   Orleans, LA.
+Sundar, S. S., & Nass, C. (2001). Conceptualizing sources in online news. Journal of Commu-
+   nication, 51(1), 52–72. doi: 10.1111/j.1460-2466.2001.tb02872.x
+Sundar, S. S., Oeldorf-Hirsch, A., & Xu, Q. (2008). The bandwagon effect of collaborative
+   filtering technology. Proceedings of the Conference on Human Factors in Computing
+   Systems (ACM SIGCHI), 26, 3453–3458. doi: 10.1145/1358628.1358873
+Sundar, S. S., Oh, J., Bellur, S., Jia, H., & Kim, H. S. (2012). Interactivity as self-expression: A
+   field experiment with customization and blogging. Proceedings of the 2012 Annual Confer-
+   ence on Human Factors in Computing Systems (CHI’12), 395–404. doi: 10.1145/2207676.
+   2207731
+Wei, R., & Lo, V. (2006). Staying connected while on the move: Cell phone use and social
+   connectedness. New Media & Society, 8, 53–72. doi: 10.117/1461444806059870
+Wortham, J. (2011, June 4). A stream of postcards, shot by phone. The New York Times, p. B1.
+Yoo, C. Y. (2011). Modeling audience interactivity as the gratification-seeking process in online
+   newspapers. Communication Theory, 21, 67–89. doi: 10.1111/j.1468-2885.2010.01376.x
+Zeng, L. (2011). More than audio on the go: Uses and gratifications of MP3 players. Commu-
+   nication Research Reports, 28, 97–108. doi: 10.1080/08824096.2011.541367
+

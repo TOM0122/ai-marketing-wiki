@@ -1,0 +1,656 @@
+776625
+research-article2018
+                       QHRXXX10.1177/1049732318776625Qualitative Health ResearchGregory
+
+
+
+
+                                          Methods
+                                                                                                                                           Qualitative Health Research
+
+                                          Online Communication Settings
+                                                                                                                                           2018, Vol. 28(10) 1610­–1620
+                                                                                                                                           © The Author(s) 2018
+                                                                                                                                           Reprints and permissions:
+                                          and the Qualitative Research Process:                                                            sagepub.com/journalsPermissions.nav
+                                                                                                                                           DOI:    10.1177/1049732318776625
+                                                                                                                                           https://doi.org/10.1177/1049732318776625
+
+                                          Acclimating Students and Novice                                                                  journals.sagepub.com/home/qhr
+
+
+                                          Researchers
+
+                                          Katherine Gregory1
+
+
+
+                                          Abstract
+                                          In the last 20 years, qualitative research scholars have begun to interrogate methodological and analytic issues
+                                          concerning online research settings as both data sources and instruments for digital methods. This article examines
+                                          the adaptation of parts of a qualitative research curriculum for understanding online communication settings. I
+                                          propose methodological best practices for researchers and educators that I developed while teaching research
+                                          methods to undergraduate and graduate students across disciplinary departments and discuss obstacles faced
+                                          during my own research while gathering data from online sources. This article confronts issues concerning the
+                                          disembodied aspects of applying what in practice should be rooted in a humanistic inquiry. Furthermore, as some
+                                          approaches to online qualitative research as a digital method grow increasingly problematic with the development
+                                          of new data mining technologies, I will also briefly touch upon borderline ethical practices involving data-scraping-
+                                          based qualitative research.
+
+                                          Keywords
+                                          online qualitative research; teaching qualitative research methods; social media; online research settings; qualitative
+                                          data analysis
+
+
+                                          Introduction                                                  Reich, 2015; Underberg, 2006). Not only has access to
+                                                                                                        evolving technologies broadened the scope of the field
+                                          Nowadays it is highly cumbersome to conduct a fully           for social science research, but it has also provided avail-
+                                          functioning social and professional life without the use of   ability to large amounts of data that have drastically
+                                          communication technologies delivered through either           changed the methods and tools employed to extract rele-
+                                          hand-held devices or computers. This is in part because       vant information, and to some extent, what is considered
+                                          of recent advancements in communication technology            qualitative methodology. Consequently, with the com-
+                                          and network infrastructure that have resulted in easy-to-     mercialization of these new technologies have come new
+                                          use and highly accessible consumer products. The devel-       ethical and humanistic issues for scholars and educators
+                                          opment of Web 2.0 (Augustsson, 2010; boyd & Ellison,          to address in their research and in the classroom (Reich,
+                                          2008) has facilitated greater human interaction through       2015). This article contributes to a growing body of writ-
+                                          social media platforms in the form of interactive text,       ing that focuses on the pedagogical and methodological
+                                          voice, image, spatial reconstruction, and video (Caliandro,   challenges that I faced when providing instruction on
+                                          2017; Murthy, 2012; Safronova, 2017). The delivery of         qualitative research, with an emphasis on online data
+                                          Internet access through the availability of new applica-      sources and digital methods, to an audience of novice
+                                          tions makes a critical analysis of the specific tools chal-   researchers and students.
+                                          lenging for some scholars (Wilson & Peterson, 2002).
+                                          This said, the baseline definition of this technological      1
+                                                                                                         New York City College of Technology, Brooklyn, New York, USA
+                                          “space” situates “online,” “mediated,” and “digital” as
+                                          synonymous with the development of each new platform          Corresponding Author:
+                                                                                                        Katherine Gregory, Health Services Administration Program,
+                                          (Caliandro, 2017; Murthy, 2008). It is therefore not sur-
+                                                                                                        Department of Health & Human Services, New York City College of
+                                          prising that human interaction mediated through these         Technology, City University of New York, 300 Jay Street, Brooklyn,
+                                          platforms has become a locus where qualitative research       NY 11202, USA.
+                                          and digital methods need to be adapted (Morrison, 2016;       Email: kgregory@citytech.cuny.edu
+Gregory                                                                                                                    1611
+
+    In the past 20 years, qualitative research scholars have      I find to be problematic in data collection of online
+begun such an interrogation of methodological and ana-            sources, which includes the blurring of methodologies, in
+lytic issues concerning online settings and machine sys-          my own research settings and that of student research
+tems (Arnold & Paulus, 2010; Coleman, 2010; Lunnay,               projects. Finally, I briefly touch upon ethical practices
+Borlagdan, McNaughton, & Ward, 2015; Saunders,                    involved in data-scraping-based research that affects the
+Kitzinger, & Kitzinger, 2015; Underberg, 2006; Wilson &           state of the methodology.
+Peterson, 2002). Garcia, Standlee, Bechkoff, and Cui                  As a transdisciplinary educator, I have integrated qual-
+(2009) provide an overview of existing Internet and com-          itative and quantitative research methods in traditional
+puter-mediated ethnographic research demonstrating how            social science courses and have adapted methodologies
+methodologies are in the constant process of adaptation to        into coursework focused on sociology, cyberspace com-
+new platforms by “offline” ethnographers. Best practices          munication, conflict resolution, health care administra-
+for developing research methodologies for the Internet,           tion, and criminal justice focused programs. In my former
+mobile applications, other participatory outlets, and the         role as the qualitative data analysis and survey design
+platforms on which they are delivered can be particularly         specialist at a university, my use of technology was not
+challenging in a classroom setting where students must be         limited to teaching and data collection, but also to
+entrusted as novice researchers. While there is some              instructing faculty, staff, and students on how to use qual-
+research on the effectiveness of participatory tools in           itative data analysis tools and to providing them with
+hybrid learning environments (Halic, Lee, Paulus, &               methodological support. This role was not unlike my
+Spence, 2010), based on my observations, tensions can             position at a public health department where for 5 years,
+mount as some students, in their dual role as student and         I was the media evaluation researcher, again, designing,
+consumer, approach online social interaction as a natural-        coordinating exploratory research, and providing meth-
+ized behavior and therefore normalize their technology            odological support to interbureau research projects. In
+consumption as a form of entertainment. Thus, it should           each of these positions, I have been confronted with the
+come as no surprise that some students in my courses have         limitations of applying traditional qualitative research
+expressed resistance to engage with any social media out-         methods to online settings and with the ethical implica-
+let as a potential site for observational and ethnographic        tions of conducting human subjects research with faculty,
+research. Hence, there lies the challenge of this article to      graduate students, and researchers who are eager to
+identify adaptive methods for pivoting students’ relation-        deploy these tools for online research projects.
+ships to communication technologies toward a more criti-
+cal approach, whereby the platforms can then be examined
+                                                                  Why This Is Meaningful
+as socially constructed and shaped by forces in the physi-
+cal world.                                                        The tenets of research methodologies, as they are
+    Pedagogical instruction can acclimatize students and          deployed for the intention of social inquiry, can be inte-
+novice researchers to changing technological and interac-         grated into any curriculum across academic fields (Starks
+tional conditions in the field exposing the types of ten-         & Trinidad, 2007). Ethnography, in particular, has come
+sions that manifest when students engage in online                to take on slightly dissimilar definitions across disci-
+platforms as a source for research. The forthcoming steps         plines (Shaw, 2016; Starks & Trinidad, 2007; Wilson &
+and themes covered are based on my observations as an             Peterson, 2002). There is, however, something experien-
+instructor of key points of tension that have emerged in          tial, if not universal, about the storytelling in all good eth-
+my teaching to diverse student audiences and in my per-           nographies that should not preclude an ethnographer
+sonal research, and less of a playbook (Gregory, 2005a).          from entering an online space that is immersive
+In fact, there is no telling how these methodological ten-        (Caliandro, 2017; Mitchell & Charmaz, 1998; Muller &
+sions would play out in other classrooms. Here, I identify        Gubrium, 2016). Under ideal circumstances when writ-
+and analyze some of the protocols implemented, but by             ing about and participating in digital environments, the
+no means do I identify all of the methodological tech-            user experience “transports” the participant to a simu-
+niques adapted for different stages of the research pro-          lated space that connotes a form of sensory “immersion.”
+cess. In the first part of this article, I examine a few of the   It is precisely this transportation—which can include vir-
+in-class steps taken, including class exercises that guide        tual environments, online community forums, even asyn-
+students to utilize a more critical lens when analyzing           chronous social media sites—that makes the process and
+their own engagement with online platforms. In the sec-           the encounters it entails so promising for good storytell-
+ond part of this article, I briefly discuss the encroachment      ing (Danet, 2001; Underberg, 2006).
+of quantitative data protocols and how they are capital-              A tool kit of qualitative methods cannot simply be trans-
+ized, affecting expectations and best practices in online         posed onto an online setting. For instance, the conceptual-
+qualitative research methods. Specifically, I discuss what        ization of “fieldwork” is suddenly thrown into turmoil
+1612                                                                                   Qualitative Health Research 28(10)
+
+because of the lack of physicality (Freidenberg, 2011). In     girls who identified as ProAna shared their health-
+its place, there could be text- and image-based communi-       threatening techniques for outmaneuvering enforcement
+cation or the scaffolding of a portal or landing page. The     of daily dietary intakes, and in the second case, students
+way that actors interact and perform identity can also be      utilized email and instant messaging as convenient tools
+destabilizing, if not downright misrepresentative or frag-     to conduct in-depth interviews with recovering sub-
+mented (Robinson & Schulz, 2009). Power dynamics may           stance abusers or remote online activists who were
+still be reproduced both by institutions and individuals, or   physically inaccessible to the student researcher. Each
+there could be a disruption with the social order (Nakamura,   project in its own way struggled with text as a represen-
+2007). Given the multiple ways in which human interac-         tation of human embodiment and interaction.
+tion can occur, best practices using these methods can             Given the abstraction of some online engagement, the
+never be static and therefore require examination as they      educator must stress why the student must never lose
+are applied to a mediated environment. Thus, methodolog-       sight of how their data collection process functions as a
+ical “adaptation” must continuously evolve with the advent     form of human engagement (Coleman, 2010). In hind-
+of new technologies (Robinson & Schulz, 2009).                 sight, I may have been too ambitious immersing some
+    For some undergraduate students, indoctrination to         students in online ethnographic settings with the assump-
+standard qualitative research methods begins with expo-        tion that they could take this cognitive and emotional
+sure to data literacy, long before the student enrolls in a    leap. In most cases, though, student projects have turned
+research methods course. But for many undergraduate            out well and to my knowledge there has been minimal
+students, their first exposure begins with the application     harm done to the observed or the student researcher, but
+of methodological principles, which usually includes a         there has always been the risk of harm with any observa-
+weekly introduction to cookbook steps for the purpose of       tion or interview conducted outside of class time, beyond
+conducting participant observations or in-depth inter-         the watchful guidance of a faculty member. Needless to
+views. Often times, quick immersion into these practices       say, a junior researcher should have been immersed in the
+may be insufficient when sending a novice out into a           ethical possibilities of the medium, observational access,
+physical field or into a face-to-face interview. And while     sample screening and recruitment process, line of inquiry,
+the qualitative methodological crisis of what constitutes      and any other potential risks that could do harm, no mat-
+data may not be answered fully here (Pink & Morgan,            ter how abstract or mediated participation becomes
+2013; Pink, Sumartojo, Lupton, & La Bond, 2017; St.            throughout the data collection process by the time they
+Pierre, 2013), to designate the research setting as “vir-      enter the field (Saunders et al., 2015).
+tual” or “online,” or to hold interviews through mediated
+text, audio, images or video, students require incremental
+                                                               Buy-In
+and ongoing awareness of data and media literacy, both
+qualitative and quantitative, to accomplish learning out-      The first obstacle teaching qualitative methods in an
+comes of such a project.                                       Internet setting involves “buy-in” from undergraduate stu-
+    There are undeniable constraints to overcome when          dents. Resistance to buy-in can occur largely because stu-
+conducting this type of research (Pink, 2013; Pink et al.,     dents typically express some degree of disbelief in the
+2017; Reich, 2015). In particular, this involves con-          possible development of a critical or textual analysis of
+fronting the disembodied aspects of applying what in           social relations from an online inquiry. Although most of
+practice should be rooted in a humanistic inquiry. There       the students I have worked with over the years have been
+is no way to avoid how the mechanics of a technological        nontraditional or first-generation college bound, the
+platform can elicit some forms of engagement, negate           majority grew up with Internet access as video gamers or
+other types of interaction, and not have some influence        first adopters acquiring mobile hand-held devices at a
+on the qualitative research process (Byrne, 2017).             relatively young age. Furthermore, the participatory
+Online communication platforms that predate current            nature of social media networks lend to cultivating users
+social media outlets that were well established as locales     who are both consumers and producers of digital content
+for communities to organize around shared social, cul-         (Coleman, 2010). These digital nativists often perceive
+tural, political, or health-related interests had similar      the medium as a source of entertainment or as part of daily
+constraints (Denzin, 1999; Gregory, 2005a; Gregory &           routine (Pink et al., 2017). Even with immersive exercises
+Wood, 2009; Turkle, 1995). Even as early as 2001, when         suggesting ways a new platform can be examined through
+my students in a qualitative research methods course           social interaction and power relations on the Internet,
+expressed interest in observing online settings or             some students struggle to approach the field setting criti-
+deploying a digital method for interviewing partici-           cally. Thus, framing virtuality or any digital communica-
+pants, there were adjustments to be made. In the first         tion platform as a source for intellectual inquiry through
+case, students observed message boards where teenage           the lens of a constructivist approach takes time and effort.
+Gregory                                                                                                                 1613
+
+Preparing Students to Ways of                                    appropriated and deconstructed using textual, graphical,
+Seeing                                                           or elemental layers. Students would soon learn how eas-
+                                                                 ily they could lose control of how participants perceived
+How does any social scientist teach students how to              them based on their selection of a naming convention,
+examine their social world as a social construction? Not         trans-species-identification, skin tone, hair texture, cloth-
+unlike the introduction of Peter Berger’s (1972) Ways of         ing, morphology, and gender (Gregory, 2007b). Students
+Seeing examining representations of gender and social            would later discuss whether appropriating a potentially
+class in art and advertisements, the first critical steps stu-   gendered, racialized, or a socially stereotypical avatar
+dents take involve examining the construction of identity        online was more about misrepresentation than how one
+through textual and visual representations that have             negotiates identities and values reproduced from the
+become part of the routinization of daily social media use       physical world. Use of an avatar can chip away at the
+(Pink et al., 2017). Through an examination of these             notion of a core, essentialistic self if the faculty member
+social media outlets, students as both researcher and con-       plants critical questions beforehand. Students can play-
+sumer can identify how users “perform, construct, and            fully explore how “real” world social demographic mark-
+disseminate facets of their identity” (Lalonde, Castro, &        ers are translated, deconstructed, and reconstituted in an
+Pariser, 2016, p. 40); through the study of this context,        online space. And while this exercise requires some
+students can explore how fluid the expression of identity        degree of management on the part of the instructor, it has
+can be (Lalonde et al., 2016; Nakamura, 2007; Turkle,            the potential to guide students to recognize the limitations
+1995). Whether these visualizations are in the form of           of an essentialistic approach to reality that is imposed on
+graphics, naming handles, acronyms, photographs,                 each of us, regardless of station (Gregory, 2007b).
+hashtags, or videos, they become stand-in metaphors for              When Facebook first emerged in 2004, its initial tar-
+a state of mind, mood, feeling, sense of self, or collective     get audience was specifically college students, but it
+identity (Nakamura, 2007). This is similar to the insertion      eventually expanded membership to high school stu-
+of an emoji or animated gif in a Facebook response to            dents and then to the general public (Kirkpatrick, 2011;
+express an emotion or reaction to a post (Radnofsky,             Lee, 2012). Students need look no further than their
+1996). The naming conventions users choose when enter-           engagement with social media to identify how they par-
+ing a social media space can inform other users of their         ticipate as members of multiple cultures and to examine
+multiple identities, political stance, and occupational          how social worlds are constructed through mediated text
+roles in society. For example, students clue into how            and imagery (boyd, 2015; Lee, 2012). As some of the
+users communicate their participation as volunteers or           earliest adopters of these new communication technolo-
+identify as cancer survivors as an announcement of their         gies, teenagers have developed their own shorthand lan-
+values and experience. Each of these experiences requires        guage using acronyms and appropriating new slang to
+a universal symbol or textual hashtag for decoders to            outwit observing adults (boyd, 2015; Subrahmanyam,
+interpret in a shared and meaningful way. Interrogation,         Greenfield, & Tynes, 2004). This may be common
+therefore, of these visualizations around the constructs of      knowledge for researchers of youth culture, but it serves
+race, gender, sexuality, ableism, ageism, and social class       as a way to suggest to students how culture forms through
+serve as proxies for the self and can contribute to a mean-      the production of language and functions as cultural
+ingful starting point for analysis (Nakamura, 2007).             reinforcement for those populations (Pool, 2017; Starks
+    In some cases, the user may want to be less encum-           & Trinidad, 2007). It also speaks to how teenagers devise
+bered and does so by blurring a facet of their social            cultural innovations to create coherency through digi-
+demographics unknown to other users. One very useful             tally mediated communication. As a class exercise, stu-
+exercise involves junior researchers taking on the iden-         dents turned to their own cell phones to capture either a
+tity of the “other” by appropriating an avatar. Early            text thread or a series of social media comments to mine
+research (Kolko, 1999; Turkle, 2005) suggests young              for slang as a signifier of shared meaning. Spillage
+people do not distinguish between online representation          between mediated and face-to-face communication
+and the physical self. This suggests that through virtual        could equally lend to ways the rules of communication
+experimentation, young people can explore the bound-             are broken when transferred to “real life” engagement.
+aries of their own sense of self by deploying avatars.           Thus, student observation of their use of slang with
+Users’ construction of avatars—through gender, race,             Facebook friends or Instagram followers can shift the
+and across species designations—are somewhat out of              focus on shared meaning and language construction.
+their control because of what the developers of these                As a self-reflective exercise during which students
+products deem as an option (Morrison, 2016).                     examine how “self-selective” they are when constructing
+    One early exercise that I introduced in class began as       and facilitating an online identity (Lee, 2012), I instruct
+a game without consideration of how identity can be              students to collect data on themselves and then have them
+1614                                                                                     Qualitative Health Research 28(10)
+
+pair up with another classmate to interpret how each stu-        now more than ever given the bullying and anonymous
+dent presents “the self” to their social media audiences.        hate speech used in forums, an ethical approach to
+This exercise can inform participants as much about the          Internet use must be added to any media or information
+construction of the self as it does about aspects of their       literacy curriculum.
+lives that are not on public display. This exercise also
+makes for an effortless pivot to the proliferation and nor-      Research Design Consideration:
+malization of online dating sites. Similar to the Facebook
+profile, and the recent repurposing of Instagram accounts
+                                                                 Disclosure in the Field
+for dating hookups, the deconstruction of dating site pro-       Many years have passed since Norman Denzin (1999)
+files can tell observers a lot about romantic aspirations        first addressed what constitutes a public space and whether
+and the presentation of an aspirational self (Safronova,         consent must be obtained before observing an online com-
+2017). When students juxtapose their own Facebook page           munity (Denzin, 1999). It has been almost 15 years since
+with traditional dating sites profiles, they begin to exam-      I received informal feedback from Internet scholars who
+ine how our reconstructed selves can be inflated in this         concurred that “lurking” online did not constitute as an
+context. This includes what dating profiles tell us about        ethical issue, thereby reinforcing my treatment of the chat
+gender roles and sexual identities, and our expectations of      room in question as a public space after the institutional
+romantic love and sex. The interlocking topics of sexual         review board (IRB) at my home institution gave me
+desire, the aspirational self, and social bonds begin to         approval to observe anonymously. In this respect, the
+broach a discourse about the power to construct to self,         issue of researcher transparency has been strongly linked
+veering ever closer to the question of misrepresentation.        to how academics define public space and their percep-
+    A crisis in misrepresentation, whether in the actions        tions of right to privacy as it relates to technology use
+of the participant or the researcher, becomes an unavoid-        (Kruse & Norris, 2018). Today privacy settings on
+able ethical issue to stress before every exercise or            Facebook, Twitter, Instagram, and LinkedIn determine the
+assignment (St. Pierre, 2008; Whiteman, 2017). When              extent of public access; however, at my current home
+entering an online research setting, students and                institution, the IRB requires researchers to acquire con-
+researchers, alike, can effortlessly exploit the role of         sent from Twitter and other social media authors in the
+anonymity or self-misrepresentation for the sake of              event a tweet or posting is quoted (Kruse & Norris, 2018).
+gaining unwarranted access to online communities,                    The progun chat room study mentioned above received
+especially those built and sustained by vulnerable popu-         IRB approval for conducting an observation without
+lations. Transparency and disclosure, which I strongly           identifying me as the researcher in the space (Gregory,
+encourage, can become a central issue in online research,        2007a). Changing the name of the site and the key partici-
+as even my best instructional efforts could lead to mis-         pants’ usernames seemed like adequate steps to conceal
+use of the medium. This occurred after I provided                member identities as well as mine; however, this may not
+explicit direction to my students, when one of my stu-           have been the case (Bickford & Nisker, 2015). The vola-
+dents misrepresented themselves on a Mothers Against             tile subject matter left me feeling ambivalent about self-
+Drunk Driving (MADD) social media site. The student’s            disclosure for a number of reasons. First, I felt I was
+actions made it apparent to me that the reckless thrill of       potentially in harm’s way by disclosing my identity on
+gaining access to a community could come at the                  the forum, particularly at risk of retaliatory action from
+expense of being authentic about one’s interest in a             fringe members frequenting the space through cyber-
+topic. In this case, the student arrived to class late sitting   stalking, use of malware, or locating me through access to
+at a computer station in the back of the room, and in the        my IP address. Second, given that everyone in that space
+time it took for me to make the rounds to his computer           was afforded the same degree of anonymity, I concluded
+station, he had already amused himself with a convo-             this was a right that I shared with everyone else in the
+luted story about being a parent of a deceased child for         chat room. Of course, this assumption raises who has
+the purpose of gaining access to a group. Yes, I was hor-        power in the environment, and how human agency does
+rified and told the student this was unacceptable behav-         not disseminate equally if a researcher chooses to with-
+ior. I may have told him he might have to drop the course        hold the intentions of their authorial gaze. To this day, I
+if he continued to breach what students had agreed upon          wonder if the pseudonyms designated to conceal the chat
+at the start of the semester. In hindsight, maybe a signed       room site, its members, and my own presence in the space
+contract stating a student will conduct him or herself at        were nothing more than a weak veil of protection. Even
+all times with integrity and honesty would have stressed         pseudonyms—whether used to conceal “a particular
+the seriousness of the point. The incident speaks to how         identity of a site or community”—are sometimes not
+the veil of anonymity can conceal issues around integ-           enough to protect the identities of users of an online site
+rity and the ease at which dishonesty can occur. Maybe           (Bickford & Nisker, 2015).
+Gregory                                                                                                                   1615
+
+   In the case where self-disclosure becomes a manda-              should an outsider join in to observe without engaging the
+tory criterion for an online research project, the protocol        group. For this reason, rigorous identity and access ques-
+cannot always be enforced as students rush to start a proj-        tions need to be addressed when conducting online research,
+ect. Advocating the benefits of transparency in an online          treating entry in the field as a process that cannot be dis-
+research setting can be the only option that leads students        tilled down to a formula (Gregory, 2007b).
+to develop authentic loose social bonds forged over a                  On most occasions, I find it exciting when a student dis-
+common cause, condition, or interest. Thus, recognition            covers a new topic that sparks enough intellectual curiosity
+of cultivating trust and a trustworthy public persona are          to embark on a qualitative research project. I would not dis-
+value-based and are analogous to building brand confi-             miss entering new uncharted territories if a student had the
+dence. Consequently, the process of self-disclosure                integrity to enter the field with a nonjudgmental openness;
+online, in some cases, has led to more honest relations,           however, not all students can negotiate new online spaces
+deeper understanding of specific social settings, cultivat-        as an outsider (Gregory, 2006). If a student expressed intim-
+ing reciprocity, and fostering human subjects with the             idation when entering an online space in which he or she
+option to interact with the observer as a researcher or not        was an outsider, I would encourage the student researcher
+(Lunnay et al., 2015).                                             to seek a setting where he or she had a relationship to the
+   With all these precautions taken, the ethical intent of         topic of observation (Saunders et al., 2015).
+online transparency may not come to fruition with highly               What steps need to be taken for entry into online cul-
+efficient data-scraping tools that gather backend data.            tural spaces when the student is a nonmember or when
+   These functions may not necessarily benefit the                 the communication in the online community involves
+researcher, its findings, or the human subjects unsuspect-         hate speech depends on a case-by-case basis. Entering
+ingly included in the research. Nevertheless, easy access          such an environment can be emotionally harmful to the
+and the desire to collect large data sets, often drive research-   researcher, thereby putting them at risk. Such a scenario
+ers to treat backend data as “text” rather than as human           became particularly challenging when two students
+communication, geospatial locators, or data that can link to       decided to observe a white supremacist group. While one
+other possible identifiers (Lunnay et al., 2015). Thus, the        male student identified as white and the other student
+roll out of these new social media platforms and more inva-        identified as Black and female, both students could not
+sive data-scraping functions at the backend of all computed        have approached the site from the same position given
+outputs put researchers, institutional review boards, and          how the social organization of the group’s mission is
+technology developers at a crossroad requiring a thorough          based on a negation of the Black student’s personhood
+debate about anonymity, online space, and right to privacy.        and the racial supremacy of the white student. In the case
+                                                                   of the former student’s paper, the themes that emerged
+Research Design Consideration:                                     from the fieldnotes centered on understanding codes of
+                                                                   kinship and how racist ideologies and rhetoric were rein-
+Membership Versus Non-Membership                                   forced through repetitive social interaction. Neither stu-
+Qualitative methodologists have long debated the question          dent belonged to the group, but their own positionality as
+of who has the right to conduct research on a target popula-       researchers shaped the way they observed and took field-
+tion or setting based on the sociodemographics and histori-        notes, hence determining how those fieldnotes were
+cal situatedness of the researcher (Pillow, 2003; Tietze,          interpreted through coding and analysis. While the white
+2012). This positionality of the researcher cannot be sepa-        male student may not have felt directly threatened or per-
+rated from his or her engagement with and interpretation of        ceived the existential weight of the space, the African
+a research population or setting. That said, when fieldwork        American female student felt a moral obligation to
+takes place in an online or physical space, a researcher’s         observe and expose the intentions of the group.
+identity claims or membership does not necessarily guaran-             Research conducted on online hate groups may put
+tee entrée into a community; in some instances, the role of        observers at obvious risk, but online support groups
+outsider benefits the researcher or research process; other        should not be presumed as safe fieldwork sites. Social
+times entrée in the field requires membership (Saunders            support groups have been fairly well established online
+et al., 2015). As in the case when I conducted observational       (Malik & Coulson, 2008, 2010), but they need to be care-
+research in a progun chat room (Gregory, 2007a) and then           fully vetted for potential harm to members and researchers
+later in online sites designated for conspiracy theorists          alike before moving forward as a research project (Pillow,
+touted as 9/11 Truthers (Gregory & Wood, 2009), there              2003). Two students in my research methods course
+were fewer, if any, gatekeepers filtering access to the com-       choose deeply personal topics to explore online, but their
+munity or interrogating my presence as a researcher. In            rapport in the field led to different experiences. Both stu-
+some public spaces, or those that are perceived as such,           dents presumed full membership in their respective com-
+there is no accountability from gatekeepers or members             munity would justify entry into a support group setting.
+1616                                                                                    Qualitative Health Research 28(10)
+
+One student, who was dealing with personal fertility com-       protocols that would only include observation of the site
+plications, sought out an online support group for women        without any participation, to engage the forum members.
+struggling to conceive. Only women experiencing fertility       The student ended up alienating some of the members
+issues were eligible to become members of the web-based         when she expressed her opinions refuting conventional
+support group. Anyone who had experienced a successful          medicalization of the condition and subsequently offering
+birth was not allowed to join. To gain full entry into the      Christian-based counseling. The group repudiated her rec-
+support group, the student disclosed to the moderator her       ommendations and treated her presence as an interloper
+medical complications and the technicalities she had            within the group.
+endured in the past year. The other student built a message        While the case of the first student represented a nondis-
+board for providing support to military families; however,      ruptive approach to entering the field based on his or her
+she soon learned that married participants who joined the       engagement and membership, the case of the second stu-
+site would mostly reject her presence because of her            dent, despite her genuine desire to intervene, used the
+unmarried status and her openness about the challenges of       forum for a self-serving, disruptive, and potentially harm-
+having a boyfriend redeployed to Afghanistan for a sec-         ful project. To avoid a breach of protocols as the one
+ond or third tour of duty. Both students were authentic par-    described above, and to protect human subjects, I recom-
+ticipants and members of their respective groups, but the       mend educators instructing inexperienced students to
+student who created a military families support site faced      request daily and weekly formal updates on the status of a
+consternation because her unmarried status did not afford       project to prevent any deviation from the agreed upon
+her full membership. The student was told that she did not      research design, and to stress repeatedly that members of
+have “what it takes” to stick it out as a military wife. This   online communities should be given the same respect and
+backlash from the military family support community             care they would give support groups in the physical world.
+came as a surprise to all of us; it also reminded us that a
+self-declarative stance could be interpreted as adversarial     Methods of Observation: How to
+or even a breach of the group’s code of membership rather
+than a sense of shared experience.
+                                                                Smell an Online Setting?
+    I take no objection to a student who is trying to quit      The act of writing or jotting down observations with
+smoking to then participate in a smoking cessation site, or     fieldnotes requires sensory observation, or lack thereof,
+a student coping with an eating disorder observing a buli-      in an online space. For many qualitative researchers, our
+mia support group, as long as they can observe those spaces     senses can be central to how we observe a setting. If it is
+without judgment of the values and beliefs shared on the        possible to smell danger or sense fear from an informant,
+sites. While membership in a group might not necessarily        where does emotional mirroring and interactional feel-
+be required as a criterion for studying an online commu-        ings surface in a mediated space? Burned in my memory
+nity, reflexivity is in most cases necessary to better under-   is the smell of sweaty sexual relations and used condoms
+stand one’s position as a researcher. Engaging a community      that took place just beyond my sight in a window of the
+from a state of humility to gain understanding of a particu-    Red Light District in the Netherlands, where I spent time
+lar population is both a performative and hermeneutic           in the field interviewing transgendered sex workers
+approach to the human condition (Di Iorio, 2015; Gill,          (Gregory, 2005b); an equally visceral experience can be
+2017; Peck & Mummery, 2018). The power to observe can           said of my feelings of internalized fear when two key
+feel like a form of surveillance and too easily lead to a       members of a progun chat room recited from Randy
+judgmental stance toward a population that faces stigmati-      Weaver’s biography using an audio software function
+zation or does not hold the same values of the researcher.      (Gregory, 2007a). At the time, it seemed to me like a call
+    Another noteworthy case occurred while I was teaching       to arms or a militia recruitment tactic. Both associations
+a cyberspace communication course in a Communication            trigger memory as I reconstructed an interaction with a
+Department. Two students decided independently to               sex worker and her client or wrote about the fringe pro-
+observe a forum on the topic of obsessive compulsive dis-       gun movement in the United States.
+order (OCD). One student identified himself/herself as              The interview transcription process for qualitative
+having the condition. By sharing his or her own struggle        researchers requires that we develop subtle extra coding
+with other members of the online support group, in addi-        symbols to identify shifts in speech, utterances, silences,
+tion to gaining permission to be a participant observer, the    and emotions encountered in face-to-face communication
+first student participated in the forum as a supportive peer    that cannot be captured through word-for-word transla-
+to the other members; meanwhile, the second student, who        tions (Bird, 2005). Communicating these techniques to
+self-identified as a conservative Christian, entered a simi-    students can be challenging. What, then, do the pauses
+lar space with a preconception about OCD. The latter stu-       represent in an asynchronous email interview or through
+dent took it upon himself/herself, despite having agreed to     a Facebook comment thread? Some of these “pauses” can
+Gregory                                                                                                                  1617
+
+be interpreted as conversational pivots or a type of “ghost-      is a message board, Twitter thread, Facebook page with
+ing,” in which the participant withdraws from the discus-         comments, YouTube videos with commentary, or instant
+sion and then ceases to have a digital footprint in that          messaging platforms—requires data collection in a read-
+forum. Such a “ghosting” occurred after I had multiple            able format that will be uploaded and then coded with a
+email interviews with a director of a 9/11 conspiracy             data analysis software tool. Long before NVivo devel-
+video (Gregory & Wood, 2009). As a result, I have never           oped a data-scraping technology called NCapture, that
+used that “transcript” for any subsequent article about the       involves uploading an extension to the user’s browser, or
+topic. This begs the question of how one might observe a          open source statistical software like “R” became a word
+social media site or chat room where communication is             search tool for social media scraping, qualitative method-
+largely textual, asynchronous, or could include visual            ologists who collected data from social media sites were
+representations in the form of a JPEG, animated GIF,              resigned to more ad hoc, labor intensive techniques of
+emoji, or video. Without longitudinal observation, the            copying and pasting textual and visual communication or
+researcher may lack understanding of the context. To this         screen capturing threads into .docx or Excel files.
+end, these visualizations are posted in a social context              Once uploaded into qualitative data analysis software
+intended for reception and interpretation that may not be         (QDAS), coding line by line in search of themes could be
+universally understood.                                           problematic, as html source code clutter requires cleaning
+    The first crucial step in entering a virtual field is to      the data set. When using R, a term search could collate
+familiarize oneself with the technological capabilities of        terms out of context. In effect, single terms and even chunks
+the site under consideration, as different sites provide dif-     of data would then be decontexualized. Furthermore, sites
+ferent tools for participatory communication. Once this is        with character limitations, like Twitter, have the added
+established, and the limitations on the topic of discussion       complication of requiring some reconfiguration of commu-
+that have been setup and agreed upon by the members of            nication on the part of the producer. This means users must
+the community and its moderators have been understood,            invent new ways to signify meaning on the fly with abbre-
+it is useful to consider the following points before gather-      viated and phonetic spellings. Unless the social analytic
+ing data:                                                         tool or coding scheme is calibrated to capture these nuanced
+                                                                  and changing forms of language, much can be missed with-
+   1.     What established cultural practices and etiquette       out the naked eye’s surveillance.
+          are setup for new members to join the conversa-             As a result of these considerations, making meaning
+          tion or select a conversation partner?                  out some threads can be a struggle. Some social media
+   2.     What visual cues are communicated in the user-          threads drift in terms of topic focus. Other times, interlop-
+          names of social media members to signify                ers disrupt them (Gregory, 2007). As communication is
+          membership?                                             often nonlinear or access to communities is open, non-
+   3.     Beyond the use of emoticons, what “visual strategies”   members can wreck havoc on thematic coherency and
+          do producers use in their online communication?         disrupt meaning shared among online communities.
+   4.     What are some of the cultural innovations devised       During the data collection phase of my progun chat room
+          by members who frequent social media sites to           project, Iraqi and other Middle Eastern users writing in
+          create coherency in the conversation?                   Arabic script would co-opt the space during hours when
+                                                                  most American members were asleep. This became an
+Given the continuous stream of information appearing syn-         interesting phenomenon in and of itself, but the social
+chronously and asynchronously, establishing patterns and          interaction proved less significant to me as I documented
+threads of related conversations are relevant to any project.     ways knowledge and status was conferred to members
+In this respect, it is very useful for students to breakdown      (Gregory, 2007a).
+conversation threads into monologs, dialogues, and multi-             Thus, cleaning up the data set can become a manual, if
+logues and to identify the number of conversational threads       not arduous, process. For this reason, finding nuanced
+taking place simultaneously. Such practices can be highly         meaning from a data set of Tweets can be a challenge,
+effective for a productive entry into the field.                  even with superior social analytics tools and privacy set-
+                                                                  tings lowered (boyd, 2016; Bridges-Rhoads, Van Cleave,
+                                                                  & Hughes, 2015; Paulus, Jackson, & Davidson, 2017). It
+Data Gathering and Coding Threads
+                                                                  is those privacy settings, though, that shape, if not at
+There is much to consider when teaching in the classroom          times distort, the “data set” as the voices of members dis-
+during the gathering data and coding phase of student             appear under strict privacy settings. It leads a researcher
+research. Gathering data and then coding a data set pose          to consider why some members leave their settings Public
+two challenges when conducting qualitative research of            and others only allow Friends or Followers to engage or
+an online setting. Each social media platform—whether it          read posts. For some members, safety is inextricably
+1618                                                                                   Qualitative Health Research 28(10)
+
+linked to privacy. And as online sites become more antag-     for many qualitative researchers, but with this technology
+onistic with trolls and hostile bots, privacy becomes the     comes a caveat. The data set in some respect become
+new currency that can block out the observations and data     quantified in terms of thematic codes and nodes and lends
+scrapings of the most conscientious researcher from an        to counting frequencies as so often is done with searching
+otherwise meaningful discourse.                               for patterns within a data set. Here lies the tension
+   To this point, it is relevant to briefly address privacy   between quantitative and qualitative research (Gregory &
+issues related to methodological research involving data      DeMott, 2016a, 2016b). Data scraping used for textual
+scraping. This technology boosts student expectations of      analysis gives value to rate of frequency, imposing a
+what it can do for them and has made researchers giddy        numeric value on an otherwise qualitative inquiry. Hence,
+with easy accessible data sets for textual analysis (boyd,    the qualitative process, even with a relatively small sam-
+2016). Unfortunately, the tools that are currently avail-     ple of text entries becomes quantifiable, and in some
+able give researchers access to much more than the infor-     cases reproducible. This practice, therefore, moves the
+mation they are entitled to use. For instance, without        methodology away from descriptive analysis and closer
+clearly demarcated privacy settings selected, a user’s IP     to quantifying social reality.
+address can be captured for geo-targeting. Most of these
+activities are unbeknownst to social media users when
+their email addresses, geo coordinates, posting history,
+                                                              Conclusion
+and other backend data are made accessible through these      In this article, I have addressed some issues, but by all
+data-scraping tools.                                          means not all challenges that must be considered when
+   The gathering and use of unsolicited data seem cur-        teaching or conducting qualitative research focused on
+rently justified, even by qualitative methodologists deal-    online communication settings. The role of in-class exer-
+ing with moderate data sets, through a process of             cises is significant in the adaptation of qualitative inquiry
+decontextualization of the human subject from the raw         to online spaces (Freidenberg, 2011; Whiteman, 2017).
+data (Bridges-Rhoads, Van Cleave, & Hughes, 2015).            As a result, these evolving tenets have the potential to
+Whether this is because of the large number of degrees of     bring forth an added ethical awareness to the role the
+separation between the researcher and the user, or because    researcher plays during the design and data gathering
+of the automation of the data gathering process from a        phases (Williams, 2012). While I propose some effective
+software application makes these data available and           practices that I have developed over the years teaching
+unconstrained to the researcher, it is hard to discern.       research methods to students and providing methodologi-
+Nevertheless, I suggest that we hold a conversation about     cal support to researchers, what lies ahead for the state of
+how social analytic technologies such as Tweetreach,          the methodology rests in how we address the role of new
+DiscoverText, Qualtrics, NVivo’s NCapture, Google             technologies in our data collection and research settings,
+applications, and embedded social media aggregators           and how we push qualitative research into the 21st cen-
+provide researchers with content they should not have the     tury in an ethical and beneficial manner.
+license to use for their own benefit and at the expense of
+the user’s privacy (boyd & Crawford, 2011). Currently, I      Declaration of Conflicting Interests
+am conducting a mixed methods research project con-           The author declared no potential conflicts of interest with
+cerning ways genetic knowledge influences identity for-       respect to the research, authorship, and/or publication of this
+mation and perceptions of health risks. One data source       article.
+included in my research design protocols involves turn-
+ing to social media forums and YouTube videos for some        Funding
+of my data collection. Measures must be in place to assure    The author received no financial support for the research,
+total anonymity and to prevent backend data from being        authorship, and/or publication of this article.
+gathered. An ongoing vigilance must occur, as it is too
+easy to slip with real IDs, GPS coordinates, IP addresses,    References
+and other potential identifiers. For some researchers,
+these backend data become added value when conducting         Arnold, N., & Paulus, T. (2010). Using a social networking site
+                                                                  for experiential learning: Appropriating, lurking, modeling
+research on social media communication; however, we
+                                                                  and community building. Internet and Higher Learning,
+must consider the risks involved in such blind faith in the       13, 188–196. doi:10.1016/j.iheduc.2010.04.002
+surveillance and data-mining technologies embedded in         Augustsson, G. (2010). Web 2.0, pedagogical support for
+these applications and devices.                                   reflexive and emotional social interaction among Swedish
+   Once data scraping has been performed, the next step           students. Internet and Higher Education, 13, 197–205.
+in coding involves the use of QDAS (Davidson, Paulus,             doi:10.1016/j.iheduc.2010.05.005
+& Jackson, 2016). Use of QDAS is a common occurrence          Berger, P. (1972). Ways of seeing. London: Penguin Books.
+Gregory                                                                                                                               1619
+
+Bickford, J., & Nisker, J. (2015). Tensions between anonym-             Gill, K. (2017). Hermeneutic of performing data. AI & Society,
+    ity and thick description when “studying up” in genet-                   32, 309–320. doi:10.1007/s00146-017-0727-2.
+    ics research. Qualitative Health Research, 25, 276–282.             Gregory, K. (2005a). Methodological constraints and ethno-
+    doi:10.1177/1049732314552194                                             graphic findings of student qualitative research of online
+Bird, C. M. (2005). How I stopped dreading and learned to                    chat rooms. Paper presented at The Broadcast Education
+    love transcription. Qualitative Inquiry, 11, 226–248.                    Association, Las Vegas, NV.
+    doi:10.1177/1077800404273413                                        Gregory, K. (2005b). The everyday lives of sex workers in the
+boyd, d. m. (2015). Making sense of teen life: Strategies for                Netherlands. New York: Routledge.
+    capturing ethnographic data in a networked era. In E.               Gregory, K. (2006, May 5). Flaming the room: Methodological
+    Hargittai & C. Sandvig (Eds.), Digital research confiden-                constraints, lurking, and ethnographic findings in chat
+    tial: The secrets of studying behavior online (pp. 79-102).              room research. Paper presented at the Second International
+    Cambridge: MIT Press. Retrieved from http://www.danah.                   Congress of Qualitative Inquiry, University of Illinois at
+    org/papers/2012/Methodology-DigitalResearch.pdf                          Urbana–Champaign, IL.
+boyd, d. m. (2016). Untangling research and practice: What              Gregory, K. (2007a). Drawing a virtual gun. In C. Springwood
+    Facebook’s “emotional contagion” study teaches us.                       (Ed.), Open fire: Understanding global gun cultures (pp.
+    Research Ethics, 12, 4–13. doi:10.1177/1747016115583379                  98–110). Oxford, UK: Berg Publishers.
+boyd, d. m., & Crawford, K. (2011, September 21). Six provo-            Gregory, K. (2007b, April 20). Unmasking the unencumbered
+    cations for big data. A decade in internet times: Symposium              self: Making race and gender on the Internet visible in the
+    on the dynamics of the internet and society. Retrieved from              classroom. Paper presented at the Broadcast Education
+    http://ssrn.com/abstract=1926431                                         Association Conference, Las Vegas, NV.
+boyd, d. m., & Ellison, N. B. (2008). Social network sites:             Gregory, K., & DeMott, S. (2016a, February 2). Influencing
+    Definition, history, and scholarship. Journal of Computer-               forces: The role of qualitative data analysis technology on
+    Mediated Communication, 12, 210–230. doi:10.1111/                        coding, analysis, and data management. Paper presented
+    j.1083-6101.2007.00393.x                                                 at the American Association for Behavioral and Social
+Bridges-Rhoads, S., Van Cleave, J., & Hughes, H. E. (2015).                  Sciences conference, Las Vegas, NV.
+    Complicating methodological transparency. International             Gregory, K., & DeMott, S. (2016b, May 20). Magical thinking
+    Journal of Qualitative Studies in Education, 29, 536–552.                and QDA software expectations: Uncovering coding, anal-
+    doi:10.1080/09518398.2015.1063733                                        ysis and data management issues. Paper presented at the
+Byrne, C. (2017). Anonymous social media and qualitative                     International Congress for Qualitative Inquiry, University
+    inquiry: Methodological considerations and implications                  of Illinois at Urbana–Champaign, IL.
+    for using Yik Yak as a qualitative data source. Qualitative         Gregory, K., & Wood, E. (2009). Controlled demolitions: The
+    Inquiry, 23, 799–807. doi:10.1177/1077800417731081.                      9/11 truth movement on the internet. In I. Hotz-Davies, A.
+Caliandro, A. (2017). Digital Methods for Ethnography:                       Kirchhofer, & S. Leppänen (Eds.), Internet fictions (pp.
+    Analytical Concepts for Ethnographers Exploring                          197–217). Cambridge, UK: Cambridge Scholars Press.
+    Social Media Environments. Journal of Contemporary                  Halic, O., Lee, D., Paulus, T., & Spence, M. (2010). To blog
+    Ethnography, 1-28. DOI: 10.1177/0891241617702960                         or not to blog: Student perception of blog effectiveness
+Coleman, E. G. (2010). Ethnographic approaches to digital                    for learning in a college-level course. Internet and Higher
+    media. Annual Review of Anthropology, 39, 487–505.                       Education, 13, 206–213.
+    doi:10.1146/annurev.anthro.012809.104945                            Kirkpatrick, D. (2011). The Facebook effect: The real inside
+Danet, B. (2001). Cyberpl@y: Communicating online. New                       story of Mark Zuckerberg and the world’s fastest growing
+    York: Bloomsbury.                                                        company. London: Penguin Books.
+Davidson, J., Paulus, T., & Jackson, K. (2016). Speculating on          Kolko, B. E. (1999). Representing bodies in virtual space: The rheto-
+    the future of digital tools for qualitative research. Qualitative        ric of avatar design. The Information Society: An International
+    Inquiry, 22, 606–610. doi:10.1177/1077800415622505                       Journal, 15, 177–186. doi:10.1080/019722499128484
+Denzin, N. K. (1999). Cybertalk and the method of instances. In         Kruse, L. M., & Norris, D. R. (2018). Social media as a public
+    S. Jones (Ed.), Doing internet research: Critical issues and             sphere? Politics on social media. The Sociological Quarterly,
+    methods for examining the net (pp. 107–125). Thousand                    59, 62–84. doi:10.1080/00380253.2017.1383143
+    Oaks, CA: Sage.                                                     Lalonde, M., Castro, J. C., & Pariser, D. (2016). Identity tab-
+Di Iorio, F. (2015). Hayek and the hermeneutics of mind.                     leaux: Multimodal contextual constructions of adolescent
+    Social Science Information, 54, 177–191. doi:10.1177/                    identity. Visual Arts Research, 42, 38–55. Retrieved from
+    0539018414566420                                                         http://www.jstor.org/stable/10.5406/visuartsrese.42.1.0038
+Freidenberg, J. (2011). Researching global spaces ethnographi-          Lee, E. B. (2012). Young, Black, and connected: Facebook
+    cally: Queries on methods for the study of virtual popula-               usage among African American college students. Journal
+    tions. Human Organization, 70, 265–278. Retrieved from                   of Black Studies, 43, 336–354. Retrieved from http://www.
+    http://www.jstor.org/stable/44151000                                     jstor.org/stable/23215217
+Garcia, A. C., Standlee, A. I., Bechkoff, J., & Cui, Y. (2009).         Lunnay, B., Borlagdan, J., McNaughton, D., & Ward, P.
+    Ethnographic approaches to the internet and computer-                    (2015). Ethical use of social media to facilitate qualita-
+    mediated communication. Journal of Contemporary                          tive research. Qualitative Health Research, 25, 99–109.
+    Ethnography, 38, 52–84. doi:10.1177/0891241607310839                     doi:10.1177/1049732314549031
+1620                                                                                             Qualitative Health Research 28(10)
+
+Malik, S. H., & Coulson, N. (2008). The male experience of            Robinson, L., & Schulz, J. (2009). New avenues for socio-
+     infertility: A thematic analysis of an online infertility sup-        logical inquiry: Evolving forms of ethnographic practice.
+     port group bulletin board. Journal of Reproductive and                Sociology, 43, 685–698. Retrieved from http://www.jstor.
+     Infant Psychology, 26, 18–30.                                         org/stable/42857299
+Malik, S. H., & Coulson, N. (2010). Coping with infertil-             Safronova, V. (2017, December 21). Instagram is now a dat-
+     ity online: An examination of self-help mechanisms in                 ing platform, too. How it works. The New York Times.
+     an online infertility support group. Patient Education &              Retrieved from https://nyti.ms/2Diyerr
+     Counseling, 18, 315–318.                                         Saunders, B., Kitzinger, J., & Kitzinger, C. (2015). Participant
+Mitchell, R., & Charmaz, K. (1998). Telling tales and writing              anonymity in the Internet age: From theory to practice.
+     stories: Postmodernist visions and realist images in eth-             Qualitative Research in Psychology, 12, 125–137. doi:10
+     nographic writing. In S. Grills (Ed.), Doing ethnographic             .1080/14780887.2014.948697
+     research: Fieldwork settings (pp. 228–248). Thousand             Shaw, J. A. (2016). Reflexivity and the “acting subject”:
+     Oaks, CA: Sage.                                                       Conceptualizing the unit of analysis in qualitative health
+Morrison, C. (2016). Creating and regulating identity in online            research. Qualitative Health Research, 26, 1735–1744.
+     spaces: Girlhood, social networking, and avatars. In C.               doi:10.1177/1049732316657813
+     Mitchell & C. Rentschler (Eds.), Girlhood and the politics       Starks, H., & Trinidad, S. B. (2007). Choose your method: A
+     of place (pp. 244-258). Oxford, NY: Berghahn Books.                   comparison of phenomenology, discourse analysis, and
+Muller, A. E., & Gubrium, E. (2016). Researcher linguistic                 grounded theory. Qualitative Health Research, 17, 1372–
+     vulnerability: A note on methodological implications.                 1380. doi:10.1177/1049732307307031
+     Qualitative Health Research, 26, 141–144. doi:10.1177/           St. Pierre, E. A. (2008). Decentering voice in qualitative inquiry.
+     1049732315613312                                                      International Review of Qualitative Research, 1, 319–
+Murthy, D. (2008). Digital ethnography: An examination of the              336. Retrieved from http://www.jstor.org/stable/10.1525/
+     use of new technologies for social research. Sociology, 42,           irqr.2008.1.3.319
+     837–855. doi:10.1177/0038038508094565                            St. Pierre, E. A. (2013). The appearance of data. Cultural
+Murthy, D. (2012). Towards a sociological understanding of                 Studies ↔ Critical Methodologies, 13, 223–227.
+     social media: Theorizing Twitter. Sociology, 26, 1059–                doi:10.1177/1532708613487862
+     1073. doi:10.1177/0038038511422553                               Subrahmanyam, K., Greenfield, P. M., & Tynes, B. (2004).
+Nakamura, L. (2007). Digitizing race: Visual cultures of the               Constructing sexuality and identity in an online teen chat
+     internet. Minneapolis: University of Minnesota Press.                 room. Applied Developmental Psychology, 25, 651–666.
+Paulus, T. M., Jackson, K., & Davidson, J. (2017). Digital                 doi:10.1016/j.appdev.2004.09.007
+     tools for qualitative research: Disruptions and entangle-        Tietze, S. (2012). Researching your own organization. In G.
+     ments. Qualitative Inquiry, 23, 751–756. doi:10.1177/                 Symon & C. Cassell (Eds.), Qualitative organizational
+     1077800417731080                                                      research (pp. 53–71). London: Sage. doi:10.4135/97
+Peck, B., & Mummery, J. (2018). Hermeneutic constructivism:                81526435620.n4
+     An ontology of qualitative research. Qualitative Health          Turkle, S. (1995). Life on the screen: Identity in the age of the
+     Research, 28, 389–407. doi:10.1177/1049732317706931                   Internet. New York: Simon & Schuster.
+Pillow, W. (2003). Confession, catharsis, or cure? Rethinking         Turkle, S. (2005). The second self: Computers and the human
+     the uses of reflexivity as methodological power in qualita-           spirit (20th Anniversary, ed.). Cambridge: MIT Press.
+     tive research. Qualitative Studies in Education, 16, 175–        Underberg, N. M. (2006). Virtual and reciprocal ethnogra-
+     196. doi:10.1080/0951839032000060635                                  phy on the Internet: The East Mims Oral History Project
+Pink, S. (2013). Doing visual ethnography. London: Sage.                   Website. The Journal of American Folklore, 119, 301–311.
+Pink, S., & Morgan, J. (2013). Short-term ethnography:                Whiteman, N. (2017). Accounting for ethics: Towards a de-
+                                                                           humanised comparative approach. Qualitative Research.
+     Intense routes to knowing. Symbolic Interaction, 36,
+                                                                           doi:10.1177/1468794117724499
+     351–361. Retrieved from http://www.jstor.org/stable/sym-
+                                                                      Williams, S. G. (2012). The ethics of Internet research. Online
+     binte.36.3.351
+                                                                           Journal of Nursing Informatics, 16(2). Retrieved from
+Pink, S., Sumartojo, S., Lupton, D., & La Bond, C. H. (2017).
+                                                                           http://ojni.org/issues/?p=1708
+     Mundane data: The routines, contingencies and accom-
+                                                                      Wilson, S. M., & Peterson, L. C. (2002). The anthropology of
+     plishments of digital living. Big Data & Society, 4, 1–12.
+                                                                           online communities. Annual Review Anthropology, 31,
+     doi:10.1177/2053951717700924
+                                                                           449–467. doi:10.1146/annurev.anthro.31.040402.085436
+Pool, R. (2017). The verification of ethnographic data.
+     Ethnography, 18, 281–286. doi:10.1177/1466138117723936
+Radnofsky, M. L. (1996). Qualitative model: Visually rep-             Author Biography
+     resenting complex data image/text balance. Qualitative           Katherine Gregory is an assistant professor at New York City
+     Inquiry, 2, 385–410. doi:10.1177/107780049600200402              College of Technology/CUNY. Her work focuses on qualitative
+Reich, J. A. (2015). Old methods and new technologies:                research methods, genetic awareness, public health, and identity
+     Social media and shifts in power in qualitative research.        formation. She is the author of The Everyday Lives of Sex
+     Ethnography, 16, 394–415. doi:10.1177/1466138114552949           Workers in The Netherlands (Routledge: 2005).
+

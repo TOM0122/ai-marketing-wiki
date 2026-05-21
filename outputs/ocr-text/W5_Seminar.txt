@@ -1,0 +1,601 @@
+Marketing
+Research
+
+    Week 5
+         Housekeeping – Questionnaire Design
+         Find more details on LMS
+Quiz #3 is moved to W6 (instead of W5).
+Submit the following by 11 April (Friday) at 11:59 pm. To receive full points, include:
+1. Research questions
+2. Questionnaire in Word file (exported from Qualtrics)
+  • Generate 25 survey questions and mark the corresponding scale type (N, O, I, or R).
+    At least 15 questions are interval- or ratio-scaled.
+  • Design the questionnaire using Qualtrics (https://lms.unimelb.edu.au/learning-
+    technologies/qualtrics) and export the final questionnaire to a Word document.
+  • Submit the questionnaire on time, even if your team still needs time to perfect the
+    qualitative analysis. You will have one more chance to revise the questionnaire.
+3. About your team (individual contribution)
+  • Describe briefly who contributed to what up to this point. The contribution is not
+    limited to the questionnaire design. For example, qualitative analyses.
+      Recap
+                                      Equal
+                  Label    Order                Absolute 0
+                                     Distance
+Nominal scale      ✓                                         Non-metric /
+ Ordinal scale     ✓         ✓                               Categorical scales
+
+ Interval scale    ✓         ✓          ✓                    Metric / Quantitative
+  Ratio scale      ✓         ✓          ✓           ✓        scales
+
+
+To develop a good questionnaire:
+➢ How to phrase a question?
+➢ How to organize the questions?
+➢ What is the layout of the questionnaire?
+➢ How to pre-test a questionnaire?
+                                                                                     3
+         Topics for Today
+1. Research Designs
+2. Descriptive Research: Surveys
+3. Causal Research: Experiments
+4. Intro to Qualtrics
+5. Group work time (For you to ask questions and work on your questionnaire)
+
+
+
+
+                                                                               4
+Descriptive
+Research:
+Surveys
+           What is a survey?
+• Ask respondents for information using verbal or written questions
+• Questions are fixed and structured
+• Respondents are a representative sample of “target population”
+• Data are mostly quantitative (e.g., multiple choice)
+
+
+Useful when:
+• The respondents know the answer
+• We care what they have to say
+• The respondents are willing to tell us the truth
+Steps in Designing Survey
+                             1. Set the survey goal
+
+
+        2. Determine type of questionnaire and method of administration
+
+
+                              3. Design the items
+
+
+                                4. Set the scale
+
+
+
+                          5. Design the questionnaire
+
+
+                          6. Pretest the questionnaire
+
+
+                                  7. Execution
+Step 1. Set the Survey Goal
+
+ Determine analyses required for study        Experiments typically require t-test, Chi-Square, or ANOVA.
+
+
+
+
+                                              Consider sample size, measurement scales needed (e.g.,
+ Determine data required to do the            nominal data cannot be used in many types of statistical
+ analyses                                     analysis), and variables needed (e.g., for experiments,
+                                              variables with many levels cause problems).
+
+
+
+
+ Consider the type of information or advice   If you aim to reduce waiting time by 20%, measure waiting
+                                              times in minutes to understand if goal of the study is
+ you want to give based on the survey         achieved.
+
+
+
+                                                                                                            8
+Step 2. Determine Type of Questionnaire and
+Method of Administration
+                                                     Qualtrics
+
+
+                               Face-to-face       Web surveys    Telephone (CATI)   Mail surveys
+                   Costs
+           Max. Length
+
+        Interviewer Bias
+
+            Sample Bias                -
+          Open Answers
+
+      Complexity (Filter)
+   Flexibility of methods
+
+
+
+
+Researchers view:
+                            Very bad          Very good
+            Step 3. Design the Items
+ Can all the respondents       Can the respondents         Do the respondents           Should you use open-
+  answer the question            construct/recall          want to fill out each       ended or closed-ended
+          asked?                    answers?                    question?                    questions?
+• Ensure that all            • If no, use other         • If the questions            • Keep the subsequent
+  potential respondents        methods to obtain          concern “sensitive”           coding in mind. If easy
+  can answer all items. If     information (e.g.,         subjects, check               coding is possible
+  they cannot, ask             secondary data or          whether they can be           beforehand, design a
+  screener questions to        observations).             omitted. If not, stress       set of exhaustive
+  direct them. If the        • Ask the respondents        the confidentiality of        answer categories.
+  respondents cannot           about major aspects        the answers.                • Remember that open-
+  answer questions, they       that occurred before     • social desirability bias:     ended scale items have
+  should be able to skip       zooming in on details.     respondents might             a much lower response
+  them.                                                   choose to select a            rate than closed-ended
+                                                          position that they            items.
+                                                          believe society favors.
+
+
+                                                                                                                  10
+          Step 3. Design the Items (cont.)
+          When designing the questions, avoid
+
+Negations: All in all, wasn’t I satisfied with my holiday accommodation?
+Vague quantifiers: Do you book holidays frequently?
+Suggesting answers: Do you agree with the Lonely Planet Guide that this is the best hotel in Greece?
+Double-barreled questions: How satisfied were you with the meals and the holiday accommodation?
+Questions not answerable: Did you like the holiday accommodation booked? (subject did not book a
+holiday)
+
+
+See W3 for more examples (e.g., leading questions, loaded questions)
+Step 4. Set the Scale
+
+
+                    Likert scale
+
+
+
+
+Imbalanced scale:
+          Step 4. Set the Scale (cont.)
+Set the Scale
+                          Semantic differential scale
+
+
+
+
+                               Rank order scale
+Step 4. Set the Scale (cont.)
+
+                  Visual Analogue scale
+Step 4. Set the Scale (cont.)
+                                           Design The Questionnaire
+
+
+  Poor design:                                      Strongly   Somewhat
+                                                                           Neutral
+                                                                                     Somewhat   Completely
+                                                    disagree    disagree               agree      agree
+
+                   I am satisfied with the
+                   performance and reliability of      ❑          ❑          ❑          ❑           ❑
+                   my Apple iPhone
+
+
+
+
+  Better design:                                    Strongly   Somewhat
+                                                                           Neutral
+                                                                                     Somewhat   Completely
+                                                    disagree    disagree               agree      agree
+
+                   I am satisfied with the
+                   performance of my Apple            ❑           ❑          ❑          ❑           ❑
+                   iPhone
+
+                   I am satisfied with the
+                                                      ❑           ❑          ❑          ❑           ❑
+                   reliability of my Apple iPhone
+Step 4. Set the Scale (cont.)
+                                                         Design The Questionnaire
+
+
+ Poor design:                                         Strongly
+                                                      disagree
+                                                                   Somewhat
+                                                                    disagree
+                                                                                Neutral
+                                                                                            Somewhat
+                                                                                              agree
+                                                                                                       Completely
+                                                                                                         agree
+
+                  I am satisfied with the after-
+                  sales service of my Apple              ❑                 ❑      ❑            ❑           ❑
+                  iPhone
+
+
+
+
+ Better design:                                                                        No               Yes
+
+
+                   1.1: Did you use Apple’s after-sales service for your
+                                                                                       ❑                 ❑
+                   iPhone?
+
+
+                   If you answered yes, please proceed to question 1.2.
+                   otherwise, skip question 1.2 and proceed to question 1.3
+
+
+                                                      Strongly      Somewhat                Somewhat    Completely
+                                                                                Neutral
+                                                      disagree       disagree                 agree       agree
+
+                   1.2: I am satisfied with the
+                   after-sales service provided by        ❑                ❑       ❑           ❑              ❑
+                   Apple for my iPhone
+Step 4. Set the Scale (cont.)
+                                          Design The Questionnaire
+                                                     Not at all      Not                                    Very
+                                                                                  Neutral     Important
+  Poor design:                                       important     important                              important
+
+                   Which of the following iPhone
+                   features are most important to
+                   you?
+                   Camera                               ❑             ❑             ❑             ❑          ❑
+
+                   Music player (iPod)                  ❑             ❑             ❑             ❑          ❑
+
+                   App store                            ❑             ❑             ❑             ❑          ❑
+
+                   Web browser (Safari)                 ❑             ❑             ❑             ❑          ❑
+
+                   Mail client                          ❑             ❑             ❑             ❑          ❑
+
+
+
+
+  Better design:                                                                                          Rank
+
+
+                   Rank the following iPhone features from most to least important. Begin by picking
+                   out the feature you think is most important and assign it a number 1. Then find the
+                   second most important and assign it a number 2 etc.
+
+                   Camera                                                                                  ___
+
+                   Music player (iPod)                                                                     ___
+
+                   App store                                                                               ___
+
+                   Web browser (Safari)                                                                    ___
+
+                   Mail client                                                                             ___
+            Step 4. Set the Scale (cont.)
+                                                         Should you want to use      Should you include an
+  What scales to use for       Should you use a
+                                                         a forced-choice or free-     “undecided”/“don’t
+ close-ended questions?         balanced scale?
+                                                               choice scale?           know” category?
+• Likert scales            • A balanced scale has       • Forced-choice scale       • Only for questions that
+• Semantic differential      an equal number of           (e.g., 4 or 6 points        the respondent might
+  scales (label end          positive and negative        without neutral             genuinely not know,
+  points)                    scale categories. The        category)                   should a “don’t know”
+• Rank order scales          wording in a balanced                                    category be included. If
+                             scale should reflect       • free-choice scale has       included, place this at
+                             equal distances              neutral category →          the end of the scale.
+• (Usually) 5 to 7-point     between the scale            lower response bias       • Avoid in an
+  scales                     items. This is called an                                 attitude/preference
+                             equidistant scale,                                       question
+                             which is necessary for
+                             factor analysis.
+
+
+                                                                                                                 18
+         Step 4. Set the Scale (cont.)
+#fail!
+          Step 5. Designing Questionnaires
+
+1.Screeners or classification questions come first. These questions
+determine which parts of the survey a respondent should fill out.
+
+
+       2.Next, insert the key variables of the study. This includes the
+       dependent variables, followed by the independent variables.
+
+
+               3. Use the funnel approach. That is, ask questions that are more general
+               first and then move on to details. This makes answering the questions
+               easier as the order aids recall. Make sure that sensitive questions are
+               put at the very end of this section.
+
+
+                      4. Demographics are placed last if they are not part of the screening
+                      questions.
+      Step 5. Designing Questionnaires
+Increasing Response Rates
+It is becoming increasingly difficult to get people to fill out surveys. This may be due to over
+surveying, dishonest firms that disguise sales as research, and a lack of time.
+
+Ways to overcome low response rates:
+                  Send out a pre-notice letter indicating the importance of the study and announcing
+            1       that a survey will be sent out shortly.
+
+                  Send out the survey with a sponsor letter again, indicating the importance of the study.
+            2
+                  Follow up after three to four weeks with both a thank you note (for those who
+            3       responded) and a new survey plus a reminder (for those who did not respond).
+                  Call or email those who have not responded still and send out a thank you note to
+            4       those who replied in the second round.
+           Step 6. Pretest The Questionnaire
+• You can pretest questionnaires in two ways.
+• You can use a few experts (say 3–6) to read the survey, fill it out, and comment on it. Experienced market
+  researchers can spot most issues right away and should be employed to pretest surveys.
+• If you aim for a high-quality survey, you should also send out a set of preliminary (but proofread)
+  questionnaires to a small sample of 50–100 respondents.
+• Think about response rates: an incentive could be to give the participants a chance to win a product or
+  service!
+• Reporting the findings to the participants is an incentive that may help participation (particularly in
+  professional settings).
+
+
+        • Never skip pretesting due to time issues, since you are likely to run into problems later!
+Step 6 and 7. Pretest vs Execution
+
+                           Pretest…
+
+           • in the direct environment
+           • with the (relevant) stakeholders
+           • with subjects from the population
+
+
+            When the questionnaire is in the field…
+
+           • check the intermediate results regularly
+           • monitor the agency/field institute
+           • check the duration of the survey
+          Step 7. Execution
+❑ Web surveys: use Qualtrics, LimeSurvey, Google Forms, SurveyMonkey etc.
+
+❑ Take a look at how the data will look & if they can be used.
+
+❑ Try the survey a few times yourself! (and delete this data so that you do not bias the results)
+        Descriptive Research: Type of Studies
+
+Cross-sectional studies:
+▪Measure a sample of the population at only one point in time
+▪Measure the current status of a target market or a problem
+▪Most commonly used
+
+
+Longitudinal studies:
+▪Measure the same sample of the population multiple times over a period of time
+▪Measure the changes in a target market or a problem
+▪Less common, hard to execute
+▪Can be supplemented by historical secondary data                                 25
+Causal Research:
+Experiments
+Determine the Research Design
+
+                            Ambiguous problems:
+                          Exploratory research design
+
+
+
+                         Somewhat defined problems:
+                          Descriptive research design
+
+
+
+
+                          Clearly defined problems:
+                            Causal research design
+          Causal research
+We speak of a causal effect when the effect is dependent on some value of the cause.
+Let’s think…..
+
+
+
+
+                                                                                       28
+          Causal research
+Causal conditions:
+• Relationship between cause and effect,
+• time order,
+• control for other factors, and
+• an explanatory theory.
+
+
+
+
+                                           29
+                        Is correlation same as causation?
+
+
+
+
+https://www.thesatirist.com/cartoons/correlation-vs-causation.html
+
+                                                                     30
+          Experiments
+One way of establishing causality is via experiments; study designs commonly used in causal research in
+which a researcher controls for a potential cause and observes corresponding changes in hypothesized
+effects via treatment variables.
+
+Some forms
+• Lab experiments
+• Field experiments
+• Test markets
+
+
+
+
+                                                                                                          31
+Experimental Design: Example
+ A picture containing diagram
+
+ Description automatically generated
+
+
+
+
+                                       32
+         Basic Experimental Research
+• Dependent variable(s): what you try to explain using experiments
+• Independent variables: what you use to explain the outcome
+  – Independents are typically manipulated through treatments or stimuli.
+  – The number of treatments are the factors or levels of the experiment.
+• Extraneous variables: those variables that are part of the study but not manipulated.
+
+Notation:
+• O: A formal observation or measurement of the dependent variable. Subscripts such as
+  O1, O2, etc. are used to indicate measurements in different points in time.
+• X: Test participants’ exposure to an experimental manipulation or treatment.
+• R: Random assignment of participants. Randomization ensures control over extraneous
+  variables and increases the reliability of the experiment.
+Study Designs
+
+ One-shot case study:                        X      O1
+
+
+ Before-after design:                        O1     X    O2
+
+ Before-after experiment   Experimental group (R)   O1   X    O2
+ with a control group:     Control group (R)        O3        O4
+          Example
+• Hypothesis: Darker background colour is more likely to keep consumers on the waiting page than light
+  background colour.
+• Independent variable: Darker/light background colour
+• Dependent variable: Likelihood of staying on the waiting page.
+
+
+
+
+                                                                     VS
+
+
+
+
+                                                                                                         35
+One-shot case study:
+
+
+
+
+           Loading…Please Wait   Loading…Please Wait
+
+
+
+
+                                                       36
+Before-after design
+
+
+
+
+                                Same group
+          Loading…Please Wait                Loading…Please Wait
+
+
+
+
+                    O1                                   O2
+
+
+
+
+                                                                   37
+Before-after experiment with a control group
+
+
+
+                                  O3                                O4
+
+
+         Control group                         Time 1
+                         Loading…Please Wait            Loading…Please Wait
+
+
+
+
+                                  O1                                O2
+
+         Experimental
+         group                                 Time 1
+                         Loading…Please Wait            Loading…Please Wait
+
+
+
+
+                                                                              38
+          Field experiments
+Field experiments are experiments that are conducted in a field setting.
+
+
+Several reasons to conduct these
+• External validity
+• Give some indication of expected effect
+
+
+Examples: To determine the sales potentials for new products or to test the effects of marketing mix actions
+
+
+
+
+                                                                                                               39
+          Experiments and Validity
+
+Internal validity: Ability to confidently draw          External validity: Ability to generate from the
+causal conclusions                                      research setting to the other contexts (i.e.,
+• How clean is the experiment? Can you                  the real world)
+  eliminate alternative explanations (i.e., an          • Do outcomes apply to practical situations?
+  extraneous variable)?                                 • Relates to how applicable the findings are in
+• Depends largely on the procedures of a                  the real world.
+  study and how rigorously it is performed.             • Potential threat
+• Potential threat                                        – Sampling bias: participants in the study
+  – Attrition: over the course of a longer                  differ from the population
+    study, participants may drop out (if
+    caused by the treatment)
+
+
+      It is difficult to achieve both high internal and high external validity at the same time.
+Lab vs. Field Experiments
+
+   Lab Experiments                                       Field Experiments
+   Artificial setting                                    Natural setting
+    e.g., Lab’s subject pool                              e.g., supermarkets, online
+    limited effects from extraneous variables            Pro:
+   Pro:                                                   Generalizable
+    Quick and inexpensive.                               Con:
+   Con:                                                   expensive and time-consuming
+    lack of natural setting (generalization might be a    difficult to control the impact of extraneous
+    problem)                                              variables in natural setting
+                                                          no secrecy
+           Test Markets
+Test markets are a type of field experiment that evaluates a new product or promotional campaign under
+real market conditions.
+
+
+Marketing mix variables (independent variables) are varied in test marketing, and the sales (dependent
+variables) are monitored so that an appropriate marketing strategy can be identified
+
+
+Common objectives:
+▪ To determine market acceptance of the product
+▪ To test alternative levels of marketing mix variables
+
+
+▪Better to invest in conducting test marketing in order to avoid the more expensive mistake of unsuccessful
+product rollout
+                                                                                                              42
+

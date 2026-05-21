@@ -1,0 +1,802 @@
+JOURNAL OF STRATEGIC MARKETING
+2023, VOL. 31, NO. 7, 1263–1278
+https://doi.org/10.1080/0965254X.2021.1916570
+
+
+
+
+Story elements, narrative transportation, and schema
+incongruity: a framework for enhancing brand storytelling
+effectiveness
+David M. Houghton
+Williams College of Business, Department of Marketing, Xavier University, Cincinnati, OH, USA
+
+
+    ABSTRACT                                                                   ARTICLE HISTORY
+    Storytelling is a powerful tool used by brand marketers. However,          Received 19 December 2019
+    most brand stories are neither memorable nor effective. This               Accepted 7 April 2021
+    research proposes a model for increasing the effectiveness of              KEYWORDS
+    brand storytelling through the use of incongruity. Incongruity can         Brand storytelling; schema
+    challenge the expectations of brand storytelling held in the minds         incongruity; narrative
+    of consumers (i.e., the brand story schema). This increases atten­         transportation; story;
+    tional focus on the story and triggers more complex cognitive              narrative
+    processing. This level of processing is necessary for effective narra­
+    tive transportation, or immersion into the story. This research iden­
+    tifies the key elements of storytelling (e.g., character, setting, and
+    plot) and demonstrates how marketers can introduce incongruity
+    through these elements. Moderating factors and brand outcomes
+    are introduced to improve implementation and foster strategy
+    development.
+
+
+
+Introduction
+Brand storytelling has become a focus of marketers in recent years, and with good reason.
+In a survey of 2,000 adults by marketing agency Headstream, 79% indicated that they
+want brands to tell stories in their marketing, but 85% could not give an example of
+a memorable brand story they had seen (Mortimer, 2015). Consumers are now awash in
+branded ‘clutter’ found in online ads, videos, blogs, and other outlets; all of it demanding
+attention, but much of it lacking in added value. A recent study from media agency Havas
+found that 84% of consumers expect brands to produce content such as videos, podcasts,
+or experiential events (Vizard, 2017). Yet, the same study found that 60% of consumers
+rate this content as poor quality or irrelevant.
+   Consumers prefer narratives over factual arguments (e.g., Adaval & Wyer, Jr., 1998;
+Escalas, 2007; Polyorat et al., 2007), but marketers struggle with creating stories that are
+both engaging and effective at driving business outcomes. Brand storytellers must find
+new ways to gain the attention of consumers and make an impression. One effective way
+to grab attention is to use incongruent elements in the story that counter expectations,
+which research does not adequately explore.
+
+
+
+CONTACT David M. Houghton               houghtond@xavier.edu
+© 2021 Informa UK Limited, trading as Taylor & Francis Group
+1264      D. M. HOUGHTON
+
+
+    The expectations we have for stories derive from schemas, or semantic knowledge
+structures, encoded and stored in our memory over time as we experience storytelling
+(DeRosia et al., 2011; Mandler, 1982; Sujan & Bettman, 1989). When a new story is
+encountered, schemas are accessed. Comparisons and judgments are made, attitudes
+are formed, and new schemas are encoded in relation to what was already known.
+A similar process occurs in branding with brand schemas, which hold our knowledge
+and expectations for brands (Arbouw et al., 2019; Bhaduri & Ha-Brookshire, 2017; Halkias,
+2015).
+    Brand storytellers must be aware of story-related schemas held in consumers’ minds if
+they are to tell effective stories. This is true if they want their stories to follow conventional
+norms and meet expectations, or if they wish to surprise the consumer by defying
+storytelling norms (e.g., Phillips & McQuarrie, 2010). Straightforward stories that align
+with consumer expectations can certainly be effective. But in the fight over consumer
+attention that is happening today, these stories risk appearing bland and predictable. If
+marketers wish to defy expectations and become unpredictable, they must introduce
+elements to the story that are incongruent with the schemas held in consumers’ minds.
+Incongruity creates tension, which leads to more complex and deliberate processing in
+the minds of consumers (Lee & Schumann, 2004). More complex processing can lead to
+narrative transportation (Green & Brock, 2000), which produces more impactful story­
+telling (Van Laer et al., 2013).
+    The objective of this research is to propose a new way to conceptualize brand story­
+telling and improve effectiveness by introducing elements of incongruity. But before
+a marketer can break storytelling norms and defy expectations, it is important to first
+understand these norms. Stories are usually structured chronologically, with a beginning,
+middle, and end (Escalas, 2004). Stories have elements that can be identified, such as
+characters, setting, plot, theme, conflict, and resolution. We expect these elements to take
+familiar shape, or fit a predetermined structure, depending on the type of story being told
+(Heckler & Childers, 1992; Maille & Fleck, 2011). Storytellers manipulate these elements to
+achieve different effects. In the case of brand storytelling, marketers are able to strategi­
+cally manipulate these elements to achieve brand outcomes such as a change in attitudes
+or beliefs.
+    Storytelling is a way to convey meaningful ideas, and it can act ‘as a clear aid to
+memory, as a means of making sense of the world, as a way to make and strengthen
+emotional connections, and as way of recognizing and identifying with brands of any
+type’ (Herskovitz & Crystal, 2010, p. 21). People naturally think in terms of narratives rather
+than arguments, and in that sense the human brain may be hard-wired for narratives
+(Jameson, 1981; Schank, 1990; Schank & Abelson, 1995; Turner, 1998). Storytelling has
+a natural place in marketing, as the human impulse to seek out narratives and symbols
+that help form identity may be core to the idea of branding (Hirschman, 2010).
+Accordingly, storytelling can drive positive attitudes toward the brand (Coker et al.,
+2017), foster feelings of trust with clients and decision makers (Anaza et al., 2020;
+Gilliam & Flaherty, 2015) and create an enhanced customer-brand experience (Lemon &
+Verhoef, 2016; Lundqvist et al., 2013).
+    Despite the importance of storytelling and the benefits of countering expectations,
+little research exists on either the strategic manipulation of story elements or the use of
+incongruency in brand storytelling. These gaps in knowledge leave marketers guessing as
+                                                      JOURNAL OF STRATEGIC MARKETING        1265
+
+
+to why their brand stories sometimes fail to connect with consumers. Managers have little
+guidance for how to adjust the storytelling process to improve marketing outcomes. For
+storytelling research to have managerial relevance, these gaps need to be addressed.
+Thus, this research seeks to answer the following research questions:
+
+RQ1: What effect do incongruent story elements have on narrative processing?
+
+RQ2: Could incongruity positively impact storytelling outcomes related to the brand?
+
+RQ3: How do situational or message factors impact the effectiveness of storytelling
+incongruity?
+
+   This research proposes a model for enhancing storytelling effectiveness with the
+strategic and specific use of incongruity to enhance the likelihood of narrative transporta­
+tion. First, the storytelling process and the role of schema incongruity in brand storytelling
+are discussed. A conceptual model is proposed, including moderating factors that could
+dampen or enhance the effectiveness of brand storytelling. Guidelines are offered for
+manipulating specific story elements to achieve incongruity. Examples of brand stories
+using incongruence are provided to further aid implementation. Ideas for future research
+in this space are also proposed.
+
+
+Schema incongruity and storytelling mechanics
+A schema is a semantic knowledge structure that allows us to make sense of new
+information and experiences in the world based on what we have already learned and
+experienced (Anderson, 1988; Beals, 1998; Yoon, 2013). When a new experience occurs,
+schemas related to that experience are triggered. The new input is compared to these
+schemas and encoded to memory in relation to what is known (Beals, 1998).
+   When new information about an object (i.e., a brand, product, or ad) can be easily
+categorized by existing schemas, it is schema congruent information (e.g., a Tesla ad
+touting the benefits of electric cars). In contrast, when new information does not easily
+relate to existing schemas, it is schema incongruent (e.g., a Tesla ad featuring a car flying in
+space). The level of incongruence is determined by the degree to which the new
+information conflicts with existing schema or expectations (Halkias & Kokkinaki, 2013,
+2014; Meyers-Levy et al., 1994). Different levels of incongruity trigger different levels of
+processing in the mind (Mandler, 1982).
+   Information containing little or no incongruity does not require complex processing.
+Any incongruence would go unnoticed, and the message may not gain the attention of
+the receiver. In contrast, moderate levels of incongruity requires more complex proces­
+sing in the receiver’s mind. This processing triggers either an attempt to accommodate
+the new information with existing schema, or the development of an alternative schema
+to categorize the new information. Accommodation can be successful or unsuccessful,
+leading to different affective responses. Severe incongruity requires a high level of
+attention and complex processing and is unlikely to be understood by all receivers. The
+result is often unsuccessful accommodation of the new information and a negative
+reaction. In cases of severe incongruity, the highly incongruent elements can lack any
+1266      D. M. HOUGHTON
+
+
+sense of relevancy. That is, the elements detract from, rather than contribute to, identi­
+fication of the message in the story (Heckler & Childers, 1992; Maille & Fleck, 2011).
+    Empirical studies show that moderate levels of incongruence produce more favorable
+evaluations than either congruence or extreme incongruence (Meyers-Levy & Tybout,
+1989). Halkias and Kokkinaki (2013, 2014) document the presence of an ‘inverted U’
+relationship between the levels of ad-brand incongruity and positive outcomes such as
+recall and attitudes. Moderate incongruity is more likely to be accommodated successfully
+(Lee & Schumann, 2004; Mandler, 1982). This could result in either a positive or negative
+response, but the response is more likely to be based on the information presented and
+not an inability to process the incongruity. The lesson for marketers is clear: Too little
+incongruity can produce easily processed but unremarkable messages, while too much
+incongruity can confuse consumers and produce negative reactions. However,
+a moderate amount of incongruity can draw the attention of the consumer, trigger
+complex processing, and generate responses to the branded communication with little
+risk of the message being lost on the consumer.
+    Incongruity can take many forms, depending on the elements in question. Similarity or
+dissimilarity can occur between objects according to physical characteristics or imagery,
+the sensations or emotions elicited by the objects, the time and space in which the
+objects exist, the manner in which the objects are used, and more (Maille & Fleck, 2011).
+The storytelling process and story elements provide a multitude of objects and qualities
+that can be set apart from each other through dissimilarity to produce incongruity.
+
+
+Narrative transportation
+Complex processing is key to effective storytelling because of the mechanics of how
+storytelling works. Narrative transportation, or absorption into the story, is the process that
+separates stories from other forms of influential communication. Through narrative trans­
+portation, stories engage our senses and produce experiences similar to those in the real
+world (see Paul, 2012 for a review of the neurological research). Narrative transportation can
+generate vivid mental imagery and produce both affective and cognitive responses, leading
+to changes in beliefs, attitudes, intentions, and behavior (Dunlop et al., 2010; Kim et al., 2016;
+Van Laer et al., 2013). As a result, consumers identify with the characters in a story and attach
+meaning to the brands and products used (Cooper et al., 2010).
+   Transportation first requires attentional focus on the imagery and affect portrayed in
+a story, which incongruity can achieve. As discussed, attentional focus leads to complex
+processing, which is required for the receiver to be transported. The stronger the trans­
+portation effect, the more likely the receiver will form favorable evaluations and adopt
+story-consistent beliefs (Green & Brock, 2000). Narrative transportation can occur with
+narratives based on either fact or fiction, which is good news for marketers who frequently
+blend the two for brand storytelling. Transportation can also cause consumers to gloss
+over ‘false notes’ in the story that may ordinarily trigger disengagement and counter­
+arguing (Green & Brock, 2000).
+                                                              JOURNAL OF STRATEGIC MARKETING                     1267
+
+
+Brand story schema
+Prior marketing research assumes that consumers use only brand schemas to evaluate
+brand communications. Alternatively, consumers may use schema held for the story­
+telling medium itself to judge brand stories. Consumers have years of experience with
+stories. Just as they hold expectations (and schemas) for brands and products, they also
+hold expectations (and schemas) for the storytelling process. We expect stories to follow
+the familiar pattern of a linear, chronologically ordered narrative with a clear beginning,
+middle, and end (Escalas, 2004). Stories feature one or more characters, a setting, and
+a plot (i.e., goals, conflict, and resolution) (Lamb, 2008). The specific makeup and structure
+of these elements can vary based on the story genre, the writing style of the author, and
+other factors. For the purposes of this research, the following story elements are examined
+within brand storytelling: character, setting (time and location), and plot (goal, challenges,
+solution). Elements of a brand story encountered by consumers will either agree (be
+congruent) or disagree (be incongruent) with the schemas consumers hold for these
+elements.
+
+
+Conceptual model
+This research proposes a model of brand storytelling that explains how brand story
+schema incongruity can impact narrative processing and ultimately brand outcomes
+(See Figure 1). Storytelling elements provide imagery and produce affect, two of the
+necessary inputs for narrative transportation (Green & Brock, 2000). Factors related to the
+message and the message source (i.e., brand) attenuate the likelihood that story elements
+will drive narrative transportation. Story elements can also impact attention, the third
+prerequisite for transportation. Individual and situational factors affect the likelihood that
+attention will activate narrative transportation. Brand outcomes will be impacted based
+on the effectiveness of narrative transportation.
+   The following section introduces the constructs featured in the conceptual model and
+propositions that detail how these constructs will relate to each other in the model.
+
+
+
+
+                  Prior knowledge /
+                  brand familiarity
+
+ Story Elements           P4                                                           Brand Outcomes
+ Character(s)                                                                          - Recall
+ Setting                              Narrative Transportation       P3                - Story-driven beliefs
+  Time                                ● Complex processing                             - Attitude to the brand
+  Location                            ● Absorption into the story                      - Attitude to the story
+ Plot                   P1                                                   P6a       - Behavioral intention
+  Goal                                                                                 - Favorability
+                                                       P5
+  Obstacle
+                       Level of                             Cognitive load
+  Solution
+                     Incongruity
+                       in Story       P2                                           Persuasion
+                                                Attention
+                    (Low/Med/Hi)                                                   knowledge
+                                                                                      P6b
+
+
+Figure 1. Conceptual model of brand story incongruity and narrative transportation.
+1268       D. M. HOUGHTON
+
+
+Level of incongruity
+The level of incongruity between new story elements and the existing story schema will
+determine whether complex processing takes place in the mind of the receiver (Mandler,
+1982). Low levels of incongruity do not trigger complex processing, which is necessary for
+narrative transportation. High levels of incongruity can prevent the receiver from accom­
+modating the new information, preventing processing from taking place. In the cases of
+both high and low levels of incongruity, narrative transportation is unlikely. Moderate
+levels of incongruity lead to complex processing, and thus an increased likelihood of
+narrative transportation (e.g., Halkias & Kokkinaki, 2013, 2014). To account for the inverted
+U relationship, two related propositions are offered:
+   P1a: Low or high levels of incongruity in story elements will decrease the likelihood of
+   narrative transportation.
+
+   P1b: Moderate levels of incongruity in story elements will increase the likelihood of narrative
+   transportation.
+
+While the level of incongruity can affect the likelihood that the story elements will trigger
+narrative transportation, incongruity also impacts attention level, which is a primary driver
+of narrative transportation. Increased levels of incongruity are more likely to gain the
+attention of viewers (Germelmann et al., 2020). But unlike the previous relationship, there
+is no evidence of an inverted U here. Thus:
+   P2a: Higher levels of incongruity in story elements will increase the amount of attention paid
+   to the story and the likelihood that narrative transportation will occur.
+
+   P2b: Lower levels of incongruity in story elements will decrease the amount of attention paid
+   to the story and the likelihood that narrative transportation will occur.
+
+
+
+Narrative transportation and brand outcomes
+Narrative transportation requires imagery and affect (delivered by the story) and the
+attentional focus of the receiver. This triggers complex processing that immerses the
+receiver in the story both cognitively and affectively, often producing vivid mental images
+(Green, 2004). Transportation can lead to the receiver disengaging from existing attitudes
+and beliefs and updating them based on what is conveyed in the story (Van Laer et al.,
+2013).
+   Through this process, narrative processing can create and enhance self-brand connec­
+tions, helping to incorporate the brand into a consumer’s self-concept and produce
+favorable attitudes (Escalas, 2004). Transported individuals are more likely to perform
+story-consistent behaviors such as buying a product or taking better care of themselves
+(Van Laer et al., 2013). Additionally, there is evidence that both narrative transportation
+and schema incongruity can lead to better recall of a message (Shen & Chen, 2006; Van
+Laer et al., 2013). Thus:
+   P3: Narrative transportation will lead to:
+
+   (1) better brand recall,
+   (2) increased likelihood of adopting story-driven beliefs,
+                                                          JOURNAL OF STRATEGIC MARKETING            1269
+
+
+  (3) positive attitude to the brand,
+  (4) positive attitude to the story,
+  (5) behavioral intentions in line with the message, and
+  (6) increased favorability of the brand.
+
+
+Moderating factors
+Prior knowledge/brand familiarity
+Familiarity that comes from having prior knowledge or personal experience with a story
+topic increases the likelihood of narrative transportation (Van Laer et al., 2013). An
+individual’s familiarity with the brand may also help incongruent elements stand out,
+requiring complex processing. Evidence suggests that the use of incongruity may be more
+worthwhile for familiar (vs. unfamiliar) brands (Dahlén & Lange, 2004). Thus:
+  P4: High levels of familiarity with the brand elements in the story will increase the likelihood of
+  narrative transportation occurring.
+
+
+Cognitive load
+Processing narratives (especially narratives containing incongruence) requires cognitive
+resources. When consumers are under heavy cognitive load, they are less likely to be
+transported (e.g., Chang, 2009). Consumers may experience heavy cognitive load when
+dealing with multiple inputs at the same time, such as a large number of ads a website.
+Stories placed in this environment are unlikely to lead to narrative transportation. Thus:
+  P5: High cognitive load will decrease the likelihood that the attention given to the story will
+  be sufficient to drive narrative transportation.
+
+Narrative transportation can be an effective method for persuasion (e.g., Escalas, 2007).
+However, consumers may possess persuasion knowledge, or beliefs about the motives
+and tactics used by marketers to persuade consumers (Campbell & Kirmani, 2000; Friestad
+& Wright, 1994). This knowledge forms over time as consumers interact with salespeople
+and evaluate marketing messages. This is important because inferences made about
+a marketer’s attempt at manipulation will affect perceptions of the brand and its message,
+leading to adverse outcomes (e.g., Boerman et al., 2017; Germelmann et al., 2020; Grigsby
+& Mellema, 2020; Wentzel et al., 2010).
+   Online brand storytelling may elicit persuasion knowledge due to how it is promoted.
+Social media content is less likely to produce narrative transportation if the consumer is
+informed that the content is advertising due to the influence of persuasion knowledge
+(Seo et al., 2018). Many brands publish their stories as sponsored or promoted posts on
+social media, often through celebrity endorsers, influencers, or other brand partners. The
+‘sponsored’ label conveys that the message is an advertisement, which can make manip­
+ulative intent salient and cause consumers to draw on their persuasion knowledge
+(Boerman et al., 2017). Native advertising, another outlet for brand stories, can also elicit
+persuasion knowledge (Amazeen & Wojdynski, 2019; Grigsby & Mellema, 2020; Jing Wen
+et al., 2020). If a consumer draws upon persuasion knowledge, it will negatively impact the
+ability of the brand story to drive positive outcomes, whether or not narrative transporta­
+tion occurs. Therefore:
+1270      D. M. HOUGHTON
+
+
+   P6a: Activation of persuasion knowledge will negatively affect the ability of narrative trans­
+   portation to drive positive brand outcomes.
+
+   P6b: Activation of persuasion knowledge will negatively affect the ability of schema incon­
+   gruity to drive positive brand outcomes in the absence of narrative transportation.
+
+
+
+Discussion
+Storytelling has the potential to be an effective method of persuasive communication for
+brands. Most consumers today expect brands to tell stories, but few stick in their memory
+(Mortimer, 2015). Brand storytellers must find new ways to make an impression.
+Introducing elements to a brand story that are inconsistent with consumers’ expectations,
+or schemas, is likely to grab the attention of consumers. This research develops
+a conceptual model and propositions that incorporate schema incongruity, narrative
+transportation, and moderating factors to explain the effectiveness of brand storytelling
+and guide brand storytellers toward favorable outcomes.
+
+
+Theoretical implications
+This research offers significant contributions to marketing theory. The proposed rela­
+tionships between story elements, incongruity, and narrative processing in the concep­
+tual model (Figure 1) tie together disparate areas of research within brand
+communication – schema incongruity and narrative processing. Incongruity with
+schema draws attention and triggers cognitive processing in the mind of the story
+receiver (Lee & Schumann, 2004). Attentional focus is necessary for narrative transporta­
+tion, which occurs through cognitive processing (Green & Brock, 2000). Linking these
+two communication concepts makes sense and represents a significant step in brand
+storytelling research.
+   Additionally, the notion of brand story schema is a worthwhile and prudent extension
+to brand communication research (e.g., Dahlén & Lange, 2004; Herskovitz & Crystal, 2010).
+Brand storytelling research is in a nascent stage, and marketers need to account for
+consumers’ storytelling expectations moving forward. Otherwise, a significant portion of
+brand storytelling outcomes may go unexplained. Third, the idea of story schema is a new
+concept to storytelling research. Storytelling is ubiquitous in today’s society, yet the
+author could find no research examining the encoding, storage, and retrieval of story-
+based schema. Consumers expect stories to follow a certain format, and this expectation
+comes from schema developed over a long period of time.
+
+
+Managerial implications
+This research is driven by a desire to give marketing managers methods for improving
+brand storytelling effectiveness. Thus, a number of managerial contributions can be
+drawn from this paper. First, this research identifies the importance of incongruity in
+drawing attention to brand stories. Consumers are awash in marketing content today, and
+countering consumer expectations through the use of incongruity is an effective way for
+brands to make an impact.
+                                                                    JOURNAL OF STRATEGIC MARKETING                 1271
+
+
+    Brand story schema incongruity can aid brand managers in accomplishing strategic
+goals. For example, the Anheuser-Busch water canning ad demonstrates that incongruity
+can be used to show the public a different side of the company, one aligned with
+consumer expectations of corporate responsibility. The Tesla customer story about car
+safety highlighted an unknown benefit of Tesla’s vehicles that represents a major factor in
+consumer car buying decisions. Incongruity can also introduce new products to consu­
+mers (e.g., Subway breakfast sandwiches) and draw new potential customers to the
+company’s products (e.g., Minnetonka Moccasins). Incongruency is a means for upending
+expectations, which brands often seek to do.
+    Additionally, this research breaks down the individual elements of a story and demon­
+strates how brand managers can manipulate each element to achieve incongruity. The
+characters, setting, and plot all offer opportunities to introduce incongruent elements. For
+example, a character that acts against the brand persona can appeal to new target
+consumers. The time and location for the story can signal when and where a brand’s
+products are usually used. By changing one of these elements, brands can expand the use
+scenarios of its products. Marketers would be well-served in learning the elements
+involved in storytelling and how to construct a story to achieve specific ends. Examples
+of brand stories using incongruity are included to aid both understanding and application
+(see Table 1 and Appendix A). In addition, this research offers specific recommendations
+for implementing schema incongruity into storytelling elements (below).
+    Lastly, the conceptual model incorporates factors which managers can control (i.e.,
+level of incongruity of story elements), capitalize on (i.e., prior knowledge/brand famil­
+iarity) or mitigate (i.e., cognitive load and persuasion knowledge). Brand managers and
+
+
+
+Table 1. Examples of incongruity with brand story elements.
+ Story
+ Element                 Incongruence with Schema                                       Example
+ Characters    Character portrayed in story does not match the        Ariel laundry soap story encouraging dads to
+                    usual persona associated with the brand                           #ShareTheLoad
+ Setting
+ Time         The time in which the story takes place is not the                  Subway Breakfast ad
+                         time the brand is normally used
+ Location     The location of the story is one where the brand is    Minnetonka Moccasins used on a backpacking
+                                  not expected                                       adventure
+ Plot
+ Goal            The goal sought by the character is one not         Whirlpool Care Counts stories about increasing
+                 previously associated with (or fulfilled by) the                   school attendance
+                                     brand
+ Challenge/     Struggle                                             The obstacle that prevents the characters from
+                                                                     achieving the goal is one not usually faced by the
+                                                                                    brand’s customers
+ Maltesers      chocolates ad series featuring stories of the
+                disabled; Anheuser-Busch immigrant origin story
+                Super Bowl ad
+ Help/          Solution                                            The brand provides a solution for overcoming the
+                                                                      challenge that had not been associated with the
+                                                                                       brand before
+ Anheuser-      (response to storm emergencies), Tesla Safety
+   Busch        First customer story
+   water
+   canning
+   ad
+Note: Sources for brand examples can be found in Appendix A
+1272      D. M. HOUGHTON
+
+
+the agencies they work with have control over story elements. Targeting consumers with
+brand familiarity will enhance the likelihood of narrative transportation, leading to
+positive outcomes. Marketers can achieve a similar boost in narrative transportation by
+presenting brand stories to consumers during times of low cognitive load, which will
+allow them to devote more attention and focus to the brand story. Lastly, if brands can
+avoid eliciting consumers’ persuasion knowledge during the storytelling process, the
+story will not be seen as manipulative. Based on extant research, persuasion knowledge
+is often triggered through cues in the story itself or by disclosing that the story is a paid
+ad. While promoting and sponsoring brand stories as online ads can increase reach, it may
+undermine the authenticity of the storyteller.
+
+
+Recommendations for implementation
+In order to introduce incongruence into brand storytelling, one or more of the storytelling
+elements outlined in Figure 1 must be manipulated to be incongruent with consumer
+expectations. See Table 1 for a summary of these elements and current examples of
+brands using this technique. Below is a short discussion of each major element.
+
+Character incongruence
+The character in a story is one of the first elements people perceive. The main character of
+a brand story is often a typical customer of the brand or the easily recognizable and
+memorable brand persona – ‘the articulated form of the brand’s character and person­
+ality’ (Herskovitz & Crystal, 2010, p. 21). In the case of a customer character, incongruence
+is accomplished by introducing a character that is unlike the typical customer of the
+brand. This could be part of a strategic move to pursue under-tapped consumer seg­
+ments. One example is the Ariel laundry soap ad in India that encouraged dads to
+‘#ShareTheLoad’ around the house and help with the laundry (Appendix A).
+    The brand persona provides a consistent point of reference for consumers across brand
+assets and represents the brand’s values to the world. A strategic deviation from an
+established brand persona would be an impactful form of incongruence that would
+make a strong impression. However, introducing incongruence directly with the brand
+persona is risky and would likely require a longer-term approach accompanied by
+a strategic change within the firm.
+
+Setting: time incongruence
+The setting of a story (i.e., time and place) is crucial to establishing context. In brand
+storytelling, time can be considered in two ways: the time in which a consumer encoun­
+ters a brand and its products, and the broader time period in which the brand exists in
+history. Introducing incongruence to the time of use shifts the context people use when
+thinking of the brand. A good example is the Subway Breakfast ad, which introduced
+customers to new morning hours and breakfast items (Appendix A). The ad features
+a disheveled character named Bruce who ‘is not designed to operate at 7 AM.’ One
+morning, Bruce stumbles into Subway ‘at the right time.’ The breakfast sub and coffee
+combo snaps Bruce out of his daze.
+   It is also possible to set a brand story in a time period not associated with the brand.
+This construal of time is more difficult to accomplish and comes with added costs such as
+                                                    JOURNAL OF STRATEGIC MARKETING       1273
+
+
+period staging and dress, and perhaps special effects. An example of this form of incon­
+gruence is the medieval knight ad campaign by Bud Light (Appendix A) that highlights
+the use of corn syrup in competitors’ beer. The medieval setting draws viewers in and
+grabs their attention.
+
+Setting: location incongruence
+The location of a story is vital to framing the other story elements. Consumers expect to
+encounter brands in certain locations but not others, which makes location a prime target
+for incongruity. A story posted by Minnetonka Moccasins (Appendix A) details a hiking
+adventure undertaken with the brand’s moccasins, including pictures taken at stops along
+the hike. Moccasins are usually sold for leisure use in the U.S., with a focus on style and
+comfort. Displaying them in a lounge or bedroom would be congruent with expectations.
+Taking them on a hike may cause consumers to reconsider the product’s characteristics.
+
+Plot: goal incongruence
+Plot is the engine that drives the story. A plot contains various elements, but this research
+focuses on the goal, challenge, and solution. A character strives to achieve a goal (i.e.,
+fulfill a want or need). For example, a mom tries to get her kids to school on time. In
+a brand story, the brand and its products are tied closely to the goal. To introduce
+incongruence, the storyteller needs to associate the brand with a goal not usually sought
+by the brand’s customers (or not usually fulfilled by the brand). This could change the way
+people think about the brand and its place in their lives.
+   An example is the Care Counts campaign by Whirlpool to address student dropout
+rates (Appendix A). The video features interviews with people like 4th grader Vanessa, who
+says ‘When I wake up in the morning and I find out I have no clean clothes, I usually end
+up just staying home.’ Another student said that when his family was homeless, they had
+to spend their money on food and not clean clothes. Whirlpool installed washers and
+dryers in schools to allow students to do their laundry and attend class without shame.
+Whirlpool has always been associated with doing laundry, but not with a goal such as
+keeping kids in the classroom.
+
+Plot: challenge/struggle incongruence
+When a character pursues a goal, the storyteller introduces tension to the story by placing
+challenges, or obstacles, in front of the character that they must overcome to achieve the
+goal. For example, a mom tries to get her kids to school on time, but breakfast takes too
+long. In congruent stories, the challenge rings true for the brand’s customers. In an
+incongruent story, the challenge is one not familiar to the brand’s typical customers. An
+example is the Maltesers chocolate ad in the U.K. (Appendix A). The ad features a disabled
+actress describing a romantic encounter that was almost cut short by her disability.
+
+Plot: help/solution incongruence
+As the character pursues the goal and struggles to overcome challenges, help emerges in
+the form of a brand’s product. The obstacles are overcome, and the character accom­
+plishes the goal. The mom can now get her kids to school on time with the help of
+Kellogg’s breakfast bars. In congruent stories, brands play to their known strengths and
+demonstrate how their products can help people accomplish their goals. In stories with an
+1274       D. M. HOUGHTON
+
+
+incongruent solution, the audience is shown a new side of the brand. An example is the
+Anheuser-Busch water canning ad (Appendix A). Everyone is familiar with the AB brand,
+but few people know they ship cans of water to hurricane relief sites, where clean fresh
+water is scarce. Another example is the Tesla customer story about a severe car accident
+that left the driver unscathed. People do not usually associate Tesla with safety.
+
+
+Future research
+The topic if incongruity in brand storytelling is rife with future research possibilities. First, with
+the help of technology, consumers can now be active participants or co-creators in brand
+storytelling (Lund et al., 2018; Singh & Sonnenburg, 2012). Consumers may naturally introduce
+incongruence into their stories, since their experiences with a brand will be diverse, unpre­
+dictable, and personal. Customer stories are unlikely to mimic the ways in which the brand
+portrays itself, and they will be seen as more authentic. Future research should examine the
+effectiveness of customer-introduced incongruity and how brands can harness it.
+   Second, the topic of strategic incongruity in storytelling can be further pursued. Tying
+storytelling elements and forms of incongruity to strategic marketing goals is the next
+logical step. For example, if a firm wanted to introduce a new product feature to an
+existing market to solve an emerging consumer problem, what would be the best way to
+highlight this feature using incongruity? How would this be different than the solution for
+introducing a new-to-the-world product? Answering these questions would require
+researchers to map the methods for achieving incongruence onto known strategy issues.
+Such an endeavor would be highly useful to marketers.
+   Third, while this research makes a strong case for the use of incongruity in storytelling,
+future research needs to empirically investigate the relationships proposed in the con­
+ceptual model. Experimental research exists on the use of incongruity in advertising (e.g.,
+Dahlén & Lange, 2004; Halkias & Kokkinaki, 2013, 2014), however no such studies exist for
+brand storytelling. Specifically, experiments should examine the impact of incongruity
+when used in each storytelling element. It is likely that some elements are more effective
+agents of incongruity than others. Additionally, brand, product, and industry factors will
+impact the effectiveness of incongruity in storytelling. For example, it is unclear if
+technology brands would benefit from placing the story out of time with the technology
+featured in the story. Doing so may have unintended consequences such as the technol­
+ogy being perceived as dated by the consumer.
+
+
+Disclosure statement
+No potential conflict of interest was reported by the author(s).
+
+
+
+ORCID
+David M. Houghton       http://orcid.org/0000-0003-4620-225X
+                                                               JOURNAL OF STRATEGIC MARKETING              1275
+
+
+References
+Adaval, R., & Wyer,Jr. R. S. (1998). The role of narratives in consumer information processing.
+   Journal of Consumer Psychology, 7(3), 207–245. https://doi.org/10.1207/s15327663jcp0703_01
+Amazeen, M. A., & Wojdynski, B. W. (2019). Reducing native advertising deception: Revisiting the
+   antecedents and consequences of persuasion knowledge in digital news contexts. Mass
+   Communication and Society, 22(2), 222–247. https://doi.org/10.1080/15205436.2018.1530792
+Anaza, N. A., Kemp, E., Briggs, E., & Borders, A. L. (2020). Tell me a story: The role of narrative
+   transportation and the C-suite in B2B advertising. Industrial Marketing Management, 89, 605–618.
+   https://doi.org/10.1016/j.indmarman.2019.02.002
+Anderson, N. H. (1988). A functional approach to person cognition. In T. K. Srull & R. S. Wyer Jr (Eds.),
+   A dual process model of impression formation (pp. 37–51). Lawrence Erlbaum Associates.
+Arbouw, P., Ballantine, P. W., & Ozanne, L. K. (2019). Sustainable brand image: An examination of ad–
+   brand incongruence. Marketing Intelligence & Planning, 37(5), 513–526. https://doi.org/10.1108/
+   MIP-08-2018-0307
+Beals, D. E. (1998). Reappropriating schema: Conceptions of development from Bartlett and Bakhtin.
+   Mind, Culture and Activity, 5(1), 3–24. https://doi.org/10.1207/s15327884mca0501_2
+Bhaduri, G., & Ha-Brookshire, J. (2017). The role of brand schemas, information transparency, and
+   source of message on apparel brands’ social responsibility communication. Journal of Marketing
+   Communications, 23(3), 293–310. https://doi.org/10.1080/13527266.2015.1040441
+Boerman, S. C., Willemsen, L. M., & Van Der Aa, E. P. (2017). “This post is sponsored”: Effects of
+   sponsorship disclosure on persuasion knowledge and electronic word of mouth in the context of
+   Facebook. Journal of Interactive Marketing, 38, 82–92. https://doi.org/10.1016/j.intmar.2016.12.002
+Campbell, M. C., & Kirmani, A. (2000). Consumers’ use of persuasion knowledge: The effects of
+   accessibility and cognitive capacity on perceptions of an influence agent. Journal of Consumer
+   Research, 27(1), 69–83. https://doi.org/10.1086/314309
+Chang, C. (2009). Being Hooked” by editorial content: The implications for processing narrative
+   advertising. Journal of Advertising, 38(1), 21–34. https://doi.org/10.2753/JOA0091-3367380102
+Coker, K. K., Flight, R. L., & Baima, D. M. (2017). Skip it or view it: The role of video storytelling in social
+   media marketing. Marketing Management Journal, 27(2), 75–87. http://www.mmaglobal.org/pub
+   lications/MMJ/MMJ-Issues/2017-Fall/MMJ-2017-Fall-Vol27-Issue2-Coker-Flight-Baima-pp75-87.
+   pdf
+Cooper, H., Schembri, S., & Miller, D. (2010). Brand-self identity narratives in the James Bond movies.
+   Psychology & Marketing, 27(6), 557–567. https://doi.org/10.1002/mar.20344
+Dahlén, M., & Lange, F. (2004). To challenge or not to challenge: Ad-brand incongruency and brand
+   familiarity. Journal of Marketing Theory and Practice, 12(3), 20–35. https://doi.org/10.1080/
+   10696679.2004.11658522
+DeRosia, E. D., Lee, T. R., & Christensen, G. L. (2011). Sophisticated but confused: The impact of brand
+   extension and motivation on source confusion. Psychology & Marketing, 28(5), 457–478. https://
+   doi.org/10.1002/mar.20396
+Dunlop, S. M., Wakefield, M., & Kashima, Y. (2010). Pathways to persuasion: Cognitive and experi­
+   ential responses to health-promoting mass media messages. Communication Research, 37(1),
+   133–164. https://doi.org/10.1177/0093650209351912
+Escalas, J. E. (2004). Narrative processing: Building consumer connections to brands. Journal of
+   Consumer Psychology, 14(1–2), 168–180. https://www.sciencedirect.com/science/article/abs/pii/
+   S1057740804701448
+Escalas, J. E. (2007). Self-referencing and persuasion: Narrative transportation versus analytical
+   elaboration. Journal of Consumer Research, 33(4), 421–429. https://doi.org/10.1086/510216
+Friestad, M., & Wright, P. (1994). The persuasion knowledge model: How people cope with persua­
+   sion attempts. Journal of Consumer Research, 21(1), 1–31. https://doi.org/10.1086/209380
+Germelmann, C. C., Herrmann, J. L., Kacha, M., & Darke, P. R. (2020). Congruence and incongruence in
+   thematic advertisement–medium combinations: Role of awareness, fluency, and persuasion
+   knowledge. Journal of Advertising, 49(2), 141–164. https://doi.org/10.1080/00913367.2020.
+   1745110
+1276       D. M. HOUGHTON
+
+
+Gilliam, D. A., & Flaherty, K. E. (2015). Storytelling by the sales force and its effect on buyer–seller
+   exchange. Industrial Marketing Management, 46, 132–142. https://doi.org/10.1016/j.indmarman.
+   2015.01.013
+Green, M. C. (2004). Transportation into narrative worlds: The role of prior knowledge and perceived
+   realism. Discourse Processes, 38(2), 247–266. https://doi.org/10.1207/s15326950dp3802_5
+Green, M. C., & Brock, T. C. (2000). The role of transportation in the persuasiveness of public
+   narratives. Journal of Personality and Social Psychology, 79(5), 701–721. https://doi.org/10.1037/
+   0022-3514.79.5.701
+Grigsby, J. L., & Mellema, H. N. (2020). Negative consequences of storytelling in native advertising.
+   Journal of Interactive Marketing, 52, 61–78. https://doi.org/10.1016/j.intmar.2020.03.005
+Halkias, G. (2015). Mental representation of brands: A schema-based approach to consumers’
+   organization of market knowledge. Journal of Product & Brand Management, 24(5), 438–448.
+   https://doi.org/10.1108/JPBM-02-2015-0818
+Halkias, G., & Kokkinaki, F. (2013). Increasing advertising effectiveness through incongruity-based
+   tactics: The moderating role of consumer involvement. Journal of Marketing Communications, 19
+   (3), 182–197. https://doi.org/10.1080/13527266.2011.592346
+Halkias, G., & Kokkinaki, F. (2014). The degree of ad–brand incongruity and the distinction between
+   schema-driven and stimulus-driven attitudes. Journal of Advertising, 43(4), 397–409. https://doi.
+   org/10.1080/00913367.2014.891087
+Heckler, S. E., & Childers, T. L. (1992). The role of expectancy and relevancy in memory for verbal and
+   visual information: What is incongruency? Journal of Consumer Research, 18(4), 475–492. https://
+   doi.org/10.1086/209275
+Herskovitz, S., & Crystal, M. (2010). The essential brand persona: Storytelling and branding. Journal of
+   Business Strategy, 31(3), 21–28. https://doi.org/10.1108/02756661011036673
+Hirschman, E. C. (2010). Evolutionary branding. Psychology & Marketing, 27(6), 568–583. https://doi.
+   org/10.1002/mar.20345
+Jameson, F. (1981). The political unconscious: Narrative as a socially symbolic act. Methuen.
+Jing Wen, T., Kim, E., Wu, L., & Dodoo, N. A. (2020). Activating persuasion knowledge in native
+   advertising: The influence of cognitive load and disclosure language. International Journal of
+   Advertising, 39(1), 74–93. https://doi.org/10.1080/02650487.2019.1585649
+Kim, J. E., Lloyd, S., & Cervellon, M. C. (2016). Narrative-transportation storylines in luxury brand
+   advertising: Motivating consumer engagement. Journal of Business Research, 69(1), 304–313.
+   https://doi.org/10.1016/j.jbusres.2015.08.002
+Lamb, N. (2008). The art and craft of storytelling: A comprehensive guide to classic writing techniques. F
+   +W Media.
+Lee, E. J., & Schumann, D. W. (2004). Explaining the special case of incongruity in advertising:
+   Combining classic theoretical approaches. Marketing Theory, 4(1–2), 59–90. https://doi.org/10.
+   1177/1470593104044087
+Lemon, K. N., & Verhoef, P. C. (2016). Understanding customer experience throughout the customer
+   journey. Journal of Marketing, 80(6), 69–96. https://doi.org/10.1509/jm.15.0420
+Lund, N. F., Cohen, S. A., & Scarles, C. (2018). The power of social media storytelling in destination
+   branding. Journal of Destination Marketing & Management, 8, 271–280. https://doi.org/10.1016/j.
+   jdmm.2017.05.003
+Lundqvist, A., Liljander, V., Gummerus, J., & Van Riel, A. (2013). The impact of storytelling on the
+   consumer brand experience: The case of a firm-originated story. Journal of Brand Management, 20
+   (4), 283–297. https://doi.org/10.1057/bm.2012.15
+Maille, V., & Fleck, N. (2011). Perceived congruence and incongruence: Toward a clarification of the
+   concept, its formation and measure. Recherche Et Applications En Marketing (English Edition), 26(2),
+   77–113. https://doi.org/10.1177/205157071102600204
+Mandler, G. (1982). The structure of value: Accounting for taste. In M. S. Clark & S. T. Fiske (Eds.),
+   Affect and Cognition: The Seventeenth Annual Carnegie Symposium on Cognition (pp. 3–36).
+   Erlbaum.
+                                                            JOURNAL OF STRATEGIC MARKETING             1277
+
+
+Meyers-Levy, J., Louie, T. A., & Curren, M. T. (1994). How does the congruity of brand names affect
+   evaluations of brand name extensions? Journal of Applied Psychology, 79(1), 46–53. https://doi.
+   org/10.1037/0021-9010.79.1.46
+Meyers-Levy, J., & Tybout, A. M. (1989). Schema congruity as a basis for product evaluation. Journal
+   of Consumer Research, 16(1), 39–54. https://doi.org/10.1086/209192
+Mortimer, N. (2015). Infographic: 80% people want brands to tell stories. The Drum. Retrieved
+   December 7, 2019 from. https://www.thedrum.com/news/2015/06/22/infographic-80-people-
+   want-brands-tell-stories
+Paul, A. M. (2012). Your brain on fiction. The New York Times (online). Retrieved December 5, 2019,
+   from https://www.nytimes.com/2012/03/18/opinion/sunday/the-neuroscience-of-your-brain-on-
+   fiction.html
+Phillips, B. J., & McQuarrie, E. F. (2010). Narrative and persuasion in fashion advertising. Journal of
+   Consumer Research, 37(3), 368–392. https://doi.org/10.1086/653087
+Polyorat, K., Alden, D. L., & Kim, E. S. (2007). Impact of narrative versus factual print ad copy on
+   product evaluation: The mediating role of ad message involvement. Psychology & Marketing, 24
+   (6), 539–554. https://doi.org/10.1002/mar.20172
+Schank, R. C. (1990). Tell me a story: A new look at real and artificial memory. Scribner.
+Schank, R. C., & Abelson, R. P. (1995). Knowledge and memory: The real story. In R. S. Wyer Jr. (Ed.),
+   Advances in social cognition (Vol. 8, pp. 1–85). Erlbaum.
+Seo, Y., Li, X., Choi, Y. K., & Yoon, S. (2018). Narrative transportation and paratextual features of social
+   media in viral advertising. Journal of Advertising, 47(1), 83–95. https://doi.org/10.1080/00913367.
+   2017.1405752
+Shen, Y. C., & Chen, T. C. (2006). When East meets West: The effect of cultural tone congruity in ad
+   music and message on consumer ad memory and attitude. International Journal of Advertising, 25
+   (1), 51–70. https://doi.org/10.1080/02650487.2006.11072951
+Singh, S., & Sonnenburg, S. (2012). Brand performances in social media. Journal of Interactive
+   Marketing, 26(4), 189–197. https://doi.org/10.1016/j.intmar.2012.04.001
+Sujan, M., & Bettman, J. R. (1989). The effects of brand positioning strategies on consumers’ brand
+   and category perceptions: Some insights from schema research. Journal of Marketing Research, 26
+   (4), 454–467. https://doi.org/10.1177/002224378902600407
+Turner, M. (1998). The literary mind. Oxford University Press.
+Van Laer, T., De Ruyter, K., Visconti, L. M., & Wetzels, M. (2013). The extended transportation-imagery
+   model: A meta-analysis of the antecedents and consequences of consumers’ narrative transpor­
+   tation. Journal of Consumer Research, 40(5), 797–817. https://doi.org/10.1086/673383
+Vizard, S. (2017). 60% of content created by brands is ‘just clutter.’ MarketingWeek. Retrieved
+   December 12, 2019, from https://www.marketingweek.com/content-havas-meaningful-brands/
+Wentzel, D., Tomczak, T., & Herrmann, A. (2010). The moderating effect of manipulative intent and
+   cognitive resources on the evaluation of narrative ads. Psychology & Marketing, 27(5), 510–530.
+   https://doi.org/10.1002/mar.20341
+Yoon, H. J. (2013). Understanding schema incongruity as a process in advertising: Review and future
+   recommendations. Journal of Marketing Communications, 19(5), 360–376. https://doi.org/10.
+   1080/13527266.2012.671187
+
+
+
+Appendix A. Examples of Incongruity in Brand Storytelling
+Anheuser-Busch immigrant origin story
+  ‘Born the Hard Way’
+  Source: https://www.youtube.com/watch?v=7ZmlRtpzwos
+  Anheuser-Busch water canning ad
+  ‘Stand By You’
+  Source: https://www.youtube.com/watch?v=GNVw5f16GEM
+  Ariel India laundry soap ad
+  ‘#ShareTheLoad’
+1278     D. M. HOUGHTON
+
+
+  Source: https://www.youtube.com/watch?v=8QDlv8kfwIM
+  Bud Light medieval knights ad
+  ‘Special Delivery’
+  Source: https://www.youtube.com/watch?v=LkHvj_KEHBk
+  Maltesers chocolates ad series
+  ‘New Boyfriend’
+  Source: https://www.youtube.com/watch?v=YgUqmKQ9Lrg
+  ‘Theo’s Dog’
+  Source: https://www.youtube.com/watch?v=lYIEAIogarI
+  Minnetonka moccasins
+  ‘Everyday Adventure Big Pine Creek’
+  Source: https://www.minnetonkamoccasin.com/blog/everyday-adventure-big-pine-creek/
+  Subway UK Ireland breakfast ad
+  ‘My Sub, My Way’
+  Source: https://www.youtube.com/watch?v=dYrOJGQQqc0
+  Tesla customer story
+  ‘Safety First’
+  Source: https://www.youtube.com/watch?v=naxbzoME6V4
+  Whirlpool program to install washers and dryers in schools to reduce absences
+  ‘Care Counts’
+  Source: https://www.youtube.com/watch?v=oxbipSM8GmA
+Copyright of Journal of Strategic Marketing is the property of Routledge and its content may
+not be copied or emailed to multiple sites or posted to a listserv without the copyright holder's
+express written permission. However, users may print, download, or email articles for
+individual use.
+

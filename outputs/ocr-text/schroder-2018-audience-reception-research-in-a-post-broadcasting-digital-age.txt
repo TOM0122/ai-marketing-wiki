@@ -1,0 +1,683 @@
+811114
+research-article2018
+                       TVNXXX10.1177/1527476418811114Television & New MediaSchrøder
+
+
+
+
+                                                        Article
+                                                                                                                                              Television & New Media
+                                                                                                                                            2019, Vol. 20(2) 155­–169
+                                                        Audience Reception Research                                                             © The Author(s) 2018
+                                                                                                                                              Article reuse guidelines:
+                                                        in a Post-broadcasting Digital                                           sagepub.com/journals-permissions
+                                                                                                                                 DOI:    10.1177/1527476418811114
+                                                                                                                              https://doi.org/10.1177/1527476418811114
+                                                        Age                                                                          journals.sagepub.com/home/tvn
+
+
+
+
+                                                        Kim Christian Schrøder1
+
+
+
+                                                        Abstract
+                                                        Audience reception research was a child of the broadcasting age, emerging strongly
+                                                        as a subdiscipline in media and communication research in the 1980s. Many saw
+                                                        reception research as a cross-fertilizing force theoretically and methodologically,
+                                                        bringing together research traditions from the humanities and the social sciences,
+                                                        and adding a qualitative orientation to the near-hegemonic rule of quantitative
+                                                        methods in audience research. This article discusses the ways in which reception
+                                                        research is reinventing itself in a post-broadcasting age. With sense-making processes
+                                                        as the continued key concern, three transformations are affecting the trajectory
+                                                        of reception research: An empirical shift has occurred from analyzing viewers’
+                                                        “decoding” encounters with media “texts” to mapping audience participation in the
+                                                        wider mediascapes of traditional, digital, and social media; a theoretical adoption of,
+                                                        and contributions to, theories of participation and mediatization; and a methodological
+                                                        shift from purely qualitative to a mixed-method research design.
+
+                                                        Keywords
+                                                        audiences, reception, mixed-methods, sense-making, mediatization, post-broadcasting
+
+
+                                                        In the current scholarly climate of audience research, where theoretical interdisciplin-
+                                                        arity and methodological complementarity appear to have become the new normal, it
+                                                        may sound strange to the ears of young generations of audience researchers that little
+                                                        more than three decades ago, social scientific and cultural paradigms of audience anal-
+                                                        ysis were generally perceived to be, in the words of two prominent representatives of
+                                                        the social science tradition, “altogether incompatible” (Blumler et al. 1985, 271).
+
+                                                        1Roskilde University, Denmark
+
+
+                                                        Corresponding Author:
+                                                        Kim Christian Schrøder, Professor, Department of Communication, Roskilde University, Building 40.3,
+                                                        Universitetsvej 1, DK-4000 Roskilde, Denmark.
+                                                        Email: kimsc@ruc.dk
+156                                                             Television & New Media 20(2)
+
+Conversely, within humanistic and cultural media research, there was widespread
+reluctance, if not outright refusal, to study audiences empirically (Jensen 1986, 2–3).
+The state of the world before reception research was succinctly summarized by two of
+the pioneers of then embryonic reception research, Elihu Katz and Tamar Liebes
+(1985, 4–5):
+
+   Some of us are studying the texts of popular culture while others are studying their effects
+   on audiences. . . . The former . . . don’t know anything about the audience, and the latter
+   . . . don’t know anything about the texts.
+
+From this point of departure, it became the historical mission of reception research to
+shed empirical light on how audiences make sense of their encounters with mass
+media, especially television programs.
+    This article takes its point of departure in this heritage, and considers whether
+reception research still has a contribution to make in the post-broadcasting, digital age.
+I shall demonstrate through analytical examples that an emic everyday life perspective
+on people’s uses of digital and social media is as indispensable as it was when our
+cultural universe consisted of print and broadcast media; that understanding audi-
+ences’ acts of engagement is necessary to conceptualize processes of mediatization;
+that tracking-data about digital media use has little value if not contextualized by qual-
+itative contextual insights; and that reception research can play an innovative method-
+ological role by integrating qualitative and quantitative tools.
+    This is not the place to recount the historical struggles through which reception
+research established itself as a new paradigm (see Jensen and Rosengren 1990;
+Schrøder 1987), but a few words are necessary to portray the main constituents of the
+then scholarly newcomer. On one hand, early reception researchers did recognize that
+the paradigm of uses and gratifications research had transformed the previously domi-
+nant tradition of effects research by famously asking not what the media do to people,
+but what people do with the media; where reception researchers found uses and grati-
+fications research wanting was in its lack of attention to how audiences make sense of
+the media they use.
+    On the other hand, reception research also aimed its critical fire on the speculative
+insights about media influence offered by humanistic analysis of media texts, on the
+basis of the scholars’ analytical introspection: “Guesswork indulged in within the
+walls of academia must be replaced, or supplemented, by fieldwork requiring expedi-
+tions into the real world of the audience” (Schrøder 1987, 17).
+
+
+The DNA of Early Reception Research
+Poised between these two entrenched paradigms of the social sciences and the human-
+ities and, as Klaus Bruhn Jensen polemically put it, taking its theory from the humani-
+ties and its method from the social sciences (Jensen 1991, 135), David Morley (1980,
+11)—author of early authoritative work on reception—defined reception as the semi-
+otic process through which “audiences differentially read and make sense of messages
+Schrøder                                                                              157
+
+which have been transmitted, and act on those meanings, within the context of the rest
+of their situation and experience.”
+    In this brief definition, we find some keywords, which taken together, may serve to
+make the theoretical DNA of early reception research explicit: the word “read” encap-
+sulates the insistence that mediated communication is not simply about “transmitting”
+a message from senders to receivers, it is, on the contrary, a “sense-making” process
+that requires natural as well as acquired literacy skills, not just for interpreting alpha-
+betically based “texts” (cf. Janice Radway’s Reading the Romance in 1984), but also
+for Reading Television, as John Fiske and John Hartley (1978) significantly titled their
+seminal book. As this mind-set was imported from media studies into communication
+research, “the sense-making approach” even became the brand name of Dervin’s revo-
+lutionizing redefinition of campaign research (Dervin 1989).
+    The term read also invokes associations with the semiotic roots of reception
+research, which were made explicit in Stuart Hall’s canonical paper (Gurevitch and
+Scannell 2003; Hall 1973) about the need to theorize and empirically explore the
+“encoding” and “decoding” of television discourses. As it turned out, the time around
+1980 was ripe for the reception-analytical focusing on the meaning-making “decod-
+ing” practices of audiences, while it took a couple of decades until the encodings of
+media producers became part of the research agenda (Deacon et al. 1999).
+    As an antidote to potentially individualizing understandings of what reception was
+about, Morley’s definition also specified that people’s meaning-making from media
+discourses must be studied in their societal “contexts” as well as their “situational”
+circumstances of place and time. The social context requirement was built into the
+Marxist knowledge interest of early reception research, whose whole raison d’être
+was to understand how class-based audience groups would perform their ideologi-
+cally loaded “dominant readings” of the (news) media’s hegemonic “preferred mean-
+ing,” designed to win consent for a social order based on the class dominance of the
+ruling class, while not-so-compliant audiences would also have the possibility to read
+this ideological message in “negotiated” or “oppositional ways.” In later times, when
+class-oriented Marxist analysis (Fiske 1987; Morley 1980) was supplanted by other
+forms of critical knowledge interests, reception research would focus, for instance, on
+the ways in which heteronormative media portrayals of gender were experienced by
+people with a variety of gender-cultural orientations (Dhoest 2009), just as relations
+of mediated cultural power were analyzed from an ethnic perspective (Gillespie
+1995).
+    The “situational” requirement typically manifested itself in analyses of how televi-
+sion culture played out in domestic, often gendered, patriarchal contexts, for instance,
+David Morley’s study in Family Television (1986) of struggles over television channel
+and program selection; Ann Gray’s study of women’s use of video recorders as an
+emancipatory technology (Gray 1992); or James Lull’s semi-ethnographic analysis of
+the ways American families orchestrate domestic everyday life around television (Lull
+1980; see also Ang 1995).
+    One additional characteristic of early reception research was the concern with the
+possible cultural imperialism (Schiller 1971) inherent in the massive import of
+158                                                       Television & New Media 20(2)
+
+American popular culture products, especially TV serials, across the globe. On the
+whole, reception studies of how local populations made sense of soap operas such as
+Dallas and Dynasty served to allay the fears of other cultures being culturally overrun
+by these American series: local viewers’ interpretations turned out to be solidly
+anchored in indigenous cultures (Liebes and Katz 1990), and they vastly preferred
+equivalent domestically produced fare to the U.S. imports (Biltereyst 1991; see also
+Livingstone 1988). More generally, this research also spoke to a research-political
+agenda, which was inherited from the emerging cultural studies paradigm (Hoggart
+1957; Williams 1958) aiming to rehabilitate popular culture as a legitimate object of
+academic study and as potentially holding cultural quality for its devoted, and aestheti-
+cally sophisticated, audiences (Schrøder 1992).
+   Not too surprisingly in light of such knowledge interests, the founding mothers and
+fathers of reception research insisted that mediated sense-making could only be stud-
+ied with qualitative methods. It was the purpose of empirical fieldwork, typically in
+the form of individual or focus group interviews, to elicit audiences’ narratives and
+verbalized meanings about their media experiences, and, next, to apply bottom-up,
+grounded theory, analytical methods to distill the mosaics of meaning created by audi-
+ence members from the encounter with media texts.
+
+
+Reception Research—Trajectory into the Digital Age
+We now live in a different media systemic regime of digital, mobile, and participatory
+media, with media use taking place not just, or even mainly, in the home, but, as the
+saying goes, “anywhere any time.” In skeletal form, the way in which the historical
+journey of reception research since the 1970s has accompanied the revolutionizing
+technological and cultural developments over four decades has been interpreted by
+Schrøder (2012a) in the form of five consecutive, and to some extent overlapping,
+stages of reception research, focusing on reception analytical works that have explored
+the citizenship and the workings of mediated democracies in the areas of televised
+news and current affairs.
+    The first stage (hegemonic citizenship, approximately 1973–1990) corresponds to
+the portrait presented above, where reception research analyzed the formation of polit-
+ical consciousness in a class-divided society (Hall 1973; Morley 1980). The second
+stage (monitorial citizenship, approximately 1985 onward) adopted a less politically
+radical critique of the news media. The aim was to find out how news media equipped
+citizens to function as political subjects in a representative democracy, by enabling
+them to monitor and understand what is going on and how democratic society works
+(Jensen 1986; Lewis 1991).
+    The third stage (popular citizenship, approximately 1994 onward) saw the appear-
+ance of Livingstone and Lunt’s (1994) ground-breaking study of the reception of stu-
+dio debate programs. This study was unique in adding a quantitative survey study to
+the primarily qualitative one, to corroborate the qualitative findings on a representa-
+tive scale (Livingstone et al. 1994).
+Schrøder                                                                              159
+
+   The fourth stage (participatory citizenship, approximately 2000 onward) reflected
+the reception analytical interests that arose as a response to the emerging convergence
+culture with its initially predominantly utopian expectations that the digital affor-
+dances would lead to higher levels of political participation and mediated activism
+among audiences (Carpentier 2003).
+   Finally, the fifth stage (ubiquitous citizenship, approximately 2005 onward) sees
+the emergence of citizenship-oriented reception research—citizenship being “ubiqui-
+tous,” both because smartphones enable media use spatially anywhere and temporally
+anytime, and because, in the words of Jeffrey Jones (2006, 9), the realm of the political
+has been extended beyond Habermas’s public sphere: “We engage politics every-
+where, all the time, and the media are central to that engagement.” The work of Irene
+Costera Meijer is emblematic of this stage, as—using a diverse range of methods:
+surveys, focus groups, diaries, and so forth—she analyzes people’s perceptions of
+news content accessed on different devices, as well as news consumers’ navigation
+practices in all areas of the cross-media landscape (Costera Meijer 2007; Kormelink
+and Costera Meijer 2017).
+
+Is There a Role for Reception Research in the Post-
+broadcasting Age?
+The latest addition to the story told in the previous section has been accomplished by
+the participants in the CEDAR network—the Consortium on Emerging Directions in
+Audience Research, populated by early career scholars in audience and reception
+research, whose impressive final report (Das and Ytre-Arne 2018) has combined, on
+behalf of audience research, both hindsight and foresight endeavors, which map the
+past achievements as well as the desired future directions of audience and reception
+research. One of CEDAR’s research priorities for the future, as they single out the
+overall need to better understand the current challenges of emerging intrusive media
+technologies and the Internet of Things, manifests itself as an explicit plea for continu-
+ing the fundamental agenda instituted by reception research in its formative years.
+   Noting that much digital media research today is heavily platform-focused, it is Das
+and Ytre-Arne’s first priority to argue for the urgency and necessity of conducting
+bottom-up, everyday empirical understandings of audiences as participating agents in
+the increasingly datafied culture. In wishing to promote this endeavor, notably, they
+echo the focus on “reading” noted above, calling for “a renewed commitment to
+research widespread and fundamental audience experiences such as reading, viewing
+and interpreting, also with regards to social, digital and newer media developing a
+more careful balance between interest in production and other audience practices”
+(Das and Ytre-Arne 2017, 69).
+   Before proceeding with my argument, it is necessary to update and widen earlier
+definitions of reception research. Elsewhere, I have suggested that the scope of recep-
+tion research today should encompass “all forms of research which, irrespective of
+methodological approach, try to understand all audience sense-making processes
+160                                                           Television & New Media 20(2)
+
+around media, without privileging audiences’ receptive interpretation of concrete
+media products” (Schrøder 2016, 1).
+    This definition, however, begs the question of whether there are any audiences to
+study at all in the present media culture. We are all familiar with Rosen’s often quoted
+statement that from now on, we must study “the people formerly known as the audi-
+ence” (Rosen 2006), and reception scholars have asked if, when people are immersed
+in the culture of participation, “are they still audiences?” (Livingstone 2013, 104).
+    The bold and sweeping answer to this question is that in a deeply mediatized cul-
+ture, people—at least those who have turned themselves into digital natives, who are
+online accessible during all their waking hours—are audiences all the time: they are
+never not audiences! As Livingstone (2013, 22) has phrased it,
+
+   where once people moved in and out of their status as audiences, using media for specific
+   purposes and then doing something else . . . in our present age of continual immersion in
+   media, we are now continually and unavoidable audiences at the same time as being
+   consumers, relatives, workers, and . . . citizens and publics.
+
+Thus, we can define the term “audience” as the people who, in their capacity as social
+actors, are attending to, negotiating the meaning of, and sometimes participating in the
+multimodal processes initiated or carried out by institutional media. And, as reception
+researchers, we have something to offer for the study of such audiences.
+    As argued above, in its origins, reception research was a crossroads, a site of cross-
+fertilization, a platform that reinvigorated its mother and father paradigms, before
+eventually establishing itself as an academic paradigm in its own right. In the remain-
+der of this article, I shall discuss how it can play a similar formative role today, dem-
+onstrating some of the ways in which, as Livingstone and Das (2013, 105) put it, “the
+critical repertoire of ideas and insights developed to rethink the mass television audi-
+ence in the 1980s and 1990s . . . is now coming into its own . . . to reveal its full ana-
+lytic power and potential.”
+    The following discussion will consider four ways in which reception research is
+redefining itself for the digital age. First, reception researchers are continuing their
+foundational project by exploring sense-making audiences in the digital and social
+media landscape; second, reception research, jointly with audience research in gen-
+eral, can contribute to the “audience turn” in mediatization research; then, in the form
+of brief pointers, I notice how reception research has an indispensable role to play in
+contextualizing datafied research through anchoring it in actors’ meaningful practices;
+and how reception researchers are revitalizing qualitative methods in a methodologi-
+cal climate where mixed methods have become the new normal.
+
+
+Exploring Sense-making across the Digital and Social Media Landscape
+I already noted that the suggested research agenda for audience analysis put forward
+by the CEDAR Consortium included a commitment to continuing the research per-
+spective practiced by reception research, that is, to study “readings” of media
+Schrøder                                                                              161
+
+discourses in the age of social media. For instance, Jensen and Sørensen (2014) have
+studied people’s uses and experiences of online social networks such as Facebook,
+combining insights drawn from netnographic analysis of users’ Facebook profiles
+(Kozinets 2010), focus group discussions with users, and a web-based survey.
+Interestingly, this multimethod design echoes the once prescriptive recipe to combine
+a detailed textual analysis of the mediated content (such as a soap opera, or a news
+bulletin) with the ways audience members made sense of this textual content; only,
+when the mediated textual content is Facebook profiles, this content has not been pro-
+duced by commercial cultural industries, but is coproduced by the Facebook users
+themselves and their platform friends. It can, thus, be said to be a discourse created by
+the very audiences whose reflections are analyzed through the qualitative and quanti-
+tative fieldwork.
+    Reception researchers have also recently pursued knowledge interests that echo
+some of the early reception studies of globally disseminated fiction formats. No less
+than two ambitiously large-scale comparative studies of The Hobbit Hollywood film
+trilogy, tracing audience responses to the cinema or home television screen experi-
+ence, as well as their relations to fan practices in online games and on social media,
+have tried to answer the overall reception-analytical question (here in the phrase of
+one of them): “in what ways does something originating as an English children’s story
+acquire meaning and value for different audiences across the world?” (Barker and
+Mathijs 2016; see also Davis et al. 2016).
+    Among the specific research questions were, for instance, how different audiences
+understand the kind of film it is; how do audiences relate their responses to wider (real,
+digital, virtual, or imagined) fan or non-fan communities; and to what extent do they
+participate in online discussions and gaming? Using a hybrid qualitative/quantitative
+approach, the questionnaire experimented with different types of questions: in addi-
+tion to standard closed questions, the questionnaire encompassed no less than eleven
+completely open questions with no word limit, such as “Who was your favourite char-
+acter, in the book or the films? Can you say why?” The questionnaire was, thus,
+designed to both generate generalized patterns of viewers’ experiences, and to under-
+stand the complex cultural meanings of the cinema-goers’ experiences (Barker and
+Mathijs 2016).
+    As demonstrated above, early reception research of the first stage (hegemonic citi-
+zenship) sought to find out how audiences handled the hegemonic forces of the media,
+by applying dominant, negotiated, or oppositional reading strategies. In the CEDAR
+mind-set, audiences today are facing a parallel scenario, where the hegemonic force of
+digital media manifests itself as an intrusive and potentially exploitative force in peo-
+ple’s lives (Dhaenens and Mollen 2017). What we should study in this scenario, they
+suggest, is how audiences are coping with these intrusive media, by developing new
+forms of literacy that approach media as both technologies and processes of
+sense-making.
+    In this pursuit, they are struggling with some of the same conceptual problems that
+faced 1970s reception research, notably the power of the mass media’s preferred mean-
+ings: in the digital environment, this is being translated into “the risk of
+162                                                      Television & New Media 20(2)
+
+oversimplifying, ascribing either too much or too little power to platforms” (Dhaenens
+and Mollen 2017, 25). The earlier interest in dominant, negotiated, and oppositional
+readings can be seen today to be mirrored in the focus on, respectively, coping and
+resistance strategies.
+   Mathieu and Pavlíčková (2017) demonstrate how a reception-analytical approach
+is eminently suited for this kind of analysis, as they explore how the reading of
+Facebook’s newsfeed—an inherent cross-media activity—can be seen as a sense-mak-
+ing activity that contributes to the construction of the user’s mediated life world.
+Among other things, they map the ways in which users “cope” by applying “upstream”
+reading strategies that control the algorithmic content flow before it appears in the
+newsfeed, and “downstream” strategies to determine the immediate relevance of a
+post while reading the newsfeed.
+   As mentioned above, modern-day reception researchers are also populating the
+research terrain analyzing how audiences make sense of their mediated life worlds, not
+least as part of the audience turn in journalism research. In addition to the work of
+Costera Meijer (2007), Bird (2011, 490) explores with an ethnographic lens, which
+sees “news as a form of cultural meaning-making,” how news is inserted in everyday
+routines and how people talk about news. Heikkilä and Ahva (2015, 52) demonstrate
+the value of moving “beyond the determinate moments of reception—a given act of
+reading, watching or clicking—to grasp the broader environment wherein people
+encounter media products.”
+
+
+Promoting an Audience Turn in Mediatization Research
+Recently, I have, with a term that has a somewhat tongue-in-cheek quality, suggested
+that mediatization research is in need of “audiencization” (Schrøder 2017), due to the
+fact that the role of media audiences has until now not been recognized in mediatiza-
+tion research. After having reviewed recent authoritative research publications on
+mediatization, Lundby (2016, 2) concluded that “audiences are more or less left out in
+mediatization research.” Brants and van Praag (2017, 403) have argued that “media
+logics,” one of the central concepts of mediatization theory, “largely ignores . . . the
+place and importance of considerable parts of the public as a potentially empowered,
+active and participating force” (see also Witschge 2014; and Livingstone in this spe-
+cial issue).
+    Conversely, one has to admit, in current reception research, that the advances made
+by mediatization theory during the last eight to ten years are conspicuous by their
+absence. I would, therefore, suggest that mediatization research and reception research
+should take each other on board, as they both have a lot to gain from such a theoretical
+and empirical cross-fertilization.
+    Through such a rapprochement, audience reception research would benefit from the
+insights of one of the most promising ways to conceptualize the media/culture nexus, as
+it offers a holistic theory about how the media play a formative role in social and cul-
+tural transformations. The term “formative role” is another way of saying that mediati-
+zation theory comes with a power perspective, which both goes beyond simplistic effect
+Schrøder                                                                               163
+
+claims coming from media content, and beyond the technological-determinist medium
+theory. Instead, mediatization theory considers the cross-media ensemble to be a mold-
+ing force on culture and society.
+    As I see it, of the two main varieties of mediatization research, institutionalist and
+constructivist, it is especially in institutionalist mediatization research that the indi-
+vidual audience member is merely seen as a reactive agent, someone who must learn
+how to adapt to and cope with the forces of mediatization, rather than as someone who
+is also actively implicated in the constitutive complexity of mediatization. This is not
+the place to go into details with the varieties of mediatization research, nor is it produc-
+tive to take sides and choose one over the other. Following the argument of Livingstone
+and Lunt (2014), we should see the two varieties as complementary. They are suited
+for different purposes, as the institutionalist and constructivist perspectives can explain
+different aspects of the media/society nexus.
+    Suffice it to be said, therefore, that constructivist mediatization theory (see, for
+instance, Hasebrink and Hepp 2017; Hepp 2013) lends itself more readily to a mar-
+riage with reception research, as it conceives of human actors as an essential unit of
+analysis. With a non-media-centric point of departure, constructivist mediatization
+theory focuses on constellations (or “figurations”) of communicating actors (“audi-
+ences”), who build their media repertoires out of the available media ensembles, to
+carry out their relevant activities. Constructivist mediatization research encompasses
+audience practices, but does not recognize the ways in which practices of agency may
+aggregate into a cumulative collective force. It is, therefore, in need of “audienciza-
+tion” (Schrøder 2017).
+    Reception research will do well to also seek marriage with institutionalist media-
+tization theory, which operates on the meso-societal level, analyzing the ways in
+which the media, conceptualized as a societal institution, interact with other societal
+institutions (Hjarvard 2013; Strömbäck 2008). In this process of institutional interac-
+tion, it is evidently correct that “other institutions to an increasing degree become
+dependent on resources that the media control, so that they will have to submit to
+some of the rules the media operate by in order to gain access to those resources”
+(Hjarvard 2013, 23).
+    These “rules” of the media manifest themselves as the so-called “media logics,”
+which are constituted by their properties: technological, aesthetic, and institutional,
+and increasingly impose themselves on other—political, religious, educational, and so
+on—institutions.
+    I have argued elsewhere (Schrøder 2017) that audience dynamics should be seen as
+a necessary part of the institutional anatomy of “media logics,” and that they, there-
+fore, play an integral, formative role in the institutional influence exerted by the media
+in their interrelations with other societal institutions (see Figure 1). Historically and at
+any given point in time, the media institution, as well as specific media, are co-shaped
+by the ways in which audiences select and expose themselves to the media, the ways
+in which media discourses—directly or obliquely—mirror audience discourses, and
+the ways in which audience mobilizations may impinge directly on media behavior.
+164                                                        Television & New Media 20(2)
+
+
+
+
+Figure 1. Adding “audience dynamics” to the mutual adaptations to logics from various
+institutional domains.
+Source: Adapted from Hjarvard (2016).
+
+
+    The “audiencization” of mediatization, thus, means that any analysis of mediatiza-
+tion processes should, in principle, incorporate associated audience activities that
+derive from attention to or engagement with the media in question, considering how
+this audience activity exerts a formative influence, however small, on media and
+thereby on the relationship between the media and other societal institutions.
+    For Witschge (2014) and for Brants and van Praag (2017), the need to take audience
+dynamics seriously stems from the transformed role of audiences in the digital culture
+with the tendentially seamless relations between media consumption and production.
+My plea for the audiencization of mediatization research leans on a more fundamental
+understanding of the role that audiences have always played, in the broadcasting
+regime and further back into history, as a formative power on the entire communica-
+tive circuit of the media in society.
+    The idea of audiencization chimes well with another innovative conceptual idea
+fostered by the CEDAR researchers, that of “small acts of engagement” (Kleut et al.
+2017). What these two recent interventions share is the notion that “the main way in
+which members of the audience contribute to production is much more subtle than
+initially envisioned” (Kleut et al. 2017, 28). The CEDAR analysis departs from the
+evident power of the media, showing itself in the way the digital media based on digi-
+tal technologies exert intrusive power in the form of exploitation, pervasiveness, and
+exclusion. However, the analysis argues that audiences and media are tied into a
+Schrøder                                                                              165
+
+complex dialectical relationship, where audiences exercise power in small ways,
+namely, by,
+
+   1.   One-click engagement, which encompasses a variety of acts, such as liking,
+        sharing, and linking on social media platforms.
+   2.   Commenting and debating, where “readers can consume but also actively par-
+        ticipate in the production of news and popular culture” (Kleut et al. 2017, 28).
+   3.   Production of small stories, which have to do with “social and cultural identity
+        expressions, especially in the context of minority audiences or marginalized
+        groups” (Kleut et al. 2017, 29).
+
+Although each such act is quite insignificant, at the aggregate level, “mainstream
+media flow can be challenged if not transformed due to the volume of these acts”
+(Kleut et al. 2017, 30). Thus, as argued in connection with “audiencization” processes,
+audiences are exercising power through inconspicuous everyday acts, which are, thus,
+one formative force alongside the technological, aesthetic, and institutional forces that
+shape the media institution at the highest level.
+
+
+Concluding Remarks
+The above two ways to open new frontiers for reception research in the digital culture
+far from exhaust the opportunities for reception research to extend its own traditional
+agenda, while also creating enriching analytical insights of relevance to other schol-
+arly areas, in audience research, in media and communication research, and beyond.
+    For instance, reception researchers are among the pioneers of audience research
+that exploits the fact that digital media automatically preserve data about the users and
+uses. Reception researchers have, thus, taken on board different methods for tracking
+media users’ digital footprints, in small-scale as well as big data research designs. In
+keeping with the sense-making objectives of traditional reception research, such data-
+fied research is usually combined with qualitative methods: Thorhauge and Lomborg
+(2016, 76) studied people’s use of smartphones for cross-media experiences by com-
+bining log data with qualitative interviews, arguing that because log data “provide no
+insight into the social settings and the meanings of relationships enacted through the
+smartphone,” qualitative insights are necessary “in order to re-embed the log data in
+their original contexts . . ., and on this basis identify relevant practices of cross-media
+communication from the user’s perspective.” In their study of how teachers and par-
+ents use and make sense of school information systems, Breiter and Hepp (2017, 320)
+argue that it remains a challenge for reception analysis of big data use to work out
+“how we can analyze digital traces in such a way that we can contextualize them with
+the figurations of humans that produce these sequences of ‘digital footprints’, but also
+use them as a means for social construction.”
+    In the area of methodological innovation, reception researchers have sought to revi-
+talize the qualitative toolbox, in a methodological climate where mixed methods have
+become the new normal. However, while different methods have been seen as
+166                                                            Television & New Media 20(2)
+
+“complementary” when applied sequentially—that is, a qualitative study followed by
+a survey, or vice versa (Jensen 2012)— reception researchers have pushed the meth-
+odological boundaries by integrating qualitative and quantitative methods within the
+same fieldwork implement (Greene 2007; Schrøder 2012b). These experiments, which
+have relied on modified versions of Q-methodology, have been applied in studies of
+fiction (Davis et al. 2016) as well as news reception (Kobbernagel and Schrøder 2016),
+with the purpose of overcoming the challenges of producing reliable qualitative gen-
+eralization. The output of a Q-methodological study, which passes qualitative data
+through a factor analysis to produce a typology of audience experiences (Davis and
+Michelle 2011), can, thus, be said to have answered one of the very old questions in
+reception research about methodological cross-fertilization—“whether a method can
+be devised which combines the insightfulness and detail of the qualitative approach
+with the generality and economy of quantification” (Schrøder 1987).
+
+Declaration of Conflicting Interests
+The author declared no potential conflicts of interest with respect to the research, authorship,
+and/or publication of this article.
+
+Funding
+The author received no financial support for the research, authorship, and/or publication of this
+article.
+
+References
+Ang, Ien. 1995. Living Room Wars. Rethinking Media Audiences for a Postmodern World.
+     London: Routledge.
+Barker, Martin, and Ernest Mathijs. 2016. “The World Hobbit Project: Introduction to the
+     Project.” Participations 13 (2): 158–74.
+Biltereyst, Daniel. 1991. “Resisting the American Hegemony: A Comparative Analysis of the
+     Reception of Domestic and US Fiction.” European Journal of Communication 6:469–97.
+Bird, S. Elizabeth. 2011. “Seeking the Audience for News. Response, News Talk, and Everyday
+     Practices.” In The Handbook of Media Audiences, edited by Virginia Nightingale, 489–508.
+     Oxford: Blackwell.
+Blumler, Jay G., Michael Gurevich, and Elihu Katz. 1985. “Reaching Out: A Future for
+     Gratifications Research.” In Media Gratifications Research, edited by Karl E. Rosengren,
+     Lawrence A. Wenner, and Philip Palmgreen, 225–74. Beverly Hills: Sage.
+Brants, Kees, and Philip van Praag. 2017. “Beyond Media Logic.” Journalism Studies 17 (4):
+     395–408.
+Breiter, Andreas, and Andreas Hepp. 2017. “The Complexity of Datafication: Putting Digital
+     Traces in Context.” In Communicative Figurations: Transforming Communications
+     in Times of Deep Mediatization, edited by Andreas Hepp, Andreas Breiter, and Uwe
+     Hasebrink, 387–404. London: Palgrave-Macmillan.
+Carpentier, Nico. 2003. “The BBC’s Video Nation as a Participatory Media Practice. Signifying
+     Everyday Life, Cultural Diversity and Participation in an Online Community.” International
+     Journal of Cultural Studies 6 (4): 425–47.
+Schrøder                                                                                167
+
+Costera Meijer, Irene. 2007. “The Paradox of Popularity: How Young People Experience the
+    News.” Journalism Studies 8 (1): 96–116.
+Das, Ranjana, and Ytre-Arne Brita, eds. 2017. Audiences towards 2030 Priorities for Audience
+    Analysis. Surrey: CEDAR.
+Das, Ranjana, and Ytre-Arne Brita, eds. 2018. The Future of Audiences: A Foresight Analysis
+    of Interfaces and Engagement. Cham: Palgrave Macmillan US.
+Davis, Charles, Carolyn Michelle, Ann Hardy, and Craig Hight. 2016. “Making Global
+    Audiences for a Hollywood ‘Blockbuster’ Feature Film: Marketability, Playability, and the
+    Hobbit: An Unexpected Journey.” Journal of Fandom Studies 4 (19): 105–25.
+Davis, Charles H., and Carolyn Michelle. 2011. “Q Methodology in Audience Research:
+    Bridging the Qualitative/Quantitative ‘Divide’?” Participations 8 (2): 559–93.
+Deacon, David, Natalie Fenton, and Alan Bryman. 1999. “From Inception to Reception: The
+    Natural History of a News Item.” Media, Culture and Society 21:5–31.
+Dervin, Brenda. 1989. “Audience as Listener and Learner, Teacher and Confidante: The Sense-
+    Making Approach.” In Public Communication Campaigns, edited by Ron E. Rice and C.
+    K. Atkin, 67–86. London: Sage.
+Dhaenens, Frederik, and Anne Mollen. 2017. “Coping with Intrusive Digital Media.” In
+    Audiences Towards 2030. Priorities for Audience Analysis, edited by Ranjana Das and
+    Brita Ytre-Arne, 25–27. Surrey: CEDAR.
+Dhoest, Alexander. 2009. “Establishing a multi-ethnic imagined community? Ethnic minority
+    audiences watching Flemish soaps.” European Journal of Communication 24 (3): 305–23.
+Fiske, John. 1987. Television Culture. London: Methuen.
+Fiske, John, and John Hartley. 1978. Reading Television. London: Methuen.
+Gillespie, Marie. 1995. Television, Ethnicity, and Cultural Change. London: Routledge.
+Gray, Ann. 1992. Video Playtime: The Gendering of a Leisure Technology. London: Routledge.
+Greene, Jennifer C. 2007. Mixed Methods in Social Inquiry. San Francisco: Jossey-Bass.
+Gurevitch, Michael, and Paddy Scannell. 2003. “Canonization Achieved? Stuart Hall’s
+    ‘Encoding/Decoding.’” In Canonic Texts in Media Research: Are There Any? Should There
+    Be? How about These? edited by Elihu Katz, John D. Peters, Tamar Liebes, and Avril
+    Orloff, 231–47. Cambridge: Polity Press.
+Hall, Stuart. 1973. “Encoding and Decoding in the Television Discourse.” Stencilled occa-
+    sional paper, Media Series No. 7, Centre for Contemporary Cultural Studies, University of
+    Birmingham. Abridged version.
+Hasebrink, Uwe, and Andreas Hepp. 2017. “How to Research Cross-Media Practices?
+    Investigating Media Repertoires and Media Ensembles.” Convergence: The International
+    Journal of Research into New Media Technologies 23 (4): 362–77.
+Heikkilä, Heikki, and Laura Ahva. 2015. “The Relevance of Journalism. Studying News
+    Audiences in a Digital Era.” Journalism Practice 9 (1): 50–64.
+Hepp, Andreas. 2013. Cultures of Mediatization. Cambridge: Polity.
+Hjarvard, Stig. 2013. The Mediatization of Culture and Society. New York: Routledge.
+Hjarvard, Stig. 2016. “Medialisering: Teori og historie.” In Medialisering. Mediernes Rolle I
+    Social Og Kulturel Forandring, edited by Stig Hjarvard, 17–38. København: Hans Reitzel.
+Hoggart, Richard. 1957. The Uses of Literacy. Harmondsworth: Penguin.
+Jensen, Jakob L., and Anne S. Sørensen. 2014. “Analyzing Online Social Networks from
+    a User Perspective: A Quantitative–Qualitative Framework.” In Audience Research
+    Methodologies: Between Innovation and Consolidation, edited by Geoffroy Patriarche,
+    Helena Bilandzic, Jakob L. Jensen, and Jelena Juriŝić, 144–59. New York, NY: Routledge.
+168                                                          Television & New Media 20(2)
+
+Jensen, Klaus B. 1986. Making Sense of the News. Aarhus: Aarhus University Press.
+Jensen, Klaus B. 1991. “Reception Analysis: Mass Communication as the Social Production
+    of Meaning.” In A Handbook of Qualitative Methodologies for Mass Communication
+    Research, edited by Klaus B. Jensen and Nick W. Jankowski, 135–48. London: Routledge.
+Jensen, Klaus B. 2012. “The Complementarity of Quantitative and Qualitative Methodologies
+    in Media and Communication Research.” In A Handbook of Media and Communication
+    Research, 2nd ed., edited by Klaus B. Jensen, 283-301. London: Routledge.
+Jensen, Klaus Bruhn, and Karl Erik Rosengren. 1990. “Five Traditions in Search of the
+    Audience.” European Journal of Communication 5:207–38.
+Jones, Jeffrey P. 2006. “A Cultural Approach to the Study of Mediated Citizenship.” Social
+    Semiotics 16 (2): 365–83.
+Katz, Elihu, and Tamar Liebes.1985. “The Export of Meaning: Cross Cultural Readings of
+    American TV.” Paper presented to the Manchester Symposium on Broadcasting, March.
+Kleut, Jelena, Jannie M. Hartley, Tereza Pavlíčková, Ike Picone, Bojana Romic, and Sander
+    de Ridder 2017. “Small Acts of Audience Engagement Interrupting Content Flows.”, In
+    Audiences, towards 2030: Priorities for audience analysis, edited by Das, Ranjana & Brita
+    Ytre-Arne, 28–30. Surrey: CEDAR.
+Kobbernagel, Christian, and Kim C. Schrøder. 2016. “From Everyday Communicative
+    Figurations to Rigorous Audience News Repertoires. A Mixed Method Approach to Cross-
+    Media News Consumption.” Mediekultur 32 (60): 6–31.
+Kormelink, Tim Groot, and Irene Costera Meijer. 2017. “What Clicks Actually Mean: Exploring
+    Digital News User Practices.” Journalism 19 (5): 668–83. doi:10.1177/1464884916688290.
+Kozinets, Robert V. 2010. Netnography: Doing Ethnographic Research Online. Los Angeles:
+    Sage.
+Lewis, Justin. 1991. The Ideological Octopus. An Exploration of Television and Its Audience.
+    New York: Routledge.
+Liebes, Tamar, and Elihu Katz. 1990. The Export of Meaning. New York: Oxford University
+    Press.
+Livingstone, Sonia. 1988. “Viewers’ Interpretations of Soap Opera: The Role of Gender, Power
+    and Morality.” In Television and Its Audience, edited by Philip Drummond and Richard
+    Paterson, 83–107. London: British Film Institute.
+Livingstone, Sonia. 2013. “The Participation Paradigm in Audience Research.” The
+    Communication Review 16:21–30.
+Livingstone, Sonia, and Peter Lunt. 1994. Talk on Television. London: Routledge.
+Livingstone, Sonia, and Peter Lunt. 2014. “Mediatization: An Emerging Paradigm for Media
+    and Communication Research?” In Mediatization of Communication, edited by Knut
+    Lundby, 703–23. Berlin and Boston: De Gruyter/Mouton.
+Livingstone, Sonia, Mallory Wober, and Peter Lunt. 1994. “Studio Audience Discussion
+    Programmes: An Analysis of Viewers’ Preferences and Involvement.” European Journal
+    of Communication 9:355–79.
+Lull, James. 1980. “The Social Uses of Television.” Human Communication Research 6:
+    197–209.
+Lundby, Knut. 2016. “Where Are Audiences in Mediatization Research?” Paper for the
+    Mediatization section of the 6th ECREA conference, Prague, November 9–12.
+Mathieu, David, and Tereza Pavlíčková. 2017. “Cross-Media within the Facebook Newsfeed:
+    The Role of the Reader in Cross-Media Uses.” Convergence 23 (4): 425–38.
+Morley, David. 1980. The “Nationwide” Audience. London: British Film Institute.
+Schrøder                                                                                 169
+
+Morley, David. 1986. Family Television. London: Comedia.
+Radway, Janice. 1984. Reading the Romance: Women, Patriarchy and Popular Literature.
+    Chapel Hill: University of North Carolina Press.
+Rosen, Jay. 2006. “The People Formerly Known as the Audience.” PressThink. http://archive
+    .pressthink.org/2006/06/27/ppl_frmr.html.
+Schiller, Herbert I. 1971. Mass Communication and American Empire. Boston: Beacon Press.
+Schrøder, Kim C. 1987. “Convergence of Antagonistic Traditions? The Case of Audience
+    Research.” European Journal of Communication 2 (1): 7–31.
+Schrøder, Kim C. 1992. “Cultural Quality: Search for a Phantom?” In Media Cultures—
+    Reappraising Transnational Media, edited by Michael Skovmand and Kim Schrøder, 199–
+    219. London and New York: Routledge.
+Schrøder, Kim C. 2012a. “From Semiotic Resistance to Civic Agency: Viewing Citizenship
+    through the Lens of Reception Research 1973-2010.” In The Social Use of Media. Cultural
+    and Social Scientific Perspectives on Audience Research, edited by Helena Bilandzic,
+    Geoffroy Patriarche, and Paul J. Traudt, 181–200. London: Intellect.
+Schrøder, Kim C. 2012b. “Methodological Pluralism as a Vehicle of Qualitative Generalization.”
+    Participations. Journal of Audience and Reception Studies 9 (2): 798–825.
+Schrøder, Kim C. 2016. “Reception Analysis.” In The International Encyclopedia of Political
+    Communication, edited by Gianpietro Mazzoleni, 1387–94. Oxford: Wiley-Blackwell.
+Schrøder, Kim C. 2017. “Towards the ‘Audiencization’ of Mediatization Research? Audience
+    Dynamics as Co-constitutive of Mediatization Processes.” In Dynamics of Mediatization:
+    Institutional Change and Everyday Transformations in a Digital Age, edited by Olivier
+    Driessens, Göran Bolin, Andreas Hepp, and Stig Hjarvard, 85–115. London: Palgrave
+    Macmillan.
+Strömbäck, Jesper. 2008. “Four Phases of Mediatization: An Analysis of the Mediatization of
+    Politics.” The International Journal of Press/Politics 13 (3): 228–46.
+Thorhauge, Anne Mette, and Stine Lomborg. 2016. “Cross-media Communication in Context.
+    A Multi-method Approach.” Mediekultur 60:70–86.
+Williams, Raymond. 1958. Culture and Society. London: Chatto & Windus.
+Witschge, Tamara. 2014. “Passive Accomplice or Active Disruptor: The Role of Audiences in
+    the Mediatization of Politics.” Journalism Practice 8 (3): 342–56.
+
+Author Biography
+Kim Christian Schrøder is a professor of communication at the Department of Communication
+and Arts, Roskilde University, Denmark. His books in English include Audience Transformations:
+Shifting Audience Positions in Late Modernity (co-edited, 2014), Museum Communication and
+Social Media: The Connected Museum (co-edited, 2013), and Researching Audiences (co-
+authored, 2003). His research interests comprise the analysis of audience uses and experiences
+of media. His recent work explores mixed methods for mapping news consumption.
+

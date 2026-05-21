@@ -1,0 +1,419 @@
+Marketing
+Research
+Week 3
+
+
+
+
+            1
+Recap
+
+ 1. Data
+   • Primary and Secondary Data
+   • Quantitative and Qualitative
+     Data
+   • Unit of Analysis, Dependence
+     of Observations, Dependent
+     and Independent Variables
+   • Measurement Scaling
+   • Reliability and Validity
+   • The Population and Sampling,
+     Sample Sizes
+ 2. The literature review
+                                    2
+         Topics for Today
+1. Introduction to research designs
+2. Exploratory research: interviews, focus groups and observations
+3. Qualitative data analysis
+4. Workshop
+
+
+
+
+                                                                     3
+Determine the Research Design
+
+                            Ambiguous problems:
+                          Exploratory research design
+
+
+
+                         Somewhat defined problems:
+                          Descriptive research design
+
+
+
+
+                          Clearly defined problems:
+                            Causal research design
+         Exercise
+• Scenario 1: Should we offer the new Apple Macbook Air in four or in five colors?
+• Scenario 2: What might be good markets for Australian sparkling Shiraz?
+• Scenario 3: Which features (e.g., display quality, battery life, app ecosystem) are
+  important to potential Apple Vision Pro buyers?
+
+
+                            Options:
+                            • An ambiguous problem
+                            • A somewhat defined problem
+                            • A clearly defined problem
+
+
+                                                                                        5
+Determine the Research Design
+            Ambiguous             Somewhat defined            Clearly defined
+             problems                problems                    problems
+
+
+             Exploratory              Descriptive             Causal Research
+              research                 research
+         • Understand structure   • Describe customers or      • Uncover causality
+                                        competitors
+          • Formulate problems                                 • Understand the
+                precisely         • Understand market size    performance effects of
+                                                              marketing mix elements
+  Uses   • Generate hypotheses      • Segment markets
+         • Develop measurement    • Measure performance
+                  scales            (e.g., share of wallet,
+                                      brand awareness)
+Exploratory
+Research
+           Exploratory research
+Exploratory research serves the purposes of clarifying. Qualitative research is mostly used to gain an
+understanding of why certain things happen. It can be used in an exploratory context by defining problems in
+more detail, or by developing hypotheses to be tested in subsequent research.
+One can collect qualitative data by explicitly informing the participants that you are doing research (directly
+observed qualitative data), or you can simple observe the participants’ behavior without them being
+explicitly aware of the research goals (indirectly observed qualitative data).
+This can be done in several ways including:
+• Focus groups
+• Depth interviews
+• Projective techniques
+• Observational studies
+• Ethnographies
+                                                                                                                  8
+          Focus groups
+Are interviews conducted among a number of respondents at the same time and led by a moderator.
+The key is to encourage discussion in the group. One person’s response will spark comments from other
+members.
+
+
+Format of a focus group:
+• 6-12 pre-screened subjects/participants
+• A moderator leads the discussion
+• Recorded (possibly observed live for training)
+• Whenever possible, select a group of homogenous participants instead of heterogeneous participants
+• A focus group guide is similar to an interview guide. See a sample focus group guide on LMS.
+
+
+                                                                                                        9
+          Focus groups
+Focus groups used to address issues such as:
+
+
+• Obtain impressions of a new product
+• Generate new ideas for a product design
+• Develop creative concepts for a promotional campaign
+• Test consumer reactions to marketing programs
+
+
+“When you think of plant-based food,
+what do you think of?”
+
+
+
+                                                         10
+            Depth interviews
+Depth interviews are qualitative conversations with participants about a specific issue.
+Steps for in-depth interviews:
+
+
+1.   Design an interview guide
+2.   Provide a comfortable environment
+3.   Allow the informants time to think and probe when needed
+4.   Summarize informants’ words to ensure understanding
+5.   Ask for clarification if not clear
+6.   Avoid evaluative comments or leading questions
+7.   Let the informant do the talking
+
+                                                                                           11
+           Depth interviews
+Interview Guide (see the LMS for a sample)
+
+
+1.   Introduction
+2.   Consent form
+3.   Main interview
+4.   What topics to cover and in what sequence
+5.   What questions to ask under each topic and in what sequence
+6.   How to phrase the questions
+7.   Prepare questions for different possible scenarios
+8.   Debrief (and token gift)
+
+                                                                   12
+           Depth interviews
+Please also see Arsel, Z. (2017). Asking questions with reflexive focus: A tutorial on designing and conducting
+interviews. Journal of Consumer Research, 44(4), 939-948. (this on the LMS).
+
+
+She suggests a four-step iterative guide for interview design:
+• Step 1: settle with an epistemological tradition (see paper; effectively if you seek experiences, patterns, or
+  if both interviewer and interviewee can contribute)
+• Step 2: prepare an interview protocol (what to say)
+• Step 3: conduct the interview
+• Step 4: iterate
+
+
+
+
+                                                                                                                   13
+       Basic Qualitative Research
+                              Focus Groups                                Depth Interviews
+                 Group interaction is present. This may       There is no group interaction. Therefore,
+    Group        stimulate new thoughts from respondents.     stimulation for new ideas from respondents
+ interactions                                                 comes from interviewer.
+
+
+                 Group pressure and stimulation may clarify   In the absence of group pressure, the
+ Group/ peer     and challenge thinking.                      thinking of respondents is not challenged.
+  pressure       Peer pressure and role playing.              With one respondent, role playing is
+                                                              minimized and there is no peer pressure.
+                 Respondents compete with one another for The individual is alone with the interviewer
+ Respondent      time to talk. There is less time to obtain in- and can express thoughts in a non-
+ competition     depth details from each participant.           competitive environment. There is more
+                                                                time to obtain detailed information.
+                 Responses in a group may be biased by        With one respondent, there is no potential
+Peer Influence   opinions of other group members.             for influences from other respondents.
+Basic Qualitative Research
+
+
+                        Focus Groups                           Depth Interviews
+              If the subject is sensitive,        If the subject is sensitive, respondents
+ Subject      respondents may be hesitant to talk may be more likely to talk.
+sensitivity   freely in the presence of several
+              other people.
+              The volume of stimulus materials       A fairly large amount of stimulus
+  Stimuli     that can be used is somewhat           material can be used.
+              limited.
+              It may be difficult to assemble 8 or   Individual interviews are easier to
+Interviewer   10 respondents if they are a difficult schedule.
+ schedule     type to recruit (such as very busy
+              executives).
+Basic Qualitative Research
+ Go to www.oddjobairways.com/market-research/ and take a look at the videos on
+ Interviews and focus groups!
+          Projective techniques
+Projective techniques work by providing a participant with a stimulus and gauging his or her response.
+Projective techniques help uncover true feelings or opinions about a topic.
+
+
+Main techniques
+• Use vague, ambiguous, unstructured stimuli for informants to project their personality, attitude, or
+  opinions
+• Talk about what “other people” would feel, think or do
+• Use metaphors and analogies: explain complex or new topics by using a familiar topic
+• Main methods: word association, completion techniques, construction technique, role playing, ZMET
+
+
+
+
+                                                                                                         17
+          Projective techniques
+Projective technique example
+
+
+
+
+If you were to describe RACV as a person, how would you describe it?
+• “Mature, wealthy, they may wear semi-casual clothes”
+• “I guess something in government, mid-level…someone with private health, general business clothes
+  (and) a mid-range car”
+• “Dependable, reliable, in their 40’s… (driving) a Volvo…eating lunch on a park bench”
+• “I think they would be ...middle aged…married for 30 years and is middle class. Would perhaps work in an
+  office, not much exposure to practical industries like the automotive industry. (They would wear) sensible
+  clothes for the weather, a button up plaid shirt and a windbreaker”
+
+                                                                                                               18
+          Projective techniques
+Projective technique example
+
+
+Zaltman Metaphor Elicitation Technique (ZMET)
+
+
+Patented market research tool
+Developed by Dr. Gerald Zaltman at the Harvard Business School
+
+
+
+
+                                                                 19
+ZMET Intro
+
+
+
+
+  Also see https://www.youtube.com/watch?v=WgivS7Zh4Vs   20
+Observational studies
+
+
+
+
+                        “You See,
+                        But You Do Not Observe.”
+                                      - Sherlock Holmes
+Observational studies
+ Observational studies help researchers understanding what people are doing
+ rather than why they are doing it.
+ Most observational studies use video recording equipment, or trained researchers
+ who observe what people do . Others use RFID chips to trace consumers‘
+ movement
+ Special type: Ethnographies
+
+
+
+
+                                         The EyeSee mannequin                                                                                                                                       Supermarket shopping paths (Larson et al. 2005)
+ Larson, J. S., Bradlow, E. T., & Fader, P. S. (2005). An exploratory look at supermarket shopping paths. International Journal of Research in Marketing, 22(4), 395–414. http://papers.ssrn.com/
+ sol3/papers.cfm? abstract_id=723821..
+          Observational studies
+
+
+Reasons for Observation
+
+• Consumers cannot accurately recall their behavior
+• Consumers are not willing to admit their behavior
+• Consumers often make spontaneous decisions
+
+Conditions for Observation
+
+• The information needed is observable
+• The event must occur during a short time interval
+• The observed behavior need to occur in a public setting
+
+                                                            23
+Observational studies
+
+ • Physical action (Shopping patterns or driving habits)
+ • Expressive behaviors (tone of voice, facial expression, body
+   language)
+ • Verbal behaviors (statements made by customers waiting in line)
+ • Temporal behaviors (how much time do consumers spend in a
+   store)
+ • Spatial relationships and locations (how closely do consumers
+   stand next to each other in the store)
+ • Physical objects (which products/brands are purchased)
+Observational studies
+ Eight important features of observation research
+
+ •   Your presence will influence events
+ •   The first thing you see will be most memorable
+ •   You will have an emotional response
+ •   You will exaggerate the importance of unique events
+ •   You cannot assume the events you observe are similar to those you don’t see
+ •   You will succumb to confirmation bias
+ •   You are always missing something important
+ •   You will change your own focus over time
+Observational studies
+ Structured vs. Unstructured Observation
+
+ Observe pre-selected events vs. random events
+Observational studies - coding
+          Behavior Coding (structured observations)
+Observational studies - coding
+           Ethnographies
+Ethnography is a type of qualitative research in which the researcher interacts with consumers over a period
+to observe and question them.
+Project moonraker (Volkswagen):
+22 Germans and 1 American aim “to draw up a vehicle and business concept for the American market that
+would boost volume, earnings and brand reputation”
+What do US customers want?
+• The car is a living space – cupholders, large cars
+• Cars need to be cool, literally, so large capacity air conditioning
+• But need to maintain VW quality feel
+• US built matters
+
+
+                                                                                                               29
+        Ethnographies
+Key steps
+
+1. How to obtain participants?
+    • Social networks
+    • Incentives
+2. What are the key tasks for the
+   participants?
+3. How to analyse data?
+    • Structured data: frequency, mean
+    • Unstructured data: theme
+      analysis + observation analysis
+Qualitative Data
+Analysis
+Qualitative data analysis
+
+
+
+
+                            32
+           Qualitative data analysis
+Steps:
+1.   Data collection
+2.   Data reduction
+3.   Data display
+4.   Conclusion drawing and verifying
+
+
+
+
+                                        33
+Qualitative data analysis – data reduction
+  Categorization and coding
+  Can be done inductively (data to codes) or deductively
+  (codes to data)
+
+
+
+
+  Categorise sections of the transcript and label them with names or code
+  numbers
+  Categories can be pre-defined or developed inductively in the analysis
+  Popular manual software : Nvivo and ATLAS
+  Can be done automatically: LDA in R for example
+                                                                            34
+Qualitative data analysis – data reduction
+
+
+
+
+                                             35
+          Qualitative data analysis – data display
+• Provide a profile table of the informants (demographic factors or selection criteria)
+• For each research question, list themes, definitions, and exemplar quotes
+• If applicable, use diagrams, models, or consensus maps to understand the relationships between
+  different themes.
+
+
+
+
+                                                                                                   36
+          Qualitative data analysis – conclusion drawing
+          and verification
+Conclusion drawing/Verification
+
+
+Persuade audiences that the research findings of an inquiry are reliable and valid by
+• Using multiple coders (can calculate consistency)
+• Clear instructions
+• The usefulness of the findings
+• Reputation
+• Peer review from topic area experts
+
+
+
+
+                                                                                        37
+Appendix
+Basic Qualitative Research
+ Go to www.oddjobairways.com/market-research/ and take a look at the videos on
+ Interviews and focus groups!
+

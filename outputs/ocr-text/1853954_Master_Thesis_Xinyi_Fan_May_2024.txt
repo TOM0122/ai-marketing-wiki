@@ -1,0 +1,3092 @@
+ Navigating the German EV Market: Strategies for BYD's Sales Growth
+
+
+
+
+      Master Thesis, MSc in Business, Language and Culture - Diversity and Change
+                                     Management
+
+
+
+
+Supervisor: Thomas Michael Brinch-Pedersen
+Department Of Business Humanities And Law
+
+
+Written by: Xinyi Fan
+Student no.93756
+STU Count: 143.910
+Number of Pages: 80
+Submission Date: 15.05.2024
+
+
+
+                                                                                    1
+Abstract
+With the escalating global attention on climate change and environmental concerns, electric
+vehicles (EVs) have emerged as a crucial solution for mitigating CO2 emissions, driving a
+surge demand worldwide. As the leading EV manufacturer and having solidified its leadership
+in the Chinese market, BYD has accelerated its expansion efforts overseas. However, its entry
+into the German market with electric passenger vehicles at the end of 2022 has yielded
+disappointing sales over the past year. Thus, this master thesis aims to explore How can BYD
+adjust its business strategy adapting to the German EV market to increase sales? The
+analysis addresses three sub-questions: the institutional opportunity and challenge does BYD
+face through the lens of institution-based view, the opportunities and challenges BYD face in
+the German EV market is investigated by applying Porter’s Five Force and VRIO frameworks
+is used to identify the resources can help BYD achieve a competitive advantage in the German
+EV market. Throughout the analysis, key considerations for BYD's strategic adjustment in
+Germany include enhancing infrastructure with government collaboration to address
+shortcomings in current EV policies, boosting brand awareness and loyalty, maintaining its
+R&D advantage to develop cutting-edge technologies while ensuring cost control, and
+adopting market segmentation strategies to tailor objectives and marketing approaches for
+different segments. These adjustments are crucial for BYD to expand its customer base and
+increase sales in the German EV market.
+
+
+
+
+Keywords: Electric vehicle, BYD, Business strategy ,Electric vehicle, Institution-Based
+View, Porter’s Five Forces, VRIO framework.
+
+
+
+
+                                                                                           2
+List of tables:
+Table 1: Scott’s Three Pillars of Institutions
+Table 2: A comparison of Tesla, VW and BYD comparison
+Table 3: Matrix of BYD internal resources and competences
+Table 4: VRIO analysis of BYD’s internal resources and competences
+
+
+List of figures:
+Figure 1: the best-selling models of 2024 in the German EV market
+Figure 2: Porter’s Five Force Model
+Figure 3: VRIO framework
+Figure 4: The Strategy Tripod
+Figure 5: The “Research Onion” Model
+Figure 6: Consumers’ preference survey
+Figure 7: Components demonstration of BYD’s car
+
+
+
+
+                                                                     3
+List of Abbreviations
+
+
+AFIR=Alternative Fuels Infrastructure Regulation
+AI= Artificial intelligence
+BEV= Battery electric vehicle
+DJI= Da-Jiang Innovations
+EV= Electric vehicles
+EVs= Electric vehicles
+FCEV= Fuel cell electric vehicles
+IBV= Institution-based view
+NCM= Lithium nickel manganese cobalt oxides
+NCM= Lithium nickel manganese cobalt oxides
+NPF=National Policy Framework
+PHEV= Plug-in hybrid electric vehicles
+RBV= Resource-based view
+WLTP= Worldwide Light Vehicle Test Procedure
+
+
+
+
+                                                   4
+Table of Contents
+List of tables: ....................................................................................................................3
+
+List of figures: ...................................................................................................................3
+
+List of Abbreviations .........................................................................................................4
+
+Table of Contents ..............................................................................................................5
+
+Chapter 1 Introduction ......................................................................................................8
+
+   1.1 Introduction ....................................................................................................................... 8
+
+   1.2 Delimitation ..................................................................................................................... 11
+
+   1.3 Key definition ................................................................................................................... 12
+       1.3.1Competitive advantage .........................................................................................................................12
+       1.3.2Sustained competitive advantage .........................................................................................................12
+
+   1.4 Content and Thesis Structure ............................................................................................ 13
+
+Chapter 2 Literature Review ............................................................................................14
+
+   2.1 Regulation and policies of EVs in Germany ........................................................................ 15
+
+   2.2 EV Infrastructure in Germany ............................................................................................ 17
+
+   2.3 The German EV Industry ................................................................................................... 18
+
+   2.4 Challenges of German EV Market ...................................................................................... 21
+
+   2.5 Research gap and significance ........................................................................................... 24
+
+Chapter 3 Theoretical Framework ...................................................................................25
+
+   3.1 Institution-Based View (IBV) ............................................................................................. 25
+
+   3.2 Porter’s Five Forces ........................................................................................................... 28
+       3.2.1 Competitive rivalry...............................................................................................................................29
+       3.2.2 Threat of new entrants ........................................................................................................................29
+
+
+
+
+                                                                                                                                                            5
+      3.2.3 Bargaining Power of Suppliers and buyer ............................................................................................29
+      3.2.4 Threat of Substitutes............................................................................................................................30
+
+   3.3 Resource - based view, VRIO framework ............................................................................ 31
+
+   3.4 Partial Conclusion ............................................................................................................. 33
+
+   3.5 Refection on the choice theories and models ..................................................................... 34
+
+Chapter 4 Methodology ..................................................................................................36
+
+   4.1 Research Philosophy -Pragmatism ..................................................................................... 37
+
+   4.2 Research Approach - Abductive ......................................................................................... 37
+
+   4.3 Methodological choice – mix-method................................................................................ 38
+
+   4.4 Research strategy – singular case study ............................................................................. 38
+
+   4.5 Time horizon and Data Collection ...................................................................................... 39
+
+   4.6 Data Collection and Data Analysis ..................................................................................... 39
+
+   4.7 The limitation of the Methodology .................................................................................... 41
+
+Chapter 5 Description Section .........................................................................................41
+
+   5.1 Background of BYD development ...................................................................................... 42
+
+   5.2 BYD passenger car in Germany .......................................................................................... 45
+
+   5.3 BYD’s business strategy .................................................................................................... 48
+      5.3.1 “7+4” Strategy ......................................................................................................................................48
+      5.3.2 BYD's Integrated Vehicle Intelligence Strategy ....................................................................................49
+
+Chapter 5 Analysis ..........................................................................................................50
+
+   5.1 Institutional opportunities and challenges BYD face in the German EV market? .................. 50
+
+   5.2 BYD’s opportunity and challenge of German EV industry from perspective of Porter’s five
+   force ...................................................................................................................................... 51
+      5.2.1 Threat of New Entrants ........................................................................................................................53
+      5.2.2 Threat of Substitutes............................................................................................................................55
+      5.2.3 Bargaining Power of Suppliers .............................................................................................................56
+
+
+
+
+                                                                                                                                                              6
+      5.2.4 Bargaining Power of Buyers .................................................................................................................58
+      5.2.5 Competitive Rivalry ..............................................................................................................................60
+      5.2.6 Partial conclusion .................................................................................................................................62
+
+   5.3 Organizational Resources .................................................................................................. 63
+
+   5.4 VRIO analysis of BYD’s distinctive resources and competences .......................................... 65
+      5.4.1 Blade battery ........................................................................................................................................65
+      5.4.2 E-platform ............................................................................................................................................66
+      5.4.3 BYD DMI Technology ............................................................................................................................66
+      5.4.4 Disus system.........................................................................................................................................67
+      5.4.5 Vertical integration supply chain .........................................................................................................69
+      5.4.6 Multi Brand Matrix and Diversified product portfolio .........................................................................70
+      5.4.7 Strong Technology Innovation .............................................................................................................70
+      5.4.8 Cost Control: ........................................................................................................................................71
+      5.4.9 Partial conclusion .................................................................................................................................71
+
+Chapter 6 Findings and Discussion ...................................................................................73
+
+   6.1 Institutional Opportunities and Challenges in the German EV Market ................................ 73
+
+   6.2 BYD's Opportunities and Challenges in the German EV Industry ......................................... 74
+
+   6.3 The strategic significance of BYD’s resources and capabilities ............................................. 75
+
+Chapter 7 Recommendation ............................................................................................76
+
+   7.1 Strengthen the construction of charging infrastructure ...................................................... 76
+
+   7.2 Enhance brand awareness and loyalty ............................................................................... 76
+
+   7.3 Adhere to diversified brands and product portfolios and focus on market segments ........... 77
+
+Chapter 8 Conclusion ......................................................................................................77
+
+Chapter 9 Further perspectives .......................................................................................79
+
+Appendix 1 .....................................................................................................................90
+
+Appendix 2 .....................................................................................................................91
+
+
+
+
+                                                                                                                                                                7
+Chapter 1 Introduction
+
+
+1.1 Introduction
+Along with increasing awareness of climate change and the environment around the world,
+and attention being paid to the challenges of environmental pollution and energy depletion, a
+new era of technological innovation and industrial transformation is unfolding worldwide.
+The convergence of automobiles with energy, transportation, information, and
+communications technologies is rapidly progressing. Electrification, connectivity, and
+intelligence are becoming dominant forces in the automotive sector. Among the key
+developments in this industry are the rise of electric vehicles (EVs), which capitalize on
+alternative energy, advanced materials, and technologies like the Internet, big data, and
+artificial intelligence. These advancements are driving the optimization of energy usage and
+the evolution of smarter transportation systems. After signing of “Paris Agreement”, countries
+have formulated corresponding strategic plans and policy mechanisms in promoting the
+development of EVs. This has led many large multinational automobile companies to actively
+invest EVs, strengthen R&D (research and development) of EV (Electric vehicle) investment
+and enhance capabilities in the EV industry. (McKinsey, 2021)
+
+
+
+
+China has made rapid progress in electric vehicles. Through continuous efforts, China's
+production, sales and ownership have maintained a leading position in the world for five
+consecutive years since 2015. By 2017, the cumulative number of vehicles in stock exceeded
+2 million., sales have reached 2.7 million vehicles in 2021, becoming a major country in EV,
+with significant technological progress in the area such as as batteries, motors, and electronic
+control technologie and enhanced industrial competitiveness. Additionally, substantial
+progress has been made in infrastructure development forming the world's largest charging
+and swapping network, by 2021china has formed the world's largest charging and swapping
+network, with a total of 5.21 million charging piles and 1,973 power swap stations established.
+
+
+
+
+                                                                                              8
+These provide prerequisites for Chinese EV companies to go overseas. (Salaberria & Xia,
+2023)
+
+
+
+
+Germany is the birthplace of the world's automobile industry and the largest automobile
+market in Europe. It has well-known manufacturers such as Daimler, Volkswagen, and BMW.
+Germany also has many auto parts giants such as Schaeffler Group, Mahle, Deutz, Getrag
+which are among the top players in the field of auto parts. There are 46 million passenger cars
+on the road every year. With the development of the situation and the transformation of
+automobile maintenance, the German automobile industry is also promoting the production
+and use of EVs. In 2019, Germany achieved a significant milestone that surpassed Norway
+for the first time and became the largest EV registration market in Europe. The country sold
+700000 electric cars in 2023, surpassing all other European markets. In terms of infrastructure,
+Germany invested 3.5 billion euros to bolster the construction of public electric vehicle
+charging stations. (COLLINS, 2024) Currently there are more than one hundred thousand
+public electric charging stations in Germany and their plan is to achieve 1 million public EV
+charge points by 2030. (Dirkx, 2023)
+
+
+BYD, a Chinese domestic car brand, is the leader in the field of EV. In 2011, the BYD E6
+was born, the world's first mass-produced and sold pure electric vehicle. Eight months earlier
+than Tesla's Model S, the E6 became the world's first, laying the foundation for BYD's global
+expansion. In August 2022, by signing a contract with the European dealer Hedin Mobility
+Group, BYD marks its official entry into the German EV market and signifying an important
+move to expand its presence in Europe. the sales of BYD electric vehicles in Germany grew
+very slowly. In 2023, the total unit sales of BYD's fully electric vehicles were only 4139.
+(Opletal, 2024) which accounted for less than 1% of electric vehicle sales in Germany and It
+is far from BYD's sales target of capturing 5–10% market share and is way behind compared
+to Tesla and Volkswagen. It is also a huge difference comparing to BYD in China where the
+unit sold of BYD electric vehicles achieved over a million.
+
+
+
+
+                                                                                              9
+This situation rise interest for research to understand what the reason behind the BYD’s poor
+performance in the German EV market and what should BYD do to improve it? Therefore,
+this research delves into case studies in the feild of EV, focusing on China's leading EV
+company, BYD. The paper aims to answer the research question: How can BYD adjust its
+business strategy adapting to the German EV market to increase sales?
+
+
+In order to provide the comprehensive understanding and answering the research question is
+subject to addressing the following sub-questions:
+
+
+
+   I.      What institutional opportunity and challenge does BYD face in Germany?
+   II.     What opportunities and challenges does BYD face in the German EV market?
+   III.    Which resources can BYD exploit to achieve a competitive advantage in the
+           German EV market?
+
+
+
+
+In order to answering the sub-questions, the Institution Based View is applied to explore the
+institutional opportunity and challenge does BYD face in Germany. Porter’s Five force is
+addressed to gain the insight of the opportunities and challenges BYD face in the German
+EV market, Finally, Resource Based View will base on the VRIO framework to investigate
+which internal resources of BYD could be an competitive advantage to help company increase
+sales in the German EV market. By answering the research question this thesis also aims to
+offer insightful implications to other Chinese EV companies who seeking to enter the German
+and this study will attach to the academic field of managing dynamic organizations in a global
+environment with a focus on institutions, culture, and strategic complexity.
+
+
+
+
+                                                                                           10
+1.2 Delimitation
+
+
+Three major delimitations are identified in this thesis,
+
+
+           1) The scope of this thesis is limited to BYD's passenger electric vehicle (BEV
+               and PHEV)
+           2) The focus is on German EV market.
+
+
+The reason for the first delimitation is that 70% of BYD’s total revenue stemming from the
+automobile business and BYD places significant emphasis on the development of its fully
+passenger car. The electric vehicles are also the key to the carbon-reduction of the automotive
+industry and are in line with future development trends. BYD’s electric vehicles experiencing
+slowly market progress in Germany currently. Given these factors, investigating the BYD's
+passenger electric vehicle business holds substantial relevance for its ongoing development.
+(BYD, 2024)
+
+
+The reason for the second delimitation is that Germany is the birthplace of the world's
+automobile industry and the largest automobile market in Europe and also the largest car
+market in Europe, there are 46 million buses on the road every year. The German EV market
+continues to grow, the sales of EV cars have climbed each year since 2016, the country sold
+700000 units EV in total, which include 524000 units of BEV and 176000 units of PHEV
+in 2023, (COLLINS, 2024) surpassing all other European markets. Secondly, expanding into
+the European market is an important part of BYD's overseas expansion strategy, and Germany
+is one of the first countries for BYD to enter the European market. Therefore, studying the
+German EV market holds great significance for BYD's strategic expansion in Europe.
+
+
+
+
+                                                                                            11
+1.3 Key definition
+
+
+1.3.1Competitive advantage
+Porter and Barney both have contributed to the concept of "competitive advantage"
+significantly. According to Porter "competitive advantage" is the capacity acquired through
+distinctive attributes and resources to outperform others within the same industry or market.
+(Porter, 2008)
+Barney has described "competitive advantage" as a company deemed to possess a competitive
+advantage when it is executing a strategy that creates value and is not being pursued by any
+current or potential competitors at the same time. The competitive advantage may be
+temporary and can be eroded over time as competitors imitate or surpass the company's
+strategies. (Barney, 1991)
+
+
+1.3.2Sustained competitive advantage
+Sustained competitive advantage represents a lasting form of superiority in the market,
+enduring over an extended timeframe. It entails upholding a leading position through
+elements that are challenging for competitors to duplicate or counteract, such as proprietary
+technology, robust brand allegiance, or exclusive access to crucial resources. This enduring
+advantage empowers a company to sustain its dominance and profitability over the long haul.
+(Barney, 1991)
+
+
+In this thesis, the competitive advantage pertains to BYD's internal resources and
+competences. Through the VRIO examination, BYD’s internal resources and competences in
+which could be considered as the sustained competitive advantage is identified. This is pivot
+for BYD increase EV sales in Germany.
+
+
+
+
+                                                                                          12
+1.4 Content and Thesis Structure
+
+
+Chapter I – Introduction
+The objective of chapter I is to introduce the thesis by provide brief background information,
+describing the motivation, objective, and importance of this research. The research question
+and sub-questions are presented in this chapter, as well as delimitation and key definition.
+This will allow reader to understand the underlying grounds for choosing the research area
+and topic.
+
+
+Chapter II – Literature review
+Chapter II contain the literature reviews that focus on discuss the relevant literature, including
+the regulation and policies of EVs, the EV infrastructure in Germany, and the German EV
+market, The aim of the literature reviews in this chapter is to enhance the understanding of
+the research topic. Research gap and significance are represented at the end of this chapter.
+
+
+Chapter III – Theoretical Framework
+The critical concepts and theories are interpreted in this chapter, such as the institution-based
+view, the industry-based model of Porter’s Five Forces, the resource-based view, and the
+VRIO framework. Those theoretical frameworks are a foundation for research question and
+used to understand the research problem and guide the development and analysis of this
+research.
+
+
+Chapter IV - Methodology
+In this chapter discusses the methodology of this study. research philosophy will be presented
+here, and the validity of data collection is also explained. Furthermore, the description section
+will also be included which contains more background knowledge of research objective and
+the research and the reason for the selection of BYD as a case company for this research The
+limitation of the research methodology is revealed in the Chapter of Discussion.
+
+
+
+
+                                                                                               13
+Chapter V – Analysis
+The fifth chapter will provide an analysis that uses theories and models in the theoretical part
+and combines the relevant data collected together to conduct interpretation in-depth analysis
+of each sub-question. Analysis of each sub-research question with corresponding sub-
+conclusions. This chapter serves as the knowledge foundation, which could help readers to
+have a better understanding of the research findings in the next chapter.
+
+
+Chapter VI – Finding and Discussion
+This chapter contains two sections, the first section will discuss the findings throughout the
+analysis. The second section and the second part contain a discussion aim to provide the
+proper suggestion for BYD based on the analysis and findings. These two sections together
+should form ultimately answer to the research question.
+
+
+Chapter VII Conclusion and Further Perspective
+The final chapter will summarize the aspects considered in this thesis and the limitations of
+the study. In closing, the attention drawn to several ideas concerning future research relate to
+this topic.
+
+
+
+
+Chapter 2 Literature Review
+
+
+This chapter discuss the existing literature relevant to the research scope which include the
+review of relevant study on regulation and policies of EVs, the EV infrastructure in Germany,
+and the German EV market. The literature reviews shed light on identifying major research
+areas and pointing out the gaps in existing research, and thus lead the way to this study.
+
+
+
+
+                                                                                             14
+2.1 Regulation and policies of EVs in Germany
+As we all know, the development of electric vehicles (EV) It is greatly affected by external
+factors. Danny Kreyenberg's paper "Analysis of Electric Vehicle Market Penetration in the
+German Market to 2030" describes how various conditions, including EV costs, government
+incentives and energy prices, affect the sales trajectory of electric passenger cars in Germany.
+
+
+This paper mentioned the German government’s determination to develop electric vehicles.
+Since the establishment of the electric vehicle platform in 2010, Germany has incorporated
+the development of electric vehicles into national policies and invested huge energy and
+financial resources in response to the EU's carbon emission reduction policy. Emissions and
+indicators to address the energy challenge. Kreyenberg's research, this article takes an in-
+depth look at the current status and expected progress of various types of electric vehicles in
+Germany.
+
+
+In the literature, author used VECTOR21 vehicle technology scenario model is used to model
+the fleet in three scenarios. In this analysis the parameters of external conditions such as
+governmental support/subsidies for electric vehicles and energy prices as well as internal
+(OEM) influencing factors such as the mark-ups for sold vehicles, In the reference scenario
+with first business-as-usual scenario, given the absence of monetary incentives for electric
+vehicles in combination with an (only) moderate increase in the oil price, the anticipation
+shows that, the current market share of car industry in Germany keep also constant, so even
+though non plug-in hybrids gradually replace conventional combustion engine drivetrains,
+nearly 50% consumer will still choose diesel or gasoline. In the reference scenario with
+business-as-usual parameters. (Propfe, Kreyenberg , Wind, & Schmid, 2013)
+
+
+
+
+In the second scenario, the author has adjusted given parameters with purchase price
+incentives from 5000 EUR, high oil prices, and low prices for hydrogen, the electricity will
+still not able to reach the target of 1 million EV on road in 2020 and 6 million in 2030, In the
+
+
+
+                                                                                             15
+last scenario with substantial OEM mark-up reductions and external conditions as in the
+business-as-usual scenario, 3.28 million on road, however, this seem to be less realistic on
+account of the long payback periods. (Propfe, Kreyenberg , Wind, & Schmid, 2013)
+
+
+
+
+The conclusion from the literature shows us how important external factor would impact sales
+of EV car in Germany that analysis shows that the market success of alternative powertrain
+vehicles depends to a great extent on external conditions. Without purchase price incentives,
+rising oil prices, and low energy costs for hydrogen and electricity, alternative powertrains
+will not enter the market. One problem might be that the cost of fuel cells and batteries will
+
+
+remain on a high level unless they can be made in mass production on a large scale. We
+therefore use the experience curve approach to model the cost of the different powertrain
+technologies in the future The previous article showed us the importance of external
+conditions for electric vehicles. One of the reasons BYD has been able to grow and develop
+is the support of the Chinese government. Public transportation in many cities has signed
+purchase contracts with BYD public trams. Therefore, for byd, the external environment of
+the German market also has a great impact on the development of byd in the German market.
+(Propfe, Kreyenberg , Wind, & Schmid, 2013)
+
+
+In order to support the development of the German tram industry, Germany has invested
+heavily as mentioned above, and there are also corresponding incentive policies and
+legislation in Germany to promote the development of electric vehicles. Information released
+by the European Alternative Fuels Observatory understands that the current incentives and
+legislation in Germany cover various benefits, including ownership tax exemptions, which
+means that as long as they are battery electric vehicles (BEV) and fuel cells registered before
+December 31, 2025 Electric vehicles (FCEV) are exempt from ownership tax. In addition,
+vehicles emitting 95 grams of carbon dioxide per kilometer or less are exempt from the annual
+circulation tax. (Commision, 2024)
+
+
+
+
+                                                                                            16
+There are also company tax benefits, such as reductions in taxable benefits for the private use
+of company cars, and special incentives for lower-priced BEVs. Information released by the
+European Alternative Fuels Observatory also mentions various subsidies for the purchase of
+new and second-hand pure electric vehicles, with subsidies based on the purchase price and
+lease term. Other financial benefits include exemptions for private owners of plug-in electric
+vehicles to charge at employer premises, and tax adjustments provided by the German
+government for electric company cars. Infrastructure incentives include funding for the
+purchase of electric vehicles and charging infrastructure, with a particular focus on municipal
+and commercial fleets. Funding is also available for private charging stations in residential
+buildings. Local incentives may vary, and while the environmental bonus may be combined
+with other public funding programs, most are targeted at companies, municipalities, or
+associations rather than private individuals. (Commision, 2024)
+
+
+
+
+2.2 EV Infrastructure in Germany
+
+
+In addition, the development of electric vehicles requires state investment in corresponding
+infrastructure, such as charging stations. According to information released by the European
+Alternative Fuels Observer, the EU has set NPF (National Policy Frameworks)targets for the
+deployment of alternative fuel infrastructure in each member state. The NPF Directive
+requires member states to adopt a national policy framework and report to the European
+Commission by November 18, 2016, which includes national targets for each member state
+to deploy alternative fuels infrastructure.
+
+
+Under the AFIR (Alternative Fuels Infrastructure Regulation )member states must ensure that
+the deployment of public charging stations matches the use of electric vehicles and provides
+sufficient power support. Specifically, public charging stations are required to provide
+minimum power outputs for different types of electric vehicles, including a total power output
+of at least 1.3 kW per electric light vehicle and at least 0.8 kW per plug-in hybrid light vehicle.
+output. (Transport, 2021)
+
+
+
+
+                                                                                                17
+European Union points out that the NPF also stipulates specific targets such as the rollout of
+electric vehicle charging infrastructure in urban and suburban areas and on the TEN-T core
+network(Trans-European Transport Network). In the NPF, Germany set infrastructure targets
+for 2025 and 2030, the goal in 2030 is 1 million electric refueling points. (Transport, 2021)
+And according to the Observatory's implementation tracking of for each of the fuel types, it
+shows that Q1 2024, Germany has a total of 125,997 recharging points, including 24,293
+DC(direct current) recharging points and 171,704 AC(alternating current) charging stations.
+An year on year growth rate is almost 32%, and the charging capacity has increased by more
+than 40%. Among them, there are 93,343 unrestricted access charging stations and 32,625
+restricted access charging stations, such as charging points in large warehouses or
+convenience store parking lots, underground parking lots, hotel and restaurant venues, etc.
+The opening hours are limited by business hours. (Transport, 2021)
+
+
+
+
+AFIR fleet-based target attainment current status total power (kw) output reached 5000k,
+while the target kw is 2500k, The NIR target of BEV + PHEV fleet (M1 & N1 vehicle
+category) is 8,5 million by 2030, and now The completion status is only 2.5 million, the 2030
+NIR target recharging infrastructure is 1 million, and the current recharging points are 125997.
+These results show that if Germany is to achieve these goals set by the EU, Germany still
+needs to increase investment in infrastructure and improve efficiency, otherwise It will be
+difficult to achieve these targets by 2030. (Transport, 2021)
+
+
+
+
+2.3 The German EV Industry
+In response to the global crisis of climate change, nations worldwide are obligated to reduce
+carbon emissions. According to data from Statista, approximately one-quarter of the world's
+carbon dioxide emissions originate from the transportation sector, highlighting the urgent
+need to advance the electric vehicle (EV) industry. Electric vehicles, powered by renewable
+
+
+
+
+                                                                                            18
+energy sources, emerge as a dependable solution advocated by numerous countries to curtail
+carbon dioxide emissions and mitigate environmental pollution caused by traditional internal
+combustion engines. Market analysis provided by Statista reveals insights into the electric
+vehicle market, encompassing information about countries and regions with established
+public electric vehicle charging infrastructure. In this context, "public" denotes accessibility
+to charging infrastructure without constraints. Vehicles equipped with batteries or classified
+as plug-in hybrid electric vehicles (PHEVs) are categorized as electric vehicles. All primary
+data presented represent the sales volume and fundamental configurations of new vehicles for
+the respective year, excluding sales of pre-owned cars and modifications made to newly sold
+vehicles. The pricing and revenue figures provided are based on the standard model. (Statista,
+2024)
+
+
+
+
+The electric vehicle market is segmented into two main categories: battery electric vehicles
+(BEVs) and plug-in hybrid electric vehicles (PHEVs). This classification accounts for the
+distinct features and market penetration rates of each electric vehicle type, offering a nuanced
+understanding of market dynamics. Prioritizing new vehicle sales and their standard
+configurations ensures transparency, while excluding pre-owned and customized vehicles
+maintains focus on the evolving landscape of the electric vehicle industry.BEV and PHEV
+related market as passenger car,motocycles,shared mobility,travel tourism,bicyles, third party
+logistics, commercial verticles, the data from European Commission that in the total
+registration volume of German light-duty vehicles (m1+n1) reached over 49 million in 2023.
+The total registration volume of German EV passenger cars were close to 3 million units that
+including BEV of 1.44 million units and PHEV of 1.03 million units, accounting for 5.97%
+of German light-duty vehicles market. (Commision, 2024)
+The best-selling BEV models of 2023 in Germany are shown in Figure 1, including 45618
+units of Tesla model Y, 15865 units of Tesla Model 3; 22270 units of VM ID3 and 22270
+units of VM ID4. (Commision, 2024)
+
+
+
+
+                                                                                             19
+(Figure 1: the best-selling BEV models of 2023 in the German EV market,Source from the
+European Alternative Fuels Observatory)
+
+
+Statista is optimistic about the development of the German electric vehicle market.
+Combining their views on the German environment and consumer preferences will promote
+the development of the German electric vehicle market. Highlight from the Statista point out
+the strong economic condition of country the subsidies from the government such as the tax
+benefits as mentioned earlier Coupled with the various government subsidy policies
+mentioned earlier for companies manufacturing electric vehicles, it will help reduce the
+selling price of electric vehicles ., Although Germany has been a country with a long-term
+demand for internal combustion engine vehicles, German
+
+
+consumers still advocate environmental protection and green travel. Electric vehicles provide
+them with the opportunity to reduce environmental pollution and go green, and are
+enthusiastic about the development of the electric vehicle industry across the country, Europe
+and the world. The attention will also affect the concept of German consumers. So statista
+
+
+
+
+                                                                                             20
+believes that demand for electric vehicles is growing in both consumer and commercial
+sectors. (Statista, 2024)
+
+
+Therefore, statista made the following predictions for the German electric vehicle market
+from 2024 to 2028 based on the above reasons and historical data collected from all parties.
+According to Statista, Germany is poised to experience substantial growth in the Electric
+Vehicles (EV) market. By 2024, the projected revenue is estimated to reach US$60.2 billion.
+Moreover, the market is expected to demonstrate a promising compound annual growth rate
+(CAGR) of 14.49% from 2024 to 2028. This growth trajectory is forecasted to drive the
+market volume to US$103.4 billion by 2028. It is anticipated that unit sales of electric vehicles
+in Germany will reach 1,721,000 vehicles by 2028. Regarding pricing, the volume-weighted
+average price of electric vehicles in the German market is expected to be US$60.1k in 2024.
+In the global market context, China is projected to lead in revenue generation, reaching
+US$319 billion in 2024. Germany, renowned for its robust automotive industry, is witnessing
+an uptick in demand for electric vehicles as consumers increasingly prioritize environmental
+consciousness. (Statista, 2024)
+
+
+
+
+2.4 Challenges of German EV Market
+However, many German scholars and media regarding the electric vehicle industry are
+currently not as optimistic as Statista. The journal” Prioritizing the Chicken or Egg? Electric
+Vehicle Purchase and Charging Infrastructure Subsidies in Germany” described that the effect
+of the German electric vehicle industry on reducing CO2 emissions is not obvious, because
+the continued growth of total private vehicle demand has kept the conversion rate between
+fossil fuel vehicles and electric vehicles stable, and the proportion of coal-fired power is still
+high at 38% in 2018. This once again confirms that the current penetration of the German
+electric vehicle market is insufficient. The key reasons involve capital investment and cost
+control. The first is that the development of the electric vehicle industry requires a large
+amount of capital to promote technological innovation and improve urban infrastructure.
+
+
+
+
+                                                                                               21
+These investments are often long-term investments that will not pay off in one or two years.
+Although European governments have developed incentive schemes for electric vehicles
+(European Alternative Fuels Observatory, 2020), as this involves changing the structure of
+charging infrastructure, fossil fuel stations are now spread across the country. With the
+transition to electric vehicles, in Germany, the grid not entirely decentralized, the scarcity of
+infrastructure in remote areas will also affect the speed of the electric vehicle transition. (Zink,
+Valdes, & Wuth, 2020)
+
+
+
+
+The journal also points out that the transition to electric vehicles hinges on advancements in
+battery technology. Currently, Germany lacks a competitive edge in battery production, as
+Bosch is the only German company in engaged in this technology who already decided
+against pursuing investment projects in this sector in the spring of 2019. Battery technology
+is predominantly led by consumer product companies, with Samsung and Panasonic at the
+forefront. Additionally, the Chinese company CATL signed an investment agreement with the
+Thuringia state government in Berlin to establish Germany's largest lithium battery
+production plant. CATL's Thuringia battery production facility is primarily focused on
+research, development, and manufacturing of lithium-ion batteries. (Zink, Valdes, & Wuth,
+2020) CATL Europe President Ma Matthias Zentgraf calls it "Western Europe's first large-
+scale battery production project." He introduced that one production line has been started in
+Arnstadt, and five more production lines will be put into operation in the future. It is expected
+to reach the initial production capacity target of 14GWh (gigawatt hours) in 2024. Its products
+will be used by world-renowned car companies such as BMW, Volkswagen, Daimler, Jaguar
+Land Rover, and PSA. It reduces the battery transportation cost and time of these car
+companies. (Zink, Valdes, & Wuth, 2020)
+
+
+The Institute for Energy Research reveals the current situation of the German electric vehicle
+industry: Germany expects a 14% drop in electric vehicles in 2024. the obstacles to the
+growth of the electric vehicle market and the growth of electric vehicle sales. Slowdown and
+
+
+
+
+                                                                                                 22
+uncertainty about future demand forecasts Government incentives for electric vehicles are
+weakening, and infrastructure and pricing remain significant obstacles to the full expansion
+of electric vehicles. (IER, 2024)
+
+
+In terms of infrastructure, the article mentioned that there are currently less than 110,000
+charging infrastructures in Germany. There is still a long way to go to achieve the previous
+strategic goal of 1 million charging stations by 2023 set by German Transport Minister
+Wiesing. To achieve the goal, Germany must double its current rate of infrastructure
+development.
+
+
+
+
+In terms of pricing, the market of EV price above 35,000 euros is already saturated, and the
+categories of electric vehicles below 25,000 euros are very limited. Therefore, only high-
+income people in Germany can afford electric vehicles. In addition, Germany will cancel the
+purchase of electric vehicles in 2022. With a subsidy of 4,500 euros, The German Association
+of the Automotive Industry (VDA) expects that sales of electric vehicles will drop by 14% in
+2024. If this situation continues for a long time, it will be difficult to achieve the German
+government’s target of 15 million electric vehicles on the road in 2030. (IER, 2024)
+
+
+Along with electric vehicles in Germany, automakers are adjusting their strategies to deal with
+the changing electric vehicle landscape. German car-hailing companies such as BMW and
+Volkswagen have slowed down their strategic goals to achieve full electrification. BMW CEO
+Oliver Zipse spoke at the Berlin Automobile Industry Association New Year reception. Zipse
+told the German government Taking a cautious approach to his previously proposed strategy
+of fully implementing electric vehicles by 2030, he has advocated the importance of flexible
+production lines and promoted internal combustion, hybrid and hydrogen-powered vehicles.
+Volkswagen subsidiary Audi is reducing its electric vehicle product line, while Volkswagen
+has shelved plans to sell a stake in its battery unit. A potential slowdown in electric vehicle
+
+
+
+
+                                                                                              23
+growth could jeopardize billions of dollars in industry investment and hamper compliance
+with emissions regulations. ( RAUWALD, ECKL-DORNA, RAY, & Bloomberg, 2024) In
+conclusion, the litterature revealed that the regulation and policies of EV in Germany,
+challenges of German EV infrasturectur in the future, and German EV industry and current
+status of German EV market. Eventhough there are some chanllenges as Germany’s current
+infrastructure is imperfect and the high price of electric vehicles makes some people hesitate
+to buy electric vehicles. The litteratures highlights the need for continued investment in
+infrastructure, supporting policies and innovative solutions to drive the transition to electric
+vehicles, as the German government and German automotive executives are also clear that
+electric vehicles are a big part of the future of the automotive industry. The trend is that
+German car companies currently have no technological advantage in the field of electric
+vehicle manufacturing. No longer an industry leader like internal combustion mechanisms.
+
+
+
+
+2.5 Research gap and significance
+The observation after reviewing the existing literature related to the research topic is that
+many research efforts focus on analyzing the policies surrounding electric vehicles in
+Germany, tracing the development of the German EV sector, and investigating the dynamics
+within the electric vehicle market, However, these viewpoints are typically discussed
+individually or paired together. For instance, the literature delve into the influence of
+Germany's EV policy on the development of electric vehicles, or the impact of Germany's
+EV infrastructure on the electric vehicle market. There is very limited of literature that
+integrates these three facets for a comprehensive analysis. Furthermore, there is even less
+literature that merges all of three aspects to study the strategic issues of multinational
+companies in Germany.
+
+
+
+
+                                                                                             24
+Thus, the research gap is defined since there is no current literature integrated with institution-
+based view, industry-based view and company's internal resources to analysis of BYD's
+business strategy in the German EV market. In addition, Germany has always been a country
+with a long automobile history which also occupies an important position in the automobile
+industry. BYD, as the largest manufacturer of electric vehicles. Thus, studying BYD's
+strategic development in the German EV market is not only of great significance to BYD,
+but also for other Chinese EV companies who seek expansion in Germany and has certain
+reference value for the entire electric vehicle industry.
+
+
+
+
+Chapter 3 Theoretical Framework
+
+
+This chapter presents the theories, concepts and models used in this study to answer the
+research question. This constructed by the Institution-based view, Industry based view focus
+on Porter’s five force, Resource Based View with VRIO framework. The aim of this chapter
+is to enable user to gain a depth understand of framework and able to apply them in analysis
+afterwards.
+
+
+3.1 Institution-Based View (IBV)
+As globalization accelerates and multinational corporations expand, corporate management
+faces novel challenges, necessitating a global outlook to formulate effective strategies. The
+institutional landscape of economies and the significance of institutional evolution play
+crucial roles in the strategic management of multinational corporations. Adopting an
+institution-based perspective is pivotal for analyzing and discussing enterprise strategic
+development within the broader system.
+
+
+According to Richard W. Scott, institutions are frameworks and practices shaped by rules,
+norms, and cognitive systems that uphold societal stability and imbue social behavior with
+meaning. (Scott, 2013) Building upon previous scholarship, Mike W. Peng refined the
+
+
+
+                                                                                                25
+institutional framework, delineating its scope in which encompasses both formal and informal
+systems governing individual and corporate behavior. (Meyer, Estrin, & Bhaumik, 2008)
+Formal systems encompass legal statutes, regulations, and similar structures, while informal
+institutions encompass norms, cultural values, ethics, and the like. These institutions are
+supported by three main pillars: regulative, normative, and cognitive.
+
+
+The regulative pillar primarily involves the coercive authority of governments, serving as a
+cornerstone of the institutional framework. Regulation involves establishing rules,
+monitoring compliance, and implementing consequences or incentives to influence future
+actions. (Scott, 2013)
+
+
+The normative pillar encompasses a prescriptive aspect that examines how the beliefs, values,
+and norms of relevant stakeholders influence the conduct of individuals and organizations.
+From a sociological standpoint, common values and beliefs are often prevalent within
+religious systems, social classes, business groups, and communities. (Scott, 2013) In his book
+"Institutions and Organizations: Ideas, Interests, and Identities," underscores the comparison
+between "appropriateness" and "instrumentality" as highlighted by scholars. When
+considering normative issues, the fundamental question shifts from "What choice will yield
+the best outcomes?" to "Given my role and the specific context, what behavior is most suitable
+for me to adopt?" (Scott, 2013)
+
+
+The Cognitive Pillar, as defined by Scott revolves around the shared perceptions that define
+the essential characteristics of a social system and establish its interpretive frameworks. Scott
+emphasizes the "cultural-cognitive" label within his analytical framework to underscore how
+external cultural influences shape internal interpretive frameworks. Cultural systems have the
+capacity to influence cognition, permeate social values, and construct societal norms across
+various levels, ranging from the formation of social groups to the operational logics of
+organizations and the institutional patterns of national governance. (Scott, 2013) While
+
+
+
+
+                                                                                              26
+cultural-cognitive elements are widely recognized as consistent components in diverse
+systems, their degree of institutionalization often varies, leading to ongoing debates and
+negotiations during social reform and development processes. ( DiMaggio & Powell, 1983)
+
+
+160. Cognitive pillar aims to guide the behavior of individuals and enterprises toward
+internalizing the values and beliefs that are taken for granted, mainly focusing on informal
+institutions. With the existence of these three pillars, institutions can influence the behavior
+of individuals and enterprises. (Garrido, Gomez, & Juan, 2014)
+
+
+
+
+Table 1 - Scott’s Three Pillars of Institutions (adapted from Koulikoff-Souviron and Harrison,
+2008, 414)
+
+
+
+
+According to the IBV (Institution-based view), in order to devising a successful internaltional
+business strategy, it is significant to take the the formal and informal constraints of the specific
+institutional environment in which the business operates. it will not be sufficient to only
+analyze industry conditions and capabilities. Integrating IBV with perspectives from the
+industry and resource-based views (RBV) can provide a more solid foundation for strategy
+development. Institutions exert considerable influence on both the formulation and
+
+
+
+
+                                                                                                 27
+implementation of strategy, as well as on the creation of competitive advantage. Hence, it's
+crucial to acknowledge that institutions are more than just contextual factors. (Peng, 2002)
+
+
+
+
+3.2 Porter’s Five Forces
+Industry-Based View advocated by Michael Porter in his book”” Competitive Strategy”
+emphasizes the important impact of the industry environment on the enterprise'' competitive
+advantage and performance. According to Porter, understanding the structural dynamics of an
+industry such as competitive forces, supply chains, technological changes enable companies
+understand the industry they operate and predict the trend of the industry development trends
+and competitor behavior thus helping company to develop corresponding competitive
+strategies. (Porter, Competitive Strategy-Techniques for Analyzing Industries and
+Competitors, 1998)
+
+
+The Five Forces Model proposed by Porter as table in below to analyze industry's competitive
+landscape encompassing threat from competitors, potential new entrants to the market, the
+threat of substitutes, the bargaining power of suppliers, and the bargaining power of buyers.
+
+
+
+
+(Figure 2 sources from Michael E. Porter, Harvard Business Review,1979)
+
+
+
+                                                                                           28
+3.2.1 Competitive rivalry
+Interpreting thee forces accordantly, the threat from competitor usually discussing business
+competition. for example, the number of competitors within the industry, the more competitor
+the more competition in the industry. they all fight for scarps of market share. Moreover, the
+more similarities product or services they offer, the more intense competition they have, since
+the customer could easily switch. However, the competition usually less dramatic in an
+expending industry. The competition could also lead the price war between competitors,
+besides that, when look the competition between competitors, it could also look for exit
+barriers and fixed cost that Porter points out when industry with high fixed cost and high exit
+barriers, the company has strong temptation to cut price rather than cut production. (Porter
+M. , 1979)
+
+
+
+
+3.2.2 Threat of new entrants
+Potential New Entrant in an industry evaluate the entering barriers for an industry. General
+speaks, industry with lower entering barriers often have lower profit margin and firms have
+less market share. Factors as economic scale, production differentiation, capital requirement,
+access to distribution channel, regulation, switch cost are usually included when asses the
+new entrant in an industry. For instance, obtaining access to the distribution channel is crucial
+in the EV car industry. If the existing firm control distribution channels like retail stores or
+online platforms, new entrants would face the challenge of replicating such a structure while
+also competing with established firms on pricing, which is a complex task. Moreover, licenses,
+safety standards, and regulatory standards can create barriers, making market entry too
+cumbersome or expensive for new firms. (Porter M. , 1979)
+
+
+3.2.3 Bargaining Power of Suppliers and buyer
+Supply chain is powerful when a firm needs something important for their suppliers to stay
+in the business, when the power of supplier is high which may raise the costs otherwise limits
+the company resources. Factor as the number of suppliers, uniqueness which means supplier
+
+
+
+
+                                                                                              29
+provide the unique product, switch cost for switching supplier, forward integration in which
+means if supplier could move into the buy’s industry that makes the former buyer difficult to
+compete. Do not forget the importance of industry as some industry or some sectors are
+interwind as the automobile, tech industry, the supplier need buyer to do well so they can do,
+thus there are normally balance power between the supplier and buyer. (Porter M. , 1979)
+
+
+On the other hand, the five force also look the bargaining power of buyer as if customer is
+powerful that they could put pressure on business to provide better product or services perhaps
+in lower price as well. When looking the degree of buyer’s power, those areas as the number
+of buyers, purchase size, switch costs, price sensitivity, and informed buyer may include. in
+practice, the fewer buyers, the more power buyer have such as in the aerospace industry, since
+there are fewer buyer in this industry, so buyer are powerful to demand favorable terms
+because the sellers depend on them.
+
+
+
+
+3.2.4 Threat of Substitutes
+According to Porter, threat of substitutes refers to when customer can find the substitutes in
+another industry that will threat companies in the former industry, take taxi as example, when
+uber and other ride-sharing appeared, it attracted customer quickly with its convenience and
+price advantage thus ride-sharing service industry competitor and threat to the taxi industry.
+Here are some ways to analyze the degree of threat of substitutes. The relative price
+performance that means when substitute performance is comparable or the cost of a substitute
+are low, the customer is easily switches to substitutes. Availability of close substitutes, if there
+are genuinely similar product on the market, the degree of threat of substitutes is high.
+Sometimes even though there are very different product, but customer still treat them as the
+same. (Porter M. , 1979)
+
+
+
+
+                                                                                                 30
+To sum up, by Porter’s Five Forces, companies can gauge the attractiveness of their industry
+and adjust their competitive strategies accordingly to attain sustainable competitive advantage.
+Porter's Industry-Based View offers a framework to help companies thoroughly understand
+the competitive environment of their industry and make strategic plans and decisions to
+achieve enduring competitive edge.
+
+
+
+
+3.3 Resource - based view, VRIO framework
+Resource Based View is one of tradition perspective of strategy management focus on firm-
+level and describing and identifying the internal strength and weakness of the company and
+it is a managerial framework use to determine the strategic that can exploit to achieve
+competitive advantage. The roots of RBV found during the 90th, several scholars point it out.
+However, this paper focus on the interpterion of resource-based view introduced by Jay
+Barney in 1991. According to the definition of Barney, (Barney, 1991) resources include all
+assets, skills, technologies, organizational characteristics, and knowledge owned by the
+enterprise.
+
+
+Resource-Based View emphasizes that a company's competitive advantage comes from its
+unique and difficult-to-imitate resource combination. These resources enable firms to provide
+value creation, scarcity, non-substitutability, and organizational capabilities to achieve
+sustained competitive advantage. RBV believes that corporate strategies should be dedicated
+to developing and utilizing these unique and valuable resources to create lasting competitive
+advantages. In addition, Barney also proposed two assumptions that underpin sustained
+competitive advantage. Firstly, resource heterogeneity suggests that firms within the same
+industry possess distinct bundles of resources, leading to varying levels of success. This
+implies that certain firms excel over others due to their unique resources. Secondly, resource
+immobility refers to resources that are challenging to trade or replicate. This assumption is
+also known as a VRIO framework that is a pivot measurement tool on whether resources can
+provide enterprises with sustainable competitive advantages. (Barney, 1991)
+
+
+
+
+                                                                                            31
+The resources could be divided to threshold capabilities and distinctive capabilities.
+Threshold resources refer to the basic resources and competencies required to enter and
+compete in an industry. The distinctive resource are those resources that can enable an
+organization to achieve competitive and the distinctive resources require ownership and
+control of resources and competencies that separate a business from the rest. VRIO refers to
+the four characteristics of Value (valuable), Rarity (rare), Inimitability (difficult to imitate)
+and Organized (organized). Only when resources or capabilities possess these four
+characteristics, they can consider as the sustained competitiveness advantage of an enterprise.
+(Barney, 1991)
+
+
+
+
+(Figure 3 VRIO framework (Barney, 1991) , sources from the B2U)
+
+
+
+Value, means the resource or capability must be able to help the enterprise exploit
+opportunities or solve problems, thereby creating value and provide value to the customer. If
+a resource or capability provides no value, it will not be a competitive advantage for the
+business. So, there are often question to consider, does the strength add value to your customer
+and can you capitalize on it to grow the Competitive advantage.
+
+
+
+
+                                                                                              32
+Varity is the second aspect of VRIO framework that underscores the necessity for a resource
+or capability to be relative scarce amongst your competitive set for an organization to sustain
+competitive advantage. This scarcity renders it challenging for other contenders to acquire
+the same resource or capability, thereby endowing you with a distinctive edge in your market.
+if these resources or capabilities becoming commonly and easily to access, it will no longer
+being an advantage that sustain the competitiveness. (Enochson, Onstrategy, 2022)
+
+
+The subsequent step involves Inimitability which is to assess if the resource or capability is
+easily imitated or copied by other competitors. If it falls over time if the resource or capability
+can be easily imitated, it can not sustain a competitive advantage. If the strength creates value,
+is rare, and can not be copied, you could move to the final section of the VRIO analysis.
+however, If it’s a strength, it’s unique, it’s rare, but can be copied, it may utilized in the short-
+term growth strategy.
+Organized is the final step of the VRIO analysis that has less to do with evaluate the strength
+as earlier steps, is more about h the ability to effectively integrate, utilize, and manage
+resources and capabilities. if you can not leverage those resources, then it can not provide a
+competitive advantage and it is crucial for management team to consider for instance how
+are they going to leverage which resources, are they going to use it create the growth strategy,
+will they use which resource to drive their vision in the future and so on. if the management
+team know how to use this competitive advantage, they will all set. (Enochson, Onstrategy,
+2022)
+
+
+
+
+In summary, the VRIO framework helps a company determine its strength in its resources and
+capabilities from the firm-level service, VRIO framework serves to guide the corporation in
+developing its strategy to achieve competitive advantage.
+
+
+
+
+3.4 Partial Conclusion
+To sum up, the theoretical framework interprets three theories, which are institution-based
+view, industry-based view and resources-based view. Institution-based view emphasizes how
+
+
+                                                                                                  33
+the institution in external environment of the enterprise affects the development strategy of
+the enterprise, such as regulations rules, norms, cultural or social cognition. Industry-based
+view focus on the Porter's Five Force: treat of new entry, bargaining the power of buyer and
+supplier, competitive rivals. Porter’s Five force aim to plot the competitive landscape with an
+industry and understand the competitiveness of the particular enterprise in an industry and
+also the competition among its competitors. Finally, the theoretical framework interprets the
+resource -based view. from the perspective of the enterprise, the VRIO framework shows how
+the enterprise can find the advantages of resources and capabilities to help the enterprise to
+evaluate how the organization's resources contribute to the market position. These three
+theories focusing on strategic management that examine the dynamic relationship among
+institutions, organizations, and strategic choices provide comprehensive guidance for
+corporate strategic deployment as shown below
+
+
+
+                 Fir -specific
+                 resources and
+                  capabilities
+
+Industr-based                     Institutional
+ competition                     conditions and
+                                   trasition
+
+
+                   Strateg
+
+
+
+Figure 4: The Strategy Tripod, source: (Peng, Sun, Pinkham, & Hao, 2009)
+
+
+3.5 Refection on the choice theories and models
+When choosing the appropriate analysis method, I have thought about using the other two
+theories. For example, when doing macro analysis of the impact of external factors on
+corporate strategy, I have considered using PESTEL for analysis. PESTEL focuses on external
+environmental factors, including political, economic, social, technological, environmental,
+and legal aspects.PESTEL analysis and institutional theory both used in strategic management,
+
+
+
+
+                                                                                            34
+each offering a unique perspective on understanding business environments. PESTEL
+analysis provides a broader overview of external factors affecting organizations and
+institutional theory focuses on the impact of external conditions such as norms, rules, and
+regulations on corporate strategy. because for the EV car industry, its development relies
+heavily on the support of some external policies, Thus, in exploring how external factors
+influence BYD's strategy, this study opts for an institutional- based view over PESTEL
+analysis. (Aguilar, 1967)
+
+
+This study also considered using SWOT analysis instead of Porter five force and resource
+based view, because SWOT analysis points out by Albert Humphrey stands for strength,
+weakness assesses, opportunities and threat and is a management tool to help company
+identify its internal strength and weakness, and external opportunities and threat in the market
+to have an understanding of company's current situation and how those factors affect company
+business.
+But SWOT analysis may oversimplify complex strategic issues and fail to prioritize or weigh
+factors appropriately, analysis of industry and company resources. The analysis is also not
+comprehensive. SWOT analysis does not provide guidance on how to address identified
+issues or develop strategies beyond highlighting them. (Helms & Nixon , 2010)Therefore,
+industry-based view focus on Porter's Five Force and resource-based view using VRIO
+framework to answer What opportunities and challenges does BYD face in the German EV
+market? And which resources can BYD exploit to achieve a competitive advantage in the
+German EV market?
+
+
+While make this decision, the limitations of Porter's Five Forces and the VRIO framework
+have been considered. Porter's model fails to account for important factors such as the
+dynamic interactions among competitive forces, the diverse behaviors of competitors, the
+evolving nature of industry boundaries, and the role of innovation, differentiation, and
+branding in shaping competitive advantage. Similarly, the VRIO framework's static nature
+hampers its ability to respond to changes in the competitive landscape, advancements in
+
+
+
+
+                                                                                             35
+technology, and shifting customer preferences over time. Additionally, it tends to overly
+prioritize the rarity and uniqueness of resources, potentially overlooking factors such as
+resource substitutability and the coherence of organizational strategies needed for long-term
+competitiveness.
+Despite these limitations, the combination of these theories as mentioned in (Figure 4) co-
+establish the comprehensive analytical response to business strategy, thus it is the best choice
+for this study.
+
+
+
+
+Chapter 4 Methodology
+This chapter introduces the methodology that is applied to this research to answer the research
+question: How can BYD adjust its business strategy adapting to the German EV market to
+increase sales? Th research design is guided by the “Research Onion Model” from Saunders.
+(Saunders, Lewis, & Thornhill, 2012) The purpose of applied this model is to clarify the
+methodology path step by step that is practical and convenient for research to construct the
+research design.
+
+
+
+
+Figure 5: The “Research Onion” Model from Saunders, Lewis,&Thornhill, Research model
+for Business Students
+
+
+                                                                                             36
+4.1 Research Philosophy -Pragmatism
+According to the Research Onion Model, research philosophy is the out layer of the model
+which should be decide firstly. It is necessary to explain the underlying research philosophy
+because a research design is built on the appropriate research philosophy. Different
+philosophical assumptions directly affect the research design and the quality of the design.
+(Easterby-Smith, 2015)
+The choice of research philosophy is based on the research’s perception in term of ontology,
+epistemology and axiology. Ontology refers to the assumptions about the reality, to determine
+the choice of otology, one must answer” what is the nature of reality?”, epistemology refers
+to the assumption about the knowledge, people likely ask “how do we know what we claim
+to know?” in order to establish the choice of epistemology. Axiology concerns about the
+values that guide our research to begin with.
+
+
+by consideration the question above and the overall aim of this research, the pragmatism
+research philosophy is selected because pragmaticism philosophy allows research to fully
+engaged in method, complexity and richness of world and focuses on the usefulness and
+applicability of research findings, rather than an all or nothing philosophical position
+compared to positivism and interpretivism. Moreover, pragmatism also provide research the
+great flexibility in terms of method for designing and data gathering. (Saunders, Lewis, &
+Thornhill, 2012)
+
+
+
+
+4.2 Research Approach - Abductive
+The second layering of Research Onion model is approach to the theory development.
+An abductive approach is adopted in this study. This involves inferring new theories and
+propositions and “seeks a situational fit between observed facts and rules” (Timmermans &
+Tavory, 2012) In order to demonstrate a full picture of the topic of interest with an emphasis
+on the unique implications of the case of BYD. In the process of generating research questions,
+I employed systematic combining to align theory with reality as well as constantly redirecting
+
+
+
+
+                                                                                           37
+my research. Initially, I identified potential areas for investigation based on various interests.
+With a preliminary topic in mind and armed with relevant theories, I went through my first
+round of data review, coding information from literature reviews into categories and looking
+for common themes. An open mindset was crucial through the data combining process in
+order to constructing the research framework organically, ensuring the validity and relevance
+of the research questions. As I arrived at a more specific preliminary research question, I were
+able to redirect further research in a top-down fashion where I actively searched for data
+relevant to the question of interest. This non-linear approach enable me to go back and forth
+to successively modify the research to incorporate findings made along the way. (Dubois &
+Gadde, 2002)
+
+
+4.3 Methodological choice – mix-method
+The third layer from the “Research Onion Model” is methodological choice. In order to meet
+up the aim of this research, the mix-method is adopted. The mixed- method allows the
+research to combine the quantitative research and qualitative research that could help me
+create more complete picture to answer the research question. The numerical data used to find
+the pattern and make assumption while the non-numerical data such as text, document and
+the video would help me to understand the concept, opinion and to gain the in-depth insight
+to my research question. (Saunders, Lewis, & Thornhill, 2012)
+
+
+
+
+4.4 Research strategy – singular case study
+The 4th layer of “Research Onion Model” concerns the research strategy. This study chose to
+adopt a case study research approach as research strategy. The case study approach focusing
+on specific phenomena of organizations or individuals in real settings. (Easterby, Thorpe, R,
+& Jackson, 2015) As George and McKeown (George & McKeown, 1985) pointed out that a
+major advantage of the qualitative case method is that it can address the effects of
+organizationally active phenomena in real-world contexts. Through a case study approach,
+key factors and causal relationships can be more easily discovered and tested.
+
+
+
+
+                                                                                               38
+The rationale for selecting BYD as the sole case company in this study aligns with the
+argument put forth by Dubois and Gadde (2002) as referenced by Towers and Chen (2008).
+They posit that in situations involving numerous independent variables and intricate
+structures, delving deeply into the analysis of a single case is more beneficial than expanding
+the sample size for observations. Given BYD's status as the world's largest manufacturing
+company in electric vehicles, studying it intensively can yield significant insights that are
+transferrable to other companies within the industry. This focused approach allows for a
+comprehensive understanding of key phenomena, benefiting not only BYD but also
+contributing valuable reference points for others in the same sector.
+
+
+
+
+4.5 Time horizon and Data Collection
+The fifth layer of “ Research Onion Model” is time horizon, there are two type of time horizon
+which are cross-sectional and longitudinal approach. The cross-sectional approach often
+involves case studying at a particular time and study the occurrence of a phenomenon
+(Saunders, Lewis, & Thornhill, 2012)while longitudinal approach often involve secondary
+data has been used to gain insight into historical developments of the industry or the company.
+Based understanding of difference of two type of time horizon, the cross-sectional approach
+is used in this study since it is shorter, however, the longitudinal approach is used when
+investigate development of the case company through the secondary data. research scope and
+the research purpose of a study are the most significant factors leading the researcher to select
+research methods, which concern the particular research tools and procedures to conduct
+research and analysis. (Yin, 2011)
+
+
+
+
+4.6 Data Collection and Data Analysis
+The last layer of “ Research Onion model” refers to the data collection and data analysis. Both
+qualitative and quantitative data originating fom various sources should be utilized to do the
+research. (Wahyuni, 2012) During the data collection process in a case study, the high
+complicacy and diversity of data sources may bring impediments to the research process.
+
+
+
+
+                                                                                              39
+It is essential for researchers to be capable of dealing with this complexity by distinguishing
+the most relevant and useful data according to the basis of research scope. (Yin, The case
+study as a serious research strategy. Knowledge, 1981) In this study, the secondary sources
+account for the major part to investigate and answer the research question.
+
+
+For the sake of heightening the validity of secondary data, I found that validating the
+credibility and timeliness of the data’s source is fundamental. Comparing and examine the
+reliability of the data materials from diversified channels increase the validity of results. In
+the choice of the data, the secondary data used in this study comes from reliable information
+and data such as the company's official website, Statista, the government's official website,
+and renown journals because of the completeness and authoritativeness.
+
+
+Main sources of secondary data in this study are as follows:
+       -       German EV government and institutions, subsidies from United Nation
+       website and academic literature
+       -       Theories and Models from academic literature and journals
+       -       Online video materials of relevant interviews, speeches
+       -       Insight from industry journal
+       -       Reports from BYD official websites and other company websites
+       -       Industry Insight from Consulting firm
+
+
+
+
+Concerning data analysis, secondary quantitative data such as statistics were used primary to
+understand the German EV market while secondary qualitative such as literatures, content
+analysis, videos etc. aim to provides information related to the research question. The data
+analysis provides the comprehensive information that enable researcher to understand and the
+factor, cause, trend from different sources and it is a foundation for the findings in this study.
+
+
+
+
+                                                                                               40
+4.7 The limitation of the Methodology
+This study as mentioned used secondary data as mentioned above, which means the primary
+data will not be collect and analysis. It has been aware there could have few disadvantages
+of only using the secondary data, firstly the secondary data may lack of relevance which
+means it is may be difficulty for the researcher to find the data that exactly match to answer
+the research question, not as the primary data which research have more control over the
+design of the data, e.g. researcher could design interview questions customized to answering
+the search question. In contrast, an interview from the secondary source may contain other
+information which irrelevance for the research purpose. In addition, not as the primary data,
+the researcher may have less control of data quality of secondary data when the secondary
+data coming from complex sources, it is difficult for researcher to go through all the sources
+to evaluate their quality.
+
+
+However, this study has recognized the limitations of using secondary data. In order to cover
+these limitations, this study extensively collected different types of data when selecting
+secondary data to answer the same question， ensuring the integrity of the information. In
+terms of data extraction, this study retains data related to research questions through screening,
+ensuring the relevance of the data. Finally, considering data quality, as mentioned from data
+validation, the secondary data used in this study are from some large official institutions,
+company websites, or well-known newspapers or academic forums.
+
+
+
+
+Chapter 5 Description Section
+
+
+This chapter provide background knowledge relate to the research top of case company will
+be present here. It includes the development of BYD, BYD’s business strategy as well as the
+
+
+
+
+                                                                                              41
+current sales model of BYD’s EVs in the German market. These background knowledges
+sever a solid foundation for the analysis.
+
+
+
+
+5.1 Background of BYD development
+BYD founded in 1995, in Shenzhen,China. BYD is a large Chinese listed automobile
+company with business in electronics, automotive, new energy, and rail transit. BDY's market
+value exceeds 13 billion us dollars and has more than 220,000 employees worldwide.
+According to annual financial report of BYD, there are 3.02 million units Electric vehicles
+sold in 2023, the total revenue of 602.315 billion yuan with a year-on-year increase of
+42.04% . Its net profit reached 30.04 billion yuan, a year-on-year increase of 80.72%.
+
+
+demonstrating an impressive year-on-year growth of 80.72%. Central to BYD's success is its
+development philosophy, which emphasizes "technology is king, innovation is the basis."
+Leveraging its strong research and development capabilities and innovative business model,
+BYD has made significant advancements in various sectors, including batteries, electronics,
+passenger vehicles, commercial vehicles, and rail transportation, solidifying its position as a
+prominent player in the industry. (BYD, BYD periodic reports, 2023)
+
+
+BYD demonstrates remarkable performance across all its business sectors. In the battery
+realm, BYD boasts over two decades of relentless innovation, resulting in 100% independent
+capabilities in research, development, design, and production. The company has established
+a complete battery industry chain, offering a range of products including consumer 3C
+batteries, power batteries (such as lithium iron phosphate and ternary batteries), solar cells,
+and energy storage batteries. Notably, BYD stands as the world's largest manufacturer of
+lithium iron phosphate batteries, with its products distributed globally.
+
+
+In the electronics domain, BYD maintains its position as an industry leader, leveraging
+cutting-edge technology and large-scale production. Its clientele includes prominent players
+in the global consumer electronics market, such as Samsung, Huawei, Lenovo, Apple, and
+
+
+
+
+                                                                                              42
+Microsoft. In automotive innovation, BYD focuses on research and development, particularly
+in core areas like batteries, motors, and electronic controls for new energy vehicles. Adhering
+to the 7+4 strategy, BYD aims to achieve comprehensive coverage of new energy vehicles in
+both passenger and commercial sectors, spanning private cars, taxis, urban buses, road
+passenger transportation, urban logistics, and specialized vehicles for warehousing, ports,
+airports, and mines. The BYD K9 electric bus, widely utilized in numerous cities worldwide,
+exemplifies the company's success in the commercial vehicle sector. (Book, et al., 2024)
+
+
+In the passenger car market, BYD has emerged as a leader in China's electric vehicle industry,
+offering models with impressive acceleration, all-electric 4-wheel drive safety, and
+exceptional fuel efficiency. By attracting international talent, including renowned figures like
+Wolfgang Egger and Heinz Keck, BYD Auto is advancing towards an international strategic
+direction. Moreover, BYD has invested significantly in research and development,
+assembling a team of over 1,000 experts and allocating substantial funds to develop an urban
+transportation cloud rail system. Compared to traditional subways, this system offers cost-
+effectiveness, shorter construction periods, reduced noise levels, and adaptability to diverse
+urban terrains, positioning it as a promising future urban transportation solution.
+
+
+In August 2022, BYD officially announced its entry into the German market and cooperated
+with Hedin Mobility, a leading European dealer group, to provide high-quality EV products
+for the German markets. The main passenger car models currently launched in the German
+market include the BYD Tang and Han series, which are priced between 50,000 and 70,000
+euros, and the BYD seal and atto3, which are priced between 30,000 and 50,000 euros, and
+
+
+
+
+will just enter the German market in 2024. The price of BYD's compact model BYD Dolphin
+is less than 35,000 euros.The article “An Existential Crisis in Germany Auto industry ” from
+the Spiegel international points out that Management company Berylls and opinion research
+company Civey recently conducted a survey among 1,400 high-end German car owners, and
+                                                                                             43
+found that nearly 61% of them are open to buying Chinese cars. Especially among car owners
+aged 30 to 39, the main consumer group in the next few years, the response is better. German
+consumers' acceptance of BYD has also increased significantly. Judging from the picture,
+from October 2023 to February 2024, it increased from 39% to 50%, and the acceptance
+increased by 11%. (Book, et al., 2024)
+
+
+
+
+ Figure 6 “Carwow survey”of consumer preference, sources from Der SPIEGEL. (Book,
+et al., 2024)
+
+
+Despite the growing dominance of Chinese EV manufacturers like BYD in Europe, there is
+discontent within the E-mobility sector regarding the selection of a non-European firm for
+such a prominent event. European manufacturers are still in the early stages of electrification,
+while their Asian
+
+
+counterparts have been deeply involved in the transition for years. BYD's sponsorship with
+UEFA European Football Championship 2024 highlights the increasing influence of Chinese
+EVs in Europe, fueled by competitive pricing and advanced technology. However, questions
+
+
+
+
+                                                                                             44
+arise about why a local brand was not chosen and whether price is the sole determining factor
+in the market. To strengthen the national EV market and promote sustainable mobility,
+industry experts suggest additional measures such as supporting charging infrastructure
+expansion, incentivizing EV purchases, and promoting public transportation services. (Platin,
+2024)
+
+
+
+
+5.2 BYD passenger car in Germany
+As a global leader in EV manufacturing, BYD has consistently dominated China's EV market
+for eleven consecutive years. Despite facing formidable competition, the company has
+experienced rapid business expansion, underscoring its industry expertise. Committed to
+strengthening its international presence, BYD has prioritized entering global markets.
+
+
+In 2022, BYD announced a strategic partnership with the European dealer group Hedin
+Mobility to introduce its EV to Germany, marking its debut in the European passenger car
+market. Germany holds significant importance in BYD's European expansion strategy.
+Renowned as the birthplace of the global automotive industry and home to Europe's largest
+automobile market, Germany boasts stringent automotive standards and a discerning
+consumer base. (Daily, 2022)
+
+
+
+
+BYD's entry into the German market presents an opportunity to showcase its products and
+technologies in one of the world's most competitive markets. This strategic move is poised to
+enhance BYD's brand reputation, market positioning, and global presence, aims to accelerate
+innovation and development in the EV industry, contributing to the advancement and
+prosperity of EV industry globally. In September 2023, BYD will debut at the Munich Auto
+Show with 6 models. These 6 models include BYD HAN, BYD Seal, Song PLUS, BYD
+ATTO 3, BYD Dolphin, and D9 debuted at IAA MOBILITY in Munich, at the same time
+
+
+
+
+                                                                                          45
+BYD announced that the Seal was officially launched in Europe. The major sales models of
+BYD's EV in Germany include BYD TANG, BYD HAN, BYD SEAL, BYD ATTO3, and
+BYD Dolphin. (BYD, BYD, 2023)
+
+
+
+
+BYD HAN: Highest selling price in
+Germany. the sale price is 69020 various
+from 69020 euro to 72590 euro depends on
+models. Equipped with 85.4kWh blade
+electricity, accelerating to 100 km/h in 3.9
+seconds. WLTP battery life from 521
+kilometers combined to 662 kilometers in the city.
+Fast charging reaching 80% in 30 minutes. Winner of the iF Design Award in 2021, marking
+the first Chinese car brand to receive this honor. (BYD, BYD EV model, 2024)
+
+
+
+
+BYD TANG: Priced at €69,000, accelerates to 100
+km/h in 4.6 seconds with 380 kW motor power.
+WLTP battery life from 400 up to 528 kilometers
+in the city, zero-emission electric driving mode.
+(BYD, BYD EV model, 2024)
+
+
+
+
+                                                                                     46
+BYD SEAL, priced from €44,990 to €50,990,
+with WLTP range up to 700 kilometers. Fast
+charging reaching 30-80% in 30 minutes.
+Luxurious design and performance options, with
+acceleration to 100 km/h in 3.8 seconds for AWD
+version. (BYD, BYD models, 2024)
+
+
+
+
+BYD ATTO 3: Cost-effective compact SUV, priced
+from €37,000 to €39,000. WLTP range up to 568
+kilometers in city driving. Spacious trunk capacity
+of 440 liters, expandable to 1338 liters with rear
+seats folded down. Recognized as a finalist for
+"Family Car of the Year 2023" award, praised for
+design and practicality. (BYD, BYD EV model,
+2024)
+
+
+
+
+BYD Dolphin: small electric car, priced at
+€32,990.WLTP endurance of 427 kilometers,
+acceleration from 0-100 km/h in 7 seconds.Spacious
+trunk volume of 1310 liters when rear seats are
+folded.Highly praised for advanced electric car
+technology
+and competitive pricing, challenging European
+competitors. (BYD, BYD models, 2024)
+
+
+
+
+                                                      47
+5.3 BYD’s business strategy
+
+
+5.3.1 “7+4” Strategy
+
+BYD's introduced the “7+4” strategy in 2015. The objective is to achieve a full industry chain
+layout, improve the company's competitiveness and sustainability while better adapting to
+market changes and demand shifts.        The "7" in the strategy signifies the company's
+concentration on various automotive sectors, encompassing commercial and passenger
+vehicles, public transportation, light and heavy logistics, car rental, and financial services.
+BYD's implementation of the 7+4 model focuses on several key areas:
+
+   •   Diversified business: with a diversified business model, it helps BYD to diversify the
+       risks and to better respond to market changes and demand shifts.
+   •   Technology leadership: By entering emerging fields, it forces BYD focus on the
+       technological innovation that helps BYD continuously improve its technical capability
+       to obtain certain technical advantages and support and guarantee             the future
+       development.
+   •   Improve brand awareness: Operating under a diversified business model, BYD
+       increases its opportunities for business growth by catering to customers in different
+       markets and meeting various needs., which can further enhance brand awareness and
+       market share.
+
+(BYD, 7+4 full market strategy, 2022)
+
+
+
+
+                                                                                           48
+5.3.2 BYD's Integrated Vehicle Intelligence Strategy
+
+As artificial intelligence (AI) continues to advance rapidly, intelligent driving and smart
+systems are becoming pivotal trends that are shaping the trajectory of the electric vehicle (EV)
+
+industry. In response to this, BYD unveiled its “Integrated Vehicle Intelligence Strategy “ in
+2024, aiming to lead the advancement of intelligent automobiles and accelerate the
+transformation of the automotive sector towards intelligence. This strategic initiative seeks to
+improve user-friendly, enable more personalized settings, and meet diverse user needs.
+
+The "Xuanji Architecture," is the first intelligent-electric fusion architecture, and it is an
+essential component of vehicle intelligence. It provides the car with an intelligent "brain" and
+"neural network", enabling it to fully perceive, contemplate, control precisely, and execute
+collaboratively like advanced intelligent life forms. This architecture enables real-time capture
+of changes in internal and external environments, swiftly consolidating information feedback
+to a central "brain" for decision-making, quickly adjusting the "body" vehicle status, and
+greatly improving driving safety and comfort. The Xuanji Architecture seamlessly integrates
+the E-platform with intelligent parking technology. Combined with the flexible and smooth
+control capabilities of the four motors, it can automatically achieve precise rotation and parking,
+effortlessly maneuvering into even the most challenging spots.
+
+Meanwhile, BYD pioneered the first dual-cycle multi-modal AI large vehicle. boasting the
+industry's largest database, leading sample size, and high computing power, covering more
+than 300 vehicle scenarios, endowing vehicles with the ability to continue intelligent evolution.
+Furthermore, a $5 billion investment will be made to construct the world's first batch of global
+all-terrain professional racing venues. In collaboration with DJI, is creating the world's first
+integrated vehicle-mounted drone, pioneering an integrated vehicle-grade drone hangar
+supporting intelligent storage, automatic battery exchange, and charging management. (BYD,
+BYD Showcased the Intelligence Advancement at Dream Day 2024, 2024)
+
+
+
+                                                                                              49
+Chapter 5 Analysis
+
+In order answering the main research question: How can BYD adjust its business strategy
+adapting to the German EV market to increase sales? the analysis takes focus on investigated
+sub three sub-question. The first sub-question, examining the institutional opportunities and
+challenges faced by BYD in Germany, will be explored through the lens of the institution-
+based view. The second sub-question, analyzing the opportunities and challenges encountered
+by BYD in the German EV market, will be assessed using Porter's Five Forces framework.
+Lastly, the third sub-question, identifying the resources that BYD can leverage to achieve a
+competitive advantage in the German EV market, will be illustrated through the application of
+the VRIO framework. The analysis section serves as the central component for generating the
+findings.
+
+
+
+
+5.1 Institutional opportunities and challenges BYD face in the German EV market?
+
+Being the nation with the most extensive legacy in the automotive sector, Germany is actively
+fostering the advancement of electric vehicles amidst the global automotive industry's shift
+towards sustainability. In pursuit of this objective, the German government has devised a range
+of policies and incentives aimed at propelling the adoption of electric vehicles. As mentioned
+in theoretic view, institutions has been defined by different scholars, W. Richard Scott,
+theorized the conception of institutions in which Institutions consist of regulative, normative,
+and cultural-cognitive components, which, along with related activities and resources. When
+institutions distinguish and constrain behaviors through legal, moral, and cultural constraints,
+it is equally necessary to realize that institutions can also empower and support social actions
+through incentives, guidance, and resources. (Scott, 2013)
+
+
+
+
+                                                                                            50
+5.2 BYD’s opportunity and challenge of German EV industry from perspective of
+Porter’s five force
+
+As discussed before, the institutional- based view offers the insights into the competitive nature
+of the industry and understand impact of the industry environment on enterprise, this section
+will use Porter's five Force help BYD to understand the structural dynamics of the German EV
+industry in term of the threat of new entrants and subsidies, the bargaining power of supplier
+and buyer and the internal rivalry in order to understand industry development trends and
+competitor behavior, thus helping BYD to identify opportunities and threats in the German EV
+industry in order to develop corresponding competitive strategies.
+
+
+
+
+5.1 Institutional opportunities and challenges BYD face in the German EV market?
+
+Being the nation with the most extensive legacy in the automotive sector, Germany is actively
+fostering the advancement of electric vehicles amidst the global automotive industry's shift
+towards sustainability. In pursuit of this objective, the German government has devised a range
+of policies and incentives aimed at propelling the adoption of electric vehicles. As mentioned
+in theoretic view, institutions has been defined by different scholars, W. Richard Scott,
+theorized the conception of institutions in which Institutions consist of regulative, normative,
+and cultural-cognitive components, which, along with related activities and resources. When
+institutions distinguish and constrain behaviors through legal, moral, and cultural constraints,
+it is equally necessary to realize that institutions can also empower and support social actions
+through incentives, guidance, and resources. (Scott, 2013)
+
+From Scott’s point of view, the existing policies for the German electric vehicle industry are
+mainly formal institutions such as regulations and some government incentive policies. the
+German federal government formulated the Climate Action Plan 2050 in 2016 to ensure that
+Germany achieves the targets set by the Paris Agreement and the EU's climate goals. This
+document underscores the importance of promoting EV and proposes various measures to
+accelerate their adoption. These include providing purchase subsidies, building charging
+infrastructure, and reducing the cost of electric vehicle usage. For instance, tax incentives
+
+
+
+
+                                                                                                51
+outlined in the literature review include a ten-year ownership tax exemption for battery electric
+vehicles (BEVs) and fuel cell electric vehicles (FCEVs) for individuals, as well as corporate
+tax incentives such as a reduction in taxable amounts for BEVs and plug -in hybrid electric
+vehicles (PHEVs (Ministry, 2016)
+
+The personal purchase subsidy previously amounted to 4,500 euros that has been canceled the
+subsidy at end of 2023. Currently, there is no government subsidy for the personal purchase of
+EVs. The sudden termination of the subsidy has made many consumers and businesses very
+distressed. In addition, in term investment of charging infrastructure, according to the he
+"Climate Action Plan 2050" that German government set target for installing charging
+infrastructure in key areas such as cities and highways, accompanied by financial support. This
+emphasizes the importance of charging infrastructure construction to support the development
+and popularization of EVs In 2022, German government approved a 6.3 billion euro investment
+plan spanning three years to rapidly expand the nationwide electric vehicle charging network.
+This support provides a vital foundation for BYD's operations in Germany and facilitates the
+sale of electric vehicles in the country. (Ministry, 2016)
+
+However, there are also some issues that need to be paid attention to in BYD's strategic
+development. For example, the biggest problem currently is the serious shortage of charging
+piles in Germany, and the construction of charging piles is lower than expected. As mentioned
+in the literature review, There is still a long way to go to achieve the previous strategic goal of
+1 million charging stations by 2023 set by German Transport Minister Wiesing. To achieve the
+goal, Germany must double its current rate of infrastructure development. Moreover, the
+distribution is uneven, with the average distribution in big cities being significantly more than
+in remote areas and rural areas, which has affected the sales of electric vehicles in towns and
+cities with insufficient charging piles. This has brought certain obstacles to the promotion and
+popularization of electric vehicles.
+
+
+
+
+                                                                                               52
+In summary, it's evident that Germany is deeply committed to developing the electric vehicle
+industry. Many regulations and incentive policies for electric vehicles are made by German
+government to promote the development of the electric vehicle. However, some incentive
+adjustments were made at the end of 2023, which could have a negative impact on the EV
+sales.
+
+
+
+
+5.2.1 Threat of New Entrants
+
+Entering the electric vehicle industry requires massive capital investment, massive R&D
+expenditures, industry experience, and economies of scale to achieve efficient manufacturing.
+For instance, BYD’s R&D expenses was 1.105 billion dollars increasing to 5.05 billion dollars
+for from 2019 to 2023. (finbox, 2020)
+
+Other EV manufacturers have also invested large sums of money in R&D investment, Tesla's
+R&D expense was 94 million dollars in 2010 and increase to almost to 40 million US dollars
+in 2023, (statista, 2024) In addition, several other well-known German car brands have also
+continued to invest a lot of money in their EV development, In early 2024, the Volkswagen
+Group has committed to investing 122 billion euros on electrification and digitalization over
+the next five years. (Volkswagen, 2023)
+
+Daimler AG's Supervisory Board has approved a 60 billion euro business plan to Mercedes-
+Benz Business for 2022 to 2026 in order to keep high level of R&D expenditure for the
+electrification of the product portfolio and digitalization measures and automated driving.
+(Group, 2021)
+
+BMW’s R&D investment in EV has also exceeded expectations, According to info from the
+Bloomberg, the R&D expenditure in 2023 Q3 was 3,396 million euro which has an year on
+year increasing of 15,4%, the R&D expenditure went mainly into the development of the new
+
+
+
+
+                                                                                         53
+models, electrification, digitalization of the vehicle fleet, and automation driving. (BMW, 2023)
+
+In addition, the EV industry is unlikely to achieve particularly large profits in a short period of
+time, so the initial sunk costs are quite large. As we all know, cars are one of the most complex
+industrial products, and the production of a car requires hundreds of parts and the battery of
+EV, the most critical component of electric vehicles, accounts for almost one-third of total
+manufacturing cost. Overall, the cost of electric vehicles is very high. In the first half of 2023,
+the prices of cobalt, lithium, and nickel increased by 50%, 100%, and 30% respectively, which
+directly led to the increase in the price of power batteries. Since the new car-making forces do
+not have an independent battery supply chain, high-speed train batteries are still supplied by
+external suppliers, thus bearing the cost pressure of rising battery prices. For example, the
+emerging Chinese electric vehicle brands NIO and Xpeng which are also on sale in Germany.
+(St, 2024)
+
+In the first half of 2023, NIO's total revenue was 20.23 billion yuan, a year-on-year increase of
+22.96%; but the net loss was 4.54 billion yuan, a year-on-year increase of 369.6%. Based on
+the delivery volume of 54,600 vehicles, Weilai lost 83,100 yuan for each car sold. The situation
+of Xpeng Motors is not optimistic either. In the first half of the year, its revenue was 14.891
+billion yuan, a year-on-year increase of 121.85%; but its net loss was 4.402 billion yuan, a
+year-on-year increase of 122.21%. Based on the delivery volume of 44,100 vehicles, Xiaopeng
+lost 99,800 yuan for each vehicle sold. (St, 2024)
+
+Thus, the entry barriers of EV battery is high of its large initial sunk cost of the electric industry
+is and the current low profitability. Looking at the global automobile industry has a history of
+hundreds of years, the well-known automobile brands are still the ones that most people is
+familiar with which means not every company has capability to entering the EV industry,
+especially for emerging brands which do not have the same resources and expertise to develop
+as established automobile manufacturers, the infrastructure to produce electric vehicles and
+establishing a foothold in the industry comes at a huge cost.
+
+
+
+
+                                                                                                 54
+5.2.2 Threat of Substitutes
+
+
+When we discuss alternatives to the electric vehicle industry, first of all we realize that the
+development of electric vehicles is to reduce carbon dioxide emissions and contribute to
+improving the environment. Many people believe that electric vehicles should not be the only
+solution, as mentioned in the literature view, in addition to electric vehicles, there are also
+hydrogen energy vehicles on the market.
+
+
+
+Fuel cell electric vehicles (FCEVs), also known as hydrogen cars, operate by converting
+hydrogen directly into electrical energy, producing only water vapor and warm air as
+emissions. However, compared to the electric vehicle (EV) industry, FCEVs and their
+supporting hydrogen infrastructure are in early stages of development. Literature reviews
+indicate minimal FCEV sales in the German market, with only 263 FCEVs registered in 2023,
+a significant drop from previous years, in contrast to the 1.4 million registered BEVs.
+Although FCEVs offer fast refueling, challenges persist, notably safety concerns regarding
+hydrogen storage and fuel cell operation. Hydrogen is highly flammable and improper
+handling may lead to explosive accidents, while fuel cell devices pose risks of leakage or
+overheating if not properly designed or manufactured (Hydrogeninsight, 2024).
+
+
+Furthermore, the inadequate infrastructure presents a significant barrier to FCEV adoption,
+with only 88 hydrogen refueling stations in Germany as of 2023. Analysts attribute the global
+failure of FCEVs to take off since 2014 to factors such as insufficient hydrogen refueling
+infrastructure, high hydrogen costs, and the upfront expense of FCEVs (Observatory,
+2024).Currently, German taxpayers are also collectively calling on the government to stop
+the substitutes for the FCEV since the German government spent nearly 500 million euros on
+hydrogen vehicle subsidies in 2007.
+
+
+
+
+                                                                                            55
+The national taxpayers' Bund der Steuerzahler (BdSt) described this as "absurd" and
+“pointless” as, they mean that hydrogen cars are much less efficient than battery-powered
+electric cars, and a recent analysis by DSi, the group’s research arm, also noted that “at least
+in some areas, the use of hydrogen. There are technical issues. This certainly includes the
+passenger car industry." And using green hydrogen made from renewable energy is a "waste
+of resources" because of the waste when converting clean electricity into hydrogen and back
+again inside a fuel cell vehicle. causing energy loss. (Collins, 2023)
+
+
+The analysis shows that although electric vehicles are not the only solution in terms of
+environmental protection and emission reduction, cars can also use environmentally friendly
+fuels, such as the hydrogen energy vehicles (FCEV) mentioned. However, it is evident from
+the analysis that FCEV are not a better solution than electric vehicles (EVs), and in the case
+of limited funds, it has led to limitations in the development of hydrogen energy vehicles.
+From the perspective of substitutes, challenging EVs necessitates presenting a superior
+alternative. Presently, there is no other solution on the market that has lower investment and
+higher safety than the electric vehicle in renewable energy sources. Therefore, EVs will
+continue to dominate as the primary choice for environmentally friendly and emission-
+reducing vehicles for the foreseeable future.
+
+
+
+
+5.2.3 Bargaining Power of Suppliers
+Automobile manufacturing involves hundreds of parts, and suppliers run through the entire
+value chain, Suppliers have a crucial role in the EV industry regardless in which countries.
+The core components of EVs include motors and batteries, electronic control, chassis, body,
+central control system, interior, exterior decoration and other components. In Appendix 1
+demostrates BYD's EV core components includes the power system , electronic control
+central control system,body chassis. in which most of components are made by BYD itself.
+It is evident that a vertically integrated company can manage the entire production process.
+
+
+
+
+                                                                                             56
+Batteries are about one-third of the cost of the entire vehicle, scaling and in-house production
+of batteries is important to reduce overall production costs and provide attractive products.
+Outsourcing limits access to expertise and increases pressure on EV manufacturers. Except
+for BYD, many others including Tesla, Germany's Volkswagen, BMW, etc. do not have
+electric vehicle battery technology and still rely on external suppliers, so key components of
+electric vehicles like batteries The bargaining power of suppliers is relatively high. (Pistilli,
+2024)
+
+
+In addition, battery prices have increased significantly in recent years due to raw material
+issues. The reason is that the expansion of battery production takes about 9 months to a year
+to complete, but the expansion of lithium mines requires 15 to 24. The main source of battery
+expansion is Due to sufficient capital chain, and lithium ore and other bulk products, the
+expansion of production capacity is slow. Firstly, it is affected by the time required to expand
+mineral production capacity, and secondly, it is also limited by the state's constraints on the
+production capacity specified in the company's mining license. Moreover, cobalt and nickel
+are important raw materials for ternary lithium batteries, and the market demand is also very
+tight. This is the reason for the increase in raw material prices. It shows that battery suppliers
+generally have low bargaining power on upstream raw materials. This has a great impact on
+the most downstream EV companies and increases the manufacturing costs of electric
+vehicles. (Peters, 2024)Thus, because battery suppliers are the core of the electric vehicle
+industry, and many electric vehicle companies do not have the technology to produce batteries,
+they all rely on supplier supply, that indicate the price bargaining of core component suppliers
+in the EV industry is high.
+
+
+Although this is not good for the industry as a whole, it is an opportunity for BYD. BYD CEO
+Wang Chuanfu emphasized in an interview that the company has independent research and
+development capabilities for almost all core components, including car tires and glass. Fodi
+Battery, a wholly-owned subsidiary of BYD, provides batteries for BYD's electric vehicle
+manufacturing. BYD signed a mining strategic cooperation agreement with the Nanchang
+
+
+
+
+                                                                                               57
+Municipal Government in China, which is an important milestone. As part of the agreement,
+BYD plans to invest 28.5 billion yuan (approximately US$3.95 billion) to establish a
+comprehensive development and utilization production base in Yichun City. Subsequently,
+BYD Yichun Mining Co., Ltd. was established. The company's business scope includes the
+mining of non-coal mine mineral resources and the sales of non-metallic minerals and
+products. These wholly-owned subsidiaries enable BYD to achieve self-sufficiency in battery
+raw materials. With such a volume of ore, BYD could lock in lithium needs for more than a
+decade, the report said. The mines are expected to produce lithium carbonate at a cost of less
+than 200,000 Chinese yuan per tonne, far below the domestic price of 500,000 yuan per tonne
+in mid-March, the report said.Byd's integrated supply chain allows BYD to adjust its
+manufacturing costs, giving BYD a very large cost advantage compared to other electric
+vehicle companies that require external supply of batteries. (Xue, 2022)
+
+
+
+
+5.2.4 Bargaining Power of Buyers
+Barging power of buyer represents the ability to negotiate the price and conditions with the
+EV company, In the German EV Industry, the individual buyer normally purchase one car at
+a time, in this case the bargaining of buyer is low compares with if it is a bulk purchase, the
+bargaining power of buyer will be higher than the individual car purchases. As mentioned in
+the literature review, Germany currently has just over 100,000 charging piles and charging
+piles are uneven distributed that primarily concentrated in major cities and it is difficult to
+achieve the goal of 1 million charging piles in 2030. In addition, The German government
+have reduced subsidy for individuals purchasing electric vehicles at the end of 2023, which
+huge impact EV market negatively, the report from the Fortune mentioned that electric vehicle
+sales may decline by 14% in 2024. ( RAUWALD, ECKL-DORNA, RAY, & Bloomberg, 2024)
+
+
+This shows that German consumers are very sensitive to price. Many people are unwilling to
+pay the premium for electric vehicles. This situation has led many businesses have to provide
+discounts to consumers in order to sell the cars and that increases the bargaining power of
+
+
+
+
+                                                                                              58
+buyers indirectly. An autorotative Consumer study of 2023 by Deloitte reveals the main
+consumption propensity is the driving force of the market and the main concern for choosing
+the EV among driver include peer pressure, charging convenience, the Potential for extra
+taxes/levies applied to the internal combustion vehicles and the better driving experience and
+German consumers have sent a clear signal that there are still too many barriers to consumer
+charging - such as a lack of infrastructure, affordability and range. (Deloitte, 2023)
+
+
+Thus, the level of bargaining power of buyer in German depends on the various factors. Firstly,
+the overall situation for EV purchase which mean if there is pressure to absolute should buy
+the EV car. However, from the Deloitte report we could see that the speed of shifts to EV in
+German seems moderate, 16% out of 1128 persons (sample size) would like to shift to EV as
+their next car which seems low, but this is the highest among other European countries in this
+survey. However, there are still 51% persons would still choose the internal combustion
+vehicles which also the second highest level among other testing countries. From the report
+we could the percentage of choose HEV and PHEV is 15% and 12% which are relate low
+than other countries in this survey, this means, when the German consumer would like to
+choose alternative than the internal combustion vehicles, more persons will consider the BEV
+than other type of cars. (Deloitte, 2023)
+
+
+
+
+Combined with this implication with the current situation of German EV industry insufficient
+charging facilities, reduced subsidies and market slowdown as mentioned that prove that
+consumers will be more concerned about purchasing electric vehicles in this situation, so if
+the EU does not forbidden internal combustion vehicles directly or indirectly via tax in the
+future, the development of the entire market will continue to be slow result in the decline in
+sales which will actually increase barging power of buyer. However, the buyers’ loyalty to the
+brand could also affect the their bargaining power thus the higher the brand awareness, the
+larger the number of loyal customers of a brand, the bargaining power of consumers will be
+relatively lower.
+
+
+
+
+                                                                                           59
+5.2.5 Competitive Rivalry
+As discussed in the theoretical section, the threat from competitor usually discussing business
+competition, generally, the more competitor in the same market the more competition in this
+industry. To understand the opportunity and challenge in terms of competitive rivalry in the
+German EV market, it is worthy to investigate how many rivals, who they are, and what is
+their product compares with BYD offer.Competition in the German EV market intensifies
+since German electric vehicle subsidies reduce.
+
+
+
+
+As outlined in the literature review, Tesla and Volkswagen emerged as the top-selling brands
+in the German EV market in 2023. Tesla model 3 and model Y are Tesla's two best-selling
+cars in 2023, with total sales starting from 61,483. Tesla Model 3 sales are 15,865 units, Model
+Y sales are 45,618 units, and Volkswagen ID 3 and ID 3 performance was also good,
+Volkswagen ID 3 sold 22,270 units and ID 4 sold 25,779 units. (Commision, 2024)
+
+
+
+
+(Table 2, A comparison of Tesla, VW and BYD comparison, parameters come from BYD
+official website and Tesla official website)
+
+
+If I only compare from the picture above, BYD TANG is 10,000 euros more expensive than
+Tesla model Y performance, acceleration from 0-100km/, Tesla model Y performance is 3.6
+
+
+
+
+                                                                                             60
+seconds which is faster than BYD TANG. Through the comparison with Tesla model 3 and
+BYD Seal as shown in the table, BYD does not seem to have a particularly big advantage
+either.Through the analysis from parameters above, the most competitive model of BYD is
+the BYD dolphin. BYD dolphin is newly launched BYD model with favorable price. BYD
+dolphin contains the most present advanced technology. therefore, when comparing BYD
+dolphin with VW ID3, the parameters such as WLTP, acceleration from 0-100 km/h,
+maximum speed and battery consumption as shown in table 2, they are almost the same.
+Moreover, in term of the body length of car the parameters are also similar, VW ID.3 is
+4261mm and the wheelbase is 2765mm, while BYD Dolphin is 4150mm and the wheelbase
+is 2700mm. but BYD dolphin is almost 7000 euro cheaper than VW ID3 which could made
+BYD dolphin more attractive.
+
+
+
+
+In order to find out how the competitive rivalry in the German EV market, I mainly compare
+several basic parameters between Germany's best-selling models of fully EV in 2023 with
+current BYD models sales models in Germany. Through this competition comparison, a low
+price could offer a distinct advantage for BYD while in the high-end price range do not
+possess any notable advantages based on these parameters. However, the parameters are
+considered here are only the basic parameters, many factors are not included, such as the
+appearance of the car, the core technology o, safety, and brand effect and so on which could
+have an influence on consumer's choice. If combined with Deloitte's report on barging power
+of buyer in the previous paragraph and the factors that price affect consumers' car purchases.
+The market for high-priced electric vehicles is saturated. Consumers prefer to have more high-
+performance electric vehicles in the low-price market to meet the needs of ordinary
+consumers, so this may be the reason why the German media is so optimistic about BYD
+Dolphin, and this model could be an opportunity for BYD is expanding its market share in
+Germany.
+
+
+
+
+                                                                                           61
+5.2.6 Partial conclusion
+Throughout the elements of Porter's Five Force, this chapter helped BYD understand the
+structural dynamics of the German EV industry. In term of the threat of new entrants, the
+entry barriers is low due to its large initial investment and advanced technology requiring
+which means not every company has capability to entering this industry, especially for
+emerging brands which do not have the same resources and expertise to develop, the
+infrastructure to produce electric vehicles as established automobile manufacturers,
+establishing a foothold in the industry is difficult. The high enter barrier is an advantage for
+BYD because the more brands that come in, they will seize some market share.
+
+
+Concerning the threat of substitutes, although electric vehicles are not the only solution in
+terms of environmental protection and emission reduction, there are also other alternative
+solutions, such as FCEV. However, throughout the analysis above, the development of FCEV
+is limited because there is no approve for FCEV are much better solution than BEV, at least
+for the next many years, the electric vehicle industry will still be the leader in the field of
+environmentally friendly and emission-reducing vehicles. Thus, the level of threat for the
+substitutes currently is moderate until the better alternative appears.
+
+
+The level of bargaining power of suppliers could divide to the two group of suppliers, the core
+component supplier which means the product the supplier provide are significant for the EV
+company and will not be substituted easily, such as battery, in this type of suppliers their
+bargaining power is high. The other non-core component or could be substituted easily, the
+bargaining power will be lower. Since most of EV brands such as Tesla, VW, and Mercedes-
+Benz batteries are supplied by suppliers, such as Tesla's supplier CATL , in comparison, BYD
+has huge advantage in the supply chain because BYD has the vertical integrated supply chain
+which means most components of BYD's cars are manufactured in-house, as CEO of BYD
+Wang, Chuanfu mentioned in the interview that in addition to automobile tires and glass,
+BYD has independent R&D and production capabilities for almost all core components,
+which gives BYD a significant advantage in manufacturing costs.
+
+
+
+
+                                                                                             62
+The bargaining power of buyers in the German EV market is low for the individual purchase.
+This implication combined the current insufficient charging facilities , reduced subsidies in
+the German EV market which results in the decline in sales. If the sales continually
+bargaining power of buyer will increase. Beside that the buyers' loyalty to the brand could
+also affect their bargaining power and it means that the higher the brand awareness, the larger
+the number of loyal customers of a brand, the bargaining power of consumers will be
+relatively lower.
+
+
+In terms of competitive rivalry, Competition in the German EV market intensifies since
+German electric vehicle subsidies reduce. throughout the competitor analysis conducted by
+comparing with the current sale model of BYD's in Germany with Tesla Y, Tesla 3, VWID3,
+VWID4. The analysis shows a low price model such as BYD Dolphin could offer a distinct
+advantage for BYD while in the high-end price range do not possess any notable advantages.
+
+
+
+
+5.3 Organizational Resources
+The RBV as Jay barney defined that focus on describing and identify company competitive
+advantage of company's internal resources and used as a managerial framework to
+development proper strategic. Resource-based View emphasizes that a company's
+competitive advantage comes from its unique and difficult-to-imitate resource combination.
+This paragraph will firstly identify the organizational resources relate the BYD’s EV business,
+thereafter a VRIO framework will be applied to analyze these resources in order to assess
+whether these resources could be a competitive advantage of BYD based on value, rarity,
+inimitability and organization. (Barney, 1991)
+
+
+To begin with, all resources relate to the BYD’s EV business will be separate into distinctive
+resources and thresholds and by apply a 2x2 Matrix in table 3, the resource and competence
+within “threshold capability” of the matrix represent those resources of BYD are basic
+resources and competencies required to enter and compete in the industry. On the other
+
+
+
+
+                                                                                            63
+hand, those resources which are defined as “distinctive capabilities” means those resources
+and competences are unique for BYD in order to stand out in the German EV market.
+(Johnson, Scholes, & Regner, 2016)
+
+
+
+
+                  Resources                           Competences
+ Threshold            •   Raw materials                 •   Knowledge of EV car
+ capabilities         •   Suppliers                         manufacturing process
+                      •   Buyers                        •   License
+                      •   Employees                     •   Ability to       create and
+                      •   Cash flow                         maintain           customer
+                                                            relationship
+                                                        •   Brand management
+
+
+ Distinctive          •   Vertical      integration     •   Highly           capabilities
+ capabilities             supply chain                      technology innovation
+                      •   Strong Technology                    -     Develop new car
+                              -    Blade battery                     in 18 months
+                              -    Disu system          •   Cost control
+                              -    E platform           •   Multi Brand Matrix
+                              -    DMI（Dual                    -     BYD
+                                   Mode                        -     Denza
+                                   Intelligent                 -     Yangwang
+                                   System                      -     Fangchengbao
+                      •   Diversified       product
+                          portfolio
+
+
+Table 3 2x2 Matrix of BYD internal resources and competences, 2x2 Matrix Model source
+from (Johnson, Scholes, & Whittington, 2008)
+
+
+
+
+                                                                                            64
+5.4 VRIO analysis of BYD’s distinctive resources and competences
+BYD has strong capabilities in independent research and development and has been
+committed to technological innovation in electric vehicles and has many leading patented
+technologies. For example, BYD electric vehicles use blade batteries and BYD launched the
+Disus system and E-platform which are distinguishes BYD among other EV brand.
+
+
+5.4.1 Blade battery
+
+
+BYD officially introduced the Blade Battery in March 2020 that utilizing lithium iron
+phosphate technology installed in the       BYD HAN model initially. The Blade battery
+innovatively skips the module assembly process, significantly improving volume utilization.
+This design allows for fitting more battery cells within the same space, increasing energy
+density by over 50% compared to traditional battery packs.
+
+
+
+
+BYD's Blade Battery has undergone rigorous safety tests, including the "Mount Everest" of
+battery safety tests – the nail penetration test (Apendix2), and extreme stress tests such as a
+46-ton heavy vehicle rollover test. It boasts exceptional safety, strength, range, and lifespan.
+Safety features include seven-dimensional safety testing covering internal and external short
+circuits, overcharging, collisions, high voltage, connections, and hazardous gases.
+In comparative tests conducted by BYD, the Blade Battery outperformed NCM Lithium and
+cubic lithium iron phosphate batteries in safety. After nail penetration, the Blade Battery
+remained unharmed, with no fire or smoke observed on the surface, and a surface temperature
+of 30-60°C. In contrast, NCM Lithium batteries experienced severe burning with surface
+temperatures exceeding 500°C, while cubic lithium iron phosphate batteries charred with
+observed smoke and surface temperatures ranging from 200-400°C. (BYD, BYD blade
+battery safer, better, stronger and more reliable, 2024)
+
+
+
+
+                                                                                             65
+5.4.2 E-platform
+BYD's E-platform technology is a four-motor drive system capable of precisely controlling
+the dynamic of all four wheels, enabling safe driving in extreme conditions such as high-
+speed tire blowouts, emergency floating, and icy roads. Additionally, the technology enhances
+off-road capabilities. In terms of electronic control, the E-platform equips all models with a
+new generation SIC, boasting a high computational efficiency of up to 99.5% and control
+speed, increasing current output capacity by 50% for precise control of current output to all
+four driving wheels. On the perception level, the E-platform technology integrates various
+sensors, including traditional real-time data and intelligent driving sensor data such as
+cameras, LiDAR, millimeter-wave radar, and high-precision positioning. These sensors
+enable rapid and accurate reception of signals, supporting the identification, decision-making,
+and control of the four motors.
+
+
+To achieve deep integration of perception, the E-platform technology utilizes a highly
+coordinated control architecture between the central computing platform and domain
+controllers. Through real-time exchange of perception information and control strategies via
+high-bandwidth, low-latency, and highly secure in-vehicle Ethernet, precise and diverse
+control of the four motors is achieved. As a result, the E-platform technology platform can
+independently adjust the dynamics of all four wheels at millisecond speed through a stronger
+perception power of the electric drive and electronic control system. This improves vehicle
+stability, reduces the risk of loss of control due to insufficient traction, and enhances handling
+stability, providing safety assurance for various usage scenarios. (Westerheide, 2024)
+
+
+5.4.3 BYD DMI Technology
+BYD DMI (Dual Mode Intelligent System) Technology is an efficient electronic control
+system serving as the dual-motor drive system for BYD vehicles. DMI Techonology offers
+pure electric mode with zero fuel consumption during city driving and high efficiency during
+high-speed driving. Overall, BYD DMI Technology provides low fuel consumption, high
+efficiency, and an exceptional driving experience. The Core Components including the EHS
+
+
+
+
+                                                                                               66
+Super Electric Hybrid System, Xiongyun Plug-in Hybrid Dedicated Efficient Engine, and
+DMI Super Hybrid-Specific Power Blade Battery in which BYD have Developed in-house.
+Key figures of BYD DMI Technology include electric-dominant hybrid technology that
+means based on a super electric hybrid system, shifting from traditional engine-reliant hybrid
+designs to prioritize electric power, significantly reducing fuel consumption. Dual Motor
+Drive that equipped with one motor each for the front and rear wheels, enhancing overall
+power output and fuel economy. Efficient Electronic Control System which automatically
+adjusts the output power of the front and rear wheel motors based on driving modes,
+optimizing power distribution for smoother driving and lower fuel consumption. With one
+motor for each wheel, DMI technology offers rapid response capabilities, allowing quick
+adjustments to different road conditions and emergencies, improving vehicle stability and
+safety, BYD DMI Technology has shown a strong safety performance. (Pandaily, 2024)
+
+
+
+
+5.4.4 Disus system
+
+In 2023, BYD officially unveiled the industry's first intelligent vehicle body control system
+exclusive to new energy vehicles, called the "Disus" system. This system, developed in-house
+by BYD, will be integrated into flagship models such as the Wangchao, Ocean, Yangwang,
+
+and other personalized brand vehicles in the future. Disus represents a breakthrough in vehicle
+vertical control solutions, departing from fragmented approaches and foreign dependency. It
+achieves system-level integration, enabling comprehensive intelligent control of the vehicle
+body, including electrification and enhanced perception and decision-making capabilities.
+Furthermore, Disus enhances safety by minimizing vehicle posture changes, reducing the risk
+of rollovers, and protecting occupants during complex road conditions. Overall, Disus signifies
+a significant advancement in vehicle vertical control, elevating safety and stability standards
+for both occupants and vehicles. (BYD, BYD News, 2023)
+
+
+
+
+                                                                                           67
+When evaluating BYD’s strong technology innovation of their unique products such Blade
+battery, Disus system, E platform, DMI (Dual Mode Intelligent System) through the VRIO
+framework, firstly, all of them are very important and valuable resources for BYD, because
+these unique technologies enable BYD to become a leading company in EV industry. These
+resources is also the reason for BYD can create value for customers and attract customers. In
+term of rarity, they can all be considered rare resources, because the research and development
+of these products and systems involve many patented technologies pioneered by BYD.
+
+When it comes to inimitability, some are difficult to imitate, such as blade battery, it is very
+challenging for the other contenders to acquire the same resource and capability such as BYD's
+blade battery which contains hundreds of patented technologies and so far no electric car
+manufacturer can manufacture and produce another blade battery since its launch in 2020.
+Thus, the blade battery is a rare and inimitable resource for BYD and the blade battery have
+been well organized because the bade battery has been used in almost every BYD's EV after it
+launched. Therefore, blade battery could be recognized as a sustained competitive advantage
+of BYD.
+
+Another example is the Disus system launched by BYD in 2024. Disus system can considered
+as a sustained competitive advantage of BYD of its rarity and inimitability. Because the concept
+of Disus system has first been brainstormed in BYD's concept car in 2004, but it has been
+developed after 20 years of research and development with multiple patents which it is a
+technological breakthrough, therefore it will be difficult for other car brands to imitate within
+a certain period of time.
+
+Regarding the rest of it as the DMI, E-Platform, they can be considered a rare resource for
+BYD due to not every electric vehicle on the market has the same product or technology. But
+they can only serve as temporary competitive advantage for BYD because they can be replaced,
+other Chinese brands such as Geely and Chery Automobile use also DMI gasoline-electric
+hybrid technology, and if the future market is transformed into pure electric, DMI will only be
+
+
+
+
+                                                                                             68
+a transitional product. In terms of E-platform is a system which developed by BYD in 2023,
+since other electric vehicle brands on the market also have their own electric vehicle software
+control systems and every company is constantly updating and developing in this field,
+therefore, E-platform may not be the unique and irreplaceable system.
+
+
+
+
+5.4.5 Vertical integration supply chain
+One of the key factors enabling BYD to control costs effectively is its vertical integration
+strategy, wherein the majority of the components used in BYD vehicles are produced in-house.
+As BYD CEO Wang Chuanfu introduced to the Chinese media that "BYD + Fuyao (glass) +
+Zhongce (rubber tires) + Baosteel (steel) = a complete automotive supply chain," which
+shows how powerful BYD’s vertical supply chain is. Critical components such as batteries,
+motors, automotive electronics, molds, power semiconductors, and interior and exterior
+decorations, which constitute the highest-cost components in an electric vehicle. In 2020,
+BYD consolidated these operations into independent subsidiaries under the "Fudi" brand,
+including Fudi Power (motors, hybrid systems), Fudi Battery, Fudi Vision (lighting systems),
+Fudi Technology (automotive electronic components, chassis), and Fudi Mould. (Zhang, 2023)
+
+
+
+
+BYD's vertical integration supply chain is one of the reasons why BYD can maintain its
+advantage in the EV industry and it could be seen as a sustained competitive advantage for
+BYD because of the following reasons. Firstly, BYD's vertical integration supply chain is an
+indispensable and valuable resource as it provides control over various stages of production,
+from raw materials to finished products, this control allows BYD to optimize efficiency,
+quality, and cost throughout the supply chain, contributing to its competitive advantage.
+Moreover, it may consider as relative rare resource, although the vertical integration is not
+uncommon, it is difficult to find other like BYD's extensive vertical integration across many
+different segments of its supply chain as battery production, vehicle manufacturing, and
+
+
+
+
+                                                                                           69
+component assembly. In term of imitability, replicating BYD's vertically integrated supply
+chain requires significant investment in infrastructure, technology, and organizational
+capabilities which may be challenging for other competitors to match the same level of
+vertical integration as BYD without similar resources and expertise. Finally, this resource is
+well organized because it constantly delivery the materials and components for manufacturing
+of BYD’s EV and BYD has dedicated teams and processes in place to manage and optimize
+its vertically integrated supply chain, with a focus on coordination and synergy across
+different business units to continuously improve the quality and efficacity. (Cox, 2021)
+
+
+
+
+5.4.6 Multi Brand Matrix and Diversified product portfolio
+In BYD's annual report of 2023, it announced that BYD will adhere to the multi-brand matrix
+strategy in the electric vehicle business which means BYD will develop EV under all of
+BYD’s brand include BYD, Denza, Yangwang, and Fangchengbao. These allow the company
+to cater to diverse customer segments and market preferences to bring business benefits
+diversified product portfolio, this strategy is an significant valuable for the BYD's
+development. However, many other EV company offer also diverse product portfolios and
+competitors may attempt to diversify their product portfolios to emulate BYD's approach, but
+achieving a similar level of diversification requires strategic foresight, investment, and
+organizational agility, for some companies may find this challenge than others. Therefore,
+Multi Brand Matrix and Diversified product portfolio may be competitive parity rather than
+sustained competitive advantage. (BYD, BYD periodic reports, 2023)
+
+
+
+
+5.4.7 Strong Technology Innovation
+BYD's strong R&D capabilities is one of the main reasons for BYD's ability to become the
+world's number one electric vehicle manufacturer. BYD's stipulation that it only takes 18
+
+
+
+
+                                                                                            70
+months to launch a new car, the rapid innovation enables BYD to stay competitive in the fast-
+paced industry and meet evolving consumers demands. It is a rare competence for BYD since
+it is very challenge for many companies to consistently develop new cars within such a short
+time. BYD's technology innovation may also be difficult to imitate due to its integration with
+the company's culture, processes, and resources. However, competitors may attempt to
+replicate this capability through investment in R&D and talent acquisition. Therefore,
+according to VRIO framework, this competence may be a temporary competitive advantage.
+(BYD, BYD periodic reports, 2023)
+
+
+
+
+5.4.8 Cost Control:
+Effective cost control is one of the important reasons for why BYD quickly seized the market.
+It enables BYD to maintain competitive pricing for its products, enhancing customer value
+and market competitiveness. BYD's ability to consistently manage costs efficiently may be
+rare within EV industry because it rely heavily on its strong ability of integrated vertical
+supply chain, as mentioned earlier it is very rare for company to obtain the same degree of
+integrated vertical supply chain, thus, it is difficult for company to achieve the same level of
+cost control.
+Even though cost control is a common practice and cost control strategies are replicable but
+require a deep understanding of cost structures and efficient resource allocation, BYD's
+expertise in this area may be difficult for competitors to replicate without similar
+organizational capabilities plus cost control is one of most importance strategy in order to
+market development, thus, this competence could be considered a sustained competitive
+advantage for BYD. (Bambooworks, 2023)
+
+
+
+
+5.4.9 Partial conclusion
+The investigation of VRIO analysis of BYD’s resources and competences is summarized in
+table 4
+
+
+                                                                                             71
+ Resources and competences               V       R       I       O      Strategy implication
+
+ Blade battery                           Yes     Yes     Yes     Yes    Sustained        competitve
+                                                                        advantage
+ Disus system                            Yes     Yes     Yes     Yes    Sustained        competitve
+                                                                        advantage
+ E-platform                              Yes     Yes     No      Yes    Competitive parity
+
+ DMI     (Dual    Mode     Intelligent   Yes     Yes     No      Yes    Competitive parity
+ System)
+ Integrated vertical supply chain        Yes     Yes     Yes     Yes    Sustained        competitve
+                                                                        advantage
+ Diversed product portfolio              Yes     Yes     No      No     Competitive parity
+
+ Multi brand maxtrix                     Yes     Yes     No      No     Competitive parity
+
+ Strong technology innovation            Yes     Yes     No      Yes    Competitive parity
+
+ Cost control                            Yes     Yes     Yes     Yes    Sustained        competitve
+                                                                        advantage
+Table 4: VRIO analysis of BYD’s internal resources and competences
+
+
+The table create a clearly understand that only if V(value), R(rarity), I(inimitability) and
+O(organized) are simultaneously satisfied four conditions can be considered as sustained
+competitive advantage. If only V (value) is met, but R (rarity) and/ or I (inimitability) are not
+met, these resources and capabilities can only be regarded as competitive parity. VRIO
+analysis helps BYD determine is strength in its resources and capabilities from the firm-level
+and could help BYD create the growth strategy and drive their vision in the future. (Enochson,
+2022)
+
+
+
+
+                                                                                              72
+Chapter 6 Findings and Discussion
+
+
+Throughout the analysis above, the multiple findings will be summarized and discussed in
+order to provide a comprehensive answer to the research question: How can BYD adjust its
+business strategy adapting to the German EV market to increase sales? This section delves
+into implications of BYD's business approach amidst the dynamic landscape of the German
+EV market and provide the insight into how BYD can leverage its resources to gain a
+competitive edge in order to increase the sales in Germany.
+
+
+
+
+6.1 Institutional Opportunities and Challenges in the German EV Market
+Germany's commitment to sustainability has implemented many favorable policies for the
+development of electric vehicles, as exemplified by initiatives such as the Climate Action
+Plan 2050 and the “Paris Agreement” presents a fertile ground for EV manufacturers like
+BYD. The nation's regulatory framework, including tax incentives and infrastructure
+development plans, provides a conductive environment for EV adoption.
+
+
+However, challenges such as the shortage of charging infrastructure pose hurdles for market
+penetration, the German Ministry of Transport last year announced at the Munich Motor
+Show that it intends to support synthetic e-fuels as an option to reduce greenhouse gas
+emissions from passenger cars plus the electric vehicle market in 2024. There has been a
+slowdown, and some companies have delayed their pace of full electrification. For example,
+Mercedes-Benz media claimed at media this year that they will give up on full electrification
+and continue to develop fuel vehicles in the next 10 years. This is an opportunity for
+Mercedes-Benz to conduct current market research and technology maturity assessment.
+Mercedes-Benz's announcement seems to run counter to the EU's plan to ban internal-
+combustion cars in 2035. In other words, after Mercedes-Benz's analysis, it feels that the
+European Union plan to ban internal-combustion cars in 2035 will appear to be holding.
+(NIKKI, 2024)
+
+
+
+                                                                                          73
+If the EU once again delays the ban on internal combustion engine vehicles, it will have a
+great impact on Germany's ability to fully electrify its vehicles. After all, judging from
+Germany's current market share, internal combustion engines still account for half of the
+entire automotive market. BYD must navigate these complexities, eradicate policy changes
+and commission strategic goals to capitalize on the opportunities presented by Germany's EV
+landscape. (Padeanu, 2024)
+
+
+
+
+6.2 BYD's Opportunities and Challenges in the German EV Industry
+
+Throughout analysis of German EV industry based on Porter's Five Forces Model, the
+impression is that development prospects of the German EV industry are good in general for
+the following reasons. Firstly, given a strong awareness of environmental protection of
+Germans, the acceptance of EV increases gradually among the German population. Besides
+that, the EV industry has relatively high barriers to entry. There is little chance that other new
+energy sources seize the EV market in the short terms due to the huge initial investment and
+infrastructure requirements. For instance, there are only a few hundred FCEV are sold in the
+German market on the yearly base. (Erofeev, 2014)
+
+Through the lens of Porter's Five Forces Model, it indicate that the huge advantages of BYD
+founded in the field of suppliers, as comparing with other EV brands, when most EV brands
+do not have technology to produce batteries by themselves, BYD has integrated vertical supply
+chain with enable BYD achieve more than 70% in-house production of their EV from raw
+materials, batteries and other important components to the final product. (BYD, BYD News,
+2023)
+
+The challenges also appear which maybe the reasons that affect BYD's sales. In terms of brand
+awareness and brand loyalty, as mentioned in the previous analysis, although BYD's awareness
+in Germany has been significantly improved as mentioned in the previous literature, and
+
+
+
+
+                                                                                              74
+German consumers acceptance of buying Chinese cars has increased, however, the German
+people are very loyal to German brands and if they want to change their car, most people will
+still buy the same brand as the old car. (Deloitte, 2023)Thus, it is importance for BYD focus
+on customer attraction and satisfaction in order to increase the customer base and customer
+loyalty. Leveraging its strengths and addressing these challenges is critical to BYD's success
+in Germany, BYD needs to adjust its strategy from the above aspects in order to increase the
+sales.
+
+Moreover, another challenge is the current long delivery time, unlike Tesla and other big
+German brands, BYD currently does not have a factory in Germany and their factory in
+Hungary aims to be in production first at the end of 2023 in which means all the cars sold in
+the German market currently, are transported from China. Furtherly, German media reported
+
+that due to the shortage of truck drivers in Germany, BYD's vehicles arriving at the port cannot
+be delivered to distributors, which makes the delivery time even longer. (Alim, Wright, &
+Campbell, 2024)
+
+
+
+
+6.3 The strategic significance of BYD’s resources and capabilities
+
+The VRIO indicates which resources and capabilities of BYD are considered as sustained
+competitive advantages of BYD’s EV ,and which ones can only be used as competitive parity
+VIRO analysis help BYD’s adjust its business strategy better adapt to the German EV market
+in order to increase the sales. Blade batteries systems, Disus system, integrated vertical supply
+chain, and cost control are all BYD’s key advantages for sustainable development. However,
+technology innovation, diverse product portfolio is also crucial of BYD’s development.
+
+
+
+
+                                                                                             75
+Chapter 7 Recommendation
+
+Based on the analysis and discussion provided, several recommendation are present in this
+section that can help BYD to adjust its business strategy customize to German EV market
+and increase its sales.
+
+7.1 Strengthen the construction of charging infrastructure
+
+By analyzing the current situation in the German EV market, solving the shortage of charging
+infrastructure is a top priority for BYD to speed up market penetration. BYD should work with
+government agencies and private stakeholders to speed up the installation of charging stations,
+especially in underserved areas. Investing in innovative charging solutions and providing
+incentives for the deployment of charging stations can enhance BYD's appeal to German
+consumers. For example, BYD's previous cooperation with Shell gave BYD customers a free
+charging card for charging at Shell charging stations. BYD can also introduce subsidies for the
+installation of some home charging piles to provide consumers with more convenient charging
+services.
+
+7.2 Enhance brand awareness and loyalty
+
+Building brand awareness and cultivating customer loyalty is critical to gaining market share
+in a competitive landscape. BYD should launch targeted marketing campaigns to showcase its
+technological innovation, product reliability and environmental credentials. Engaging with
+German consumers through social media, events and partnerships helps strengthen brand
+recognition and increase market share.For example, BYD becoming a partner of the European
+Cup 2024 is an opportunity to enhance brand awareness. In addition, BYD can also develop
+marketing strategies based on products. For example, BYD Seagull and Atto3 are high-
+performance and cost-effective daily family cars that the German public can afford. BYD can
+combine these characteristics of the models and match some representative local German
+celebrities or bloggers to cooperate with BYD, becoming BYD's publicity ambassador. Such a
+marketing strategy can help BYD enhance its brand image in market segments.
+
+
+
+
+                                                                                           76
+7.3 Adhere to diversified brands and product portfolios and focus on market segments
+
+Consist on diversifying its product portfolio help BYD to meet the diverse consumer
+preferences in the German market. For instance, concerning the urban and eco-conscious
+families, offering a range of options, including electric SUVs, sedans and compact cars, can
+appeal to a wider audience and increase sales, while maintaining a focus on affordability and
+cost-effectiveness. Furthermore, because consumers are willing to buy high-performance and
+
+
+
+
+affordable EV, BYD can capitalize on this consumer psychology focusing on the specific
+market segments can accelerate BYD's customer expansion. For example, BYD could put more
+budget investing on the products or segment that easiest to penetrate the market, such as low-
+price segments, increase its marketing and publicity efforts with celebrity endorsements,
+increase dealers' sales incentives and joint marketing activity in order to boost the sales.
+
+
+
+
+Chapter 8 Conclusion
+
+With the escalating global attention on climate change and environmental concerns, electric
+vehicles ( EVs) emerge as a pivotal solution for reducing CO2 emissions. Consequently, there's
+been a noticeable surge in demand for electric vehicles globally. Germany, Europe's largest
+automobile market, which has made steadfast commitments to spearheading the production
+and adoption of EVs. The world leading EV manufacturer BYD has entered the German EV
+market within its passenger EV by the end of 2022 that aims to increase sales and capture 5-
+10% of the market. However, more than a year has passed, the poor sale performance of BYD’s
+EV and the market share remains below 1%, trailing far behind like Tesla and Volkswagen.
+This prompts the question: How can BYD adjust its business strategy adapting to the German
+EV market to increase sales? Three sub-questions were constructed to investigate this research
+question. Through the analysis of first sub-question of what institutional opportunity and
+challenge does BYD face in Germany through the lens of IBV combining the investigation on
+
+
+
+
+                                                                                               77
+the existing literatures, it shows that there are policies, regulations, incentives as well as
+investment on EV infrastructures made by German government that evident Germany is deeply
+committed to EV development with clearly defined goals, plans. However, some incentive
+reduced in the end of 2023, it could have a negative impact on BYD’s EV sales in Germany.
+
+The second sub-question concerning the opportunities and challenges BYD face in the German
+EV market that is addressed through the application of Porter's Five Force. Opportunities are
+identified in terms of factors as threat of new entrants, threat of substitute and the barning
+power of supplier. Porter's Five Force revealed the entry barriers in German EV market are
+relatively high due to significant initial costs and technological requirements. The level of
+threat from substitute considered moderate in the German EV market as the EVs remains best
+solution for reducing CO2 emissions at least for the next many years until a better alternative
+emerges. Finally, in terms of bargaining power of supplier in German EV industry, BYD holds
+a significant advantage compared to its peers due to its vertically integrated supply chain, which
+allows for approximately 70% self-supply of their EV manufacturing, including batteries and
+motors.
+
+
+
+
+Meanwhile, analysis also highlights challenges BYD encountered by BYD in the German EV
+market in terms of the buys bargaining power and competitive rivalry. Presently, consumers
+have limited recognition of the BYD brand, and BYD has not cultivate a loyal customer base
+yet. In addition, the competition in the German EV market is intense, comparing products with
+Tesla and Volkswagen. Through the comparison analysis of Tesla and Volkswagens best-
+selling models, it reveals that low- price segment is a distinct advantage for BYD while in the
+high-end price range do not possess any notable advantages. The last sub question “Which
+resources can BYD exploit to achieve a competitive advantage in the German EV market?” is
+addressed by applying the resources-based view framework, analyzing BYD's resources and
+competences in their EV business based on V (value), R (rarity), I (inimitability), and O
+
+
+
+
+                                                                                              78
+(organized). The result reveals the blade battery, disus system of BYD, integrated vertical
+supply chain and the strong cost control are found as most beneficial resources and
+competences in the organization's quest of gaining a competitive advantage.
+
+Finally, based on the analysis and discussion, various recommendations are proposed to help
+BYD adjust its business strategy customize in the German EV market and increase sales. The
+recommendation focus on strengthen the construction of charging infrastructure, enhancement
+of brand awareness and loyalty, diversify the brands and product portfolios and develop
+different target on different market segments aim to focus on the core segment and product
+accelerate BYD's customer expansion and increase the sales. However, the German EV markis
+dynamic and competition is intense, in which presents both opportunities and challenges. BYD
+needs to continually adjust its strategies to keep pace with market changes to succeed.
+
+
+
+
+Chapter 9 Further perspectives
+
+
+There are some topics with this research that is worthy to further discussed, however due to
+time and page issues, these were not covered in this study.
+
+
+Firstly, if the EV market continual to drop, how should BYD deal with it? As mentioned in
+this study, the German government and German companies now have time to launch full
+electrification, resulting in a 10-14% drop in electric vehicle sales this year. German
+companies such as Mercedes-Benz will continue to research internal combustion vehicles in
+the next 10 years. If this situation continues, it will have a huge negative impact on the BYD’s
+EV development in Germany.
+
+
+Secondly, the European Union has previously postponed full automation from 2030 to 2035.
+At the German Auto Show last year, several major German companies did not have new
+
+
+
+
+                                                                                             79
+products for pre-sale except concept cars.         Does this mean that some German EV
+manufacturers have no new technological innovations in the field of electric vehicles
+currently? Coupled with the lack of infrastructure, will it delay the development of full
+electrification? Many people now believe that with the current development speed of electric
+vehicles, the EU is likely to delay the time for full electrification again? If this is really the
+case, how should BYD respond?
+
+
+In addition, several other Chinese companies, including Zeeker from Geely and NIO, are also
+selling their EVs in the German market. Wang Chuanfu, the CEO of BYD expressed optimism
+about expanding overseas collectively in a previous interview. While they are competitors, as
+Chinese entities venturing abroad, how can BYD collaborate with them in overseas markets
+for mutual benefit and rapid enhancement of China's electric vehicle image among German
+consumers? This mutual support and cooperation are crucial considerations aligning with
+BYD's strategic objective of broadening its footprint in the German market.
+
+
+Finally, this research solely examines segment of BYD's electronic passenger vehicles.
+However, it's worth noting that BYD's commercial vehicles, like BYD bus have made
+significant strides in penetrating the German as well as international markets. Additionally,
+BYD's sky rail initiative presents a promising, cost-effective urban transportation solution.
+How might the advancements in these sectors influence the development of BYD's electronic
+passenger vehicles in the German EV market in the future?
+
+
+
+
+                                                                                               80
+Bibliography
+McKinsey. (2021, 9 7). Why the automotive future is electric. Retrieved from
+       McKinsey&Company:             https://www.mckinsey.com/industries/automotive-and-
+       assembly/our-insights/why-the-automotive-future-is-electric
+Salaberria , J., & Xia, L. (2023). The rise of China’s EV sector and its implications for the
+       world. BBVA Research, April.
+Dirkx, M. (2023). Germany passes 100,000 public electric car charging points on eve of
+       industry show IAA. Clean Nenergy Wire.
+COLLINS, J. (2024, 3 5). EV sales jump 39 per cent in Germany in 2023, but still too slow
+       to meet targets . Retrieved from The Driven: https://thedriven.io/2024/03/05/ev-sales-
+       jump-39-per-cent-in-germany-in-2023-but-still-too-slow-to-meet-
+       targets/#:~:text=4%20Comments-,EV%20sales%20jump%2039%20per%20cent%2
+       0in%20Germany%20in%202023,too%20slow%20to%20meet%20targets&text=The
+       %20number%20of%2
+Opletal, J. (2024, 2 6). China’s EV registrations in Germany in Jan: Smart 1180, BYD 139,
+       Nio           27.      Retrieved         from            Car     News          China:
+       https://carnewschina.com/2024/02/06/chinas-ev-registrations-in-germany-in-jan-
+       smart-1180-byd-139-nio-
+       27/#:~:text=In%202023%2C%20MG%20delivered%2021%2C232,delivered%204
+       %2C139%20EVs%20in%20Germany
+BYD.    (2024,   3     26).   BYD   periodic   report.    Retrieved   from   BYD     Global:
+       https://www.bydglobal.com/cn/en/BYD_ENInvestor/InvestorAnnals_mob.html
+Marketscreener. (2023, 6 17). Automaker BYD confident of up to ten percent electric market
+       share.                 Retrieved                  from                Marketscreener:
+       https://www.marketscreener.com/quote/stock/BMW-AG-
+       56358353/news/Automaker-BYD-confident-of-up-to-ten-percent-electric-market-
+       share-4413542
+
+
+
+
+                                                                                          81
+Propfe, B., Kreyenberg , D., Wind, J., & Schmid, S. (2013, 2 19). Market penetration analysis
+        of electric vehicles in the German passenger car market towards 2030. Retrieved from
+        sciencedirect:
+
+
+
+
+https://www.sciencedirect.com/science/article/pii/S0360319913004151
+Commision, E. (2024, 4). European Alternative Fuels Observatory. Retrieved from European
+        Commision:                  https://alternative-fuels-observatory.ec.europa.eu/transport-
+        mode/road/germany
+Transport, M. a. (2021). Alternative Fuels Infrastructure. Retrieved from European
+        Commision:                          https://transport.ec.europa.eu/transport-themes/clean-
+        transport/alternative-fuels-sustainable-mobility-europe/alternative-fuels-
+        infrastructure_en
+Statista.   (2024).      Electric       Vehicles,    Germany.     Retrieved     from     Statista:
+        https://www.statista.com/outlook/mmo/electric-
+        vehicles/germany#:~:text=Germany%20is%20expected%20to%20witness,%2D202
+        8)%20of%2014.49%25.
+
+
+Zink, R., Valdes, J., & Wuth, J. (2020). Prioritizing the Chicken or Egg? Electric Vehicle
+        Purchase and Charging Infrastructure Subsidies in Germany. Politics and Governance,
+        185-198.
+IER. (2024, 2 12). EV Sales in Germany Expected to Drop 14 Percent This Year. Retrieved
+        from                Institute               For            Energy               Research:
+        https://www.instituteforenergyresearch.org/international-issues/ev-sales-in-germany-
+        expected-to-drop-14-percent-this-year/
+
+
+
+
+                                                                                               82
+RAUWALD, C., ECKL-DORNA, W., RAY, M., & Bloomberg. (2024, 2 3). Germany set for
+       14% drop in electric-vehicle sales as carmakers scale back ambitions and demand
+       ‘does       not       look       good’.       Retrieved        from        FURTUNE:
+       https://fortune.com/europe/2024/02/03/germany-electric-vehicle-sales-drop-
+       carmakers-audi-vw-bmw/
+
+
+Porter, M. E. (2008). Creating and Sustaining Superior Performance. Free Press.
+Barney, J. (1991). Firms Resources and Sustained competitive advantage. Journal of
+       Management, 99-120.
+Porter, M. E. (1998). Competitive Strategy-Techniques for Analyzing Industries and
+       Competitors. Free Press.
+
+
+BYD. (2023). BYD periodic reports. China: BYD Group.
+Book, S., Demling, A., Fahrion, G., Giesen, C., Hage, S., & Hesse, M. (2024, 3 27). An
+       Existential Crisis in the German Auto Industry . Retrieved from SPIEGEL:
+       https://www.spiegel.de/international/business/electric-shock-an-existential-crisis-in-
+       the-german-auto-industry-a-266bd037-b63a-4c9b-97b5-423866d7080f
+Platin, I. (2024, 2 28). Envelope Linkedin Germany Germany flag BYD’s sponsorship of Euro
+       2024 in Germany: The eMobility sector shows “discontent” at the lack of selection of
+       an European firm. Retrieved from Mobilityportal: https://mobilityportal.eu/byd-euro-
+       2024-german-emobility-market/
+Daily, S. (2022, 8 3). Shenzhen Government Online. Retrieved from BYD announces entry
+       into       EV          markets         in        Germany          and         Sweden:
+       https://www.sz.gov.cn/en_szgov/news/latest/content/post_9996673.html
+BYD. (2023, 9 12). BYD. Retrieved from VIDEO: BYD steals the show at 2023 IAA Mobility
+       in Munich: https://www.byd.com/eu/blog/VIDEO-BYD-steals-the-show-at-2023-
+       IAA-Mobility-in-Munich.html
+
+
+
+
+                                                                                           83
+BYD. (2024). BYD EV model. Retrieved from BYD Europe : https://bydeurope.com/pdp-
+          auto
+BYD. (2024). BYD models. Retrieved from Bydauto: https://www.bydauto.dk/modeller
+BYD.        (2022).        7+4    full     market      strategy.   Retrieved      from        bydglobal:
+          https://www.bydglobal.com/cn/en/BYD_ENProductAndSolutions/SevenAndFour_m
+          ob.html;jsessionid=0vbzV-
+          w9rhvRDDt3zsDacmgspp026TcWmXd0Qquv0q9RSuNl9P4u!-
+          1939807679!1381741582?scroll=true
+
+
+Kang, L. (2023, 9 5). BYD presents 6 models at Munich auto show, Seal launched in Europe.
+          Retrieved from cnevpost: https://cnevpost.com/2023/09/05/byd-presents-6-models-
+          at-munich-auto-show/
+BYD. (2024, 1 16). BYD Showcased the Intelligence Advancement at Dream Day 2024.
+          Retrieved from Byd News: https://www.byd.com/us/news-list/BYD-Showcased-
+          Intelligence-Advancement-Dream-Day-2024.html
+Scott, W. R. (2013). Institutions and organizations: Ideas, interests, and identities. Sage
+          Publications .
+Change,       U.      F.    (2015).      The   Paris    Agreement.        Retrieved    from      unfccc:
+          https://unfccc.int/process-and-meetings/the-paris-agreement
+Ministry, F. (2016, 11 1). Climate Action Plan 2050 (EN). Retrieved from Federal Ministry
+          For Evironment, Nature Coversation,Nuclear Safety, and Consumer Protection:
+          https://www.bmuv.de/en/publication/climate-action-plan-2050-en
+finbox.     (2020).        R&D   Expenses      for   BYD     Co    Ltd.    Retrieved   from      finbox:
+          https://finbox.com/DB:BY6/explorer/rd_exp/#:~:text=BYD's%20operated%20at%2
+          0median%20r%26d,December%202019%20of%20720.8%20million
+statista. (2024). Tesla's research and development expenses from FY 2010 to FY 2023.
+          Retrieved from Statista: https://www.statista.com/statistics/314863/research-and-
+          development-expenses-of-tesla/
+
+
+
+
+                                                                                                     84
+Group, m.-b. (2021). Supervisory Board confirms Business Plan Investments of 60 billion
+       euros.      Retrieved      from          mercedes-benz     Group:      https://group.mercedes-
+       benz.com/company/news/211202-supervisory-board-confirms-business-plan.html
+Volkswagen. (2023, 3 3). Volkswagen group achieves solid annual results significant increase
+       in     deliveries   expected        in    2023.     Retrieved   from    Volkswagen     Group:
+       https ://www.volkswagen-group.com/en/press-releases/volkswagen-group-achieves-
+       solid-annual-results-significant-increase-in-deliveries-expected-in-2023-16861
+St, S. W. (2024, 3 21). XPeng Full Year 2023 Earnings: Revenues Disappoint. Retrieved from
+       Yahoo finance: https://finance.yahoo.com/news/xpeng-full-2023-earnings-revenues-
+       105350620.html
+BMW.     (2023,     11 3).      BMW Statement             2023.   Retrieved   from     BMW group:
+       https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/ir/downlo
+       ads/en/2023/q3/Statement_Mertl_Q3_2023.pdf
+
+
+Hydrogeninsight. (2024, 2 6). Sales of hydrogen cars in Europe's largest market collapsed in
+       2023, with nearly 70% drop in registrations. Retrieved from hydrogeninsight:
+       https://www.hydrogeninsight.com/transport/exclusive-hydrogen-vehicle-
+       registrations-are-flatlining-across-most-of-europe-with-hundreds-more-filling-
+       stations-on-the-way/2-1-1592413
+Observatory, a. f. (2024). infrastructure. Retrieved from alternative fuels observatory:
+       https://alternative-fuels-observatory.ec.europa.eu/transport-
+       mode/road/germany/infrastructure
+Collins, L. (2023, 9 22). Absurd and pointless' | 'Stop pumping hundreds of millions of euros
+       into     hydrogen       subsidies        for   cars'.   Retrieved   from      Hydrogeninsight:
+       https://www.hydrogeninsight.com/transport/absurd-and-pointless-stop-pumping-
+       hundreds-of-millions-of-euros-into-hydrogen-subsidies-for-cars/2-1-1523121
+Pistilli, M. (2024, 2 22). Where Does Tesla Get its Lithium? (Updated 2024). Retrieved from
+       Investingnews: https://investingnews.com/where-does-tesla-get-lithium/
+
+
+
+
+                                                                                                  85
+Peters, Y. (2024, 4 3). US lithium demand predicted to grow nearly 500% by 2030;
+       Fastmarkets steps in to provide regional price transparency. Retrieved from
+       Fastmarkets:      https://www.fastmarkets.com/insights/us-lithium-demand-to-grow-
+       fastmarkets-provide-regional-price-transparency/
+Xue, M. (2022). BYD plans to deploy lithium mine in Yichun. Retrieved from seetaoe:
+       https://www.seetaoe.com/details/176595.html
+Deloitte. (2023). 2023 Global Automotive Consumer Study. Retrieved from deloitte:
+       https://www2.deloitte.com/content/dam/Deloitte/us/Documents/us-gacs-emea.pdf
+Johnson, G., Scholes, K., & Regner, P. (2016). Exploring strategy. Pearson Education Limited.
+BYD. (2024). BYD blade battery safer, better, stronger and more reliable. Retrieved from
+       BYD Auto: https://www.bydauto.nl/en/battery/
+Westerheide, C. (2024, 3 12). BYD pushes market readiness of its next platform generation.
+       Retrieved from electrive: https://www.electrive.com/2024/03/12/byd-pushes-market-
+       readiness-of-its-next-platform-generation/
+
+
+Pandaily. (2024, 3 28). BYD Will Launch the Fifth Generation . Retrieved from pandaily:
+       https://pandaily.com/byd-will-launch-the-fifth-generation-dmi-hybrid-technology-in-
+       may-this-year/
+BYD. (2023, 4 9). BYD News. Retrieved from BYD Reveals DiSus Intelligent Body Control
+       System:    https://www.byd.com/us/news-list/BYD-Reveals-DiSus-Intelligent-Body-
+       Control-System-Exclusively-for-New-Energy-Vehicles.html
+
+
+Cox, N. (2021, 8 20). seekingalpha. Retrieved from BYD's Vertical Integration Makes It The
+       Best EV Pick: https://seekingalpha.com/article/4450826-byd-vertical-integration-
+       makes-it-the-best-ev-pick
+Bambooworks. (2023, 10 27). thebambooworks. Retrieved from China’s BYD scores win
+       over Tesla in EV price war: https://thebambooworks.com/chinas-byd-scores-win-
+       over-tesla-in-ev-price-war/
+
+
+
+
+                                                                                          86
+Enochson, H. (2022, 9 9). Onstrategy. Retrieved from What is VRIO? The VRIO Framework
+       Explained                        in                       4                      Steps:
+       https://onstrategyhq.com/vrio/#:~:text=VRIO%20stands%20for%20value%2C%20r
+       arity,%2Dterm%2C%20sustainable%20competitive%20advantages
+
+
+NIKKI. (2024, 2 22). Mercedes scraps its goal to electrify all vehicles by 2030 as drivers sour
+       on EVs - after Ford and GM admitted plans are 'overambitious'. Retrieved from
+       Dailymail:       https://www.dailymail.co.uk/sciencetech/article-13112477/Mercedes-
+       Benz-warns-geopolitics-trade-tensions-weigh-
+       2024.html#:~:text=Mercedes%2DBenz%20has%20joined%20Ford,the%20end%20o
+       f%20the%20decade.
+Padeanu, A. (2024, 1 26). Porsche Thinks Europe's 2035 Combustion Engine Ban Might Be
+       Delayed. Retrieved from motor1: https://www.motor1.com/news/706202/porsche-
+       thinks-combustion-engine-ban-could-be-dealyed/
+Erofeev, Y. (2014, 2 18). Global hydrogen car sales fall 30.2% in 2023. Retrieved from
+       Medium:       https://medium.com/@erofeev.yury/global-hydrogen-car-sales-fall-30-2-
+       in-2023-
+       a05b2cf2101e#:~:text=According%20to%20Korean%20research%20company,in%2
+       0India%20alone%20in%202023.
+BYD. (2023, 12 22). BYD News. Retrieved from BYD to Build A New Energy Passenger
+       Vehicle      Factory   in   Hungary     for   Localised       Production   in   Europe:
+       https://www.byd.com/eu/news-
+       list/BYD_to_Build_A_New_Energy_Passenger_Vehicle_Factory_in_Hungary_for_
+       Localised_Production_in_Europe.html
+Alim, A., Wright, R., & Campbell, P. (2024, 4 10). Financial Review. Retrieved from ‘It’s
+       chaos’: Chinese EVs pile up at Europe’s ports: https://www.afr.com/world/europe/it-
+       s-chaos-chinese-evs-pile-up-at-europe-s-ports-20240410-p5fipn
+Easterby-Smith, M. T. (2015). Management research. Sage.
+Saunders, M., Lewis, P., & Thornhill, A. (2012). Research Methods for Business Students.
+       Pearson.
+                                                                                            87
+Timmermans, S., & Tavory, l. (2012). (Timmermans, S., & Tavory, I. (2012). Theory
+       Construction in Qualitative Research: From Grounded Theory to Abductive Analysis.
+       Sociology Theory,      30,   167-186.   10.1177/0735275112457914.).       In Theory
+       Construction in Qualitative Research: From Grounded Theory to Abductive Analysis.
+       (pp. 167-186). TSociology Theory.
+
+
+Dubois, A., & Gadde, L. (2002). Systematic combining: An abductive approach to case
+       research. Journal of Business Research, 55(7), 553-560.
+Easterby, M. S., Thorpe, R, R., & Jackson, P. (2015). Management research. Sage.
+George, A., & McKeown, T. (1985). Case studies and theories of organizational decision
+       making. Advances in information processing in organizations, 2(1), 21-58.
+Yin, R. (2011). Applications of case study research. Sage.
+Wahyuni, D. (2012). The research design maze: Understanding paradigms, cases, methods
+       and methodologies.). The research design maze.
+Yin, R. (1981). The case study as a serious research strategy. Knowledge. Knowledge, 3(1),
+       97-114.
+Meyer, K., Estrin, S., & Bhaumik, S. (2008). Institutions, resources, and entry strategies in
+       emerging economies. Strategic Management Journal, 61-80.
+
+
+DiMaggio, P., & Powell, W. (1983). The iron cage revisited: Institutional isomorphism and
+       collective rationality in organizational fields. American Sociological Re- view, 48(2),
+       147–160.
+Garrido, E., Gomez, J., & Juan, P. (2014). The institution-based view of strategy: How to
+       measure it. Sience Direct, 82-101.
+Peng, M. (2002). Towards an Institution-Based View of Business Strategy . Asia Pacific
+       Journal of Management, 251–267.
+Porter, M. (1979). How Competitive Forces Shape Strategy. Harvard Business Review. , 137–
+       145. .
+
+
+
+
+                                                                                           88
+Enochson, H. (2022, 9 9). onstrategy. Retrieved from What is VRIO? The VRIO Framework
+       Explained                       in                      4                       Steps:
+       https://onstrategyhq.com/vrio/#:~:text=VRIO%20stands%20for%20value%2C%20r
+       arity,%2Dterm%2C%20sustainable%20competitive%20advantages
+Peng, M., Sun, L., Pinkham, B., & Hao. (2009). The Institution-Based View as a Third Leg
+       for a Strategy Tripod. Academy of Management, Vol. 23, No. 3.
+Aguilar, F. (1967). Scanning the Business Environment. New York: Macmillan Company.
+       Retrieved        from        What         is       a        PESTEL          analysis?:
+       https://blog.oxfordcollegeofmarketing.com/2016/06/30/pestel-analysis/
+Helms, M., & Nixon , J. (2010). Exploring SWOT analysis – where are we now? A review of
+       academic research from the last decade. Strategy and Management, Volume 3 Issue 3.
+
+
+Richard, W., Birger, F., & Celeste, P. (2023). The origins of SWOT analysis. sciencedirect.
+
+
+Zhang, J. (2023). Research on the Development Strategy of New Energy Vehicle Industry
+       Driven by Blockchain Technology and Supply Chain Finance—Taking BYD Supply
+       Chain Finance as an Example . Clausius Scientific Press, Vol. 4 Num. 3.
+
+
+Johnson, G., Scholes, K., & Whittington, R. (2008). Exploring Corporate Strategy: Text and
+       Cases. Pearson Education.
+
+
+
+
+                                                                                          89
+

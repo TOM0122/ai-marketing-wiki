@@ -1,0 +1,466 @@
+Marketing
+Research
+
+    Week 4
+            Recap: Exploratory Research
+Qualitative research is mostly used to gain an understanding of why certain things happen. It can be used
+in an exploratory context by defining problems in more detail or by developing hypotheses to be tested in
+subsequent research.
+• Focus groups
+• Depth interviews
+• Projective techniques
+• Observational studies
+• Ethnographies
+
+
+
+
+                                                                                                            2
+            Housekeeping – Group Project
+1.   Determine your research questions.
+2.   Work on literature review and research secondary data.
+3.   Decide one (or two) qualitative research methods to collect qualitative data.
+     - Groups of 4: 10 informants
+     - Groups of 5: 12 informants
+     - Use the interview guide (~30 min) and focus group guide in W3 (Reference) as templates.
+     - Keep evidence of data collection (e.g., scripts or recordings)
+4.   Revisit/revise your RQ if needed (e.g., if your qualitative data show something more interesting)
+5.   Based on your qualitative data, design a questionnaire (25 survey questions)
+6.   Upload your questionnaire to Canvas in W6 (more details will follow after we talk about Qualtrics)
+
+
+                                                                                                          3
+          Topics for today
+1. Measurement scaling
+2. Comparative and non-comparative scales
+3. Single vs. Multiple Item scales
+4. Questionnaire design
+5. Qualtrics (if time permits)
+
+
+
+
+                                            4
+Measurement
+Scaling
+
+
+
+
+              5
+The Market Research Process
+      1.         Identify and formulate the problem
+
+      2.            Determine the research design
+
+      3.   Design the sample and method of data collection
+
+      4.                   Collect the data
+
+      5.                   Analyze the data
+
+      6.      Interpret, discuss, and present the findings
+
+      7.                      Follow-up
+
+
+                                                             6
+            Measurement
+Assigning numbers or other symbols to characteristics of objects according to certain pre-specified rules.
+• One-to-one correspondence between number and characteristics
+• Rules for assigning numbers should be standardized (everyone uses the same scale to measure the same
+  object should give you the same answer)
+• Four scale types are commonly used: nominal, ordinal, interval, and ratio
+             Measurement Scaling
+Four levels of measurement scales
+1. Nominal
+2. Ordinal
+3. Interval
+4. Ratio
+
+The level of measurement scales determine
+❑ Information level obtained
+ • Nominal scales measure the lowest information level, ratio scales provide the greatest amount of
+   information
+❑ Level of statistical analysis
+ • Nominal scales allow simple analyses, ratio scales allow more sophisticated analyses               8
+           Nominal scales
+• Scales that only label objects and do NOT provide information about ordering
+
+
+Examples
+Q. What is your occupation?        Q. Have you visited Facebook in the past week?
+1) Digital marketer                1) Yes
+2) Sales person                    2) No
+3) SEO specialist
+4) Other
+
+
+
+
+                                                                                    9
+            Nominal scales
+• Open-ended questions can also be coded into multiple nominal scale variables
+
+
+Example
+Q. How do you like TikTok?
+A. “I love Tiktok! It’s more fun and flashy than other social media! Tho it takes some time to adjust to its
+format All of my friends under 25 love it tho!”
+
+
+  ▪   Love TikTok (1)
+  ▪   More fun and flashy than competitors (2)
+  ▪   Takes some time to adjust (3)
+  ▪   Friends under 25 love it (4)
+
+                                                                                                               10
+              Ordinal scales
+• Allow researchers to rank-order subjects’ answers
+• Enable us to know if the value of that variable increases, or decreases
+• We do not know if the differences in the order are equally spaced
+
+Examples
+Q. How would you describe   Q. What is your highest level of    Q. What is your approximate   Q. Please rank the following
+your usage of Facebook?     education?                          annual income? (before tax)   social media platforms based
+                                                                                              on your preference (1 = most
+1. Non-user                 1.   No formal education            1.   Less than $20,000        favored, 3 = least favored)
+2. Infrequent user          2.   Primary school                 2.   $20,000 - $40,000
+3. Regular user             3.   Secondary school               3.   $40,001 - $60,000        1. Facebook
+                            4.   Vocational education (TAFE)    4.   $60,001 - $80,000        2. TikTok
+                            5.   University bachelor's degree   5.   $80,001 - $100,000       3. Instagram
+                            6.   University postgraduate        6.   More than $100,000
+                                 degree (master's, PhD)
+
+                                                                                                                             11
+             Interval scales
+• Each value on the scale is assumed to be an equal distance apart
+• We can interpret the magnitude of the differences in values directly
+• The location of the zero point is not fixed but arbitrary (e.g., temperature in Celsius) → no absolute “0”
+• Descriptors are sometimes placed evenly apart on the questionnaire to indicate interval
+
+
+   Examples (Likert Scales)
+   Q. How satisfied are you with Facebook’s
+   customer service?
+   1. Extremely Dissatisfied
+   2. Very Dissatisfied
+   3. Moderately Dissatisfied
+   4. Neither Satisfied nor Dissatisfied
+   5. Moderately Satisfied
+   6. Very Satisfied                                                                                           12
+   7. Extremely Satisfied
+            Ratio scales
+• There is an absolute “0” in the scale that is meaningful (a value of 0 means that particular variable is not
+  present)
+• Provide the most information
+
+
+     Examples
+
+         Q. How many friends/followers do you have? ___
+
+         Q. How many pages have you followed? ____
+
+         Q. Please indicate your annual income (before tax) $_____
+
+         Q. Please indicate your age _____ years old
+
+                                                                                                             13
+       Measurement scaling
+
+                 Label   Order   Differences   Origin is 0
+
+Nominal scale     ✓                                          Non-metric /
+                                                             Categorical
+Ordinal scale     ✓       ✓                                  scales
+
+Interval scale    ✓       ✓          ✓                       Metric /
+                                                             Quantitative
+ Ratio scale      ✓       ✓          ✓             ✓         scales
+
+
+                                                                            14
+Comparative and
+non-comparative
+scales
+
+
+
+                  15
+Overview of Types of Scales
+Comparative Scales
+➢ Paired comparison
+➢ Rank order
+➢ Constant sum
+Non-comparative Scales
+➢ Continuous rating
+➢ Likert scale
+➢ Semantic differential
+Innovative Scales
+
+
+                              16
+           Comparative scales
+❑ Paired comparison - Present two objects at a time
+
+
+
+
+❑ Rank order - Present all objects simultaneously, Ask subjects to rank them based on some criterion
+
+
+
+
+                                                                                                       17
+            Comparative scales
+❑ Constant sum - Ask subjects to allocate a constant sum of units (points, dollars) to a set of objects
+
+
+
+
+                                                                                                          18
+           Non-comparative scales
+❑ Visual analogue scales – Subjects rate an object by marking a line running from one extreme to
+   another extreme on a criterion variable
+
+
+
+
+                                                                                                   19
+            Non-comparative scales
+❑ Likert scales (Rensis Likert) – Ask subjects to indicate a degree of agreement or disagreement with
+   a statement about an object (usually five, seven, or nine points)
+
+
+
+
+❑Semantic Differential scales – Use bipolar adjectives or adverbs at the endpoints of a continuum
+
+
+
+
+                                                                                                    20
+                             Innovative scales
+
+
+
+
+                                                 21
+
+Source: clevr.net/products
+                           Classification of Scaling Techniques
+
+
+
+
+                                                                        22
+https://www.geeksforgeeks.org/scaling-techniques-in-machine-learning/
+Scale Examples - Marketing
+
+
+
+
+                             23
+More Scale Examples - Marketing
+
+
+
+
+                                  24
+Single vs. Multiple
+item scales
+
+
+
+
+                      25
+            Single vs. Multiple Item Scales
+Decision to use single vs. multiple-item depends on:
+• Type of variables to be measured (concrete vs. abstract)
+• Survey method
+• Analysis method
+
+
+
+Compared to multiple item scales, single item scales …
+• make measurement more efficient and the questionnaire shorter
+• reduce the quality of your measures
+                       Single vs. Multiple Item Scales
+     Single item scales – ex. purchase intention
+
+
+
+     Multiple item scales – ex. brand loyalty
+      Q. To what extent do you agree with the following statements? (1 = extremely disagree, 7 = extremely agree)
+      a. After I get used to a brand, I don’t like to switch.
+      b. I see myself as a brand loyal person.
+      c. I feel really committed to the brands I buy.
+      d. Even though certain products are available in a number of different brands, I always tend to buy the same brand.
+      e. I prefer the brand I always buy instead of trying something new I am not sure about.
+
+
+
+
+                                                                                                                            27
+Bruner, II, Gordon C.. Marketing Scales Handbook : Multi-Item Measures for
+Consumer Insight Research, Volume 9, GCBII Productions, LLC, 2017.
+Multiple item scales - reliability
+              True score model: XO = XT + ES + ER
+
+                   −XO = the observed score
+                   −XT = the true score
+                   −ES = systematic error
+                   −ER = random error
+
+              Reliability
+              •   The degree to which what we measure is free from random error (ER=0)
+              Validity
+              •   Whether we are measuring what we want to measure (ES=0)
+              Generalizability
+              •   The extent to which one can generalize from the observations at hand to
+                  a universe
+                                                                                         28
+            Multiple item scales - reliability
+3 key factors to assess reliability
+❑ Internal consistency
+• Can be used when using multiple items to measure a construct
+• If these measures relate strongly and positively to one another there is a considerable degree of internal
+  consistency
+• Cronbach’s alpha – The coefficient ranges from 0 to 1. A coefficient level should be at least ≥ 0.60 in
+  order to be considered reliable.
+❑ Stability of the measurement (test-retest reliability)
+• The extent to which a scale produces consistent results if repeated measurements are made over time
+• Only can be assessed for variables that are relatively stable over time
+❑ Inter-rater reliability
+• Assess the reliability of secondary data or qualitative data
+                                                                                                           29
+Questionnaire
+Design
+Week 4
+
+
+
+
+                30
+          Functions of a Questionnaire
+• Translates research objectives into specific questions
+• Standardizes questions so that each respondent is asked the same way
+• A well-designed questionnaire fosters cooperation and encourages respondents to
+  complete the survey
+         How to Develop a Questionnaire
+Guidelines
+➢ What should be asked?
+➢ How to phrase a question?
+➢ How to organize the questions?
+➢ What is the layout of the questionnaire?
+➢ How to pre-test a questionnaire?
+          What should be asked?
+Step 1: Start with the research objectives which require descriptive research
+Step 2: Determine the variables to be measured
+Step 3: Determine the scale to be used
+
+      Example:
+      ▪ Research Objective: To measure consumer perceptions of sustainable fashion products.
+      ▪ Variables to be measured: overall liking, perception of quality, longevity
+      ▪ Scales to be used: nominal, ordinal, interval, ratio
+          What should be asked?
+Step 1: Start with the research objectives which require descriptive research
+Step 2: Determine the variables to be measured
+Step 3: Determine the scale to be used
+
+      Example:
+      ▪ Research Objective: To measure how different factors impact consumer perceptions of
+         sustainable fashion products.
+      ▪ Variables to be measured: demographics, values , buying behavior, preferences
+      ▪ Scales to be used: nominal, ordinal, interval, ratio
+          What should be asked?
+How can the results of the qualitative research help you design the survey questionnaire?
+
+
+
+
+      Example:
+      One of the interview questions: What motivates you to buy a sustainable fashion product?
+      Key factors from secondary data and exploratory research: worker welfare, concerns about
+      environment, quality.
+          How to phrase? (principles)
+1. Avoid using extreme words. e.g., all, always, best, ever, every, most, never.
+2. Avoid loaded questions. e.g. We are happy when you like programs on Channel 7 and
+   sad when you dislike programs on Channel 7. Let us know what you think of our
+   programs.
+3. Avoid using ambiguous words (be as specific as possible). e.g. How satisfied are you
+   with our branch?
+4. Avoid double barrelled questions. e.g. How satisfied are you with your pay and job
+   conditions?
+5. Avoid broad questions. i.e. What is your attitude about the link between the war on
+   terrorism and the democrats decrying socialism?
+6. Avoid leading questions. e.g. How do you generally spend your free time, watching
+   television or what?
+         How to phrase? (principles)
+7. Avoid using abbreviations or jargons.
+8. Avoid questions which are hard to answer. e.g., Do you recall any commercials from the
+   program that you watched last night on Channel 7.
+9. Avoid using wrong/ambiguous scales.
+10. Avoid questions which make respondents inclined to answer what they think they
+    should have done. e.g. Many people are washing their clothes less often because of
+    concerns for the environment. How has your concern for the environment affected the
+    way you wash clothes?
+
+                Wash less     No Change     Wash more
+            How to Organize Questions
+1. Start with screening questions or filter questions
+• Determines whether the respondent fits the researcher’s selection criteria.
+Have you stayed at /reviewed for a hotel in the last one year?
+
+
+2. Warm-up questions
+• Use easy questions to show the respondent that the survey is easy to complete, and generate respondent
+  interest in the survey
+How often do you travel each year?
+            How to Organize Questions
+3. Use transition statements (include “skip” questions)
+• Notifies respondents that the subject or question format will change. Sudden shifts in topics are to be
+  avoided as they tend to confuse respondents.
+In the following questions, we would like to ask you questions on how you rate the services
+of a hotel.
+
+
+4. Section the questions for the main research objectives
+• Avoid including too many questions in one section. If possible (e.g., online survey), present each section of
+  questions or each question on a separate page to reduce fatigue.
+             How to Organize Questions
+5. Leave personal (demographic) and possibly offensive questions until last
+• By the end of the questionnaire the respondent has developed some trust and confidence in the
+  researcher and/or study.
+Age, gender, income, BMI, marital status, etc.
+
+
+6. Interdependencies: ask questions that could be affected by other questions first
+Example:
+1)Do you like Coca-Cola?
+2)Do you know how much sugar Coca-Cola contains?
+Example:
+1)Do you know how much sugar Coca-Cola contains?
+2)Do you like Coca-Cola?
+          Layout of Questionnaire
+Cover letter / Invitation letter / Consent form
+➢ Sponsor of the study, purpose of study, format of the study, ethical issues
+Main questionnaire
+➢ Number questions, use instructions
+Debrief
+➢ A thank-you note, true purpose of the study, reminders
+             Pretest a Questionnaire
+How to pre-test
+▪ Test the reliability of measurement items
+▪ Test the readability of questions
+▪ Measure the time required to complete the questionnaire
+▪ Test interdependencies (filter-questions)
+
+Some questions to be asked during pre-testing stage
+▪ Can the questionnaire format be followed by the interviewer
+▪ Does the questionnaire flow naturally and conversationally
+▪ Are the questions clear and easy to understand
+▪ Can the respondents answer the questions easily
+▪ Which alternative forms of questions work best
+

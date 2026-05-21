@@ -1,0 +1,750 @@
+Marketing
+Research
+Week 10
+        Recap
+
+
+
+         Types of Test                          Purpose of Test
+Chi-Square Analysis (X2)   Test for relationship between two nominal variables.
+
+Spearman Rank Order        Test for relationship between two variables that are
+Correlation Coefficient    not nominal and that at least one is ordinal.
+Pearson Product Moment     Test for relationships between two interval and/or
+Correlation Coefficient    ratio variables.
+
+
+
+
+                                                                                  2
+         Topics for today
+• Bivariate Regression
+• Multiple regression
+• Assumptions for Regression Analysis
+• Regression with dummy variables
+
+
+
+
+                                        3
+   Types of Regression Analysis
+
+
+Types of Test                   Purpose of Test
+
+Bivariate Regression Analysis   Analyze the linear relationship between an independent
+                                variable and an interval/ratio dependent variable.
+
+
+
+
+Multiple Regression Analysis    Analyze the linear relationship between multiple
+                                independent variables and an interval/ratio dependent
+                                variable.
+
+
+
+
+                                                                                         4
+            Regression Analysis
+Importance of regression analysis
+• Regression analysis is one of the most important methods in quantitative market research
+• Marketing and strategy departments of major companies (e.g. , Procter & Gamble, BMW Group, Nestlé)
+  use regression analysis regularly for decision-making
+
+
+Regression analysis can
+    1. Indicate if the independent variables have a significant relationship with the dependent variable.
+    2. Indicate the relative strength of different independent variables’ effects on a dependent variable.
+    3. Make predictions.
+
+
+
+* In this lecture, we focus on linear regression (OLS)
+                                                                                                             5
+The Regression Analysis Estimate a Line Using
+the Observations
+
+                      The regression estimation procedure
+                      attempts to fit a best possible line. This line
+                      is optimal if the squared distances to all
+                      observation points are minimized. Thereby:
+                      1.   Positive and negative deviances don’t
+                           balance each other
+                      2.   Bigger deviances are weighted
+                           disproportionately high
+                      If the assumptions of the regression are
+                      harmed, the line might not be the true line!
+
+
+                                                                        6
+            Understanding Regression Analysis
+Notation
+
+        Y = a + b1x1 + e
+                                                                    Error (e)
+Y       dependent variable
+a       Intercept
+b1      Regression parameter (slope)                           ŷ
+
+x1      Independent variable
+e       Residual
+
+• When we use the symbol ^, it indicates the
+  predicted value. For instance, 𝑦Ƹ means the
+  predicted value of y                                    a
+                                                Constant (α)
+• Residual e = y − 𝑦ො
+• SPSS estimates a and b1 based on data
+                                                                                7
+            Bivariate Regression Analysis
+
+    Example
+
+
+
+
+•    Two interval scaled variables → Bivariate Regression                  (*commitment is the average of 3 commitment variables
+                                                                           (com1, com2, com3) measured on a 7-point Likert scale)
+•    Significance level: 5%
+•    Independent variable: satisfaction with great value for money(s23)
+•    Dependent variable: commitment (commitment)
+•    Hypothesis: There is a linear association between commitment and satisfaction with the value.
+                                                                                                                             8
+             Bivariate Regression Analysis
+Analyze → Regression → Linear → Select dependent variable (to dependent) and independent variable (to block)
+
+
+
+
+                                                           *Tip
+                                                           Right click any variable and                        9
+                                                           select ‘Display variable names’
+             Regression Outputs (in SPSS)
+Variables Entered/Removed
+• This table is for variable selection. You can ignore it for now.
+Model Summary
+• R-square
+• Adjusted R-square (mainly for multiple regression)
+ANOVA
+• Sig. : p-value for the (Omnibus) F-test
+Coefficients Table
+• B (Unstandardized Coefficients) → coefficients in the regression equation
+• Beta (Standardized Coefficients) → relative importance
+• Sig. → p-value to test whether the individual slope coefficient is different from zero
+      Regression Output 1: Model Summary
+
+
+
+
+R-square (coefficient of determination, measuring goodness of fit)
+• Range: from 0.00 to 1.00
+• The percentage of variance of Y explained by X → the higher the more predictive the model
+• 0.210 means “21.0 % of the variation in the commitment can be explained by satisfaction
+  with the value for money (s23).”
+• Recall that R = Pearson Correlation between Y (actual) and 𝑌෠ (predicted)
+                                                                                              11
+             Regression Output 2: ANOVA
+
+
+
+
+Null hypothesis (H0 ): every slope coefficient is equal to zero (i.e., every b = 0)
+Alternative hypothesis (H1 ): at least one slope coefficient is not equal to zero
+p-value < 0.05, so we reject H0.
+• This means at least one regression slope coefficient is statistically different from zero. In this
+  regression, there is only one X: rating, so the coefficient of “s23” is significantly different from zero.
+• Knowing the value of X helps predict the value of Y to some degree (depending on the magnitude of
+  R-square)                                                                                                    12
+            Regression Output 3: Coefficients Table
+                                                                                  H0: b1 = 0
+                                                                                  H1: b1 ≠ 0
+
+                         Intercept
+
+
+                                Slope
+
+
+• Use Coefficient B to formulate the regression equation:
+        Commitment = 2.445 + 0.035 * Satisfaction for value for money (s23)
+• Interpretation: an increase of X by one unit is associated with an expected b units
+  change in the outcome Y
+• p-values (In column “Sig.”): Each row is a one-sample t test against test value 0. If p-value
+  ≤ 𝛼, then reject H0. This means that the regression coefficient in the same row is
+  statistically different from zero.                                                              13
+            Bivariate Regression Analysis
+How to report the results of Bivariate Regression Analyses?
+
+
+Example
+In this test we hypothesized that satisfaction with the value for money affects commitment. The result of a
+Bivariate Regression Analysis shows that satisfaction with the value for money has a significant impact on
+commitment (B = 0.035, p < .001). Thus, the hypothesis is supported.
+
+
+
+
+                                                                                                              14
+Multiple
+Regression
+
+
+
+
+             15
+            Multiple Regression Analysis
+Example
+
+
+
+                                                                                                              Independent
+                                                                                                                variables
+
+
+
+                                                                                                               Dependent
+                                                                                                                variables
+
+ •   Multiple interval scale independent variables + Interval scale dependent variable → Multiple Regression
+ •   Significance level: 5%
+ •   Hypothesis: Customer satisfaction with the sense of safety, aircraft condition, attention to service delivery
+                                                                                                                      16
+     details, simplicity of traveling, and value for money affect their commitment to Oddjob Airways.
+             Multiple Regression Analysis
+Analyze → Regression → Linear → Select dependent variable (to dependent) and independent variables (to block) (cont.)
+
+
+
+
+                                                                 *Tip
+                                                                 Right click any variable and
+                                                                 select ‘Display variable names’                    17
+             Multiple Regression Analysis
+[Statistics] → Tick Descriptives and Collinearity diagnostics → continue → [Save] → Tick Unstandardized and Unstandardized
+
+
+
+
+                                                                                                                     18
+Regression Output 1: Model Summary
+
+
+                 32.0% of the variation in the DV is explained by the
+                 model (combination of s9, s10, s19, s21, and s23)
+
+
+
+
+                 In the bivariate regression, 21.0% of the variation in
+                 the DV is explained by the model (only s23)
+
+
+                                                                          19
+          Why do we need an Adjusted R2?
+Properties of R2
+• Measures the strength of association (or predictive power) in a multiple regression
+• It usually increases as more independent variables are included
+
+
+Adjusted-R2
+• Adjusts for the number of independent variables and sample size to account for
+  diminishing returns → penalizing too many independent variables (overfitting)
+
+
+In practice, we choose the best model based on both R 2 and Adjusted-R2
+Regression Output 2:
+
+
+
+
+        P-value ≤ .05
+        The model is valid. This means at least one regression coefficient is
+        statistically different from zero. (i.e., Model has predictive power, so the R-
+        Square is significantly different from zero)
+
+                                                                                          21
+Regression Output 3: Coefficients Table
+
+
+
+        s9
+
+        s10
+
+        s19
+        s21
+        s23
+
+              P-value ≤ .05
+              Attention to service delivery details (s19), simplicity of traveling (s21),
+              and value for money (s23) affect commitment to Oddjob Airways               22
+                   Regression Output 3: Coefficients Table
+
+
+
+
+                                        s19
+                                         s21
+                                        s23
+
+•   An increase of one unit in attention to service delivery details (s19) results in a commitment increase of 0.012, holding everything
+    else constant.
+•   An increase of one unit in simplicity of traveling (s21) results in a commitment increase of 0.019 (holding everything else constant).
+                                                                                                                                             23
+•   An increase of one unit in value for money (s23) results in a commitment increase of 0.015 (holding everything else constant).
+        Regression Output 3: Coefficients Table
+
+
+
+
+                           s19
+                            s21
+                           s23
+
+                      Among the three significant independent variables, simplicity of traveling (s21)
+                      has the biggest influence on commitment
+The higher the absolute value of Beta (Standardized Coefficient), the more important it is to predict the   24
+dependent variable.
+             Collinearity/Multi-collinearity
+Collinearity occurs when two or more predictors in a regression model are highly correlated.
+Why It Matters
+• Inflates standard errors → unstable coefficient estimates.
+• Undermines the interpretability of individual predictor effects.
+Detecting Collinearity
+• Variance Inflation Factor (VIF) > 10 (or VIF > 5 for small sample) signals a problem.
+Example
+• Marketing spend and promotional discount rates in the retail industry often rise together, making it hard
+  to isolate each effect on sales.
+Mitigation Strategies
+• Remove or combine correlated variables.
+• Use principal component analysis (PCA) to create uncorrelated components.                                   25
+Regression Output 3: Coefficients Table
+
+
+                                 Collinearity diagnostics show
+                                 all VIFs lower than the
+                                 threshold of 10.
+                                 → No collinearity is present
+
+                                 * if there’s any VIF higher than
+                                 10, navigate to the ‘Correlations’
+                                 table and identify highly
+                                 correlated variables
+
+
+
+
+                                                               26
+            Multiple Regression Analysis
+How to report the results of Multiple Regression Analyses?
+
+
+Example
+In this test, we hypothesized that customer satisfaction with the sense of safety, aircraft condition,
+attention to service delivery details, simplicity of traveling, and value for money affect their commitment to
+Oddjob Airways. The results of a multiple Regression Analysis show that satisfaction with attention to
+service delivery details (B = 0.154, p < .001), simplicity of traveling (B = 0.250, p < .001), and value for
+money (B = 0.203, p < .001) have a significant impact on commitment. Thus, the hypothesis is supported.
+
+
+
+
+                                                                                                             27
+The Process of Conducting a Regression
+Analysis
+
+    1.   Check the regression analysis data requirements
+
+
+    2.      Specify and estimate the regression model
+
+
+    3.      Test the regression analysis assumptions
+
+
+    4.           Interpret the regression results
+
+
+    5.            Validate the regression results
+
+
+    6.              Use the regression model
+
+
+
+                                                           28
+            1. Check the regression analysis data
+            requirements
+Sample size
+• Formal power analysis (e.g. using G*power)
+Enough variation in your data
+Scale type of the dependent variable: interval or ratio scaled
+Collinearity
+• Collinearity is a data issue that arises if two independent variables are highly correlated.
+• The VIF, or Variance Inflation Factor, can indicate collinearity. Values over 10 indicate collinearity.
+• If collinearity is present, either use factor analysis, re-specify the regression model, or simply
+  accept the collinearity (noting its presence).
+    1.   variable elimination: remove one of the highly correlated variable; or
+    2.   variable reduction: combine the highly correlated variables into one variable, or factor
+         analysis
+                                                                                                            29
+            2. Specify and estimate the regression model
+The goal is to build a simple yet complete model (e.g., SPSS).
+Some suggestions:
+• If independent variables have overlap, then focus on the most important or distinct variable.
+• If you need to use a model for different circumstances, ensure the independent variables are the same to
+  allow comparison.
+• Consider the type of advice you want to give.
+• Consider the sample sizes and rules of thumb. Smaller datasets require fewer independent variables
+• If independent variables are nominal/ordinal, try to use dummy variables.
+
+
+
+
+                                                                                                         30
+            3. Test the regression analysis assumptions
+Critical assumptions
+1. The regression model can be expressed linearly,
+2. The regression model’s expected mean error is zero,
+3. The errors’ variance is constant (homoscedasticity), and
+4. The errors are independent (e.g., no autocorrelation).
+
+
+Optional assumption (to determine the significance of parameters)
+5. The errors need to be approximately normally distributed.
+
+
+
+
+                                                                    31
+            3-1. Linearity
+Linearity is an assumption that asks if we can write
+the regression model as
+               y = α + β1x1 + .. + βzxz+ e
+
+
+A separate issue is if the relationship between Y
+(dependent variable) and X (independent variable)
+is best expressed as a linear relationship.
+If not, we can use transformations:
+• x2
+• Log (x)
+
+
+After such transformations, the model is still linear!
+
+                                                         32
+          3-2. Homoskedasticity
+Is the variance constant or de(in)creasing as a function          Homoskedastic distribution
+of one or more independent variable(s)?
+
+
+
+
+                                           Large error variance
+
+
+                                                                  Heteroskedastic distribution
+
+                    Small error variance
+
+
+
+
+                                                                                                 33
+         3-3. Are the Errors Independent?
+• Example of correlated errors (or is there interdependence among the observations?)
+ • Serial correlation. For example,
+   – Monthly satisfaction of the same customer
+   – Monthly sales of the same product
+
+ • There are tests and remedies for this type of analysis, but it is out of the scope of
+   MR.
+
+
+
+
+                                                                                           34
+                     3-4. [Optional] Are the Residuals
+                     Approximately Normally Distributed?
+
+• This optional assumption can be visualized using a
+  histogram of the residuals.
+• Formally, one can conduct a Shapiro-Wilk test on the
+  residuals.
+   • H₀: The data are normally distributed
+   • If the p-value > 0.05, you fail to reject H₀ →
+       assume normality; if the p-value ≤ 0.05, you reject
+       H₀ → data are not normally distributed
+
+
+                                             Tests of Normality
+                                                           a
+                                        Kolmogorov-Smirnov                            Shapiro-Wilk
+
+                                 Statisti
+                                  c              df          Sig.         Statistic        df        Sig.
+                                                                      *
+Unstandardized Residual               .131            30       .200           .939              30    .084
+
+a. Lilliefors Significance Correction
+*. This is a lower bound of the true significance.                                                           35
+             4. Interpret the regression results
+Effects of Individual Variables
+1. The null and alternative hypotheses for each coefficient:
+  • H0 : b i = 0
+  • H1 : b i ≠ 0
+  • If the Sig. column in SPSS indicates a value below .05, we consider this to be significant.
+2. If the coefficient is significantly different from zero, report:
+  • The direction (+ / -)
+  • The magnitude of the coefficients and the relative importance.
+  – Unstandardized (B): expresses the effect of a one-unit change in the independent variable on the dependent variable.
+  – The standardized coefficient (Beta): the effect relative to the other variables. Standardized effects can be compared but
+    not for dummy (binary) variables
+
+
+      Significance?                                  Direction?                                      Size?
+         (p-value)                                     (+ vs. -)                              (b vs. standardized )
+                                                                                                                        36
+            5. Validate the regression model
+Split-sample validation
+• Randomly split the sample into 70% (estimation sample) and 30% (validation sample)
+• Estimate the regression using the estimation sample and validate the model in the validation sample
+  (e.g., see if the predicted values are close to the observed DV values).
+
+
+Control variables
+• If the regression outputs are stable, after you include additional independent variables (e.g., control
+  variables)
+
+
+
+
+                                                                                                            37
+               6. Use the regression model
+Interpretation of the regression model (regression equation) and prediction of dependent variables.
+Example: based on the regression output below, what are the predicted sales if price = $1.10 and the index
+of promotional activities = 50?
+                                                                           a
+                                                            Coefficients
+
+                                                                                        Standardized
+                                                  Unstandardized Coefficients           Coefficients
+
+           Model                                        B          Std. Error              Beta           t        Sig.
+
+           1       (Constant)                       29011.585        18448.456                            1.573       .127
+
+                   Average supermarket price       -24003.037        16694.676                    -.241   -1.438      .162
+
+                   Index of promotional                 44.227                 13.567             .547    3.260       .003
+                   activities
+
+           a. Dependent Variable: Weekly sales in USD
+
+
+Regression model: Weekly Sales = 29011.585 – 24003.037*Avg Price + 44.227*Index of Promotional Activities
+→ Predicted sales = 29,011.585 – 24,003.037 · 1.10 USD + 44.227 · 50 promotional activities = 4,819.594 USD
+sales per week                                                                                                               39
+            Visualize the data
+Create scatterplots of the independent variables against the dependent variable.
+This is to visualize the data instead of testing the linearity assumption.
+
+            No clear conclusion,
+              which is typical                                   Add the trend lines
+
+
+
+
+                                                                                       40
+             Visualize the residuals (Assumptions)
+Homoskedasticity                         No clear funnel
+                                             shape
+The variance of the errors is constant
+• Save the errors (unstandardized
+  residual) and plot these against the
+  dependent variable and eyeball for a
+  funnel-like shape.
+Errors are normally distributed
+(optional)
+
+
+
+
+                                                   Seems normally
+                                                     distributed
+
+                                                                    41
+Regression with
+dummy variables
+
+
+
+
+                  42
+            Nominal independent variables
+• DV of regression should be interval/ratio scaled. How about the IVs?
+• Sometimes researchers are interested in categorical IV (e.g., sex, region, traveler status)
+ • We can generate dummy (binary) variables coded as 0/1 and include the dummy variables as the
+    independent variable.
+ • However, when you include dummy variables, you must choose one category as the reference
+    category.
+Example:
+   We want to include gender (female/male) as a predictor in our regression model. However, the unit of
+   gender has no meaning. Hence, we create a dummy variable gender_dummy in the following fashion:
+    o gender_dummy = 0 if gender = female;
+    o gender_dummy = 1 if gender = male.
+
+    Then we include gender_dummy into the regression model.
+                                                                                                          43
+            Regression with dummy variables
+                    Gender                                           Gender_dummy
+                                                                         0 Female
+                                                                         1 Male
+
+
+Transform → Recode into different variables → Select the variable of interest (gender) → Enter ‘Gender_dummy’
+in the name -> Click ‘Change’ -> Click ‘Old and New values’
+
+
+
+
+                                                                                                                44
+Regression with dummy variables
+
+
+
+
+        • If user A is female, then her commitment = 21.324 +
+           23.588*looks_rating + 0.137*days_active – 3.480*0
+
+
+
+   s9
+
+  s10
+
+  s19                                                           Male travelers are less
+  s21                                                           committed to Oddjob Airways
+  s23                                                           by a difference of 0.279
+                                                                                                45
+                                                                compared to female travelers.
+            Regression model with dummy variable
+• The coefficient of a binary variable (0/1) implies a shift of regression line
+• If Traveler A is female, then her commitment = 1.359 + .012*s19 + .019*s21 + .015*s23 - .279*0
+• If Traveler B is male, then her commitment = 1.359 + .012*s19 + .019*s21 + .015*s23 - .279*1
+• If the only difference between traveler A and B is gender (A: female and B: male). Traveler A shows a
+   higher commitment than Traveler B (on average).
+Create (n-1) dummy variables for n-level
+variables
+
+Status               Levels            D1   D2
+                    Blue (1)           0    0
+                   Silver (2)          1    0
+                    Gold (3)           0    1
+
+
+            Y = b0 + b 1 D1 + b 2 D2
+
+
+
+                                                 47
+           Regression with dummy variables
+Transform → Recode into different variables → Select the variable of interest (Status) → Enter
+‘Status_D1’ or ‘Status_D2’ in the name -> Click ‘Change’ -> Click ‘Old and New values’
+
+                  Status_D1                                                      Status_D2
+
+
+
+
+                                                                                                 48
+Regression with dummy variables
+
+
+
+
+   s9
+
+  s10
+                             Gold-status travelers are more
+  s19                        committed to Oddjob Airways by
+  s21                        a difference of 0.378 compared
+  s23                        to Blue-status travelers.
+                                                          49
+   Recap: Tests for Associations
+
+
+    Types of Test                            Purpose of Test
+Bivariate Regression   Analyze the linear relationship between an independent
+Analysis               variable and an interval/ratio dependent variable.
+Multiple Regression    Analyze the linear relationship between multiple independent
+Analysis               variables and an interval/ratio dependent variable.
+
+
+
+
+                                                                                      50
+Workshop
+
+
+
+
+           51
+           Workshop Activity 1
+1. Average the satisfaction items (sat1 ~ sat3)
+Transform – Compute Variable – Enter ‘Satisfaction_avg’ under Target Variable – Statistical – Mean (double
+click) - Select variables of interest
+
+2. Test the following hypothesis using a multiple regression
+• H1: There is a linear association between satisfaction with on-board experience (s8) and
+  overall satisfaction (Satisfaction_avg).
+• H2: There is a linear association between satisfaction with exterior (s12) and overall
+  satisfaction.
+• H3: There is a linear association between satisfaction with hospitality (s17) and overall
+  satisfaction.
+
+
+                                                                                                         52
+            Workshop activity 2
+Test the following hypothesis using a bivariate regression
+
+
+H1. Flight purpose has an impact on overall satisfaction (Satisfaction_avg)
+
+* you may need to recode the IV
+Transform → Recode into different variables → Select the variable of interest (flight_purpose) → Enter
+‘flight_purpose_dummy’ in the name -> Click ‘Change’ -> Click ‘Old and New values’
+
+
+
+Is the hypothesis confirmed? (null rejected)
+
+                                                                                                         53
+            Workshop activity 3
+Test the following hypothesis using a regression
+
+
+H1. Flight class has an impact on overall satisfaction (Satisfaction_avg)
+
+* you may need to recode the IV
+Transform → Recode into different variables → Select the variable of interest (flight_class) → Enter
+‘flight_class_D1’ or ‘flight_class_D2’ in the name -> Click ‘Change’ -> Click ‘Old and New values’
+
+
+
+Is the hypothesis confirmed? (null rejected)
+
+                                                                                                       54
+        Workshop activity 4
+Present the result visually
+
+H1. Gender has an impact on overall satisfaction (Satisfaction_avg)
+
+
+
+
+                                                                      55
+Thank you
+

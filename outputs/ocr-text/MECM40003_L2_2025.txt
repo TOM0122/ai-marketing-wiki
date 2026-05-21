@@ -1,0 +1,624 @@
+Who is the ‘audience’ – what is
+‘research’ in the digital ecology
+             MECM40003
+            March 10, 2025
+                             Part 1: Research : history and approaches
+
+                                                                           L 3 The (first) turn to the
+                                               L 2 Who is the                user – ‘the uses and
+                                             audience – what is             gratification’ paradigm
+                 L 1 Introduction
+                                            research in a digital             from times of mass
+                                                 ecology ?                 media to today’s digital
+                                                                                  eco-system
+
+                          Part 2: Our own research approach based on the
+                                  ‘uses-and-gratification’ paradigm
+                                              L 4 Social Media as
+                                            Public Space – the new
+                                            perspective of the user
+
+
+                                                                                                    L 9 Constructivism
+L 5 Spiral of Silence         L 6 Agenda             L 7 Framing              L 8 Actor
+                                                                                                       and Lifeworld
+                                Setting                 Theory             Network Theory
+                                                                                                        approaches
+
+
+
+                                      Part 3: Conducting Research…
+
+
+                                            L 10                L 11 Interview
+                                        Conducting            interpretation and
+                                     Interviews: some        writing the research
+                                         guidelines                 report
+Agenda for today
+1. Defining terminologiesused in research
+2. Understanding traditions of thefield:
+   'when it all began' - in radio times of the 1920’s
+3. First ‘actual’ studies .. in radiodays
+4. Moving on - a first research focus: media‘effects’
+5. From ‘behavior’ to ‘persuasion’..
+6. Digital research: data centric methods
+7. Data centricity through user-centricapproaches
+8. Future Directions
+1. Defining terminologies used in research
+                      .
+(anywhere in the world)
+                         Key Distinctions:
+                         Defining Terminologies
+
+
+
+Paradigm                              Theory      Method
+ (Greek: ‘paradeigma’)
+‘the large concept’
+(1) ‘Paradigm’: broad concept – ‘the big theory’
+• sciences go through alternating periods, in eachperiod an
+  existing model of ‘reality’dominates
+• specific dominating ‘worldviews’ in research
+• re-enforcer of ‘worldview’(journals, funding org. etc.)
+• paradigm ‘shift’
+
+• Kuhn, Thomas (1996) The Structure of Scientific Revolution
+Source: https://www.legalevolution.org/2021/05/does-the-kuhn-cycle-apply-to-law-233/
+(2) Theory
+• ‘middle range theory’, narrowing down
+• narrowing down to integrate theory and empirical research
+• not to investigate the ‘bigpicture’
+• but to focus on ‘doable’, ‘measurable’ aspects of social reality
+• middle range theory uses theory building techniques for empirical
+  research
+
+• Merton, Merton (1968) Social Theory and Social Structure.
+(3) Methods …
+Quantitative Methods: characteristics
+
+• standardization of ‘instrument’ (multiple choice etc)
+• large sample (sampling procedures)
+• sample validity: ‘representative,’ ‘convenience’
+• statistical analysis: SPSS
+• ‘objective’
+• aim: large scale ‘behaviour pattern’
+Qualitative Methods: characteristics
+
+• semi-structured interviews
+• small sample
+• sample validity: authentic, in-depth
+• interpretation
+• subjective ‘logic,’ practice, experience, construction of
+  ‘communicative reality’
+• aim: identify individual patterns and ‘logic, inlifeworld context
+2. Understanding traditions of the field –
+when it all began in radio days of the 1920’s
+             USA
+
+
+
+
+               1925
+
+A first key book in Journalism, Media and Communication and Political Science
+USA: early 20 century… th
+
+
+Walter Lippmann (1925) The Phantom Public
+• in times of mass culture, democratic ideas had
+  deteriorated, voters were ignorant, no participation in
+  public life possible
+• manipulation of public opinion in newspapers and radio
+• elite to produce public opinion
+• public no longer a democratic sphere in modern nation-
+  states
+       John Dewey (1927) The Public and Its Problems
+       new types of ‘eclipsed’ publics, yet, democratic
+       discourse is possible
+
+       Critical assessment of new types of democratic
+       society, shaped by radio and other technologies
+
+       Only individuals can produce public opinion in
+       debate, radio and other technologies manipulate
+       public opinion.
+
+
+1927
+3. First ‘actual’ studies .. in radiodays…
+USA: Social Research, 1937
+• ‘Radio research project’, proposed by Paul Lazarsfeld, funded by
+  Rockefeller Foundation, New York
+
+• to assess “new area of ‘media’and ‘society', located at Princeton
+  focus on three research areas:
+
+• soap operas ‘radio dramas’
+
+• listening habits (surveys)
+
+• reach of advertising, commercial content support
+ Rockefeller Foundation …
+“Both radio and motion pictures are recognized as instrumentalities
+potentially of great importance alike for formal education and for the general
+diffusion of culture. But they have so far been exploited for the most part for
+purposes of entertainment.”
+
+“so little is known about using these new media for purposes other than
+entertainment.”
+          The growth of the medium has been so rapid thet broadcasters and         |
+educators have had little opportunity to gather basic knowledge concerning the
+
+human factors upon which the success of radio depends, Radio has developed be- |
+cause it has satisfied genuine human needs,   But how, precisely, it meets their   |
+
+needs is still an open question and a very important one if the medium is to       |
+
+develop the greatest good for the greatest number, Many studies have been made     |
+by educational and commcrcial organizations to learn more about the specific       |
+
+tastes of the listeners,   But such research has, in the main, been directed
+
+toward definite educational or commercial objectives with the result that informa-
+
+tion concerning the real reasons why radio satisfies listeners of various types    |
+
+or what its influences are on subsequent behavior is incomplete at the present
+
+tine,
+4. Moving on - a first research focus: media
+‘effects’
+ ‘Effects’ on audiences –through a radiobroadcast in 1938
+                                                          New York Times, Oct 31, 1938
+
+
+• ‘Wars of the worlds’: kick off of media research…..
+
+
+
+
+                                                                                       1938
+
+
+
+
+                                 Halloween, 1938: Radio production of H.G. Wells War of the Worlds, a ‘breaking news’
+In consequence:USA: First notions of ‘media effects’
+(1940’s):behaviour
+•Behaviorism: stimulus – response
+
+•A (sender) ---------B (receiver)---- REACTION
+
+•“Hyperdermic needle” model
+Early approaches…
+•Radio is a new ‘mental’ world
+
+•Preeminent as a ‘means' of social control
+
+•‘imaginative sense of participation in a common
+ activity’
+ 1948 Lasswell'formula'
+
+ Who says what to whom in what channel with what effect ?
+
+“One task of a rationally organized society is to discover and control any factors
+that interfere with efficient communication.”
+
+Lasswell, Herold (1948) The Communication of Ideas, Institute for Religious and Social Studies, New York
+To assess‘effects’ in order to…
+• to assess media influence on behavior patterns
+
+• change of cognition, emotions, attitudes after exposure to
+  media content
+
+• effects studies in order to control, enhance, or mitigate the
+  impact of the mass media on individuals and society
+Focus on ‘effects’: setting the stage for futuremedia
+research ..
+
+• (national) audience is the keyfocus
+
+• a specific degree of influence isexpected
+
+• the influence is caused by a media message system
+
+• variables chosen to assess message impact
+
+• hypothesis to be tested byoutcomes
+January, 2016, Journal of Marketing Vol 80 7-25
+5. From ‘behavior’ to ‘persuasion’..
+Shift towards persuasion: trustworthiness of
+communicator: Carl Hovland(1953)
+• group experiments regarding opinion change with different
+  ‘communicators’: example:
+• ‘perceptions of the communicator’s intentions to persuade
+   the audience may affect judgements of his credibility….’
+• “when a communication comes from an unknown .. source,
+  acceptance will be increased if, at the beginning, the communicator
+  explicitly claims that his own position is in accord with that held by
+  the audience”
+• Method suggested: experiment and/or survey with ‘attitude scales’
+Hovland, Carl (1953) Communication and Persuasion. New Haven: Yale U Press.
+1955
+The ‘two step flow of communication’
+Katz, Lazarsfeld (1955)
+
+
+
+
+ Influence of media does not unfold directly but rather
+ influence is achieved through personal networks.
+             Book: Katz, Elihu / Lazarsfeld, Paul F. (1955) Personal Influence. The part played by people in the flow of
+             Mass communication. New York: Free Press.
+Book: Katz, Elihu / Lazarsfeld, Paul F. (1955) Personal Influence. The part played by people in the flow of
+Mass communication. New York: Free Press.
+Shift in 1970’s - Towards a centrality of the ‘user’ –
+the ‘uses and gratification’ approach
+•‘not what do media do with people, but what do
+ people do with media’ ?
+
+•active audience
+•‘people use the media in different ways and these
+ reasons are deeply embedded in interpersonal
+relationships that precede any media role.’
+   Uses and gratification approach:
+
+
+
+
+  And:
+  “many of the goals of mass media use can be derived from data supplied by individual audience
+  Members themselves – i.e. people are sufficiently self aware to be able to report their interests
+  and motives.”
+
+Source: Katz, Elihu:Blumler, Jay and Gurevitch, Michael (1973) ‘Uses and Gratification Research,’ Public Opinion Quarterly, 37(4).
+                 2019
+2019 (reprint)
+ Stuart Hall
+ (1997)
+Culture can be understood in terms of ‘shared
+meanings’ in the modern world.
+
+The media is the biggest tool of circulation of
+these meanings.
+Fig.1 du Gay et al's Circuit of Culture
+Cultural Studies
+• CCCC Birmingham UK, Stuart Hall, 1980)
+• As a counter culture / encoding and decoding
+• Ethnographic approaches
+• Textual research / discourse analysis/ interviews
+• Audience ‘negotiates’ text
+• Active audience in contexts of ‘meaning’of
+  mediation
+Mediatization
+“As a concept mediatization denotes the processes through which core
+elements of a cultural or social entity (e.g. politics, religion, language)
+assume media form.
+As a consequence, the activity is to a greater or lesser degree
+performed through interaction with a medium, and the symbolic
+content and the structure of the social and cultural activities are
+influenced by media environments which they gradually becomemore
+dependent upon.”
+Hjavard, 2007’Changing Media, Changing Language. ‘ ICA, SanFrancisco.
+2019
+Japan – emerging of ‘mass communication
+research, focus on journalism
+
+
+
+
+    Source: Simonson et al , 2019
+  China
+
+
+
+
+Source: Simonson et al , 2019
+ France
+
+
+
+
+Source: Simonson et al , 2019
+         Latin America
+
+
+
+
+Source: Simonson et al , 2019
+Source: Simonson et al , 2019
+6.Digital research: data centric methods
+1. “Some propose that digital technology inaugurates an age
+of methodological innovation as new technologies for data
+collection, analysis and visualization enable the further
+elaboration of existing methods and the development
+of new ones.”
+
+2. “Others are more inclined to emphasize the
+‘return of the same.’”
+     Marres, Noortje (2012) ‘The redistribution of methods: on intervention in digital social research, The
+     Sociological Review ,60:S1, pp 139-165
+ Towards a globalized complexity of communication
+
+
+• “the global scale at whichcontemporary social media
+ platforms operate is inconceivably vast .. “
+          • “We should never forget that the systematic capture of the
+            Internet’s audience is a direct consequence of a universal
+            media system. That is, the ambitions of Facebookand
+            Google are only viable because we have already accepted
+            the global dominance of relatively small number of IT
+            giants who set and maintain protocols andoperating
+            standards.”
+        Athique,A. Thedynamics and potential of big data audience research, Media, Culture and Society, 2018, vol 40 (1)
+        .. And the consequences: new
+        researchapproaches
+
+As the proliferation of data and interconnectivity overwhelm our
+“
+
+capacity to conceptualize causality and make judgements
+regarding action and effect, we are inclined to seek
+solutions through procedural remedies made possible by the
+selfsame technologies.”
+         Athique, A. The dynamics and potential of big data audience research, Media, Culture and Society, 2018, vol 40(1)
+               Example : Big data and elections – research of datafeid political campaigning
+
+
+
+
+Datafeid election
+Campaigns and the
+digital voter..
+Example: studying algorithmic moderation
+The new digital research ecology:
+complexities
+• transnational digital space: including individuals from all
+  types of societies
+The active‘produser’
+
+“These produsers engage not in a traditional form of of
+content production, but are instead involved in
+produsage – the collaborative and continuous building
+and extending of existing content” (Bruns, 2006)
+
+  Bruns, Axel (2006) Towards Produsage: Futures for User-led Content Production, in Sudweeks, F et al (eds)
+  Proceedings Cultural Attitudes towards Communication and Technology, Tartu: Estonia, pp 275-284
+Digital methods as ‘natively digital’
+development of ‘platform’ for digital
+analysis
+•“Post demographics”
+
+“Early digital methods work on social media networking
+sites similarly studied friends and profiles. Dubbed
+‘post-demographics’, this approach to studying profiles
+considered preferences and tastes as a starting point of
+analysis as opposed to gender, age, education and
+such.”
+
+Rogers, Richard (2009)
+• Dimensions of ‘content’ changing: ‘liking’,posting, linking,
+  engaging
+
+• individual ‘axes’ of spatial communication, peerto   peer (p-
+  p), peer to community(p-c)
+• individual micro networks
+• from ‘fixed’ content to dynamic ‘fluid’ content flows
+Recent approaches
+•Digital methods research focus on events, disasters,
+•and revolutions
+•Elections (Iranian election), focus on one or more
+ hashtags
+•Single platform studies are the ‘norm’, hashtag
+ Twitter / like page (Facebook
+•API related research, no longer screenscraped or
+ crawled across ‘issues’
+April, 2018
+April
+   4, 2018
+
+
+An Update on Our Plans to Restrict Data
+Access on Facebook
+
+                                             《EC
+
+
+
+
+ We believe these changes will better protect
+      people’s information while still enabling
+     developers to create useful experiences.
+
+                                             >Pd
+
+
+
+
+By Mike Schroepfer, Chief Technology Officer
+
+
+
+Two weeks ago we promised to take a hard look at the information apps can use when
+you connect them to Facebook as well as other data practices. Today, we want to update
+you on the changes we’re making to better protect your Facebook information. We
+expect to make more changes over the coming months — and will keep you updated on
+our progress. Here are the details of the nine most important changes we are making.
+
+
+
+Events API: Until today, people could grant an app permission to get information about
+events they host or attend, including private events. This made it easy to add Facebook
+Events to calendar, ticketing or other apps. But Facebook Events have information about
+other people’s attendance as well as posts on the event wall, so it’s important that we
+ensure apps use their access appropriately. Starting today, apps using the API will no
+longer be able to access the guest list or posts on the event wall. And in the future, only
+apps we approve that agree to strict requirements will be allowed to use the Events API.
+
+
+
+Groups API: Currently apps need the permission of a group admin or member to access
+group content for closed groups, and the permission of an admin for secret groups.
+These apps help admins do things like easily post and respond to content in their groups.
+However, there is information about people and conversations in groups that we want to
+make sure is better protected. Going forward, all third-party apps using the Groups API
+will need approval from Facebook and an admin to ensure they benefit the group. Apps
+will no longer be able to access the member list of a group. And we’re also removing
+personal information, such as names and profile photos, attached to posts or comments
+that approved apps can access.
+Issues of Research practice
+• huge data sets 600,000 tweets
+• no conceptual approach (methodology)
+
+• current approach: use of ‘quant-qual’ – ‘network content
+  analysis’, first a quantitative analysis (‘sampling’), then a
+  ‘deeper’ analysis, developing ‘hierarchies’ of ’concerns’
+https://wiki.digitalmethods.net/Dmi/ToolDatabase
+Big Data analysis
+‘Volume':
+
+• sample size: one million ‘units’
+• one of few transnational studies investigates the use ofemoticons in tweets
+  and is based on 55 million usersworldwide.
+• Big Data methods: aiming to reduce the giganticmagnitude
+• Outcome: descriptive statistics
+‘Unreliable’ datasets…..
+Velocity: real-time ‘fluid’ data
+
+Variety: from text, images, audio, constructs missing links through
+‘fusion’, inconsistency of data quality
+
+• traditional statistical software cannot handle magnitude
+
+• limited analytical quality: mainly descriptive
+Use of Big Data analysis
+• Governments
+• United Nations – international development
+• Healthcare
+• Manufacturing
+Social media analytics: softwaretools:
+Node XL
+Figure 4: Network Analysis of #Macronleaks using NodeXL
+
+
+
+ G1: macronleaks,les macron des qui pour a et par sur   G3: macronleaks   wild   russian   G6: macronleaks macron   G7: macr   |G8: ma   leaks les
+                                                                                           hacked pen          msmfrench
+
+
+
+
+Source: NodeXL
+7. Data centrality through user-centric
+approaches
+Occupy Central movement
+, Hong Kong, 2014
+
+Lee, F& Chan, J(2016)
+Digital media activities and
+mode of participation in a
+protest campaign: a study of
+the Umbrella Movement,’
+Information, Communication
+& Society, 19 (1)4-22
+Approach
+
+  “While …studies have provided insights into how digital
+  media activities can generate and coordinate large-
+  scale protests, analysis of social media content … (of)
+  active participants cannot tell us how many people are
+  using the digital media in what ways. This may lead to
+  misjudgement about the significance of digital media
+  activities in social movements.”
+Background
+“The meaning of participation can vary hugely across
+individuals. Some visited occupied areas only a few times,
+while others camped in the areas.
+Individuals could have been more or less involved in various
+frontline activities, such as building street blockades and
+confronting the police”
+
+”At the same time, the movement participants engaged in a wide
+range of digital media activities, ranging from dispelling rumors
+about the movement.
+The movement involves the participants’ construction of a spaceof
+autonomy comprising both cyberspace and urban space.”
+Background
+“Nevertheless, given the multiple action possibilities, to what
+extent did the protesters engage in various forms of digital media
+activities?
+
+To what extent were the protesters ‘active’ in the occupied areas?
+
+How did digital media activities relate to participants’ level of
+involvement and mode of participation in the movement?”
+“Data …were derived from a survey of Umbrella Movement participants conducted in two occupied
+areas … about five weeks after the beginning of theoccupation.
+
+The sampling method followed past studies in Hong Kong (Lee & Chan, 2011 ) and other countries
+(Milkman, Luce, & Lewis, 2013 ). Interviewers worked in pairs, walked around the occupied
+areas in a designated path and invited every 10th person they walked past to be a
+respondent.
+This procedure attempts to derive something approaching a probability
+sample using the temporal and spatial distribution of the protesters as the sampling frame. The
+interviewees filled out the questionnaires by themselves.”
+
+    n=569 respondents
+
+   “the survey included 21 items asking the respondents to report, using a
+   three-point scale (1 = no, 2 = yes but not frequently; 3 = yes and frequently), their
+   engagement in a range of digital media activities.”
+Table 1. Participants’ engagement in movement-related digital media activities.
+                                                       % yes    Factor 1   Factor 2   Factor 3
+
+Exposed to rumor                                       55.0                 0.54
+                                                       (95.0)
+Try to refute rumor                                    31.8                 0.44
+                                                       (80.8)
+Exposed to anti-occupation views from acquaintances    41.9                 0.73
+                                                       (89.3)
+Exposed to anti-occupation views from strangers        40.8                 0.76
+                                                       (86.0)
+Respond to anti-occupation views of acquaintances      29.6                 0.70
+                                                       (77.5)
+Respond to anti-occupation views of strangers          14.2                 0.53
+                                                       (52.8)
+Unfriend people                                         6.0                            0.44
+                                                       (29.2)
+Change one’s profile picture                           56.1       0.45
+                                                       (70.5)
+Show pictures and videos taken in the occupied areas   40.9       0.54
+                                                       (78.1)
+Show pictures made by oneself                          11.2                            0.60
+                                                       (27.0)
+Publish commentaries                                   17.7       0.53
+                                                       (54.8)
+”My aim has been to provide an integrated
+analysis of the practical, methodological, and
+political problems and opportunities that today’s
+digital infrastructures, devices and practices
+open up for the analysis of social life, and to
+situate these in relation to wider questions about the
+changing role of knowledge in society and public life.”
+
+“…the digital at once affects social life itself and our
+understanding of it ..”
+                                               2017
+8.Future Directions
+•beyond Western orientation
+
+•qualitative research to identify digital
+ glocalism / interdependence
+
+•identifying new methods / innovation !
+•new approaches to International
+ communication
+
+•new ‘paradigms’: public shere theory
+
+•communication in dimensions of
+ ‘reflective interdependence’
+
+•and: focus on subjective communication
+ horizons !!!
+

@@ -1,0 +1,753 @@
+Marketing
+Research
+Week 12
+          Housekeeping
+• The rubric is available on Canvas (under Group Project)
+• Note that in the section of quantitative analysis, you do not need to follow the order of
+  the tests (i.e., H1 = Chi-Square, …). Instead, you can order the test based on the logical
+  flow of your report.
+• Chooses and applies appropriate techniques (e.g., figures, summary statistics, tables,
+  hypothesis tests) with some justification. Ensures the assumptions of the methods are
+  met. If you feel it necessary, explain why the method was appropriate given the data
+  structure and measurement levels.
+          Common questions
+• Q: Do I need to use all of the survey questions for the report?
+• A: You do NOT need to use all of the survey questions for the report. Select the
+  important ones in the written report or leave them in the appendix.
+
+
+• Q: Is it okay to report insignificant results?
+• A: It is OKAY to report insignificant results that do not support your hypotheses (e.g.,
+  you do NOT detect any difference in satisfaction between two gender groups).
+  However, you should provide reasoning why it is still interesting to report null results.
+  (see next page for further explanation)
+            Hypothesis testing: Dealing with non-significance
+
+  Seeing lots of non-significant (NS) results? Don’t panic, it’s just a normal part of research. Continue exploring the
+                                  data and develop new hypotheses to test if needed.
+
+                      Do include a mix of significant and non-significant findings in your report.
+
+
+• You will still get the full Results interpretation marks as long as you interpret your NS
+   output correctly.
+
+• You do get extra Discussion/Critical analysis points for explaining potential reasons for
+   your NS findings.
+        Example: Writing up non-significant results
+
+
+“We conducted an independent-samples t-test to test H2. There is a no significant
+
+difference in purchase intention between physically active and non-active customers,
+
+t(38) = -1.397, p > .05. This can be further confirmed by checking the mean figures for
+
+the two sample groups, Mactive = 4.39, Mnon-active= 4.41. These results do not support
+
+H2. We therefore do not reject the null hypothesis.”
+          Common questions
+• Q: Why is my p-value in ANOVA smaller than 0.05, but I don’t see any pair comparisons
+  with a p-value smaller than 0.05?
+• A: In ANOVA, this is usually caused by the small sample size. Refer to the next question
+  (e.g., borderline p-values) for potential solutions.
+• Q: What to do with borderline significant p-value (e.g., p = 0.071).
+• A: By default, we assume a significance level of α = 0.05 for hypothesis tests. However,
+  due to small sample sizes, you might find that many p-values in your SPSS outputs are
+  borderline (e.g., p = 0.071). There are two ways to deal with them:
+   – Interpret the results assuming α = 0.05; you can indicate that you do not reject the
+      null hypothesis at the 95% significance level; however, it is significant at the 90%
+      significance level.
+   – You can explicitly set α to be a slightly larger value (e.g., α = 0.15). In this case, you
+      can say that you reject the null hypothesis at the 85% significance level.
+The Market Research Process
+      1.         Identify and formulate the problem
+
+      2.            Determine the research design
+
+      3.   Design the sample and method of data collection
+
+      4.                   Collect the data
+
+      5.                   Analyze the data
+
+      6.      Interpret, discuss, and present the findings
+
+      7.                      Follow-up
+         Question:
+Why do marketing researchers use exploratory research?
+a. To clarify and gain an understanding of a market segment
+b. To test hypotheses
+c. To measure market share
+d. To predict future sales
+
+
+
+
+                                                              8
+Second Step: Determine the Research Design
+
+                           Ambiguous problems:
+                         Exploratory research design
+
+
+
+                        Somewhat defined problems:
+                         Descriptive research design
+
+
+
+
+                         Clearly defined problems:
+                           Causal research design
+Determine the Research Design
+           Ambiguous             Somewhat defined            Clearly defined
+            problems                problems                    problems
+
+
+            Exploratory              Descriptive             Causal Research
+             research                 research
+        • Understand structure   • Describe customers or      • Uncover causality
+                                       competitors
+         • Formulate problems                                 • Understand the
+               precisely         • Understand market size    performance effects of
+                                                             marketing mix elements
+ Uses   • Generate hypotheses      • Segment markets
+        • Develop measurement    • Measure performance
+                 scales            (e.g., share of wallet,
+                                     brand awareness)
+          Question
+Which of the following is NOT a purpose of focus groups?
+a. Develop creative concepts for a promotional campaign
+b. Obtain impressions of a new product
+c. Conduct a statistical analysis of consumer behavior
+d. Generate new ideas for a product design
+
+
+
+
+                                                           11
+           Question
+During a series of in-depth interviews, customers of a fashion rental platform repeatedly
+describe the service using terms like “freedom,” “no commitment,” and “variety.” What
+should the researcher do next in the qualitative analysis?
+
+a.   Calculate the mode of the most used term
+b.   Code and cluster these terms into emerging themes
+c.   Discard repeated words as redundant
+d.   Run a one-way ANOVA to confirm associations
+
+
+
+
+                                                                                            12
+         Exploratory research and qualitative analysis
+
+Choices of exploratory research methods   Qualitative Data Analysis
+• Focus groups
+• Depth interviews
+• Projective techniques
+• Observational studies
+• Ethnographies
+
+
+
+
+                                                                      13
+Types of Data
+What characterizes data?
+• Variable: an attribute whose value can change. A variable is the opposite of a constant.
+• A case (or observation) consists of all the observed variables that belong to an object such
+  as a customer, a company or a country.
+• Item: usually refers to a survey question put to a respondent
+
+                                         Constructs
+     • Construct: a variable that is not directly observable. Examples:
+        − Happiness
+        − Trust
+        − Satisfaction
+     • Not all constructs (or construct measures) are alike:
+        − Reflective constructs versus formative constructs
+        − Single- versus multi-item constructs
+     • Developing constructs requires using scale/index development procedures
+          Question
+What is the main difference between primary and secondary data?
+
+a. Primary data is always more reliable than secondary data
+b. Primary data is collected for the specific research purpose; secondary is previously
+   collected for another purpose
+c. Secondary data is always more recent than primary data
+d. Primary data is always quantitative, secondary is always qualitative
+
+
+
+
+                                                                                          15
+Advantages and Disadvantages of Secondary and
+Primary Data
+                        Secondary data                       Primary data
+
+     Advantages    •   Tends to be cheaper
+                                                         •    Are recent
+                   •   Sample sizes tend to be greater
+                                                         •    Are specific for the purpose
+                   •   Tend to have more authority
+                                                         •    Are proprietary
+                   •   Are usually quick to access
+                   •   Are easier to compare to other
+                       research using the same data
+                   •   Are sometimes more accurate
+
+
+     Disadvantages •   May be outdated                   •    Are usually more
+                   •   May not fully fit the problem          expensive
+                   •   There may be hidden errors in     •    Take longer to collect
+                       the data
+                   •   Usually contain only factual
+                       data
+                   •   No control over data collection
+                   •   May not be reported in the
+                       required form
+           Unit of Analysis
+
+Unit of analysis is the level at which a variable is measured
+
+− Customer satisfaction
+
+− Profitability
+                                                                       Business   Individual
+                                                 Industry       Firm
+                                                                         unit     employee
+
+
+
+Data is best collected at the lowest level
+
+− Date can be aggregated (summed) to higher levels later
+
+ – Example: “Cars sold at each individual car dealership” can be aggregated to “Cars sold
+   in region / country XYZ”
+          Dependent and Independent Variables
+Dependent and independent variables are terms relating to the design of a market
+research study
+
+
+                  Dependent variable      • What you try to explain
+
+                 Independent variable     • What you use to explain it
+
+
+Do not confuse with ‘does the variable depend on something else.’ Almost all variables
+depend on something else (e.g., loyalty, price sensitivity etc.)
+Collecting Quantitative Data: Designing Questionnaires
+
+                              Set the survey goal
+
+
+         Determine type of questionnaire and method of administration
+
+
+                               Design the items
+
+
+                                 Set the scale
+
+
+
+                           Design the questionnaire
+
+
+                           Pretest the questionnaire
+
+
+                                  Execution
+          Question
+Which type of experiment is more likely to have high external validity?
+a. Lab experiments
+b. One-shot case studies
+c. Field experiments
+d. Before-after designs without control groups
+
+
+
+
+                                                                          20
+          Causal Research
+• Correlation vs causality
+• Experiments help establish causality
+ • Lab experiments
+ • Field experiments
+ • Test markets
+• Internal vs external validity
+
+
+
+
+                                         21
+Experimental Designs
+
+One-shot case study:                        X      O1
+
+
+Before-after design:                        O1     X    O2
+
+
+
+Before-after experiment   Experimental group (R)   O1   X    O2
+with a control group:     Control group (R)        O3        O4
+          Question
+In which type of probability sampling is every k-th element selected?
+a. Cluster
+b. Systematic
+c. Simple random
+d. Stratified
+
+
+
+
+                                                                        23
+Sampling Procedures
+                   Sampling procedures
+
+
+                                    Non probability
+      Probability sampling
+                                      sampling
+
+                Simple random            Judgmental sampling
+                   sampling
+
+
+             Systematic sampling          Snowball sampling
+
+
+
+              Stratified sampling           Quota sampling
+
+                                            Other types of
+               Cluster sampling          convenience sampling
+                    Sampling Error
+
+
+
+
+https://stats.mom.gov.sg/SL/Pages/How-Reliable-Is-A-Sample-Concepts-and-Definitions.aspx
+                                                                                           25
+           Question
+What is the scale type of the following survey question?
+Q: How satisfied are you with the overall food quality at Lulu’s Malaysian Hawker in
+Melbourne? A: 1. Extremely Dissatisfied; 2. Very Dissatisfied; 3. Somewhat Dissatisfied; 4.
+Neutral; 5. Somewhat Satisfied; 6. Very Satisfied; 7. Extremely Satisfied
+
+
+a. Ordinal
+b. Ratio
+c. Interval
+d. Nominal
+
+                                                                                              26
+Measurement scaling
+
+
+                  Label   Order   Differences   Origin is 0
+
+ Nominal scale     ✓                                          Non-metric /
+                                                              Categorical
+ Ordinal scale     ✓       ✓                                  scales
+
+ Interval scale    ✓       ✓          ✓                       Metric /
+                                                              Quantitative
+  Ratio scale      ✓       ✓          ✓             ✓         scales
+
+
+
+
+                                                                             27
+           Nominal scales
+Scales that only label objects; do not provide information about ordering
+
+
+Examples
+
+Q. What is your occupation?                      Q. Have you visited Facebook in
+                                                 the past week?
+1) Digital marketer
+                                                 1) Yes
+2) Sales person
+                                                 2) No
+3) SEO specialist
+
+
+
+
+                                                                                   28
+          Ordinal scales
+• Allow researchers to rank-order subjects’ answers
+• Enable us to know if the value of that variable increases or decreases
+• We do not know if the differences in the order are equally spaced
+           Examples
+           Q. How would you         Q. Please rank the following   Q. What is your highest level of   Q. What is your approximate
+           describe your usage of   social media platforms based   education?                         annual income? (before tax)
+           Facebook?                on your preference (1 = most
+                                    favored, 3 = least favored)    1. No formal education             1.   Less than $20,000
+           1. Non-user                                             2. Primary school                  2.   $20,000 - $40,000
+           2. Infrequent user       1. Facebook                    3. Secondary school                3.   $40,001 - $60,000
+           3. Regular user          2. TikTok                      4. Vocational education (TAFE)     4.   $60,001 - $80,000
+                                    3. Instagram                   5. University bachelor's           5.   $80,001 - $100,000
+                                                                      degree                          6.   More than $100,000
+                                                                   6. University postgraduate         7.   Prefer not to say
+                                                                      degree (master's, PhD)
+
+
+
+
+                                                                                                                                    29
+          Interval scales
+• Distance between descriptors is known
+• Each value on the scale is assumed to be an equal distance apart
+• We can interpret the magnitude of the differences in values directly
+• The location of the zero point is not fixed, but arbitrary
+• Place descriptors on the questionnaire evenly spaced apart to indicate interval
+
+             Examples
+             Q. How satisfied are you with Facebook’s
+             customer service?
+             1. Extremely Dissatisfied
+             2. Very Dissatisfied
+             3. Moderately Dissatisfied
+             4. Neither Satisfied nor Dissatisfied
+             5. Moderately Satisfied
+             6. Very Satisfied
+             7. Extremely Satisfied                                                 30
+          Ratio scales
+There is an absolute “0” in the scale that is meaningful (a value of 0 means that particular
+  variable is not present)
+Provide the most information
+
+               Examples
+
+                 Q. How many friends/followers do you have? ___
+
+                 Q. How many pages have you followed? ____
+
+                 Q. Please indicate your annual income (before tax) $_____
+
+                 Q. Please indicate your age _____ years old
+
+
+
+
+                                                                                               31
+Describe data
+
+                                            Measure of
+                                  Scale                  Measure of     Type
+                                             Central
+                                  Level                  Variability
+                                            Tendency
+
+
+
+
+     Info level / adv. methods
+                                 Nominal      Mode       (Frequency)   non-
+                                                                       metric
+                                 Ordinal     Median        Range
+
+
+                                 Interval
+                                                          Standard     Metric
+                                              Mean
+                                                          Deviation
+                                  Ratio
+
+
+
+
+                                                                                32
+Multiple item scales - reliability
+           True score model: XO = XT + ES + ER
+               −XO = the observed score
+               −XT = the true score
+               −ES = systematic error
+               −ER = random error
+           Reliability
+           The degree to which what we measure is free from random
+             error (ER=0)
+           Validity
+           Whether we are measuring what we want to measure (ES=0)
+           Generalizability
+           The extent to which one can generalize from the observations at
+                                                                             33
+             hand to a universe
+            Clean data - outliers
+Outliers are values situated far from all the other observations. There are three types:
+Outliers due to data collection or entry errors
+Exceptionally high or low values that are a part of reality
+Combinations of values that are exceptionally rare
+
+
+Should we delete or retain outliers?
+If they are data collection or entry errors: yes (or try to look up the correct values)
+If they are not, retain and describe the impact of these outliers.
+
+
+To detect outliers in the data, use boxplots or calculate z-values (          ).
+Rule of thumb: z < -3 or z > 3 are likely to be outliers.                                  34
+          Question
+Which of the following is the correct null hypothesis (H₀) for testing whether the average
+customer satisfaction rating is 4? (Assume μ represents the population mean of customer
+satisfaction.)
+a. H₀: μ > 4
+b. H₀: μ < 4
+c. H₀: μ = 4
+d. H₀: μ ≠ 4
+
+
+
+
+                                                                                             35
+          Principles of Hypothesis Testing
+
+
+
+
+https://pub.towardsai.net/understanding-type-i-and-type-ii-errors-in-hypothesis-testing-956999e60e17
+                                                                                                       36
+          Question
+A marketing research team wants to compare customer satisfaction with three
+sportswear brands: Nike, Adidas, and Under Armour. They surveyed 90 customers (30 for
+each brand). The average satisfaction scores (on a 7-point scale) are:
+Nike: 5.6 (n = 30); Adidas: 5.2 (n = 30); Under Armour: 5.0 (n = 30); The one-way ANOVA
+produces a p-value = 0.01. At a significance level of α = 0.05, what should the researchers
+conclude?
+a. At least one brand’s satisfaction score is different.
+b. All three brands have different satisfaction scores.
+c. All three brands have the same customer satisfaction.
+d. Nike has significantly higher satisfaction than both Adidas and Under Armour.
+
+                                                                                          37
+Testing for Differences
+
+   Type of Tests                        Purpose of Test
+
+                    Compare the mean of a question answered by one group
+One Sample T-Test
+                    of subjects against a constant on metric data
+Paired Samples T-   Compare two means of two different questions answered
+Test                by the same group of subjects on metric data
+
+Independent         Compare the mean of a question answered by two
+Samples T-Test      different groups of subjects on metric data
+
+                    Compare the means of a question answered by more than
+ANOVA
+                    two different groups on metric data
+                                                                            38
+         Question
+When should a researcher choose Spearman correlation over Pearson?
+a. When both variables are binary
+b. When data is paired and interval scaled
+c. When the variables are both nominal
+d. When one or both variables are ordinal
+
+
+
+
+                                                                     39
+Testing for Associations
+
+       Types of Test                       Purpose of Test
+
+Chi-Square Analysis (X2)   Test for relationship between two nominal
+                           variables.
+
+Spearman Rank Order        Test for relationship between two variables
+Correlation Coefficient    that are not nominal and that at least one is
+                           ordinal.
+Pearson Product Moment     Test for relationships between two interval
+Correlation Coefficient    and/or ratio variables.
+
+
+
+                                                                           40
+             Question
+In a multiple regression, if the p-value in the ANOVA table is much smaller than 0.05, this
+indicates:
+a. At least one predictor is significantly related to Y
+b. All predictors are significant
+c. The errors are normally distributed
+d. The intercept is different from zero
+
+
+
+
+                                                                                          41
+Types of Regression Analysis
+
+Types of Test           Purpose of Test
+
+Bivariate Regression Analyze the linear relationship between an
+Analysis             independent variable and an interval/ratio
+                     dependent variable.
+
+Multiple Regression     Analyze the linear relationship between
+Analysis                multiple independent variables and an
+                        interval/ratio dependent variable.
+
+
+Note: the interpretation of R-square, ANOVA table, coefficient table, and the use of
+dummy variables.
+                                                                                       42
+Exam Structure
+         Exam Structure
+• Exam weighting: the exam accounts for 50% of your final grade
+• Duration of the exam: The exam will have a duration of 2 hours, and an additional 15
+  minutes allocated for reading time.
+• Exam type: On-campus digital exam (using Canvas)
+• Exam format: LMS Quiz with lockdown browser. Ensure that you have downloaded the
+  browser on your computer for the exam.
+• Your task: The exam will consist of MCQs and short/long-answer type questions. You
+  need to answer all questions.
+• Authorised materials: You are permitted to bring the textbook, paper-based notes,
+  and a non-programmable calculator without added text ability to the exam venue.
+            Final exam
+
+❏   Bring your own devices/borrow a laptop from the university
+
+❏   Need to borrow a laptop? Refer to this link for more information: https://students.unimelb.edu.au/your-
+
+    course/manage-your-course/exams-assessments-and-results/exams/laptop-preparation-on-campus-
+
+    exams#before-swot-vac
+
+❏   Fill out and submit this form: https://q.surveys.unimelb.edu.au/jfe/form/SV_3O5xUugzxyJM1eK
+         Exam structure
+• The exam contains 7 MCQs + 6 short/long-answer questions.
+• Some questions have sub-questions.
+• Answer all questions.
+• Be precise and succinct in your answers
+• Bullet points are encouraged for answers
+
+
+
+
+                                                              46
+         Multiple Choice Questions
+• Refer to quizzes
+
+
+
+
+                                     47
+          Short and long answer questions
+• You will be presented with short scenarios in each question
+• You will be asked to recommend a solution in a specific aspect of marketing research
+  (what we covered in class)
+• You need to justify your solution
+• You need to describe the solution
+• You need to interpret the possible implications of your solution
+• You can make valid assumptions about the research context.
+
+
+• Example: Given the scenario …, please recommend the most suitable sampling
+  technique and provide your reasoning.
+
+                                                                                         48
+         Short and long answer questions with a mini
+         case
+
+Example:
+  – A research survey questionnaire, along with research objectives, may be provided.
+  – Based on the survey and research objectives, you may be asked multiple research
+    design questions and statistical recommendations, including
+     ✓ Developing appropriate hypotheses,
+     ✓ Recommending appropriate statistical tests,
+     ✓ Choosing appropriate survey questions for research objectives
+     ✓ Interpreting data results
+     ✓ Developing survey items
+     ✓ Etc.
+                                                                                        49
+          Sample questions
+
+Review a survey design and answer the following questions.
+• Q1: “how satisfied are you with the quality of product A?”
+       (Measured on 5-point scale; 1-very dissatisfied; 5-very satisfied)
+• Q2: “how satisfied are you with the style of product A?”
+       (Measured on 5-point scale; 1-very dissatisfied; 5-very satisfied)
+• Q3: “what is your overall satisfaction with product A?”
+       (Measured on 5-point scale; 1-very dissatisfied; 5-very satisfied)
+• Q4: “what do you usually use product A for?”
+       (__ business; __ leisure; __ both business and leisure)
+• Q5: “would you recommend product A to friends?”            (__ yes; __ no)
+• Q6: “what is your gender?”                  (__ male; __ female)             50
+          Sample questions
+1. If the researcher wants to test whether consumers are more satisfied with the quality
+of product A than with its style, which statistical test would you perform and why?
+
+
+
+2. If the researcher wants to test which of the two factors: quality satisfaction and style
+satisfaction, has a greater impact on consumers’ overall satisfaction with product A,
+which test would you perform and why?
+
+
+
+
+                                                                                              51
+          Some exam tips
+Provide a clear rationale and reasons behind your response.
+• Justify your response for good marks
+
+
+If you need to justify your recommendations/responses ‘X’, consider the following
+structure:
+• List reason(s) for selecting ‘x’
+• Why is ‘x’ better than the alternative option ‘y?
+• To strengthen the argument, consider providing examples (if possible)
+
+
+
+                                                                                    52
+        Exam Tips
+
+• Think before you write
+• Allocate your time wisely
+• All questions are intended to be self-explanatory, and minimal clarification will be
+  provided during the exam. If you feel it necessary, explicitly write down your
+  assumptions.
+• Get the point/logic through instead of beating around the bush
+• Do not provide vague or generalized responses
+• Submit the answers before the time is up
+
+
+                                                                                         53
+           Student Learning Surveys (SLS)
+Results from the Student Learning Surveys (SLS) provide valuable feedback to the
+University and to your Subject Coordinators for subject improvements for future
+cohorts!
+Log in directly from your SLS notification email or visit unimelb.edu.au/sls.
+All end-of-semester surveys are:
+• Completely anonymous – all entries are de-identified
+• Online and available for three weeks                         Monday 19 May until Sunday 8
+• Available to be completed on computer or your mobile
+                                                               June 2025.
+                                                               Please take ~10 minutes to
+More information can be found in the student:                  complete the survey now!
+FAQs: unimelb.edu.au/sls/students/faqs
+
+                                                                                              54
+           Some take away thoughts
+• Think about the importance of marketing research in today's world
+• Think about planning, designing, and conducting a market research study
+• Think about the skills you have developed by studying this subject
+• Including analytical skills, statistical skills, locating and synthesising information,
+  working with a team, and communication
+• Think about what you have learned from working on a research project and working
+  with a group of people
+
+
+
+
+                                                                                            55
+

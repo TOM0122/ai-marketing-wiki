@@ -1,0 +1,935 @@
+                                                   Transportation Research Part D 34 (2015) 122–136
+
+
+
+                                                    Contents lists available at ScienceDirect
+
+
+                                           Transportation Research Part D
+                                        journal homepage: www.elsevier.com/locate/trd
+
+
+
+
+Advances in consumer electric vehicle adoption research:
+A review and research agenda
+Zeinab Rezvani ⇑, Johan Jansson 1, Jan Bodin 1
+Department of Business Administration, Umeå School of Business and Economics, Umeå University, Umeå, Sweden
+
+
+
+a r t i c l e        i n f o                        a b s t r a c t
+
+Keywords:                                           In spite of the purported positive environmental consequences of electrifying the light duty
+Consumer behavior                                   vehicle ﬂeet, the number of electric vehicles (EVs) in use is still insigniﬁcant. One reason for
+Electric vehicles                                   the modest adoption ﬁgures is that the mass acceptance of EVs to a large extent is reliant
+Adoption behavior                                   on consumers’ perception of EVs. This paper presents a comprehensive overview of the
+Intention
+                                                    drivers for and barriers against consumer adoption of plug-in EVs, as well as an overview
+Literature review
+                                                    of the theoretical perspectives that have been utilized for understanding consumer inten-
+                                                    tions and adoption behavior towards EVs. In addition, we identify gaps and limitations in
+                                                    existing research and suggest areas in which future research would be able to contribute.
+                                                     Ó 2015 The Authors. Published by Elsevier Ltd. This is an open access article under the CC
+                                                                         BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+
+
+
+Introduction
+
+    Electric vehicles (EVs) are currently being introduced as a solution for the problem of dependency on fossil fuels, increas-
+ing carbon dioxide (CO2) emissions, and other environmental issues. Road transport contributes to nearly one-ﬁfth of the
+EU’s total emissions of CO2, the main greenhouse gas (European Commission, 2012). Furthermore, CO2 emissions from road
+transport increased by approximately 23% between 1990 and 2010 and are still rising within the EU. Light-duty vehicles –
+cars and vans (often called passenger cars) – are a major source of greenhouse gas emissions, producing around 15% of the
+EU’s CO2 emissions (European Commission, 2012). The majority of these cars currently in trafﬁc are owned by private indi-
+viduals (ICCT, 2013). Citing the importance of taking action on climate change, many governments have initiated policies for
+reducing CO2 emissions by stimulating the production, introduction and adoption of EVs (Brady and O’Mahony, 2011). In
+spite of the purported positive environmental consequences of electrifying the light duty vehicle ﬂeet the share of EVs in
+the total number of vehicles sold is still small. In 2011, the EV market share was only 0.06% of the 51.1 million light duty
+vehicles sold in the EU, U.S., and the key Asian markets (European Commission, 2012). One perspective on such modest adop-
+tion ﬁgures is that the mass acceptance of EVs is mainly reliant on consumers’ perception of them (Schuitema et al., 2013).
+Consequently, in order to promote EV adoption, it is important to understand how consumers perceive EVs and what the
+possible drivers for and barriers against consumer EV adoption are. In other words, we need to know what factors inﬂuence
+consumer intentions to purchase EVs.
+    Literature on consumer EV adoption has analyzed several factors affecting the adoption of EVs. The focus of published
+studies has been on various aspects of adoption and non-adoption behavior. They have utilized different theories and studied
+different EVs in different parts of the world. This has made the research fragmented and increasingly hard to know where
+
+
+ ⇑ Corresponding author at: Umeå University, SE-901 87 Umeå, Sweden. Tel.: +46 (90)786 5000.
+     E-mail addresses: zeinab.rezvani@umu.se (Z. Rezvani), johan.jansson@umu.se (J. Jansson), jan.bodin@umu.se (J. Bodin).
+ 1
+     Tel.: +46 (90)786 5000.
+
+http://dx.doi.org/10.1016/j.trd.2014.10.010
+1361-9209/Ó 2015 The Authors. Published by Elsevier Ltd.
+This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+                                     Z. Rezvani et al. / Transportation Research Part D 34 (2015) 122–136                      123
+
+
+important knowledge gaps lie and where contributions can be made in future research. Consequently there is a developing
+literature that is in need of an overview in order to point at future research directions. Since the early 2000s, non-recharge-
+able EVs (mostly known as hybrid electric vehicles) have been offered at commercial scales and a considerable number of
+studies on consumer perception of these have been published. However, as these types of cars can be viewed as more fuel
+efﬁcient cars that do not require a signiﬁcantly different behavior from ordinary cars, the main focus of this paper is on cars
+that require a different consumer behavior (i.e. plugging the car in to the grid for charging). These cars are most often
+referred to as plug-in electric vehicles (PEVs). However, since notions from research on non-rechargeable cars to some extent
+also have implications for PEVs, studies on non-rechargeable cars are discussed where relevant as well. For a more in-depth
+discussion on different types of EVs, see the method section.
+    The ﬁrst objective of this paper is to present a comprehensive overview of the drivers for and barriers against consumer
+adoption of plug-in EVs. The second objective is to identify gaps and limitations in existing research and suggest a research
+agenda for the future. The method used for the review will be discussed in next section. Prevalent theoretical frameworks
+and empirical studies are thereafter reviewed in sections three and four respectively. Finally, in the conclusions and research
+agenda sections, research opportunities based on the review, contemporary consumer behavior and psychology studies in
+order to motivate future research on consumer adoption of EVs are elaborated upon.
+
+
+Method
+
+Different types of EVs
+
+    Alternative fuel vehicles (AFVs) are generally described as all types of cars that can be fuelled fully or in part by alterna-
+tive fuels such as biofuels (ethanol, biogas) and electricity (e.g., Jansson, 2011). In turn, EVs include vehicles with different
+technologies such as plug-in hybrid electric vehicles (PHEVs), extended-range battery electric vehicles (E-REVs), battery elec-
+tric vehicles (BEVs) and hybrid electric vehicles (HEVs). Even though some researchers recognize the use of electric vehicles
+back to the beginning of the last century (Daziano and Chiew, 2012), the wider introduction of HEVs to the US and Japanese
+markets began in the beginning of the current century. From 2007 until now, EVs have evolved to a category of vehicles that do
+not only include HEVs but also PHEVs, E-REVS and BEVs. These technological advances carry implications for consumer behav-
+ior and thus for the type of research that is necessary in order to further our understanding of consumer adoption behavior.
+    One of the most known forms of an EV today is the hybrid electric vehicle (such as the Toyota Prius). A HEV has an inter-
+nal combustion engine (ICE) alongside a supplementary electric powertrain consisting of an electric motor driven by a bat-
+tery. The battery is charged by recovering the energy that would be lost during breaking or directly by the ICE powertrain.
+Therefore, all the HEV’s energy originally comes from the liquid fuel and it can thus be seen as a more fuel-efﬁcient car
+(Schuitema et al., 2013; Proff and Kilian, 2012). A plug-in hybrid electric vehicle (PHEV) is a development of the HEV with
+improved battery capacity and a plug-in charger, which makes it possible to recharge the battery from the electricity grid
+(Sovacool and Hirsh, 2009; Egbue and Long, 2012). A PHEV runs on electricity or ICE, but generally has a short all-electric
+range. An extended-range electric vehicle (E-REV), similar to PHEV, runs on a battery that can be charged from an electric
+outlet and has a fuel tank which allows the driver to extend the range of driving. A battery electric vehicle (BEV) has an
+all-electric drivetrain powered from a large capacity battery (compared to PHEV and E-REV), which is recharged from the
+electricity grid (Proff and Kilian, 2012). The range of driving on electricity is usually longer in BEVs than PHEVs, as electricity
+is the only driving power of BEVs.
+    Similar to Schuitema et al. (2013), we argue that even though HEVs have been considered as EVs in some previous
+research, they are mainly fuel-efﬁcient cars that do not require a drastic behavior change by consumers, and these cars
+are therefore not the main focus in this review. In this review we consider EVs as electriﬁed vehicles with batteries that
+can be charged from an electric outlet. In other words, we term EVs as rechargeable cars and include studies on consumer
+responses to plug-in EVs which are BEVs, PHEVs and E-REVs. The major challenges for researchers and practitioners is to
+understand consumer behavior toward PHEVs, E-REVS and BEVs (Proff and Kilian, 2012) which are more disruptive innova-
+tions in transportation technology (Proost and Van Dender, 2010; Schuitema et al., 2013) and pose different behavioral
+demands on consumers. For instance, to run on electricity with a PHEV, E-REVS or BEV, drivers should accustom themselves
+to plugging in the car to the electricity grid and charging the battery while it is not in use and plan ahead for their next drive
+(Axsen et al., 2012). Another example of driver concern is experiencing range anxiety. The anxiety is a result of a perceived
+limited driving range of electric batteries versus the perceived range needed in daily car use, charging time of batteries and
+lack of infrastructure of charging stations compared to fossil fuel stations (Sovacool and Hirsh, 2009). Based on these argu-
+ments, we mainly review studies from 2007 and forward and we believe that future research on consumer EV adoption
+behavior would contribute more to overall understanding by focusing mainly on BEVs, but also to some extent on PHEVs
+and E-REVs.
+
+
+Identifying relevant studies
+
+   To achieve the ﬁrst objective of this paper a systematic literature review was conducted. Research studies in published
+peer-reviewed journals focusing on consumer adoption of EVs were searched for in the following databases; Emerald, Jstor,
+                                                                                                                                                                                                                      124
+Table 1
+Overview of studies and results.
+
+  Study details                                                                                                Results
+  Authors (year)         Sample                               EV       Method               Main theory        Technical factors             Contextual          Cost factors     Individual and social factors
+                                                                                                                                             factors
+  Axsen et al. (2012)    711 representative households in     EV       Quantitative,        Lifestyle                                                                             Pro-environmental lifestyle,
+                         California, USA                               online survey        practices theory                                                                      technology oriented lifestyle and
+                                                                                                                                                                                  openness to change
+  Burgess et al.         55 private drivers in the UK         BEV      Qualitative,         Model of sign      Performance, speed, noise,                        Purchase         Symbolic meaning of driving EV,
+    (2013)                                                             interviews after                        look and style,                                   cost, running    personal resistance, ﬁrst-hand
+                                                                       three months of                         environmental attributes,                         cost             experience
+                                                                       trial                                   car of the future
+  Caperello and          36 households in California, USA,    PHEV     Qualitative,         Grounded           Confusion in how battery    Finding an            Purchase     Acquiring recharging habit,
+
+
+
+
+                                                                                                                                                                                                                      Z. Rezvani et al. / Transportation Research Part D 34 (2015) 122–136
+    Kurani (2011)        tried PHEV for 4–6 weeks                      interviews,          theory             works, perceiving EV as car appropriate           cost, saving changing driving habit,
+                                                                       questionnaire,                          of future                   charging station      fuel cost    uncertainty in social etiquette
+                                                                       travel diaries                                                      outside the home                   and norms related to driving and
+                                                                                                                                                                              charging an EV
+  Carley et al. (2013)   2,302 individuals with driving       PHEV,    Quantitative,        Rational choice    Recharging time, range        Visible charging   Purchase cost Education, gender, age,
+                         license in the USA                   BEV      online survey        theory                                           stations in public               experience with HEVs,
+                                                                                                                                                                              environmental beliefs, believe in
+                                                                                                                                                                              fossil fuel dependency
+  Egbue and Long         481 students, staff and teachers of a PHEV,   Quantitative,        Theory of          Safety, performance, range,   Charging           Purchase cost Environmental awareness,
+    (2012)               technical university (technology      BEV     online survey        planned            decreased use of oil and      infrastructure                   technology awareness,
+                         enthusiasts, potential buyers of EVs                               behavior           emissions                                                      experience with EVs,
+                         who own ICEs) in USA                                                                                                                                 sustainability of EVs, interest in
+                                                                                                                                                                              EVs
+  Graham-Rowe et al. 40 UK non-commercial and ICE             PHEV,    Qualitative,         Grounded           Battery material &            Charging           Purchase      Less guilt from feeling good and
+     (2012)          vehicles drivers, 20 per type of EV      BEV      semi-structured      theory,            electricity source,           infrastructure     cost, saving  to be useful for the environment
+                                                                       interviews after     mainstream         environmental impacts,                           fuel cost
+                                                                       driving EVs for      consumers’         performance, safety, being
+                                                                       7 days               evaluation of      a work in progress
+                                                                                            EVs after a
+                                                                                            couple of weeks
+                                                                                            driving
+  Jensen et al. (2013)   369 Danish drivers                   BEV      Quantitative,        Rational choice    Carbon emissions, driving     Charging stations Purchase       Hands-on experience with EV
+                                                                       online survey in     theory             range, top speed              on the roads and cost, fuel cost
+                                                                       two waves                                                             in public places
+                                                                       (before and after
+                                                                       experiencing EV)
+  Krupa et al. (2014)    911 residents in the USA             PHEV     Quantitative,        Rational choice    Carbon emissions              Tax incentives,     Purchase         Political beliefs, concern for
+                                                                       online survey        theory                                           manufacturer        cost,            energy independence and climate
+                                                                                                                                             rebates             potential fuel   change
+                                                                                                                                                                 costs saving
+  Lane and Potter        UK residents (owners vs potential    BEV      Literature review,   Theory of          Performance, ease of use,     Government          Purchase         Pro-environmental identity and
+     (2007)              buyers, sample size not available)            qualitative and      planned            safety, reliability, energy   environmental       cost, long       lifestyle, knowledge of
+                                                                       quantitative,        behavior,          efﬁciency                     regulations, fuel   payback time     environmental problems, concern
+                                                                       interviews and       Value-belief-                                    prices, ﬁnancial                     for environment, values, beliefs,
+                                                                       questionnaire        norm theory,                                     incentives for                       personal moral norms and
+                                                                                            habits,                                          buyers of EVs,                       perceived social norms
+                                                                                            innovation                                       fuel
+                                                                                            diffusion model                                  infrastructure
+Lieven et al. (2011)   1,152 German individuals             EV      Quantitative,      Rational choice    Range, performance                                 Purchase
+                                                                    online survey      theory                                                                price
+Moons and De           1,202 Belgian drivers                EV      Quantitative,      Theory of          Range, performance                                 Purchase        Emotions, subjective social
+  Pelsmacker                                                        online survey      planned                                                               price           norms, environmental concern,
+  (2012)                                                                               behavior,                                                                             perceived behavioral control,
+                                                                                       emotions                                                                              education, age
+Noppers et al.         105 Dutch residents                  EV      Quantitative,      Self-              Environmental attributes                                           Symbols and social status
+  (2014)                                                            survey             congruency,        such as carbon emissions,
+                                                                                       costly signaling   functional or instrumental
+                                                                                       theory             attributes
+Peters and             969 German drivers with different    EV      Quantitative,      Diffusion of       Carbon emissions, energy       Policy measures    Purchase        Compatibility with own values,
+   Dütschke            experience and interest in EVs               online survey      innovation         efﬁciency                      to decrease the    cost, fuel cost experience and needs, subjective
+   (2014)                                                                                                                                purchase costs                     social norms, triability and
+                                                                                                                                                                            experience with EV
+
+
+
+
+                                                                                                                                                                                                                   Z. Rezvani et al. / Transportation Research Part D 34 (2015) 122–136
+Schuitema et al.       2,700 driving license holders in the PHEV,   Quantitative,      Consumer           Performance, practicality                         Purchase cost Pro-environmental identity,
+   (2013)              UK who had purchased a new car       BEV     online survey      innovativeness,    and range, perception of                                          hedonic attributes (pleasure of
+                       (less than 2 years old) within the                              self-image         PHEV attributes are more                                          driving, excitement of new
+                       last 5 years so they are the                                    congruency         positive than for BEV                                             technology) and symbolic
+                       potential buyers of EVs in the next                             theory             attributes, especially as                                         attributes (ﬁt to lifestyle, feeling
+                       ﬁve years                                                                          main car of household                                             proud, feeling embarrassed) of EV
+Skippon and            56 UK car owners (no one owned an BEV        Qualitative and    Signaling          Performance including          Availability of    Purchase        Environmental concern, symbolic
+   Garwood (2011)      EV type)                                     quantitative,      theory             acceleration, less noise and   charging stations cost, saving     meaning of EV: driver is open to
+                                                                    interviews after                      smoothness lower range         in the city and at fuel cost       new ideas, like to plan ahead and
+                                                                    trial period                          and long charging time as      work                               high conscientiousness, cares
+                                                                                                          barrier, pluging in the BEV                                       about others, small EV is a symbol
+                                                                                                          is not a concern, BEV with                                        of an economical car and thus not
+                                                                                                          100 miles range as second                                         a symbol of wealth
+                                                                                                          car and 150 miles as main
+                                                                                                          car can be accepted by
+                                                                                                          some consumers
+Zhang et al. (2011)    299 respondents from various         EV      Quantitative,      Rational choice    Safety, performance            Low fuel price,     Purchase and    Number of driving license holders
+                       driving schools in a city of China           survey             theory                                            non-supportive      maintenance     in the family, opinion of peers
+                       who were trainees at the driving                                                                                  tax policies in     cost
+                       school (potential buyers of EVs)                                                                                  China
+
+
+
+
+                                                                                                                                                                                                                   125
+126                                  Z. Rezvani et al. / Transportation Research Part D 34 (2015) 122–136
+
+
+Sage, Science Direct, Springer, Wiley, and also in search engines such as ABI Inform (ProQuest), EBSCO, Google Scholar, and
+Web of Science. Keyword combinations included Electric Vehicles, Alternative Fuel Vehicles, Plug-in hybrid electric vehicles,
+Battery electric vehicles, green cars, eco-cars, cleaner vehicles, acceptance, consumer adoption, attitude, intention and
+behavior. The search included articles from 2007 to 2014 and returned a considerable amount of studies discussing one
+or several of the keywords combined. The ﬁrst selection criterion was whether the aim of the study was to identify reasons,
+antecedents, drivers for and barriers against consumer EV adoption behavior, or intentions to adopt plug-in EVs. This crite-
+rion resulted in inclusion of both conceptual and empirical papers. However, for the selection of relevant articles, we only
+included studies with empirical consumer data and results, as we primarily were interested in how research can inform
+us about actual consumer intentions and behaviors. Some studies have created models to estimate the demand for EVs based
+on non-attitudinal and behavioral variables such as oil prices and/or different scenarios of ﬁnancial incentives (i.e. Musti and
+Kockelman, 2011). Though important for understanding and modeling wider market factors, such studies were excluded
+since they inform us little of consumer attitudes and behaviors. References of the selected papers were also analyzed and
+a list of studies was produced. The list of sixteen empirical papers can be found in Table 1.
+
+
+
+Theoretical frameworks in consumer EV adoption research: a review
+
+   Scholars deﬁne consumer adoption of an innovation as a behavioral response comprising of the purchase and use of the
+innovation (i.e. Schuitema et al., 2013; Huijts et al., 2012; Jansson et al., 2010). Different antecedents or predictors have been
+theorized to motivate this behavioral response. Different types of intentional measures such as consumer readiness and will-
+ingness to adopt the innovation, are the main predictors of adoption behavior and, are in many studies considered as a the
+proxy variable for adoption behavior (Arts et al., 2011; Schuitema et al., 2013). Thus, our review of the literature shows that
+consumer EV adoption has mainly been studied by focusing on intentions for adoption in contrast to actual adoption. This is
+understandable due to the current low market shares of EVs. Furthermore, based on our literature review we conclude that
+consumer adoption of EVs has been studied predominantly utilizing ﬁve categories of theoretical frameworks to which we
+turn below.
+
+
+Theory of planned behavior and rational choice theory
+
+    The theory of planned behavior (TPB) assumes that human beings make decisions based on rational evaluations of stimuli
+and the possible consequences of decisions (Ajzen, 1991). The behavior is directly predicted by intentions. Consumer atti-
+tude, i.e., the perceived sum of positive and negative possible consequences of a behavior, is a predictor of intentions
+(Bamberg and Möser, 2007). In addition to attitude, perceived feasibility of the decision or perceived behavioral control
+(PBC) and perceived expectations of certain reference groups or subjective social norms are also predictors of intentions
+in the TPB framework. According to the theory, the more a consumer perceives behavior to be a social norm, the more likely
+he/she intends to perform the behavior (Ajzen, 1991).
+    A few studies have used TPB to explain and predict consumer adoption of cleaner vehicles (Lane and Potter, 2007). In
+Moons and De Pelsmacker’s (2012) study on consumer adoption of EVs, consumer attitude towards EV adoption behavior
+was measured using the attitude towards EVs in general and EV attributes such as cost of purchase, range of driving and
+EV maintenance, in particular. Although attitude in the TPB is the evaluation of positive and negative consequences of the
+behavior, in applying the TPB in innovation adoption behavior, mostly, attitudes toward the innovation has been in focus
+(i.e. Pickett-Baker and Ozaki, 2008; Moons and De Pelsmacker (2012); Egbue and Long, 2012).
+    In addition to attitude, the study by Moons and De Pelsmacker (2012) measures the effect of PBC and subjective social
+norms on consumer intentions to purchase EVs. In their study, PBC dimensions include whether consumers can afford
+EVs and whether they can use it in their daily lives (considering for example the limitations in driving range). Subjective
+social norms are examined with consumer perceptions of peers’ ideas about EVs and whether they perceive adoption of
+EVs to be a social norm or not.
+    Another important factor in the TPB framework is consumer knowledge and experience which affects attitude and PBC. In
+the consumer EV adoption research, this construct mostly includes consumer knowledge of environmental impacts of driv-
+ing cars and experiences with vehicles in general and EVs in particular. Moreover, consumer understanding of conventional
+vehicle (i.e., ICE) costs of ownership and driving compared to EV costs has been suggested as an important factor affecting
+attitude and intentions (Lane and Potter, 2007; Sovacool and Hirsh, 2009).
+    Similar to TPB, which theorizes consumer behavior based on rational evaluations of the consequences, rational choice
+theory asserts beneﬁts and utility maximization as the basis of human behavior. Several scholars in consumer EV adoption
+research have considered consumer EV adoption behavior as a more or less rational behavior and have measured consumer
+attitudes towards EVs using different dimensions to predict consumer purchase intentions for EVs (Carley et al., 2013; Egbue
+and Long, 2012; Jensen et al., 2013; Krupa et al., 2014; Lieven et al., 2011; Moons and De Pelsmacker, 2012; Zhang et al.,
+2011). In these studies, consumer attitudes include dimensions such as attitudes towards EVs, alternative fuel vehicles, cars
+in general, and driving. Particularly, consumer attitudes towards EVs’ technical attributes (such as range, and speed) EVs’ up-
+front costs (purchase and installation of optional charging stations), operation costs (charging and maintenance) compared
+                                       Z. Rezvani et al. / Transportation Research Part D 34 (2015) 122–136                   127
+
+
+to conventional ICE vehicles, and also related policies to alleviate the up-front costs (i.e. tax rebates) are addressed. Con-
+sumer attitudes towards environmental issues have also been considered, which is elaborated upon further below.
+    EVs are generally considered eco-friendly innovations and thus EV adoption behavior is considered as a pro-environmen-
+tal behavior. As Bamberg and Möser (2007) assert, pro-environmental behaviors are motivated based on a mix of self-inter-
+est (as it is theorized by TPB and rational choice theory) and concern for other people and the ecosystem. While the TPB and
+rational choice theory are utilized to explain pro-environmental behavior with the self-interest category of motivations, nor-
+mative theories are normally used to explain the pro-environmental behavior from a different perspective than TPB and
+rational choice theory.
+
+
+Normative theories and environmental attitudes
+
+    Normative theories such as the value-belief-norm (VBN) theory (Stern, 2000) are utilized to explain pro-environmental
+behavior with the second part of the motivational mix, concern for others and the ecosystem (Bamberg and Möser, 2007).
+These theories stem from a different assumption than the TPB and rational choice theory and view internal normative beliefs
+and values as motives for pro-environmental behavior. In studies on consumer EV adoption behavior, consumer environ-
+mental values, beliefs, and norms are theorized to inﬂuence the adoption behavior and/or intentions. These constructs
+and their relationship with adoption are explained by value-belief-norm (VBN) theory of Stern (2000) which has been widely
+utilized to understand motivations for different types of purchase and non-purchase (such as car curtailment) consumer pro-
+environmental behaviors (Jansson, 2011). In this theory, pro-environmental behavior is the result of personal moral norms,
+which are feelings of moral obligations to engage in pro-environmental behavior (Schwartz, 1977). Personal norms are acti-
+vated by beliefs related to the biosphere and the effects of human action. Beliefs regarding general human actions and the
+consequent environmental harms are measured with the new ecological paradigm scale (NEP) (Dunlap et al., 2000). In addi-
+tion, speciﬁc beliefs related to the speciﬁc behavior of study (i.e. car driving) are also usually measured. Beliefs are affected
+by personal values which comprise the four value dimensions of Schwartz (1977); altruism (self-transcendence), self-inter-
+est (self-enhancement), conservation (traditionalism) and openness to change. Thus the intention or behavior in focus is
+formed through the chain of personal values, beliefs and norms related to the behavior and the environment (Stern, 2000).
+    In the consumer EV adoption research, environmental beliefs and consumer awareness of environmental issues and
+human effects have been theorized to affect the intentions to purchase EVs (Lane and Potter, 2007; Carley et al., 2013;
+Egbue and Long, 2012; Skippon and Garwood, 2011). Consumer attitudes towards EVs as so-called environmentally-friendly
+vehicles have also been examined (Egbue and Long, 2012; Moons and De Pelsmacker, 2012) since in some exploratory stud-
+ies (Caperello and Kurani, 2011), consumers expressed doubt about the positive environmental impacts of EVs. It has been
+argued that consumer concern for the environment will not necessarily result in pro-environmental behavior and there is a
+gap between the environmental attitude and behavior (Oliver and Rosen, 2010; Kollmuss and Agyeman, 2002; Stern, 2000).
+One possible explanation for this attitude-behavior gap is that other goals in life are more important and thus prioritized
+relatively to the pro-environmental goals and values (Stern, 2000).
+
+
+Symbols, self-identity and lifestyle
+
+    In consumer EV adoption literature, scholars assert that symbols and self-identity also play signiﬁcant roles in consumer
+adoption behavior and intentions (Skippon and Garwood, 2011; Graham-Rowe et al., 2012; Axsen et al., 2012; Schuitema
+et al., 2013; Burgess et al., 2013). Symbols or symbolic meanings of products and their relationship with self-identity and
+purchases of products have been described based on distinctive psychological and sociological theories in the consumer
+EV adoption literature. Saussure’s (1965) model of sign, Sirgy’s (1986) self-image congruency theory, Giddens’ (1991) nar-
+ratives of self, and Miller’s (2009) costly signaling theory are the theoretical basis in the literature which account for EV sym-
+bolism and consumer adoption. Saussure (1965) state that a product like a car is a signiﬁer or symbol of ideas and meanings.
+An example of signiﬁed meaning in the case of EVs is concern for the environment. Symbols are used by consumers in the
+construction and expression of self-identity. Products like cars do not only satisfy consumers’ practical needs such as mobil-
+ity in the case of cars, but they also have symbolic meanings which help consumers deﬁne and express who they are
+(Skippon and Garwood, 2011; Burgess et al., 2013). Giddens (1991) and Dittmar (1992; cited in Steg, 2005) assert that indi-
+viduals’ choices such as purchase of a car are not only based on practical concerns or instrumental values but also on sym-
+bolic values and narratives of self which connects their choices with their self- identity. In the case a person has bought an EV
+because of concern for environment, he/she may consider him/herself as an environmentalist or perceive that they are sig-
+nifying this to others. Miller’s (2009) costly signaling theory emphasizes the fact that human altruistic behaviors, such as
+purchase of EVs (Noppers et al., 2014; Skippon and Garwood, 2011), express and signals the identity and status stronger
+when the behavior costs (ﬁnancial and non-ﬁnancial such as behavioral change, time and energy) are higher.
+    Moreover, Schuitema et al. (2013) and Noppers et al. (2014) utilize self-image congruency theory (Sirgy, 1986) to connect
+self-image/identity with purchase intentions of EVs. This theory asserts that consistency of a product image with consumer’s
+self-image inﬂuences the purchase intentions positively. Similar to self-congruency theory and self-narratives, Axsen et al.
+(2012) utilize lifestyle theory (Giddens, 1991), stating that inconsistency between a technology such as EV and consumer
+lifestyle or engagement with certain activities and self-identity, may result in the rejection of EVs. As a result, Axsen
+128                                 Z. Rezvani et al. / Transportation Research Part D 34 (2015) 122–136
+
+
+et al. (2012) hypothesize a relationship between a pro-environmental lifestyle and purchase intentions for EVs. They further
+elaborate this relationship with examining the respondents’ interests in technology and degree of openness to change.
+    Thus, symbols and lifestyle associated with driving EVs play an important role in consumer adoption of EVs. Moreover,
+they are related to consumer’s attitudes towards different attributes of EVs such as price, performance and style and also the
+environmental attributes such as energy efﬁciency. In the study by Schuitema et al. (2013) the role of symbolic attributes of
+EVs in consumer intentions to purchase EVs has been theorized in relation to consumer innovativeness as well to which we
+turn to next.
+
+
+Diffusion of innovations and consumer innovativeness
+
+    Peters and Dütschke (2014) utilize diffusion of innovation (DOI) theory (Rogers, 2003) to identify and proﬁle early EV
+adopters. Rogers (1995, 2003) recognizes ﬁve categories of factors that inﬂuence the adoption decision, namely relative
+advantage, compatibility, complexity, trialability and observability. Relative advantage is the degree to which the innovation
+is perceived to be better than the current product it is replacing. Compatibility determines the consistency of the innovation
+with values, experiences and needs of consumers. Complexity explains the degree of difﬁculty for the innovation to be
+understood and used by consumers. Trialability determines the extent to which the innovation can be trialed, modiﬁed,
+and experienced before the adoption. Finally, observability determines the degree to which the innovation can be visible
+to others.
+    Related to DOI, Schuitema et al. (2013) has linked intention to adopt EVs to consumer innovativeness, which is deﬁned as
+the tendency to buy new products relatively earlier than the majority of consumers (Foxall et al., 1998 cited in Schuitema
+et al., 2013). They utilize three motivational reasons for consumer innovativeness namely instrumental, hedonic and sym-
+bolic motives, suggested by Vandecasteele and Geeuens (2010). Instrumental motives point to the consumer focus on func-
+tionality of the car. Hedonic innovativeness highlights the importance of anticipated emotions, such as pleasure from
+experiencing the car. Symbolic innovativeness indicates the signiﬁcance of symbolic attributes of a car for the consumers
+(Schuitema et al., 2013).
+    The diffusion of innovation (DOI) framework has been extensively utilized to understand early adopters’s and potential
+adopters’ perceptions of innovation characteristics in relation to many innovations and eco-innovations. However, most DOI
+research does not investigate the role of an important factor which some recent research discuss in the adoption of innova-
+tions, namely emotions. Recent studies on adoption of innovations suggest considering the role of consumers’ emotions in
+this regard (Wood and Moreau, 2006; Watson and Spence, 2007; Shih and Schau, 2011). For example, consumers’ expecta-
+tion of future events and consequent emotions as factors affecting the adoption behavior has been studied in a recent paper
+by Shih and Schau (2011). They ﬁnd that the perceived rate of innovation, or rate at which consumers perceive technological
+conditions are changing in the market place (Shih and Schau, 2011, p. 2), would result in anticipating regret and conse-
+quently delay the purchase of the technological innovation. In another study, Wood and Moreau (2006) show that consum-
+ers’ expectations of complexity from a technological innovation is a signiﬁcant factor in creating emotions, which
+consequently affect innovation evaluations and thus the purchase decision. Based on these ﬁndings on the role of emotions
+in the adoption of innovations, we believe that understanding the role of emotions in the adoption of EVs is important as
+well.
+
+
+Consumer emotions
+
+    As mentioned in the consumer innovativeness section, affective or hedonic attributes, such as pleasure and joy, are sug-
+gested to inﬂuence EV purchase intentions (Schuitema et al., 2013). In addition, Moons and De Pelsmacker (2012) has
+hypothesized consumer emotions towards EVs as an added dimension to the theory of planned behavior (TPB) by Ajzen
+(1991). They have supported this theorization through other theories of emotions in the consumption area such as
+Richins (1997) and stated that consumption emotions related to EVs and cars, and driving in general, are expected to inﬂu-
+ence consumer intentions toward EVs. Based on Norman (2004), Moons and De Pelsmacker (2012) have deﬁned three emo-
+tional processing levels: visceral, behavioral and reﬂective. Visceral emotions are based on consumer’s perceptions of
+instrumental and visual attributes of EVs such as style, design, and size. Behavioral emotions are related to consumer’s emo-
+tions from using and experiencing driving EVs. Reﬂective emotions are related to self-image and identity connected to driv-
+ing an EV. Moons and De Pelsmacker (2012) measured these emotional levels by asking consumers about the extent of
+feeling positive versus negative emotions from the visceral, behavioral and reﬂective aspects of EVs. However, this study
+did not measure speciﬁc consumption emotions, as Richins (1997) theorizes, or emotions such as pleasure, joy, pride, embar-
+rassment as was found by Schuitema et al. (2013). Understanding speciﬁc emotions related to adoption of EVs are important
+for designing communication, education and policies which can overcome some of the barriers against consumer adoption of
+EVs. Although emotions are found to be important and inﬂuential in pro-environmental behavior (Bamberg and Möser,
+2007; Steg and Vlek, 2009) and choice of cars (Steg, 2005), we are still lacking theorization of emotions in relation to
+pro-environmental behavior (such as adoption of EVs) and also the link of emotions with other factors such as values, beliefs,
+and norms.
+                                    Z. Rezvani et al. / Transportation Research Part D 34 (2015) 122–136                    129
+
+
+Consumer EV adoption behavior: a review of empirical research
+
+   The second objective of this paper is to provide a comprehensive perspective on the drivers to and barriers against con-
+sumer adoption of EVs, and to establish the type of research needed in order to further develop the current understanding of
+consumer EVs adoption. Thus, this section reviews ﬁndings from different empirical studies which comprise predictors of
+consumer intention to adopt, or actual EV adoption behavior. The ﬁndings are categorized into ﬁve sub-sections which
+are connected to the ﬁve theoretical frameworks described in the previous section. To illustrate the drivers to and barriers
+against consumer EV adoption, Table 1 indicates the results of studies, together with the characteristics of these studies such
+as type of EV (BEV or PHEV, if it was reported by the authors), sample, method and the main theory. Based on the literature
+review, three categories of attitudinal factors were found. These are presented in the table as technical factors, cost factors,
+and contextual factors. Factors from the normative theories, symbols and lifestyle theories, diffusion of innovation and inno-
+vativeness, and consumer emotions, are categorized in the social and individual factors column of the table.
+
+
+A behavior inﬂuenced by attitudinal factors
+
+    Among the attitudinal factors, ﬁrst, ownership and operation costs of EVs compared to conventional ICE cars are dis-
+cussed in the majority of research on EVs. Whereas the high front cost of EVs is often found to be a barrier to adoption,
+the lower operational costs encourage EV adoption (Caperello and Kurani, 2011; Graham-Rowe et al., 2012; Sovacool and
+Hirsh, 2009; Egbue and Long, 2012; Jensen et al., 2013; Lieven et al., 2011; Zhang et al., 2011). Some studies assert that con-
+sumers lack the basic knowledge of calculating the real costs of ICE cars and payback time of EVs (Caperello and Kurani,
+2011; Sovacool and Hirsh, 2009; Lane and Potter, 2007). In addition, some authors believe that potential adopters lack
+the knowledge for calculating the real price of driving an ICE which can affect the adoption of EVs (Caperello and Kurani,
+2011; Turrentine and Kurani, 2007). Thus, educating consumers on calculating the real costs of driving ICEs and EVs has been
+mentioned in previous research (Caperello and Kurani, 2011), and yet no study provides research or suggestions for further
+research on how to educate consumers on this important matter. Mostly, policy makers are responsible to alleviate the front
+cost of EVs utilizing different ﬁnancial incentives. Although ﬁnancial incentives, provided by governments or manufacturers,
+are shown to positively inﬂuence the intention to adopt EVs in some studies (Krupa et al., 2014; Lane and Potter, 2007; Zhang
+et al., 2011), the effects of them and related educational efforts need to be further studied in order to avoid some of the
+pitfalls common when using ﬁnancial incentives to increase the demand for pro-environmental products.
+    The second common attitudinal factor is related to consumer perception of supportive policy or the contextual forces. In
+2007, EU ministers agreed to outline three 2020 goals: to cut carbon emissions by 20%, increase the share of renewables in
+the energy mix to 20% and improve energy savings by 20%. In line with these goals, the European Commission supports a
+Europe-wide electro-mobility initiative, Green eMotion, worth €41.8 million, to exchange and develop know-how and facil-
+itate the market roll-out of electric vehicles in Europe (European Commission, 2012). In addition to such supports, national
+governmental bodies develop their own supportive policies for reducing the emissions and enhancing the adoption of EVs.
+For example Sweden has a goal for 2030 to become fossil fuel independent. Considering that Sweden produces more than
+50% of its electricity from renewables such as hydro power (European Commission, 2012), such policy mainly targets the
+transportation sector and can possibly drive increased adoption of EVs and AFVs.
+    However, researchers in consumer behavior have concerns about the consumer’s perception and acceptance of policies.
+Lane and Potter (2007) argue that government regulations regarding environment, fuel prices and ﬁnancial incentives for
+buyers of cleaner vehicles, together with development of fuel infrastructure will inﬂuence the adoption. Moreover, they
+argue that policies should be well understood by consumers otherwise policies will fail to affect adoption. A similar argu-
+ment by Sovacool and Hirsh (2009) also highlights that some policies, or frequent changes in policies, can create uncertain-
+ties for consumers and make them resistant and consequently hinder the adoption of for example EVs. Still, as Stern et al.
+(1999) state, policy acceptance can have positive effects on consumers’ attitude and intention to act pro-environmentally.
+Future research could disentangle consumers’ perception of certain policies related to EVs and its effect on the attitude
+and intention towards EVs. For instance, consumer perception and acceptance of certain policies, such as Sweden’s policy
+for becoming fossil fuel independent, and the effect on consumers’ attitude and intention to buy EVs can potentially be inter-
+esting for policy makers in order to develop future supportive policies. While UK and mainland European countries’ regula-
+tions and especially fuel prices are mostly in-line with reducing emissions of the transportation sector, environmental
+regulations and fuel prices are often found to be a barrier of EV adoption in the USA and China (Sovacool and Hirsh,
+2009; Zhang et al., 2011). Low fossil fuel (gasoline and diesel) prices make fuel saving more or less meaningless for consum-
+ers. However, apart from consumers being motivated by the ﬁnancial incentives like tax rebates or government’s cash
+refunds on purchase of EVs in USA and UK (Ozaki and Sevastyanova, 2011; Krupa et al., 2014), some EV adopters in the
+USA and UK touch upon the national independency from foreign oil as a motivation to purchase PHEVs (Krupa et al.,
+2014) and BEVs (Skippon and Garwood, 2011).
+    Consumer’s attitudes towards EVs’ technical features and perceptions of utility of EVs are the third group of factors that
+has been shown to both drive and hinder the rate of intention and/or adoption. Several studies have assessed consumer per-
+ceptions of instrumental or functional attributes of EVs (i.e. Egbue and Long, 2012; Ozaki and Sevastyanova, 2011; Zhang
+et al., 2011; Skippon and Garwood, 2011; Jensen et al., 2013; Carley et al., 2013; Krupa et al., 2014). Among the technical
+130                                 Z. Rezvani et al. / Transportation Research Part D 34 (2015) 122–136
+
+
+attributes, the limited range of BEVs is a well-known adoption barrier (Skippon and Garwood, 2011) while the range is of less
+concern for potential PHEVs adopters (Krupa et al., 2014). In a study by Skippon and Garwood (2011), 56 UK households
+were given the opportunity to drive a BEV for a week. The limited range of 100 miles was perceived to be sufﬁcient to
+own a BEV as a second car and 34% of the participants of the study stated that 150 miles would make BEV suitable as the
+ﬁrst car. It has been argued that limited driving range is more of a perceived barrier than an actual one. However, Jensen
+et al.’s (2013) study of 369 Danish drivers who drove BEVs for a trial period found that the range of BEV is a real concern,
+even after experiencing the BEV, since it is less than what individuals wish to have.
+    Moreover, range limitation and charging behavior can be considered as the adaptation demand or the needed change of
+behavior relative to conventional ICE cars. Such changes of behavior make consumers resistant to the acceptance of BEVs
+(Caperello and Kurani, 2011; Lane and Potter, 2007). However, it is likely that ‘‘range anxiety’’ will disappear altogether
+among consumers who may consider BEVs mainly for urban transportation. As researchers point out (Franke et al., 2011;
+Pearre et al., 2011), there are psychological barriers in adaptation to limited range of BEVs which can possibly be overcome
+by interventions such as interface design and driver training. Further research can explore innovative design and charging
+processes for BEVs which pose less behavioral change and resistance for consumers.
+    Other than range, EVs’ performance, safety, size and style have been reported as barriers to adoption in the studies of
+potential buyers’ intentions to adopt EVs for some potential buyers (Egbue and Long, 2012). For some UK consumers who
+tried BEVs in a trial period, some aspects of performance such as acceleration, smoothness and less noise were evaluated
+as positive (Skippon and Garwood, 2011), while for some other UK consumers in the study by Graham-Rowe et al. (2012)
+performance and safety of EVs were evaluated negatively after the trial period. In a study in Denmark, Jensen et al.
+(2013) showed that hands-on experience with BEVs would alter the consumer’s preferences and attitudes in a positive
+way towards them. The implication being that providing opportunities for consumers to get hands-on experience with
+EVs through manufacturers or municipalities trial programs can potentially change some consumers’ attitudes towards EVs.
+    Technological improvements will continue to develop performance, safety, size and style for EVs. However, consumer
+perceptions of these attributes remain important for researchers and practitioners to understand. As Schuitema et al.
+(2013) has shown, consumer perceptions of instrumental attributes affect their perceptions of symbolic and hedonic attri-
+butes, which inﬂuence the intention to purchase EVs. Thus, continuous research on consumers’ perceptions of EVs’ instru-
+mental attributes and the resulting symbolic and hedonic meanings can help car manufacturers in improving EVs and the
+marketing of them.
+    In addition to the attitudinal factors, knowledge and perceived behavioral control, social norms or the neighbor effect
+have also been shown to signiﬁcantly inﬂuence consumer intentions to adopt EVs (Kahn, 2007; Lane and Potter, 2007;
+Ozaki and Sevastyanova, 2011; Egbue and Long, 2012; Moons and De Pelsmacker, 2012). While studies conﬁrm the effect
+of green neighborhoods (Kahn, 2007) on consumer behavior, the ways in which such green neighborhoods have been formed
+is not studied. Further understanding of green neighborhoods and factors contributing in constructing them can have impli-
+cations for policy makers to further develop policies which not only support individuals but also their neighborhoods for
+green behaviors such as adoption of EVs.
+
+A pro-environmental behavior
+
+   Various studies on consumer adoption of EVs have assumed that EVs are eco-innovations which have the potential to
+reduce the environmental problems of the transportation sector (i.e. Egbue and Long, 2012; Lane and Potter, 2007;
+Schuitema et al., 2013). Consequently, EV adoption behavior has been considered as a pro-environmental behavior and fac-
+tors related to pro-environmental behavior are often included in the analysis of predicting EV adoption. In this regard, con-
+sumer EV adoption literature has mainly examined the roles of pro-environmental attitudes, values, beliefs and norms and
+their relationship with intentions to purchase EVs. The role of these environmental-related variables has also been found in
+exploratory studies (i.e. Skippon and Garwood, 2011) where some EV adopters expressed protecting the environment as a
+motivation for their choice of car. Perception of EVs’ positive environmental impacts also affected the intention to adopt
+EVs for potential EV adopters (Egbue and Long, 2012). However, the opposite has also been found, i.e. in the exploratory
+study by Graham-Rowe et al. (2012), while discussing the environmental impacts of battery production and electricity gen-
+eration, consumers expressed doubt about positive environmental consequences of EV adoption. Interestingly, in a study by
+Caperello and Kurani (2011) the environmental impact of EVs was not mentioned by consumers who drove a PHEV for a trial
+period as either a positive or a negative attribute of the vehicle. On one hand, these results may imply that the environmental
+impact of EVs is among the least important attributes, at least for some of the consumers (Lane and Potter, 2007). On the
+other hand, these results can amplify the importance of making the electricity and battery production and usage less envi-
+ronmentally harmful and also then communicating the environmental beneﬁts of EVs. A study by Axsen and Kurani (2013)
+shows that coupling green electricity and EVs will increase the intentions to adopt EVs in some consumer groups in the USA.
+However, little is known about the perception of EV’s environmental impacts in many countries (other than US and UK)
+where electricity is generated from different mixes of renewable and non-renewable sources.
+   Although some consumers might be unaware or skeptical about the possible environmental beneﬁts of EVs, adoption of
+EVs are shown to be motivated by consumer’s pro-environmental attitudes, values, and beliefs in some studies (i.e. Egbue
+and Long, 2012; Carley et al., 2013; Krupa et al., 2014). Pro-environmental values and concern for the environment was men-
+tioned as important reasons by some drivers who drove EVs for trial periods (Graham-Rowe et al., 2012; Skippon and
+                                    Z. Rezvani et al. / Transportation Research Part D 34 (2015) 122–136                     131
+
+
+Garwood, 2011). Pro-environmental values among potential adopters have also been shown to affect attitudes and
+intentions to adopt EVs in a positive way. In addition, knowledge and beliefs about environmental issues are also among
+the motivating factors for potential buyers of EVs (Axsen et al., 2012; Egbue and Long, 2012; Carley et al., 2013; Krupa
+et al., 2014; Lane and Potter, 2007).
+    In conclusion, similar to other types of pro-environmental behaviors, level of pro-environmental values, beliefs, norms
+and attitudes can be a predictor of consumer intention or actual adoption behavior toward EVs. However, several researchers
+such as Lane and Potter (2007) discuss the familiar attitude-behavior gap in this regard and believe that expressing a positive
+attitude will not necessarily result in a consistent consumer EV adoption behavior. To close the gap, the environmental self-
+efﬁcacy, as theorized by Oliver and Rosen (2010), has shown to have the potential to shrink the gap and increase the like-
+lihood of pro-environmental behavior. However, ways in which environmental self-efﬁcacy can be enhanced need further
+exploration. Oliver and Rosen (2010) suggest policy and education as potential interventions, and call for further research.
+Further research could also investigate the prevention versus promotion focus, framing of policies and education, and their
+effect on consumer’s environmental self-efﬁcacy. Prevention focused cues aim at minimizing negative outcomes or losses,
+and promotion focus cues aim at maximizing positive outcomes or gains (Lee et al., 2010). Research in the context of con-
+sumer EV adoption behavior can further explore the potential impact of policy and education related to environmental issues
+on consumer self-efﬁcacy or self-esteem related to driving EVs.
+    Furthermore, on the basis of social cognitive theory (Bandura, 1986), self-efﬁcacy can be enhanced by vicarious learning
+which is learning from observing peers performing a task. Accordingly, it is possible that consumer’s environmental self-
+efﬁcacy in the context of adopting an EV would be enhanced by communicating about current EV adopters’ thoughts and
+viewpoints of their vehicle’ environmental impacts. Additionally, while the existence of green neighborhoods in the study
+by Kahn (2007) is usually interpreted as the neighbor effect and a social norm, it can also imply the vicarious learning in
+the neighborhood.
+    Finally, recent studies propose some interventions, which have been examined in order to close the attitude-behavior gap
+for pro-environmental behaviors. For instance, ‘imagined group discussion’ is an intervention studied by Meleady et al.
+(2012) to promote cooperative and pro-social behavior. The results in their study show that just asking consumers to imag-
+ine themselves in a group discussion on environmental issues would increase the consumer intention for pro-environmental
+behaviors. Such interventions could be studied in the EV adoption context and possible effects on intentions can be
+investigated.
+
+An innovation adoption behavior
+
+    Similar to other innovations and eco-innovations, the issue of compatibility of EVs in the everyday lives of consumers and
+their habits has also been found as an important contributing factor for potential adopters (Graham-Rowe et al., 2012; Peters
+and Dütschke, 2014). Governments in charge of infrastructure can do much to increase the compatibility of EVs in the daily
+life of drivers for example in creating a suitable and visible charging infrastructure (Carley et al., 2013; Egbue and Long,
+2012; Jensen et al., 2013; Krupa et al., 2014). In addition, the ways in which EVs are provided for consumers by companies,
+can play an important role (Budde Christensen et al., 2012; Lane and Potter, 2007; Sovacool and Hirsh, 2009). For example,
+separating the battery and car ownership from each other, could play an important role (Budde Christensen et al., 2012).
+    A dark side of technological improvements is consumers’ perception and anticipation of product obsolescence (Graham-
+Rowe et al., 2012). Consumer perceptions of speed at which technology is improving can create resistance in the purchase of
+current technologies as consumers might expect that new and better technologies will arrive soon and make the current
+products obsolete. Accordingly, some consumers view PHEVs, BEVs and HEVs as the car of the future (Flamm and
+Weinstein, 2012; Graham-Rowe et al., 2012). Caulﬁeld et al. (2010) found that 55% of respondents agreed that the HEV
+would be the car of choice in the future. Technological innovation adoption literature also ﬁnds this perception important.
+Holak et al. (1987) and Shih and Schau (2011) have found that consumers express their expectation of future product
+improvements together with an expected sense of regret, and incorporate it in their behavior, which mostly results in delays
+in purchasing new technological products. Furthermore, Shih and Schau (2011) studied the moderating effect of justiﬁcation
+or using accessible reasons for resolving the conﬂict, regret and guilt associated with a choice, and found high levels of regret
+among consumers who were justiﬁed for the purchase of technology based on their acute need for it. These ﬁndings which
+are contradictory to the previous ﬁndings on the role of justiﬁcations (e.g., Shih and Schau, 2011), calls for more research on
+the role of justiﬁcations in alleviating the consumers’ regret in the adoption of EVs and eco-innovations. In the EV adoption
+context, different justiﬁcations related to technological or environmental aspects of EVs and their role in resolving the EV
+obsolescence issue for consumers can be investigated and ﬁndings can have implications for the communication and promo-
+tion of EVs.
+
+A symbolic behavior
+
+    EVs do not only satisfy the transportation needs for adopters, but they also act as symbols to construct and express iden-
+tity (Skippon and Garwood, 2011; Graham-Rowe et al., 2012; Axsen et al., 2012; Schuitema et al., 2013; Burgess et al., 2013).
+In the study by Graham-Rowe et al. (2012), mainstream UK drivers, after seven days of driving EVs (BEVs and PHEVs),
+expressed three different symbolic meanings of EVs and associated self-identity. One group of drivers associated BEVs with
+132                                 Z. Rezvani et al. / Transportation Research Part D 34 (2015) 122–136
+
+
+a slow-moving lifestyle and stated feelings of embarrassment when driving an BEV and consequently asserted disinterest in
+the lifestyle and the BEV. A second group of drivers, although concerned for environment, did not want to be associated with
+the green-driving identity related to BEVs. A third group, viewed driving the PHEV as gaining social identity related to a
+forward-thinking, modern and technology-oriented personality. In another qualitative study in the UK, participants, after
+driving the BEV for a trial period, stated that owning a BEV signals being open to new ideas and caring for others
+(Skippon and Garwood, 2011).
+    In two quantitative studies, congruency of EVs with the self-identity of consumers was shown to inﬂuence adoption
+intentions. Schuitema et al. (2013) examined two different identities, namely environmentalist and car-authority identity,
+in potential adopters of EVs and show that consumers with pro-environmental identity perceive EV attributes more
+positively than consumers who do not have such a self-identity. Nevertheless, consumers with a car-authority identity
+(who serve as authority ﬁgures for their peers concerning cars), have neither positive, nor negative perceptions of EV attri-
+butes. Thus, these authority ﬁgures are still not convinced that EVs offer environmental beneﬁts (Schuitema et al., 2013).
+    Axsen’s et al. (2012) study identiﬁes ﬁve clusters of potential adopters in the USA, namely engaged greens, aspiring
+greens, low-tech greens, traditionalists and techies. Engaged green are involved in pro-environmental and technology
+oriented lifestyle practices and are open to change. Aspiring greens are less involved with pro-environmental practices
+and have less interest in technology compared to engaged greens but also show openness to change. The engaged greens
+and aspiring greens are more prone to adopt EVs according to the study. Low-tech greens show the least openness to change
+and interest in technology, and compared to the last two clusters of greens, they are more likely to practice curtailment and
+non-consumption behavior (driving less and use of alternative mode of transportation instead of driving) rather adopting
+EVs. The two clusters of traditionalists and techies are low in engaging in pro-environmental practices and openness to
+change. However, techies show interest in technologies and thus are prone to adopt EVs for the technological reasons and
+not the environmental reasons (Axsen et al., 2012). These results are somewhat contradictory to Jansson et al. (2009)
+who studied general AFV adoption and found that adopters were motivated by both environmental and technology reasons
+for adoption.
+    The studies by Schuitema et al. (2013) and Axsen et al. (2012) consider pro-environmental orientation as a self-identity or
+lifestyle. The second self-identity, car-authority identity (Schuitema et al., 2013) can be thought of as a subclass of technol-
+ogy orientation (Axsen et al., 2012) where individuals are experts on cars. However, car-authority consumers state neither
+positive nor negative perceptions of EV attributes and were not convinced about the environmental impacts of EVs
+(Schuitema et al., 2013), while non-greens with technology oriented lifestyle are likely to adopt EVs (Axsen et al., 2012).
+These results can imply that communicating EVs to technology oriented-consumers may need to put less emphasis on
+environmental beneﬁts of EVs and mainly focus on technological aspects of the innovation. However this might not be true
+for all types of AFVs as the Jansson et al. (2009) study points to.
+    While the symbolic meanings of EVs in the qualitative studies of Graham-Rowe et al. (2012) and Skippon and Garwood
+(2011) are not limited to the environmental aspect and embracing new technology, recent research has mostly focused on
+these two symbolic meanings and self-identities. As stated in these studies, new products such as EVs need to be identiﬁed
+with symbolic meanings and self-identities which are desired by the target consumers. Therefore, understanding the sym-
+bolic meanings of EVs for potential adopters and the role of these meanings in forming intentions to purchase EVs can be
+important for future studies on EVs. Of particular interest can be identifying and examining the symbolic meanings of
+EVs for potential adopters in different countries, as the symbolic meanings are expected to be different in different parts
+of the world (Heffner et al., 2007). Moreover, in previous research, different symbolic meanings were attached to different
+EV types, BEVs and PHEVs. Future research can examine the differences between BEVs and PHEVs in terms of symbolic
+meanings and also certain aspects in the symbolic meaning of EVs. Noppers et al. (2014) point out to the fact that potential
+adopters of EVs can indicate less importance for the symbolic meanings of EVs compared to instrumental and environmental
+attributes of EVs for social desirability purposes. ‘‘They may not fully know or want to acknowledge that they buy and use
+sustainable innovations in order to show off or to feel good about themselves. Rather, people stress instrumental and
+environmental attributes of sustainable innovations.’’ (Noppers et al., 2014, p. 11). Thus, examining the ways in which social
+desirability bias in research on symbolic meanings can be reduced is suggested as well as asking about the symbolic
+meanings in an indirect way (e.g., Noppers et al., 2014).
+
+An emotional behavior
+
+    Consumer emotions and feelings have been shown to affect attitudes and intentions to adopt EVs (Moons and De
+Pelsmacker, 2012; Schuitema et al., 2013). For potential buyers of EVs, the perception of positive feelings from driving an
+EV was positively correlated with consumer attitudes and intentions to adopt EVs (Moons and De Pelsmacker, 2012).
+However, this study does not provide further information on the type of positive feelings that consumers anticipated to
+experience with EVs.
+    In the exploratory study of Graham-Rowe et al. (2012), various emotions were expressed by consumers who drove EVs
+(BEVs and PHEVs) for a trial period. On one hand, ‘‘feeling good’’ or ‘‘less guilt’’ from driving a purportedly environmentally
+friendly car was mentioned by some consumers. On the other hand, some consumers stated the feeling of ‘‘embarrassment’’
+from driving a small and economic car (Graham-Rowe et al., 2012). Built on this study, Schuitema et al. (2013) examined the
+role of hedonic or emotional attributes of EVs in consumer intentions to adopt. They used the emotions expressed by
+                                    Z. Rezvani et al. / Transportation Research Part D 34 (2015) 122–136                  133
+
+
+consumers in the Graham-Rowe et al. (2012) study for measuring consumers’ perceptions of EVs’ hedonic attributes. There-
+fore the emotions or hedonic attributes include pleasantness and joy, excitement, embarrassment and pride. The results
+show that more positive perceptions of instrumental attributes of EVs lead to more positive emotions towards EVs, which
+in turn positively inﬂuence the intention to adopt EVs (Schuitema et al., 2013).
+    Consumer emotions are shown to be important in the domain of car purchase (Steg, 2005), pro-environmental behavior
+(Bamberg and Möser, 2007; Onwezen et al., 2013; Steg and Vlek, 2009), consumer adoption of innovations (Shih and Schau,
+2011; Watson and Spence, 2007) and consumer adoption of EVs (Graham-Rowe et al., 2012; Moons and De Pelsmacker,
+2012; Schuitema et al., 2013). However, we ﬁnd consumer emotions as being a relatively overlooked aspect in consumer
+EV adoption research as the antecedents and consequences of this important factor has not been fully investigated. Previous
+research on consumer adoption of innovations and pro-environmental behavior found different antecedents to the emotions
+such as consumer’s environmental beliefs and norms, internal attribution, social norms, and perceptions of uncertainty and
+change of technology (Bamberg and Möser, 2007; Frijda et al., 1989; Lazarus, 1991; Shih and Schau, 2011; Watson and
+Spence, 2007). Moreover, the inﬂuence of emotions on intentions to adopt are theorized and shown to be varied in different
+pro-environmental behavior contexts (Bamberg and Möser, 2007; Onwezen et al., 2013). Thus we believe that investigating
+the antecedents and consequences of emotions in consumer EV adoption behavior can contribute to the understanding of
+consumer EV adoption and consequently provide implications for designing communication, education and policy related
+to the diffusion EVs.
+
+
+Discussion and research agenda
+
+    As shown in this review, consumer EV adoption has been studied using several theoretical frameworks. Based on the
+published literature, we ﬁnd ﬁve main themes on consumer EV adoption behavior. Although treated separately here, these
+themes co-exist and are integrated into each other in many studies. For example in some studies (Moons and De Pelsmacker,
+2012; Schuitema et al., 2013), consumer EV adoption behavior has been explained as a mix of planned, emotional and sym-
+bolic behavior. These types of studies, where several theoretical perspectives are used in furthering the understanding of EV
+adoption, are promising since they provide a deeper understanding.
+    In addition to the themes, we argue that the literature on consumer EV adoption has some methodological limitations,
+which call for future research and alternative methodological approaches. Many studies take the form of surveys, with
+participants who have had no direct experience of EVs on which to base their responses. In this way, they are psychologically
+distant from EVs, and this limits the validity of inferences about adoption drawn from their responses. Among those studies
+where participants have been given direct experience of using EVs, many have sample biases, of which the most common is
+to use samples of potential early adopters or people already especially motivated to consider EVs. Such samples cannot be
+considered representative of the majority of consumers, and it is treacherous to generalize to the majority from ﬁndings
+based on their responses. Studies using representative samples and not only focusing on intention to adopt, but actual
+(‘‘unforced’’) adoption, are necessary to understand how attitudes inﬂuence EV adoption and how these relations change
+over time. As the market for EVs is developing it becomes much more feasible and important to focus on the actual adoption
+behavior concerning EVs and not only on intentions. In addition, the gap between the intention and actual behavior is impor-
+tant to understand in the EV context. For closing the well-known attitude-behavior gap (Stern, 2000), examining interven-
+tions such as imagined group discussions can provide further understanding of consumer EV adoption behavior/intentions.
+    Another important limitation of the current research concerns consumer knowledge and skills to calculate and compare
+the ﬁnancial beneﬁts and costs of EVs and ICEs (Lane and Potter, 2007). Future research on how to educate consumers on this
+matter can have implications for policy makers and marketing specialists for communicating the ﬁnancial beneﬁts and costs
+of EVs versus ICEs. Considering that this ratio is likely to change over time, for example by ICEs continuously becoming more
+fuel efﬁcient, makes this type of understanding even more important.
+    Consumer perceptions of current policies related to the environment, fuels, vehicles and particularly EVs can affect their
+behavior towards EVs (Lane and Potter, 2007; Sovacool, 2009). Research as such can provide further understanding of
+individuals’ perceptions of policies and the possible consequences for policy makers. An important area of study here is
+to understand when consumers actively support a policy or merely accept it. Furthermore, the prevention versus promotion
+focus (Lee et al., 2010), framing of policies and education, and their effect on consumer’s environmental self-efﬁcacy can be
+investigated.
+    As detailed in the review, social norms and the neighbor effect have been found to inﬂuence consumer EV adoption
+behavior (Egbue and Long, 2012; Zhang et al., 2011). The ways in which green neighborhoods (Kahn, 2007) are formed
+can be a subject for future research. The ﬁndings can help policy makers in designing policies which not only empower
+individuals but also neighborhoods for pro-environmental behaviors.
+    In relation to attitudes and behavior, a fundamental question is whether consumers see a connection between EVs and
+protecting the environment. This is important to explore since several EVs marketed today, as well as promotional policies,
+use environmental arguments and imagery. However, there are also examples of car manufacturers that do not market their
+EVs primarily using environmental arguments and instead focus on the superior performance of their cars (e.g., Tesla
+Motors). In the exploratory study by Graham-Rowe et al. (2012), while discussing the environmental impacts of battery
+production and electricity generation, consumers expressed doubt about any positive environmental consequences of EV
+134                                         Z. Rezvani et al. / Transportation Research Part D 34 (2015) 122–136
+
+
+adoption. Little is known about the perception of EV’s environmental impacts in many countries (other than the US and UK)
+where electricity is generated from different mixes of renewable and non-renewable sources.
+    Another attitudinal factor is consumer self-efﬁcacy or perceived effectiveness which has been shown to have important
+roles in consumer intentions to adopt HEVs (Oliver and Rosen, 2010). Policy and education are suggested to inﬂuence con-
+sumer’s self-efﬁcacy. Examining the effect of differently framed policies and educational messages in the forms of promotion
+versus prevention focus on consumer’s self-efﬁcacy and intentions to purchase EVs can yield important ﬁndings and
+implications.
+    Consumer’s perception of EVs as car of the future which is also known as the obsolescence aspect can hinder adoption
+(Graham-Rowe et al., 2012). The role of different justiﬁcations in the communication of EVs in resolving this consumer per-
+ception is an important research topic. The justiﬁcations can be related to the environmental aspects or the technical aspects
+of EVs for example.
+    During the last few years, the fuel efﬁciency of ICEs has increased rather dramatically. Thus, the EV, perceived as an inno-
+vation by consumers, might get more competition from ICEs with new types of innovative engines and other technologies.
+This poses challenges to EV manufacturers to continuously re-innovate EVs if the aim is to make consumers perceive it as an
+innovation over time. This also calls for continuous research on the perceived differences of ICEs and EVs among consumers.
+    In relation to behavioral changes an overlooked area in EV research is habits and routines, which according to Stern
+(2000) are important determinants of environmentally signiﬁcant behaviors. Habits, regarded as automated behaviors,
+might take a long time to change but once established, will make consumers reﬂect less upon their behaviors. This might
+mean that current infrastructure for fuelling fossil dependent car ﬂeet might become obsolete and new types of infrastruc-
+ture and thus trafﬁc patterns might develop. In relation to this, habits might be more important to study in relation to BEVs
+than HEVs since HEV behavior is more similar to ICE behavior. Researchers have called for future research to explore the
+design and the charging process in BEVs which pose less behavioral change and resistance for consumers (Caperello and
+Kurani, 2011; Lane and Potter, 2007)
+    While different symbolic meanings are attached to EVs by EV adopters in the USA (Caperello and Kurani, 2011) and UK
+(Graham-Rowe et al., 2012; Skippon and Garwood, 2011), little is known about symbolic meanings of EVs in other countries.
+There is a need to explore and compare symbolic meanings of EVs in a diversity of cultures, since symbolic meaning is
+context-dependent. Moreover, limited numbers of the symbols associated with EVs have been used in exploratory studies
+(i.e. Graham-Rowe et al., 2012; Skippon and Garwood, 2011), while mainly environmentally and technologically oriented
+ones, are examined in relation to potential adopters’ intentions towards EVs. Also, further studies can investigate the
+symbolic meanings that are associated to the different types of EVs (PHEVs and BEVs).
+    The existing literature has predominantly focused on consumer adoption of EVs while light-duty ﬂeet managers can also
+be buyers of EVs. Sierzchula (2014) identiﬁes several motivations for adoption of EVs by ﬂeet managers of 14 ﬁrms in the
+Netherlands. ‘‘Testing new technology, lowering environmental impacts, government grants and improving the organiza-
+tion’s public image’’ generally inﬂuence the ﬂeet manager’s decision to adopt EVs (Sierzchula, 2014). Future research in this
+area can further explore the adoption of EVs by ﬂeet managers in different countries with different governmental incentives
+to identify the factors that inﬂuence the ﬂeet manager’s adoption decision. Moreover, future research can further explore
+whether driving and experiencing an EV at work can potentially inﬂuence the drivers to adopt EVs as a private car or not.
+    Finally, we ﬁnd consumer emotions an overlooked aspect in consumer EV adoption research. A recent study by Schuitema
+et al. (2013) has provided a stepping stone for the study of emotions and their antecedents in the consumer EV adoption
+context. To continue the research, we see an opportunity in developing this area further with theoretical frameworks of emo-
+tions in psychology, PEB, ethics and consumer behavior areas. Communication messages, education and policies can create
+speciﬁc cognitive and emotional responses in consumers and consequently inﬂuence their decisions and behaviors. Under-
+standing the cognitive and emotional responses can help marketing specialists and policy makers in designing their commu-
+nication, education and policies to possibly overcome some barriers to adoption of EVs.
+
+Acknowledgment
+
+   The authors would like to thank the anonymous reviewers for their constructive and valuable comments. In addition,
+Jansson acknowledges the ﬁnancial support from The Swedish Energy Agency and from The Swedish Foundation for
+Humanities and Social Sciences.
+
+References
+
+Ajzen, I., 1991. The theory of planned behavior. Organizational Behav. Human Decision Processes 50, 179–211.
+Arts, J.W.C., Frambach, R.T., Bijmolt, T.H.A., 2011. Generalizations on consumer innovation adoption: A meta-analysis on drivers of intention and behavior.
+    Int. J. Res. Mark. 28 (2), 134–144. http://dx.doi.org/10.1016/j.ijresmar.2010.11.002.
+Axsen, J., Kurani, K.S., 2013. Connecting plug-in vehicles with green electricity through consumer demand. Environ. Res. Lett. 8 (1), 014045. http://
+    dx.doi.org/10.1088/1748-9326/8/1/014045.
+Axsen, J., TyreeHageman, J., Lentz, A., 2012. Lifestyle practices and pro-environmental technology. Ecol. Econ. 82, 64–74. http://dx.doi.org/10.1016/
+    j.ecolecon.2012.07.013.
+Bamberg, S., Möser, G., 2007. Twenty years after Hines, Hungerford, and Tomera: a new meta-analysis of psycho-social determinants of pro-environmental
+    behaviour. J. Environ. Psychol. 27 (1), 14–25. http://dx.doi.org/10.1016/j.jenvp.2006.12.002.
+Bandura, A., 1986. Social Foundations of Thought and Action: A Social Cognitive Theory. Prentice-Hall.
+                                              Z. Rezvani et al. / Transportation Research Part D 34 (2015) 122–136                                           135
+
+
+Brady, J., O’Mahony, M., 2011. Travel to work in Dublin. The potential impacts of electric vehicles on climate change and urban air quality. Transp. Res. D
+     Transp. Environ. 16 (2), 188–193. http://dx.doi.org/10.1016/j.trd.2010.09.006.
+Budde Christensen, T., Wells, P., Cipcigan, L., 2012. Can innovative business models overcome resistance to electric vehicles? Better place and battery
+     electric cars in Denmark. Energy Policy 48, 498–505. http://dx.doi.org/10.1016/j.enpol.2012.05.054.
+Burgess, M., King, N., Harris, M., Lewis, E., 2013. Electric vehicle drivers’ reported interactions with the public: Driving stereotype change? Transport. Res. F
+     Trafﬁc Psychol. Behav. 17, 33–44. http://dx.doi.org/10.1016/j.trf.2012.09.003.
+Caperello, N.D., Kurani, K.S., 2011. Households’ stories of their encounters with a plug-in hybrid electric vehicle. Environ. Behav. 1–16. http://dx.doi.org/
+     10.1177/0013916511402057.
+Carley, S., Krause, R.M., Lane, B.W., Graham, J.D., 2013. Intent to purchase a plug-in electric vehicle: a survey of early impressions in large US cites. Transp.
+     Res. D Transp. Environ. 18, 39–45. http://dx.doi.org/10.1016/j.trd.2012.09.007.
+Caulﬁeld, B., Farrell, S., McMahon, B., 2010. Examining individuals preferences for hybrid electric and alternatively fuelled vehicles. Transp. Policy 17 (6),
+     381–387. http://dx.doi.org/10.1016/j.tranpol.2010.04.005.
+Daziano, R.A., Chiew, E., 2012. Electric vehicles rising from the dead: data needs for forecasting consumer response toward sustainable energy sources in
+     personal transportation. Energy Policy 51, 876–894. http://dx.doi.org/10.1016/j.enpol.2012.09.040.
+Dunlap, R.E., Van Liere, K.D., Mertig, A.G., Jones, R.E., 2000. Measuring endorsement of the new ecological paradigm: A revised NEP scale. J. Soc. Issues 56 (3),
+     425–442. http://dx.doi.org/10.1111/0022-4537.00176.
+Egbue, O., Long, S., 2012. Barriers to widespread adoption of electric vehicles: An analysis of consumer attitudes and perceptions. Energy Policy 48, 717–729.
+     http://dx.doi.org/10.1016/j.enpol.2012.06.009.
+European Commission, 2012. Transport. Clean Transport. Retrieved July 2013 from: http://ec.europa.eu/transport/themes/urban/vehicles/road/
+     electric_en.htm.
+Flamm, B.J., Weinstein, A., 2012. Constraints to green vehicle ownership: a focus group study. Transp. Res. Part D 17 (2), 108–115. http://dx.doi.org/10.1016/
+     j.trd.2011.09.013.
+Franke, T., Neumann, I., Bühler, F., Cocron, P., Krems, J.F., 2011. Experiencing range in an electric vehicle: understanding psychological barriers. Appl.
+     Psychol. http://dx.doi.org/10.1111/j.1464-0597.2011.00474.x.
+Frijda, N.H., Kuipers, P., ter Schure, E., 1989. Relations among emotion, appraisal, and emotional action readiness. J. Pers. Soc. Psychol. 57 (2), 212–228.
+Giddens, A., 1991. Modernity and Self-Identity. Stanford University Press, Stanford.
+Graham-Rowe, E., Gardner, B., Abraham, C., Skippon, S., Dittmar, H., Hutchins, R., Stannard, J., 2012. Mainstream consumers driving plug-in battery-electric
+     and plug-in hybrid electric cars: a qualitative analysis of responses and evaluations. Transp. Res. A Policy Pract. 46 (1), 140–153. http://dx.doi.org/
+     10.1016/j.tra.2011.09.008.
+Heffner, R.R., Kurani, K.S., Turrentine, T.S., 2007. Symbolism in California’s early market for hybrid electric vehicles. Transp. Res. D Transp. Environ. 12 (6),
+     396–413. http://dx.doi.org/10.1016/j.trd.2007.04.003.
+Holak, S.L., Lehmann, D.R., Sultan, F., 1987. The role of expectations in the adoption of innovative consumer durables: some preliminary evidence. J. Retail.
+     63 (3), 243, http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=6353729&site=ehost-live.
+Huijts, N.M.A., Molin, E.J.E., Steg, L., 2012. Psychological factors inﬂuencing sustainable energy technology acceptance: A review-based comprehensive
+     framework. Renew. Sust. Energ. Rev. 16 (1), 525–531.
+Jansson, J., 2011. Consumer eco-innovation adoption: assessing attitudinal factors and perceived product characteristics. Bus. Strategy Environ. 210, 192–
+     210. http://dx.doi.org/10.1002/bse.690.
+Jansson, J., Marell, A., Nordlund, A., 2009. Elucidating green consumers: A cluster analytic approach on proenvironmental purchase and curtailment
+     behaviors. J. Euromarketing 18 (4), 245–267. http://dx.doi.org/10.1080/10496480903364242.
+Jansson, J., Marell, A., Nordlund, A., 2010. Green consumer behavior: determinants of curtailment and eco-innovation adoption. J. Consumer Mark. 27 (4),
+     358–370. http://dx.doi.org/10.1108/07363761011052396.
+Jensen, A.F., Cherchi, E., Mabit, S.L., 2013. On the stability of preferences and attitudes before and after experiencing an electric vehicle. Transp. Res. D
+     Transp. Environ. 25, 24–32. http://dx.doi.org/10.1016/j.trd.2013.07.006.
+Kahn, M.E., 2007. Do greens drive Hummers or hybrids? Environmental ideology as a determinant of consumer choice. Journal of Environmental Economics
+     and Management 54 (2), 129–145. http://dx.doi.org/10.1016/j.jeem.2007.05.001.
+Kollmuss, A., Agyeman, J., 2002. Mind the gap : why do people act environmentally and what are the barriers to pro-environmental behavior? Environ. Educ.
+     Res. 8 (3). http://dx.doi.org/10.1080/1350462022014540.
+Krupa, J.S., Rizzo, D.M., Eppstein, M.J., Brad Lanute, D., Gaalema, D.E., Lakkaraju, K., Warrender, C.E., 2014. Analysis of a consumer survey on plug-in hybrid
+     electric vehicles. Transp. Res. A Policy Pract. 64, 14–31. http://dx.doi.org/10.1016/j.tra.2014.02.019).
+Lane, B., Potter, S., 2007. The adoption of cleaner vehicles in the UK: exploring the consumer attitude–action gap. J. Cleaner Prod. 15 (11–12), 1085–1092.
+     http://dx.doi.org/10.1016/j.jclepro.2006.05.026.
+Lazarus, R.S., 1991. Progress on a cognitive-motivational-relational theory of emotion. Am. Psychol. 46 (8), 819–834, Retrieved from http://
+     www.ncbi.nlm.nih.gov/pubmed/1928936.
+Lee, A.Y., Keller, P.A., Sternthal, B., 2010. Value from regulatory construal ﬁt: the persuasive impact of ﬁt between consumer goals and message
+     concreteness. J. Consumer Res. 36 (5), 735–747.
+Lieven, T., Mühlmeier, S., Henkel, S., Waller, J.F., 2011. Who will buy electric cars? An empirical study in Germany. Transp. Res. D Transp. Environ. 16 (3),
+     236–243. http://dx.doi.org/10.1016/j.trd.2010.12.001.
+Meleady, R., Hopthrow, T., Crisp, R.J., 2012. Simulating social dilemmas: promoting cooperative behavior through imagined group discussion. J. Pers. Soc.
+     Psychol. 104 (5), 839–853. http://dx.doi.org/10.1037/a0031233.
+Miller, G.F., 2009. Spent: Sex, Evolution, and Consumer Behavior. Viking, New York, NY.
+Moons, I., De Pelsmacker, P., 2012. Emotions as determinants of electric car usage intention. J. Mark. Manage. 28 (3–4), 195–237.
+Musti, S., Kockelman, K.M., 2011. Evolution of the household vehicle ﬂeet: anticipating ﬂeet composition, PHEV adoption and GHG emissions in Austin,
+     Texas. Transp. Res. A Policy Pract 45 (8), 707–720. http://dx.doi.org/10.1016/j.tra.2011.04.011.
+Noppers, E.H., Keizer, K., Bolderdijk, J.W., Steg, L., 2014. The adoption of sustainable innovations: driven by symbolic and environmental motives. Global
+     Environ. Change 25, 52–62. http://dx.doi.org/10.1016/j.gloenvcha.2014.01.012.
+Norman, D.A., 2004. Emotional Design. Basic Books, New York.
+Oliver, J.D., Rosen, D.E., 2010. Applying the environmental propensity framework: a segmented approach to hybrid electric vehicle marketing strategies. J.
+     Mark. Theory Pract. 18 (4), 377–393. http://dx.doi.org/10.2753/MTP1069-6679180405.
+Onwezen, M.C., Antonides, G., Bartels, J., 2013. The norm activation model: an exploration of the functions of anticipated pride and guilt in pro-
+     environmental behaviour. J. Econ. Psychol. 39, 141–153. http://dx.doi.org/10.1016/j.joep.2013.07.005.
+Ozaki, R., Sevastyanova, K., 2011. Going hybrid: an analysis of consumer purchase motivations. Energy Policy 39 (5), 2217–2227. http://dx.doi.org/10.1016/
+     j.enpol.2010.04.024.
+Pearre, N.S., Kempton, W., Guensler, R.L., Elango, V.V., 2011. Electric vehicles: how much range is required for a day’s driving? Transp. Res. C Emerg. Technol.
+     19 (6), 1171–1184. http://dx.doi.org/10.1016/j.trc.2010.12.010.
+Peters, A., Dütschke, E., 2014. How do consumers perceive electric vehicles? A comparison of german consumer groups. J. Environ. Policy Plan. (September),
+     1–19. http://dx.doi.org/10.1080/1523908X.2013.879037.
+Pickett-Baker, J., Ozaki, R., 2008. Pro-environmental products: marketing inﬂuence on consumer purchase decision. J. Consumer Mark. 25 (5), 281–293.
+     http://dx.doi.org/10.1108/07363760810890516.
+136                                            Z. Rezvani et al. / Transportation Research Part D 34 (2015) 122–136
+
+
+Proff, H., Kilian, D., 2012. Competitiveness of the EU automotive industry in electric vehicles. 30, p. 355. Available from: http://ec.europa.eu/enterprise/
+    sectors/automotive/ﬁles/projects/report-duisburg-essen-electric-vehicles_en.pdf.
+Proost, S., Van Dender, K., 2010. What Sustainable Road Transport Future? Trends and Policy Options, OECD, Paris.
+Richins, M.L., 1997. Measuring emotions in consumption experience. J. Consum. Res. 24 (2), 127–146.
+Rogers, E.M., 2003. Diffusion of Innovations, ﬁfth ed. Free Press, New York.
+Saussure, F., 1965. Course in General Linguistics. McGraw Hill, New York.
+Schuitema, G., Anable, J., Skippon, S., Kinnear, N., 2013. The role of instrumental, hedonic and symbolic attributes in the intention to adopt electric vehicles.
+    Transp. Res. A Policy Pract. 48, 39–49. http://dx.doi.org/10.1016/j.tra.2012.10.004.
+Schwartz, S.H., 1977. Normative inﬂuences on altruism. In: Berkowitz, L. (Ed.), Advances in Experimental Social Psychology, vol. 10. Academic Press, New
+    York.
+Shih, E., Schau, H.J., 2011. To justify or not to justify: the role of anticipated regret on consumers’ decisions to upgrade technological innovations. J. Retail. 87
+    (2), 242–251. http://dx.doi.org/10.1016/j.jretai.2011.01.006.
+Sierzchula, W., 2014. Factors inﬂuencing ﬂeet manager adoption of electric vehicles. Transp. Res. D Transp. Environ. 31, 126–134. http://dx.doi.org/10.1016/
+    j.trd.2014.05.022.
+Sirgy, J.M., 1986. Self-Congruity. Praeger, New York, USA.
+Skippon, S., Garwood, M., 2011. Responses to battery electric vehicles: UK consumer attitudes and attributions of symbolic meaning following direct
+    experience to reduce psychological distance. Transp. Res. D Transp. Environ. 16 (7), 525–531. http://dx.doi.org/10.1016/j.trd.2011.05.005.
+Sovacool, B., Hirsh, R., 2009. Beyond batteries: an examination of the beneﬁts and barriers to plug-in hybrid electric vehicles (PHEVs) and a vehicle-to-grid
+    (V2G) transition. Energy Policy 37, 1095–1103. http://dx.doi.org/10.1016/j.enpol.2008.10.005.
+Sovacool, B.K., 2009. Rejecting renewables: the socio-technical impediments to renewable electricity in the United States. Energy Policy 37 (11), 4500–4513.
+    http://dx.doi.org/10.1016/j.enpol.2009.05.073.
+Steg, L., 2005. Car use: lust and must. Instrumental, symbolic and affective motives for car use. Transportation Research Part A: Policy and Practice 39 (2–3),
+    147–162. http://dx.doi.org/10.1016/j.tra.2004.07.001.
+Steg, L., Vlek, C., 2009. Encouraging pro-environmental behaviour: an integrative review and research agenda. J. Environ. Psychol. 29 (3), 309–317. http://
+    dx.doi.org/10.1016/j.jenvp.2008.10.004.
+Stern, P.C., 2000. Toward a coherent theory of environmentally signiﬁcant behavior 56 (3), 407–424.
+Stern, P.C., Dietz, T., Abel, T., Guagnano, G.A., Kalof, L., 1999. A value-belief-norm theory of support for social movements: the case of environmentalism.
+    Human Ecol. Rev. 6 (2), 81–97.
+Turrentine, T.S., Kurani, K.S., 2007. Car buyers and fuel economy? Energy Policy 35 (2), 1213–1223. http://dx.doi.org/10.1016/j.enpol.2006.03.005.
+Vandecasteele, B., Geuens, M., 2010. Motivated consumer innovativeness: concept, measurement, and validation. Int. J. Res. Mark. 27, 308–318.
+Watson, L., Spence, M.T., 2007. Causes and consequences of emotions on consumer behaviour: a review and integrative cognitive appraisal theory. Eur. J.
+    Mark. 41 (5/6), 487–511. http://dx.doi.org/10.1108/03090560710737570.
+Wood, S.L., Moreau, C.P., 2006. From fear to loathing? how emotion inﬂuences the evaluation and early use of innovations. J. Marketing 70, 44–57.
+Zhang, Y., Yu, Y., Zou, B., 2011. Analyzing public awareness and acceptance of alternative fuel vehicles in China: the case of EV. Energy Policy 39 (11), 7015–
+    7024. http://dx.doi.org/10.1016/j.enpol.2011.07.055.
+

@@ -1,0 +1,486 @@
+Marketing
+Research
+Week 8
+
+
+
+
+            1
+            Housekeeping
+• Distribute the survey – reach out if you have any concerns about the comments from instructors
+• Quiz #4 will be available this Thursday
+• Discussion boards on Canvas
+ • One for general questions
+ • One for the group project
+• Deliverables for group project
+ • Write-up
+ • Slide deck
+
+
+
+
+                                                                                                   2
+           Group Project: Write-up (<= 6000 words)
+TITLE PAGE (NOT INCLUDED IN WORD COUNT)
+TABLE OF CONTENTS (NOT INCLUDED IN WORDCOUNT)
+EXECUTIVE SUMMARY (~200 words)
+• Research objectives
+• Main findings/results
+• Main conclusions and recommendations
+INTRODUCTION
+• Motivate the research project and outline your main research questions.
+LITERATURE REVIEW & SECONDARY DATA (~1000 words)
+• literature research and secondary data related to your research questions
+
+                                                                              3
+            Group Project: Write-up (cont)
+QUALITATIVE RESEARCH (~2000 words)
+• Follow the qualitative data analysis process and generate key themes of finding.
+• Summarise key insights from the qualitative data analysis.
+• Insert KEY graphs, tables, figures, or pictures, if there are any, in the main text (not part of the word
+  count)
+• Appendix for
+ • Other graphs, tables, pictures, etc
+ • Interview guide/focus group guide/ethnography script used for the qualitative research in the
+   appendix. DO NOT attach interview transcripts.
+ • If you decide to use other qualitative research methods other than the three listed above, please also
+   include a description of the procedure in the appendix.
+• Keep evidence of your data collection, e.g., interview recordings, and I may request such evidence in the
+  process of assessing your final report.                                                                   4
+            Group Project: Write-up (cont)
+QUESTIONNAIRE DESIGN
+• Explain the design of the questionnaire (e.g., how the questionnaire is structured, the purpose of each
+  section). Label the purpose of questions in the questionnaire (e.g., Q1 – Research question 1; Q25 –
+  Classification/Marketing Segmentation).
+• Include the (Qualtrics) survey link.
+• Include the Word document of the (Qualtrics) questionnaire in the Appendix (Questionnaire is not part
+  of the word count).
+
+
+
+
+                                                                                                            5
+            Group Project: Write-up (cont)
+ANALYSIS & RESULTS (~2000 words)
+• Provide a demographic profile of your sample using the descriptive statistics and visual presentations
+  when possible.
+• Provide a summary table listing at least six hypotheses (see below), corresponding research questions,
+  and corresponding measurement scales, and briefly justify the hypotheses by linking to findings from
+  the exploratory research.
+   – H1: to be tested with Chi-square
+   – H2: to be tested with t-test
+   – H3: to be tested with t-test (different type of t-test from H2)
+   – H4: to be tested with one-way ANOVA
+   – H5: to be tested with multiple regression
+   – H6: to be tested with any analysis technique
+• Describe the results for each test. Include output tables in the main text and highlight the important p-
+  values. These materials are not part of the word count. Other graphs, tables, pictures, etc, can be placed 6
+  in the appendices.
+            Group Project: Write-up (cont)
+CONCLUSIONS AND RECOMMENDATIONS
+• Integrate literature review, secondary data, and qualitative and quantitative findings for each research
+  question
+• Provide recommendations based on research findings.
+
+
+APPENDICES (NOT INCLUDED IN WORD COUNT)
+LIST OF REFERENCES (NOT INCLUDED IN WORD COUNT)
+
+
+
+
+                                                                                                             7
+            Group Project: Slide Deck
+PAGE 1                                                PAGE 3
+• Project title                                       • Key qualitative research findings
+• One sentence highlight
+• Team number/names                                   PAGE 4-5
+• Who contributes to what? (e.g., the whole team      • Key quantitative research findings
+  splits every step of work evenly; Student A
+  conducts statistical analyses; Student B works on
+  analysing qualitative data)                         PAGES 6
+                                                      • Key recommendations (based on data)
+PAGE 2
+• Detailed research questions
+• Key secondary data research findings
+                                                                                              8
+Recap: Testing for Differences
+
+   Type of Tests                         Purpose of Test
+
+                    Compare the mean of a question answered by one group of
+One Sample T-Test
+                    subjects against a constant on metric data
+
+Paired Samples T-   Compare two means of two different questions answered by
+Test                the same group of subjects on metric data
+
+Independent         Compare the mean of a question answered by two different
+Samples T-Test      groups of subjects on metric data
+
+                    Compare the means of a question answered by more than
+ANOVA
+                    two different groups on metric data
+
+                                                                               9
+             Topics for today
+1.   Recap testing for Difference: t-tests
+2.   Testing for Difference: (one-way) ANOVA
+3.   Activities on SPSS
+
+
+
+
+                                               10
+            Which type of t-test is it?
+Scenario 1: Blackmores compares first-time buyers vs. repeat buyers in terms of trust scores (1–10 scale).
+Each group has 150 respondents. The brand hypothesizes that repeat buyers report significantly higher
+trust than first-time buyers.
+
+
+Scenario 2: Swisses wants to test if their new turmeric supplement meets the industry benchmark
+satisfaction score of 6.5 (on a 10-point scale). They surveyed 120 recent users. The hypothesis is that the
+average user satisfaction is significantly higher than 6.5.
+
+
+Scenario 3: Nature’s Way hypothesizes that exposure to an influencer campaign significantly shifts the
+intention to buy. The same respondents rate purchase intent before and after viewing the campaign (1-7
+scale).
+
+
+
+                                                                                                              11
+                                  Testing for Differences (t-tests)
+
+
+
+
+https://datatab.net/tutorial/t-test                                   12
+            Test for Differences in SPSS
+All the t-tests for population means:   The two-way ANOVA
+• Analyze → Compare Means →             Analyze → General Linear Model → Univariate
+  – One Sample T Test
+  – Independent-Samples T Test
+  – Paired-Samples T Test
+  – One-Way ANOVA
+     Independent Sample t-Test: SPSS Output
+
+                          Levene's Test for
+                             Equality of             t-test for Equality of Means
+                             Variances
+                                                                     Two-     Mean
+                            F        Sig.        t        df
+                                                                    sided p Difference
+         Equal                                If p-value 1 ≥ 0.05
+         variances                p-value 1                         p-value 2
+         assumed
+         Equal
+         variances not                                              p-value 3
+         assumed                              If p-value 1 < 0.05
+
+
+There are 3 p-values in the table; one for Levene’s test, and the other two for t-test
+Why two p-values for the t-test?
+• The t-statistics depend on whether the equal-variances assumption holds or not.
+             Independent Samples t-Test Cheat Sheet
+             (Levene’s Test → Independent Samples t-Test)
+1.    Step 1. Levene’s Test: Test for equality of variances
+     a) This is to test the “equal variances” assumption. The p-value in the Independent Samples t-Test
+          depends on whether this assumption is satisfied.
+     b) Null Hypothesis: H0: σ12 = σ22;
+     c) Alternative Hypothesis: H0: σ12 ≠ σ22
+
+
+2.    Step 2. Main test: Independent Samples t-Test
+     a) Null Hypothesis: H0 : μ1 = μ2; Alternative Hypothesis: H1 : μ1 ≠ μ2
+     b) Use the p-value based on whether equal variances assumed or not
+     c) Statistical decision using p-value
+     d) Interpretation (e.g., is one average higher than the other one?)
+             Example
+H1: There is a difference in the likelihood to recommend the
+Oddjob Airways (NPS) between different flight purpose
+(business vs. private). We hypothesize that the those who fly
+for business are more likely to recommend Oddjob Airways to
+a friend or colleague.
+
+
+• Statistical test: independent samples t-test
+• Null hypothesis: μbusiness = μprivate, where μ = population
+  mean of NPS.
+• Alternative hypothesis: μbusiness ≠ μprivate
+
+
+
+
+                                                                16
+            SPSS output for the independent samples t - test
+
+
+
+
+• Sample means: 𝑥ҧ𝑏𝑢𝑠𝑖𝑛𝑒𝑠𝑠 = 8.01; 𝑥ҧ𝑝𝑟𝑖𝑣𝑎𝑡𝑒 = 8.55
+• P-value for Levene’s Test for Equality of Variances = 0.212 > 0.05
+• P-value for the t-test < 0.001 < 0.05 → Reject the null hypothesis of the t-test → μbusiness ≠ μprivate.
+                                                                                                             17
+• Based on the sample means, data support NPSbusiness < NPSprivate.
+             ANOVA
+❑ Compare the means of three or more groups
+
+Assumption
+• The dependent variable is measured on an interval or ratio scale.
+• The observations are independent.
+
+
+Examples
+• Do light, medium, and heavy users differ in their monthly disposable income?
+• Do customers across four segments differ in their attitude towards a certain brand?​
+• Is there a significant difference in hours spent on the internet daily among the users of TikTok,
+  Instagram, and Rednote?
+                                                                                                      18
+             Why ANOVA?
+
+• When comparing 3+ groups, you might think to do several t-tests between pairs.
+• But this inflates the Type I error rate (false positives).
+Example:
+• Suppose you’re comparing 4 customer segments (e.g., Gen Z, Millennials, Gen X, Boomers) on
+  supplement satisfaction.
+• The number of comparisons grow s rapidly. There are 6 pairwise comparisons (4C2 = 6).
+• Each t-test at α = 0.05 has a 5% chance of error. The overall error rate increases with each test:
+                     f𝑎𝑚𝑖𝑙𝑦𝑤𝑖𝑠𝑒 𝐸𝑟𝑟𝑜𝑟 𝑅𝑎𝑡𝑒 = 1 − 1 − 𝛼 𝑘 = 1 − 0.95 6 = 0.265
+• So, 26.5% chance of making at least one false discovery!
+
+
+
+                                                                                                       19
+One-way ANOVA: Illustration
+
+
+
+
+                              20
+           Types of ANOVA
+• One-way ANOVA: Compare means across 3 or more groups based on one independent variable (factor).
+   – Tests if group means differ significantly.
+   – Uses one categorical IV. For instance, age group, region, or user type.
+   – Example in DS Research: Compare satisfaction with a new supplement across 3 age groups: Young
+      adults, middle-aged, and seniors.
+   – Assumptions:
+   1. Normal distribution within groups;
+   2. Homogeneity of variances;
+   3. Independence of observations
+• Two-way ANOVA: Examine the effect of two independent variables (factors) on one outcome, and
+  whether they interact. The assumptions are the same as in One-Way ANOVA
+   – Example: Factor 1 = age group; Factor 2 = gender; Interaction effect = does age influence
+     satisfaction differently for men and women?
+                                                                                                 21
+     One-way ANOVA
+H0: μ1 = μ2 = μ3
+                                                                                                                    Point of sale display
+H1: At least two of μ1, μ2, and μ3 are different                                                                    Free tasting stand
+                                                                                60
+                                                                                                                    In-store announcements
+The total variation in the data (indicated
+by SST) is separated into two parts:
+                                                                                55
+(1) the between-group variation (SSB) (also
+“explained variation”), and
+(2) the within-group variation (SSW) (also called
+                                                                        Sales   50
+“unexplained variation”/ “(random) noise”)).
+                   SST =  ( X i − X )
+                                N
+                                               2
+
+                            i =1                                                45
+ SS B =  j =1 n j (X j − X )       SSW =  j =1 i =j1 (X ij − X j )
+                                               K      n
+            K               2
+
+
+
+A high proportion of between-group variation
+                                                                                40
+indicates a systematic influence of the group                                        2   4   6   8 10 12 14 16 18 20 22 24 26 28 30
+variable (type of promotion; independent variable)
+                                                                                                         Store
+on the dependent variable (sales)
+                                                                                                                                             22
+           One-way ANOVA
+Example
+
+
+
+
+•   Three groups; one interval scale outcome variable -> One-way ANOVA
+•   Significance level: 5%
+•   Factor (grouping variable): Traveler Status (Status)
+•   Testing variable: Overall satisfaction (overall_sat)
+•   Hypothesis: At least one traveler status group (Blue, Silver, or Gold) significantly differs in their overall
+    satisfaction with the price-performance ratio of Oddjob Airways.                                                23
+             One-way ANOVA
+Analyze → Compare Means and Proportions One-way ANOVA → Dependent List = DV → Factor = IV → [Options] →
+Descriptive and Homogeneity of variance test → continue
+
+
+
+
+                                                                                                          24
+             One-way ANOVA
+Analyze → Compare Means and Proportions One-way ANOVA → Dependent List = DV → Factor = IV → [Options] →
+Descriptive and Homogeneity of variance test → continue
+
+
+
+
+                                                                                                          25
+One-way ANOVA
+
+
+
+
+                        p-value is above 0.05
+                        → equal variances assumed
+
+
+
+
+                p-value ≤ 0.05
+                → reject the null hypothesis that the mean of the overall price/
+                performance satisfaction is the same between the status
+                                                                               26
+                groups
+            One-way ANOVA
+Analyze → Compare Means and Proportions One-way ANOVA → [Post Hoc] → Select the required statistics
+
+                                                                                           Tick R-E-G-W Q
+                                                                                             when you can
+                                                                                             assume equal
+                                                                                         variances but sample
+                                                                                            sizes are equal
+
+
+                                                                                           Tick Hochberg’s GT2
+                                                                                            when sample sizes
+                                                                                                  differ
+
+
+                                                                                        Tick Games-Howell
+                                                                                         when you cannot
+                                                                                           assume equal
+                                                                                             variances
+
+
+                                                                                                                 27
+One-way ANOVA
+
+
+
+
+                P-values < .05, therefore we conclude
+                that Silver is different from Blue and
+                that Gold is different from Blue.
+
+
+
+
+                                                         28
+            One-way ANOVA
+How to report the results of a one-way ANOVA test?
+Example
+In this study, we hypothesized that overall satisfaction with the price-performance ratio of Oddjob Airways
+differs based on traveler status. The results of a one-way ANOVA test indicate that traveler status affects
+overall satisfaction with the price-performance (F(2, 1062) = 9.963, p < .001). Therefore, our hypothesis was
+supported.
+Further Hochberg post-hoc analyses reveal that blue-status customers are more satisfied than silver-status
+customers in terms of price-performance ratio (Mblue = 4.47 vs. Msilver = 4.03, p < .001). Additionally, blue-
+status customers express higher satisfaction compared to gold-status customers in the price-performance
+ratio (Mblue = 4.47 vs. Mgold = 3.99, p < .01). Other group comparisons do not yield significant differences.
+
+
+
+                 F (between-groups degrees of freedom, within-groups degrees of freedom) = F value
+                                                                                                                 29
+            Two-Way ANOVA
+❑ Compare the means of three or more groups that are defined by 2 independent variables
+• Same assumptions as in One-way ANOVA
+• Each factor’s direct effect (also called main effect) on the dependent variable, as well as the factors’
+  interaction effect.
+• E.g., Does age influence satisfaction differently for men and women?
+                                                                     6
+
+                                                                                             5
+
+
+
+
+                                                                       Willingness to book
+                                                                                             4
+3 Null hypotheses
+                                                                                             3
+• There is no main effect of IV1 on the DV                                                   2
+
+• There is no main effect of IV2 on the DV                                                   1
+
+• There is no interaction effect between IV1 and IV2 on the DV                               0
+                                                                                                 Domestic           International
+                                                                                                     Discount   Upgrade
+
+                                                                                                                                    30
+            Two-Way ANOVA
+Analyze → General Linear Model → Univariate → Select DV → Select 2 IVs (Fixed Factor(s)) → [Plots] → IV1
+to Horizontal axis & IV2 to Separate Lines and ‘add’ → Continue → [options] → select Descriptive statistics &
+Homogeneity tests → continue
+
+
+
+
+                                                                                                            31
+            Two-Way ANOVA
+Analyze → General Linear Model → Univariate → Select DV → Select 2 IVs (Fixed Factor(s)) → [Plots] → IV1
+to Horizontal axis & IV2 to Separate Lines and ‘add’ → Continue → [options] → select Descriptive statistics &
+Homogeneity tests → continue
+
+
+
+
+                                                                                                            32
+Two-Way ANOVA
+
+
+
+                                                 both main effects and
+                                                 interaction effect
+                                                 significant
+
+
+
+
+                                   * Tip
+                                   Double click the graph and
+                                   add data labels using
+   * Equal variances not assumed
+
+                                                                   33
+         Recap; Testing for Differences
+
+Type of Tests                   Purpose of Test                              In SPSS
+                Compare the mean of a question answered by one
+One Sample
+                group of subjects against a constant on metric Analyze → Compare Means
+T-Test
+                data
+Paired          Compare two means of two different questions
+Samples T-      answered by the same group of subjects on metric Analyze → Compare Means
+Test            data
+Independent
+                Compare the mean of a question answered by two
+Samples T-                                                     Analyze → Compare Means
+                different groups of subjects on metric data
+Test
+                                                                One-way: Analyze → Compare Means
+                Compare the means of a question answered by
+ANOVA                                                           Two-way: Analyze → General Linear
+                more than two different groups on metric data
+                                                                Model → Univariate
+                                                                                                34
+
