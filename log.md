@@ -58,3 +58,8 @@ Append-only record of knowledge base updates.
 - Added `workflows/social-account-positioning.md`.
 - Updated `Home.md`, `wiki/index.md`, and `wiki/brands/ocoopa.md` links.
 - Note: `（已压缩）Campaign框架 - Ocoopa品牌重塑.pdf` appears image-based and still needs OCR for full campaign-case extraction.
+
+## [2026-06-03] monthly-report | 2026-05 internal summary
+
+- Added `outputs/monthly-reports/2026-05-月度总结.md`.
+- Cross-brand internal monthly summary covering May 2026 social data, Diveblues World Cup work, Ocoopa winter project support, TikTok recovery testing, and June plan.
