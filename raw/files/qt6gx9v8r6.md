@@ -1,0 +1,9003 @@
+UC Davis
+Research Reports
+Title
+The Relationship of Vehicle Type Choice to Personality, Lifestyle, Attitudinal, and
+Demographic Variables
+Permalink
+https://escholarship.org/uc/item/6gx9v8r6
+Authors
+Choo, Sangho
+Mokhtarian, Patricia L.
+Publication Date
+2002-10-01
+eScholarship.org Powered by the California Digital Library
+University of California
+
+THE RELATIONSHIP OF VEHICLE TYPE CHOICE TO
+PERSONALITY, LIFESTYLE, ATTITUDINAL, AND
+DEMOGRAPHIC VARIABLES
+UCD-ITS-RR-02-06
+by
+Sangho Choo
+Department of Civil and Environmental Engineering
+University of California
+Davis, California
+phone: 530-754-7421 fax: 530-752-6572
+cshchoo@ucdavis.edu
+and
+Patricia L. Mokhtarian
+Department of Civil and Environmental Engineering
+and
+Institute of Transportation Studies
+University of California
+Davis, California
+phone: 530-752-7062 fax: 530-752-7872
+plmokhtarian@ucdavis.edu
+October 2002
+This research is funded by the DaimlerChrysler Corporation.
+
+TABLE OF CONTENTS
+LIST OF TABLES...............................................................................................................iv
+LIST OF FIGURES..............................................................................................................v
+ACKNOWLEDGEMENTS................................................................................................vi
+EXECUTIVE SUMMARY................................................................................................vii
+CHAPTER 1. INTRODUCTION.......................................................................................1
+CHAPTER 2. LITERATURE REVIEW...........................................................................5
+2.1 VEHICLE TYPE CHOICE MODELS...................................................................................5
+2.1.1 Vehicle Choice Models: Review of Previous Studies and Directions for Further
+Research – Timothy J. Tardiff (1980)..............................................................................6
+2.1.2 Recent Directions in Automobile Demand Modeling –
+Fred Mannering and Kenneth Train (1985)....................................................................7
+2.1.3 A Disaggregate Model of Auto-Type Choice –
+Charles A. Lave and Kenneth Train (1979)....................................................................8
+2.1.4 An Empirical Analysis of Household Choice among Motor Vehicles –
+Charles F. Manski and Leonard Sherman (1980)...........................................................9
+2.1.5 Estimation and Use of Dynamic Transaction Models of Automobile Ownership –
+Irit Hocherman, Joseph N. Prashker, and Moshe Ben-Akiva (1983)...........................10
+2.1.6 A Nested Logit Model of Automobile Holdings for One Vehicle Households –
+James Berkovec and John Rust (1985).........................................................................11
+2.1.7 Forecasting Automobile Demand Using Disaggregate Choice Models –
+James Berkovec (1985).................................................................................................12
+2.1.8 A Dynamic Empirical Analysis of Household Vehicle Ownership and Utilization
+- Fred Mannering and Clifford Winston (1985).............................................................13
+2.1.9 Accessibility and Auto Use in a Motorized Metropolis –
+Ryuichi Kitamura, Thomas F. Golob, Toshiyuki Yamamoto, and Ge Wu (2000)........14
+2.1.10 An Exploratory Analysis of Automobile Leasing in the United States –
+Fred Mannering, Clifford Winston, and William Starkey (2002).................................15
+2.1.11 A Hierarchical Decision-Process Model for Forecasting Automobile Type-
+choice – Michael Murtaugh and Hugh Gladwin (1980)................................................16
+2.1.12 Summary of Vehicle Type Choice Models........................................................17
+2.2 VEHICLE USE MODELS................................................................................................22
+i
+
+2.2.1 Accessibility and Auto Use in a Motorized Metropolis –
+Ryuichi Kitamura, Thomas F. Golob, Toshiyuki Yamamoto and Ge Wu (2000).........22
+2.2.2 A Vehicle Use Forecasting Model Based on Revealed and Stated Vehicle Type Ch
+oice and Utilisation Data -
+Thomas F. Golob, David S. Bunch and David Brownstone (1997)...............................23
+2.2.3 An Econometric Model of Vehicle Use in the Household Sector –
+David A. Hensher (1985)..............................................................................................23
+2.2.4 Summary of Vehicle Use Models........................................................................24
+2.3 ATTITUDES TOWARD MOBILITY...................................................................................26
+2.3.1 How Derived is the Demand for Travel? Some Conceptual and Measurement Con
+siderations- Patricia L. Mokhtarian and Ilan Salomon (forthcoming)...........................26
+2.3.2 Attitudes toward Travel: The Relationships among Perceived Mobility, Travel Li
+king, and Relative Desired Mobility- Richard W. Curry (2000)...................................27
+2.3.3 Attitude, Personality and Lifestyle Characteristics as Related to Travel: A Survey
+of Three San Francisco Bay Area Neighborhoods- Lothlorien S. Redmond (2000).....28
+CHAPTER 3. DATA CHARACTERISTICS...................................................................29
+3.1 SURVEY.......................................................................................................................29
+3.1.1 Survey Area..........................................................................................................29
+3.1.2 Survey Contents...................................................................................................29
+3.1.3 Sample Size and Characteristics..........................................................................30
+3.2 THE DEPENDENT VARIABLE, VEHICLE TYPE...............................................................32
+3.3 KEY EXPLANATORY VARIABLES..................................................................................35
+3.3.1 Travel-related Attitudes........................................................................................35
+3.3.2 Personality...........................................................................................................37
+3.3.3 Lifestyle...............................................................................................................37
+3.3.4 Mobility and Travel Liking..................................................................................38
+3.3.5 Demographics......................................................................................................39
+CHAPTER 4. DESCRIPTIVE ANALYSES OF VEHICLE TYPE...............................40
+4.1 TRAVEL ATTITUDES, PERSONALITY, AND LIFESTYLE...................................................40
+4.1.1 Travel Attitudes....................................................................................................40
+4.1.2 Personality...........................................................................................................43
+4.1.3 Lifestyle...............................................................................................................45
+4.2 MOBILITY AND TRAVEL LIKING...................................................................................47
+4.2.1 Objective Mobility...............................................................................................47
+4.2.2 Perceived Mobility...............................................................................................51
+4.2.3 Relative Desired Mobility....................................................................................54
+4.2.4 Travel Liking........................................................................................................55
+4.3 DEMOGRAPHICS..........................................................................................................57
+ii
+
+4.3.1 Neighborhood......................................................................................................57
+4.3.2 Gender..................................................................................................................58
+4.3.3 Age.......................................................................................................................59
+4.3.4 Education.............................................................................................................60
+4.3.5 Employment Status..............................................................................................61
+4.3.6 Occupation...........................................................................................................62
+4.3.7 Personal Income...................................................................................................63
+4.3.8 Household Income...............................................................................................64
+4.3.9 Number of Vehicles in the Household.................................................................65
+4.3.10 Number of Licensed Drivers..............................................................................66
+4.3.11 Number of Workers............................................................................................67
+4.3.12 Number of Household Members........................................................................68
+4.3.13 Commute Time and Distance.............................................................................73
+4.4 ATTITUDINAL AND PERSONALITY/LIFESTYLE CLUSTERS.............................................75
+4.4.1 Six Attitudinal Clusters........................................................................................75
+4.4.2 Eleven Personality and Lifestyle Clusters...........................................................80
+4.5 SUMMARY OF KEY CHARACTERISTICS FOR EACH VEHICLE TYPE................................84
+CHAPTER 5. MODELING VEHICLE TYPE CHOICE...............................................92
+5.1 MODEL SPECIFICATION................................................................................................92
+5.2 MODEL ESTIMATION....................................................................................................96
+5.3 INDEPENDENCE FROM IRRELEVANT ALTERNATIVES (IIA) TESTS...............................102
+CHAPTER 6. CONCLUSIONS......................................................................................109
+REFERENCES.................................................................................................................113
+Appendix 1. Representative Makes and Models found in Our Data, for Each Vehicle
+Classification.....................................................................................................................116
+Appendix 2. Bonferroni Multiple Comparisons...........................................................117
+Appendix 3. Cross-Tabulations Involving Demographic Variables............................145
+Appendix 4. Cross-
+Tabulations Involving Attitudinal, and Personality and Lifestyle Clusters................161
+iii
+
+LIST OF TABLES
+Table ES- 1: Final Multinomial Logit Model for Vehicle Type Choice (Base Alternative =
+Pickup)...........................................................................................................................xii
+Table 2.1: Summary of Vehicle Type Choice Models.........................................................19
+Table 2.2: Summary of Vehicle Use Models.......................................................................25
+Table 3.1: Sample Demographics........................................................................................31
+Table 3.2: Vehicle Classification Schemes..........................................................................33
+Table 3.3: Sample Distribution of Vehicle Types................................................................35
+Table 4.1: Mean Travel Attitude Factor Scores by Vehicle Type........................................41
+Table 4.2: Mean Personality Factor Scores by Vehicle Type..............................................44
+Table 4.3: Mean Lifestyle Factor Scores by Vehicle Type..................................................46
+Table 4.4: Mean Distance Traveled (Objective Mobility) by Vehicle Type........................49
+Table 4.5: Mean Perceived Mobility by Vehicle Type.........................................................52
+Table 4.6: Mean Relative Desired Mobility by Vehicle Type..............................................55
+Table 4.7: Mean Travel Liking by Vehicle Type.................................................................56
+Table 4.8: Cluster Descriptions...........................................................................................76
+Table 4.9: Summary of Key Characteristics Associated with Each Vehicle Type...............88
+Table 5.1: Initial Model Specification.................................................................................94
+Table 5.2: Final Multinomial Logit Model for Vehicle Type Choice (Base Alternative =
+Pickup)...........................................................................................................................97
+Table 5.3: Summary of Nested Logit Models (N = 1571).................................................108
+iv
+
+LIST OF FIGURES
+Figure 4.1: Objective Mobility for Short-Distance Trips....................................................50
+Figure 4.2: Objective Mobility for Long-Distance Trips....................................................51
+Figure 4.3: Perceived Mobility for Short-Distance Trips....................................................53
+Figure 4.4: Perceived Mobility for Long-Distance Trips....................................................54
+Figure 4.5: Neighborhood by Vehicle Type.........................................................................58
+Figure 4.6: Gender by Vehicle Type....................................................................................59
+Figure 4.7: Age by Vehicle Type.........................................................................................60
+Figure 4.8: Education by Vehicle Type................................................................................61
+Figure 4.9: Employment Status by Vehicle Type................................................................62
+Figure 4.10: Occupation by Vehicle Type...........................................................................63
+Figure 4.11: Personal Income by Vehicle Type...................................................................64
+Figure 4.12: Household Income by Vehicle Type...............................................................65
+Figure 4.13: Number of Vehicles by Vehicle Type..............................................................66
+Figure 4.14: Number of Licensed Drivers by Vehicle Type................................................67
+Figure 4.15: Number of Workers by Vehicle Type..............................................................68
+Figure 4.16: Total Number of Household Members by Vehicle Type.................................69
+Figure 4.17: Number of Household Members Under Age 19 by Vehicle Type..................70
+Figure 4.18: Number of Household Members Age 19-40 by Vehicle Type........................71
+Figure 4.19: Number of Household Members Age 41-64 by Vehicle Type........................72
+Figure 4.20: Number of Household Members Age 65 or Older by Vehicle Type...............73
+Figure 4.21: Commute Time by Vehicle Type.....................................................................74
+Figure 4.22: Commute Distance by Vehicle Type...............................................................74
+Figure 4.23: Six Attitudinal Clusters by Vehicle Type........................................................79
+Figure 4.24: Eleven Personality and Lifestyle Clusters by Vehicle Type............................83
+Figure 5.1: Model Estimation Procedure.............................................................................95
+Figure 5.2: Nested Logit Model Alternatives Tested.........................................................105
+v
+
+ACKNOWLEDGEMENTS
+DaimlerChrysler Corporation has funded this research, with special thanks to Hans-
+Christian Winter. We are grateful to Lothlorien Redmond, Richard Curry, Naomi Otsuka,
+and Ilan Salomon for their previous work on the mobility project. Lorien greatly
+contributed to cleaning the database and creating the attitude, personality, and lifestyle
+factor scores that are considered key explanatory variables in this study. Rick was also
+heavily involved in data cleaning, and created the vehicle classification scheme used in this
+report. Naomi performed data entry and cleaning tasks, library research, and assembly of
+census data for the study neighborhoods. Ilan Salomon contributed substantially to the
+design of the survey and to the conceptual framework of the project. All of these
+individuals have provided insightful comments and ideas. We also acknowledge Gustavo
+Collantes, another researcher on the mobility project, for his fresh comments and support.
+vi
+
+EXECUTIVE SUMMARY
+Traditionally, economists and market researchers have been interested in identifying the
+factors that affect consumers’ car buying behaviors, and have developed various models of
+vehicle type choice to estimate market share. However, they do not usually consider
+consumers’ travel attitudes, personality, lifestyle, and mobility as factors that may affect the
+vehicle type choice. The purpose of this research is to explore the travel attitude,
+personality, lifestyle, and mobility factors that affect individuals’ vehicle type choices, and
+to develop a disaggregate choice model of vehicle type based on these factors as well as
+typical demographic variables. We first discuss key literature related to vehicle type choice
+models, vehicle use models, and mobility, and then describe the characteristics of our
+sample, the vehicle classification we used in this study, and key explanatory variables
+included in the vehicle type choice model. The relationships of vehicle type to travel
+attitude, personality, lifestyle, mobility, and demographic variables are individually
+explored using one-way ANOVA and chi-squared tests, and then a multinomial logit model
+for vehicle type choice is developed.
+The literature review covers three topics: vehicle type choice, vehicle use, and attitudes
+toward mobility. Most studies of vehicle type choice reviewed for this report generally use
+disaggregate discrete choice models (multinomial logit and nested logit) for the vehicle
+type choice, and vehicle and household characteristics are mainly considered as explanatory
+variables in the models. Not surprisingly, the most common variable is vehicle price, which
+is significant across seven models. That is, all else equal, the more a vehicle costs, the
+lower its choice probability. Of greatest interest to the present study is the impact of
+demographic variables on vehicle type choice, and income or number of household
+members positively affects the choice probability of vehicle type in some models.
+vii
+
+On the other hand, vehicle use models are more indirectly related to vehicle type choice.
+These models mainly consider vehicle attributes (including the vehicle type), primary
+driver characteristics, and household characteristics as explanatory variables. Interestingly,
+two models show that households owning a van tend to drive more than those with other
+vehicle types. These results imply that vehicle type is significantly associated with vehicle
+use such as VMT. Finally, review of previous work on attitudes toward mobility provides
+additional information on the context of the present study.
+The data for this research comes from a 1998 mail-out/mail-back survey of 1,904 residents
+in three neighborhoods in the San Francisco Bay Area: Concord and Pleasant Hill represent
+two different kinds of suburban neighborhoods comprising about half the sample, and an
+area defined as North San Francisco represents an urban neighborhood comprising the
+remainder. The survey contained questions about objective and perceived mobility, attitudes
+toward travel, lifestyle, personality, relative desired mobility, travel liking, and
+demographic characteristics. The dependent variable, make and model of the vehicle the
+respondent drives most often, is classified into nine vehicle type categories: small, compact,
+mid-sized, large, luxury, sports, minivan/van, pickup, and sport utility vehicle (SUV). The
+explanatory variables used in the vehicle type choice model are travel-related attitudes,
+personality, lifestyle, mobility, travel liking, and demographic variables.
+We first conducted ANOVA and chi-squared tests to identify whether the explanatory
+variables, plus two (attitudinal and personality/lifestyle) cluster membership variables
+created in previous work, individually are statistically different among groups classified by
+vehicle type. The Bonferroni multiple comparisons test was additionally conducted for the
+variables that had statistical differences among vehicle type groups based on the ANOVA
+test, to identify which categories are significantly different from other categories. All
+vehicle type groups, except the mid-sized car group, have distinct characteristics with
+viii
+
+respect to travel attitude, personality, lifestyle, mobility, and demographic variables. The
+characteristics of travel attitude, personality, and lifestyle for each vehicle type are
+consistent with those of cluster memberships, showing a higher proportion of a given
+vehicle type in the corresponding cluster. The mid-sized car group tends to be “middle-of-
+the-road” in its characteristics. Also, no significant differences across vehicle types were
+found with respect to the relative desired mobility, commute time, and commute distance
+variables. A summary of the key characteristics associated with each vehicle type, based on
+the analysis of individual characteristics, is found in Section 4.5, p. 84.
+Furthermore, we developed a disaggregate discrete choice model (specifically, a
+multinomial logit model) for vehicle type choice to estimate the joint effect of the key
+variables on the probability of choosing each vehicle type. As shown in Table ES-1, the
+final model (with the pickup vehicle type as base) includes 40 significant alternative-
+specific variables representing travel attitude, personality, lifestyle, mobility factors, and
+demographic variables together with the eight alternative-specific constants. We also
+examined whether the independence from irrelevant alternatives (IIA) assumption of the
+final model specification is violated or not by using two tests for IIA: the Hausman-
+McFadden and nested logit structure tests. The former test could not be completed due to
+the singularity of the V(r) − V(f) matrix (a common occurrence), while the latter test
+strongly indicates that the IIA property of the final model holds. Despite conceptual
+similarities among the nine vehicle types modeled, this is not necessarily surprising
+considering the fact that alternative-specific variables are generally recommended as one
+solution to IIA violations of a multinomial logit model.
+The key results of the model are as follows:
+• Those who have a stronger pro-high density attitude are more likely to drive small
+cars, while those who are workaholics or do not enjoy personal vehicle travel for
+ix
+
+short distance are less likely to choose small cars. Additionally, those who have a
+stronger pro-high density attitude are more likely to drive compact cars, while those
+who perceive that they have a lot of overall long-distance travel are less likely to do
+so. Interestingly, those who have a stronger pro-high density attitude or tend to be
+organizers are more likely to drive mid-sized cars. Those who have higher
+household incomes are also more likely to choose mid-sized cars, but are even more
+likely to drive luxury cars and SUVs.
+• No travel attitude, personality, lifestyle, mobility, or travel liking characteristics are
+significant to choosing large cars. On the other hand, those who have stronger travel
+dislike and pro-high density attitudes, tend to be status seeking, or not frustrated, are
+more likely to drive luxury cars. With respect to the mobility variables, those who
+travel long-distance by airplane a lot also tend to drive luxury cars.
+• For sports cars and SUVs, those who tend to be status seekers, not workaholics, or
+younger are more likely to drive sports cars. Particularly, those who perceive their
+overall short-distance travel to be a lot but their long-distance personal vehicle
+travel to be lower are more likely to drive sports cars. Interestingly, those who have
+a stronger pro-high density attitude are more likely to drive SUVs, whereas those
+who are frustrated are less likely to drive SUVs. On the other hand, those who tend
+to be calm are more likely to drive minivans.
+• Similar to the previous studies on vehicle type choice, demographic characteristics
+are also related to vehicle type choice. The respondent’s age is negatively associated
+with driving small or sports cars and SUVs, and drivers of pickups and large cars
+tend to be less-educated than drivers of the other vehicle types. Household income
+is positively related to expensive cars such as luxury cars and SUVs, while personal
+x
+
+income is negatively related to small cars. Clearly, the number of people under age
+19 in a household is strongly positively associated with minivans, and the number of
+people age 65 or older in a household is positively related to larger cars such as
+large and luxury cars.
+• Interestingly, females are less likely to drive pickups than any other vehicle type. As
+expected, the urban neighborhood variable has a positive sign for small and luxury
+cars. Unemployed individuals such as homemakers and retired people may tend to
+drive family vehicles or bigger and more comfortable cars such as minivans and
+luxury cars. Being a salesperson is strongly positively related to driving a luxury car,
+suggesting the need to appear successful in such an occupation.
+These results strongly support our hypotheses that travel attitudes, personality, lifestyle, and
+mobility factors affect individuals’ vehicle type choices. Thus, the specific relationships
+identified in this study provide useful insight for vehicle manufacturers, as well as for
+decision makers and transportation planners developing transportation policies related to
+vehicle ownership, traffic congestion, and energy consumption. The general conclusion is
+also important: in addition to traditional demographic variables, travel attitude, personality,
+lifestyle, and mobility factors significantly affect an individual’s vehicle type choice.
+Future models of vehicle type choice can be substantially more powerful with the inclusion
+of such variables.
+xi
+
+Table ES-1:  Final Multinomial Logit Model for Vehicle Type Choice (Base Alternative = Pickup)
+Explanatory Variables  Small  Compact  Mid-sized  Large  Luxury  Sports  Minivan/Van  SUV
+|  Travel Attitudes    |     |     |     |     |                 |     |     |     |     |
+| -------------------- | --- | --- | --- | --- | --------------- | --- | --- | --- | --- |
+|      Travel Dislike  |     |     |     |     |   0.461 (2.74)  |     |     |     |     |
+0.491 (6.11)  0.491 (6.11)  0.491 (6.11)    0.694 (5.62)      0.694 (5.62)
+     Pro-high Density
+|  Personality     |                 |     |                 |     |                   |                   |                 |                   |     |
+| ---------------- | --------------- | --- | --------------- | --- | ----------------- | ----------------- | --------------- | ----------------- | --- |
+|      Organizer   |                 |     |   0.181 (2.22)  |     |                   |                   |                 |                   |     |
+|      Calm        |                 |     |                 |     |                   |                   |   0.333 (2.45)  |                   |     |
+|  Lifestyle       |                 |     |                 |     |                   |                   |                 |                   |     |
+|      Frustrated  |                 |     |                 |     |   -0.507 (-2.25)  |                   |                 |   -0.238 (-2.26)  |     |
+|                  | -0.222 (-2.43)  |     |                 |     |                   |   -0.425 (-3.22)  |                 |                   |     |
+     Workaholic
+|      Status Seeking  |     |     |     |     |   0.756 (4.12)  | 0.445 (3.81)  |     |     |     |
+| -------------------- | --- | --- | --- | --- | --------------- | ------------- | --- | --- | --- |
+|                      |     |     |     |     |                 |               |     |     |     |
+ Objective Mobility
+|      Sum of log-miles by   |     |                   |     |     |   0.004 (2.85)  |                 |     |     |     |
+| -------------------------- | --- | ----------------- | --- | --- | --------------- | --------------- | --- | --- | --- |
+|      airplane for LD       |     |                   |     |     |                 |                 |     |     |     |
+|  Perceived Mobility        |     |                   |     |     |                 |                 |     |     |     |
+|      Overall SD            |     |                   |     |     |                 |   0.208 (2.28)  |     |     |     |
+|                            |     |   -0.182 (-2.35)  |     |     |                 |                 |     |     |     |
+     Overall LD
+|      Personal Vehicle for LD  |                 |     |     |     |     |   -0.221 (-2.90)  |     |     |     |
+| ----------------------------- | --------------- | --- | --- | --- | --- | ----------------- | --- | --- | --- |
+|  Travel Liking                |                 |     |     |     |     |                   |     |     |     |
+|      Personal Vehicle for SD  | -0.151 (-2.00)  |     |     |     |     |                   |     |     |     |
+Note: The number in parentheses indicates the t-value of that coefficient (at a level of α=0.05 a critical t-value = 1.96).
+
+|     |     |     |     | xii  |     |     |     |     |     |
+| --- | --- | --- | --- | ---- | --- | --- | --- | --- | --- |
+
+(Table ES-1 continued)
+Explanatory Variables  Small  Compact  Mid-sized  Large  Luxury  Sports  Minivan/Van  SUV
+|  Demographics  |     |     |     |     |     |     |     |     |     |     |     |
+| -------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+     Age  -0.324 (-3.31)          -0.367 (-2.64)    -0.582 (-4.51)
+     Education  0.258 (3.65)  0.364 (5.09)  0.258 (3.65)    0.364 (5.09)  0.364 (5.09)  0.258 (3.65)  0.364 (5.09)
+     Household Income      0.203 (4.09)    0.449 (3.49)      0.292 (4.59)
+|      Personal Income  |     | -0.169 (-3.37)  |     |     |     |     |     |     |     |     |     |
+| --------------------- | --- | --------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+     No. of People < 19      0.240 (2.98)        0.904 (9.44)
+     No. of People > 64      0.350 (2.74)  0.901 (5.07)  0.830 (3.54)
+     Female (dummy)  2.419 (9.03)  2.176 (8.20)  2.419 (9.03)  2.176 (8.20)  2.703 (6.70)  2.176 (8.20)  2.176 (8.20)  2.176 (8.20)
+|      Urban (dummy)  |     | 0.667 (4.81)  |     |     |     |     |   0.826 (2.48)  |     |     |     |     |
+| ------------------- | --- | ------------- | --- | --- | --- | --- | --------------- | --- | --- | --- | --- |
+     Employed (dummy)      -0.579 (-3.03)    -0.989 (-2.42)    -0.799 (-3.16)
+|      Sales (dummy)  |     |     |     |     | 0.621 (3.01)  |     |   0.978 (2.27)  |     |     |     |     |
+| ------------------- | --- | --- | --- | --- | ------------- | --- | --------------- | --- | --- | --- | --- |
+ Constants  0.697 (1.40)  -1.127 (-3.06)  -1.582 (-4.19)  -2.278 (-10.46)  -5.931 (-7.42)  -1.273 (-2.03)  -2.113 (-5.82)  -1.674 (-3.10)
+|  No. of Observations             |      |     |     |     |     |     | 1571           |     |     |     |     |
+| -------------------------------- | ---- | --- | --- | --- | --- | --- | -------------- | --- | --- | --- | --- |
+|  Log-likelihood at 0             |      |     |     |     |     |     | -3451.8        |     |     |     |     |
+|  Log-likelihood at Market Share  |      |     |     |     |     |     | -3183.5        |     |     |     |     |
+|  Log-likelihood at Convergence   |      |     |     |     |     |     | -2839.2        |     |     |     |     |
+|                                  |      |     |     |     |     |     |                |     |     |     |     |
+|  ρ 2 (Adjusted ρ                 | 2 )  |     |     |     |     |     |                |     |     |     |     |
+| o                                | o    |     |     |     |     |     | 0.177 (0.174)  |     |     |     |     |
+ ρ2 (Adjusted ρ2 )
+| c     | c   |     |     |     |     |     | 0.108 (0.105)  |     |     |     |     |
+| ----- | --- | --- | --- | --- | --- | --- | -------------- | --- | --- | --- | --- |
+|  χ 2  |     |     |     |     |     |     | 1225.2         |     |     |     |     |
+o
+|  χ2  |     |     |     |     |     |     | 688.5  |     |     |     |     |
+| ---- | --- | --- | --- | --- | --- | --- | ------ | --- | --- | --- | --- |
+c
+Note: The number in parentheses indicates the t-value of that coefficient (at a level of α=0.05 a critical t-value = 1.96).
+|     |     |     |     |     | xiii  |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | ----- | --- | --- | --- | --- | --- | --- |
+
+CHAPTER 1. INTRODUCTION
+The U.S. is a highly motorized society. As such, each year nearly two hundred new vehicle
+models are produced by domestic and foreign vehicle manufacturers, and millions of new
+vehicles are sold. There is a wide range of makes and models, and people make choices
+based on their own preferences and needs when choosing which car to buy. Historically,
+different vehicle types have been popular in various time periods: for example, small and
+compact cars in the mid-1970s, minivans in the 1980s, pickups/SUVs in the 1990s. What
+determines the preference for and choice of a certain kind of car? What characteristics do
+people who drive the same kind of car have in common? What can attitudes, personality,
+and lifestyle characteristics tell us about vehicle type choices, compared to the role of
+demographics?
+Traditionally, economists and market researchers have been interested in identifying the
+factors that affect consumers’ car buying behaviors to estimate market share, and have
+developed various models of vehicle type choice. Specifically, such disaggregate choice
+models as multinomial logit and nested logit have been used to explain vehicle type choice.
+These models are generally focused on vehicle attributes (such as operating and capital
+costs, horsepower, and fuel efficiency), household characteristics (such as number of
+household members, number of vehicles, and household income), and principal driver
+characteristics (such as age, education, and income) (Train, 1986; Golob, et al., 1997).
+However, they do not usually consider consumers’ travel attitudes, personality, lifestyle,
+and mobility as factors that may affect the vehicle type choice.
+Of course, there are stereotypes for what kind of person drives a certain vehicle make and
+model, assuming that attitudes influence the vehicle type choice. However, a better
+understanding of the relationships between travel attitude, personality, or lifestyle factors
+and vehicle type choices will improve vehicle type choice models. Furthermore, a better
+understanding of these relationships will be useful background for decision makers and
+1
+
+transportation planners developing transportation policies related to vehicle ownership,
+traffic congestion, and energy consumption.
+The purpose of this research is to explore the travel attitude, personality, lifestyle, and
+mobility factors that affect individuals’ vehicle type choices, and to develop a disaggregate
+choice model of vehicle type based on these factors as well as typical demographic
+variables. The data for this research comes from a 1998 mail-out/mail-back survey of
+1,904 residents in the San Francisco Bay Area. The dependent variable, make and model of
+the vehicle the respondent drives most often, is classified into nine vehicle type categories
+(described in more detail in Chapter 3): small, compact, mid-sized, large, luxury, sports,
+minivan/van, pickup, and sport utility vehicle (SUV). Based on these vehicle categories, we
+explore questions such as how travel attitude affects type of vehicle driven, what kind of
+person chooses a particular vehicle type, or whether mobility affects the type of vehicle
+driven. We can hypothesize a number of potential relationships of travel attitudes,
+personality, lifestyle, and mobility to vehicle type (the specific variables available to this
+study are described in more detail in Chapter 3).
+1. Travel Attitudes
+Alternate hypotheses are plausible. On the one hand, an individual may enjoy traveling
+because she drives a luxurious car, or a fun car (sports or SUV categories). Or, an innate
+love of travel may prompt a person to buy a car that supports that feeling. On the other
+hand, those who dislike travel may be more likely to use a larger car (large, luxury, and
+SUV categories) because they seek to be more comfortable and to minimize travel fatigue
+even for short-distance trips. Those who have the freedom to travel anywhere they want and
+relatively low travel stress may be more likely to use a more powerful car or a leisure car
+(sports and SUV categories).
+Those who strongly support pro-environmental policies are more likely to prioritize
+reducing mobile source emissions and therefore to drive a smaller car (small and compact
+2
+
+categories). Those who like living in high-density areas may choose a smaller car (small
+and compact categories) because they have accessible public transit and restrictions on
+parking, making them less likely to commute by car. Those who recognize benefits of
+commuting may be more likely to use a more comfortable or versatile car (luxury category)
+that allows them to do other activities such as playing CDs while driving.
+2. Personality
+Adventure seekers may be more likely to use a powerful car (sports and SUV categories)
+that allows them the flexibility needed for a variety of activities and outdoor adventures.
+Conversely, calm people may be less likely to use a powerful car (sports and SUV
+categories) because they are not aggressive, even while traveling. Loners are probably less
+likely to use a family car (minivan/van category).
+3. Lifestyle
+Frustrated people may be less likely to use a more powerful car (sports and SUV
+categories) because such cars may be a symbol of confidence and control. Family-oriented
+people are more likely to use a family car (minivan/van category). Status seekers are more
+likely to drive an expensive car (luxury and sports categories) because such cars are
+common status symbols in modern society.
+4. Mobility
+The relationships of various measures of mobility to vehicle type are potentially more
+indirect, with mobility serving as an indicator or proxy for an underlying cause or effect.
+For example, those who travel a lot by airplane may be more likely to drive a comfortable
+or expensive car (luxury category) because both characteristics are indicative of a high-
+income lifestyle, or because frequent flyers may place a higher value on comfort and time
+while traveling. Those who perceive they do a lot of travel may be more likely to use a
+larger and more powerful car (pickup and SUV categories) because both factors could be
+indicative of a love of travel.
+3
+
+Similar to the travel liking attitude, the relationship of relative desired mobility (see
+Chapter 3) to vehicle type is ambiguous. Those who want to reduce the amount they travel
+may be more likely to use a larger and more comfortable car (large and luxury categories)
+to make the unpleasantness of travel more palatable. On the other hand, those who want to
+increase their travel may prefer similar kinds of cars, to make their travel even more
+enjoyable.
+This report consists of six chapters. The following chapter discusses key literature related to
+vehicle type choice models, vehicle use models, and mobility. The third chapter describes
+the characteristics of our sample, the vehicle classification we used in this study, and key
+explanatory variables included in the vehicle type choice model. The fourth chapter relates
+vehicle type to travel attitude, personality, lifestyle, mobility, and demographic variables
+individually, using one-way ANOVA and chi-squared tests. The fifth chapter presents a
+multinomial logit model for vehicle type choice. Finally, we summarize the results and
+suggest further research.
+4
+
+CHAPTER 2. LITERATURE REVIEW
+In this chapter, we conduct a literature review of three topics: vehicle type choice, vehicle
+use, and attitudes toward mobility. The first topic is directly related to vehicle type choice
+models. Most published studies of vehicle type choice concentrate on vehicle attributes,
+household and primary driver characteristics, and brand loyalty. There is little open
+literature on vehicle type choice focusing on travel attitude, personality, and lifestyle factors
+(there are doubtless numerous proprietary studies of the role of these factors in vehicle type
+choice). Nevertheless, the review of this topic is helpful in identifying the types of models
+that have been used in this area, and the explanatory variables that have previously been
+found to affect vehicle type choice. The second topic, vehicle use, is more indirectly related
+to vehicle type choice. It is sometimes used as an explanatory variable in vehicle type
+choice models. This review is mainly focused on studies of vehicle miles traveled by
+vehicle type. Finally, the section on attitudes toward mobility briefly reviews previous work
+on this project, and provides a context from which to view the current work.
+2.1 Vehicle Type Choice Models
+We reviewed 11 studies, spanning two decades, involving vehicle type choice models. Two
+of them (Tardiff, 1980; Mannering and Train, 1985) present a review of previous research
+and suggest future directions. Eight papers (Lave and Train, 1979; Manski and Sherman,
+1980; Hocherman, et al., 1983; Berkovec and Rust, 1985; Berkovec, 1985; Mannering and
+Winston, 1985; Kitamura, et al., 2000; Mannering, et al., 2002) introduce disaggregate
+discrete-alternative models such as multinomial logit and nested logit for vehicle type
+choice, and the other paper (Murtaugh and Gladwin, 1980) develops a hierarchical decision
+process model for vehicle type choice. We discuss each of these papers in turn, followed by
+a summary of vehicle type choice models, with Table 2.1 at the end of this section
+providing a direct comparison of the models of the last nine papers.
+5
+
+2.1.1 Vehicle Choice Models: Review of Previous Studies and Directions for Further
+Research – Timothy J. Tardiff (1980)
+In this review paper, the author classifies the existing models by the kind of vehicle choice
+under study (vehicle ownership levels, purchased new vehicle type, joint ownership level
+and mode choice, and vehicle type owned), and assesses them on the basis of nature of
+vehicle choice, explanatory variables, and functional forms. Tardiff points out that the
+models for vehicle ownership levels have limitations in dealing with vehicle type and
+change in vehicle ownership levels because they are estimated separately and use single
+equation models. On the other hand, the joint choice models addressing vehicle ownership
+levels and mode choice simultaneously involve difficulty in obtaining appropriate data for
+the models and in interpreting their complicated structures.
+The author emphasizes the interdependence among kinds of vehicle choices, and suggests
+that simultaneous equation models or joint models (e.g. number of vehicles and vehicle
+types) are more useful than conditional choice models. Further, because most existing
+models use cross sectional data for estimation, they cannot provide information on the
+effects of previous vehicle choices or vehicle ownership behavior. Finally, Tardiff proposes
+further research focused on vehicle purchases and holdings: 1) vehicle purchase models are
+needed that use a stratified sample or auto characteristics that vary with location, 2) vehicle
+holdings models are needed that are joint models of level and type (e.g. one vehicle-small
+car) with simplified vehicle types, 3) a sequential choice model is needed that considers
+vehicle types owned as vehicle purchase decisions and estimates submodels (such as
+primary and secondary vehicle models) for each vehicle type, 4) dynamic choice models
+are also needed that explain vehicle purchase, sales, and use based on a time series of cross-
+sectional data or panel data.
+6
+
+2.1.2 Recent Directions in Automobile Demand Modeling – Fred Mannering and Kenneth
+Train (1985)
+This paper reviews previous research with respect to seven issues: relationship of number
+and type of autos owned, vehicle ownership and usage, miles traveled on each vehicle in
+multi-vehicle households, dynamic components of vehicle demand, handling of makes and
+models of vehicles, market equilibration, and data from hypothetical choice situations.
+Several studies on these issues are introduced to explore previous and current directions in
+the models. In particular, the authors point out that before 1980, studies of automobile
+demand generally modeled either number of vehicles or vehicle type, but not both, although
+they are certainly associated. For example, models for vehicle type choice have limitations
+in determining which value of vehicle characteristics to assign to each household without
+predicting the number of vehicles owned in the future. Conversely, models for number of
+vehicles generally consider the cost of owning vehicles as a fixed value, even if operating
+costs vary across each vehicle type.
+In contrast, current research improves on the previous models by jointly considering the
+number of vehicles and the vehicle types, using a nested logit model in which vehicle type
+is conditional on number of vehicles. Additionally, the nested logit models conditional on
+transaction type focus on the vehicle type choices when buying an additional vehicle and/or
+selling a vehicle currently owned. On the other hand, although vehicle usage variables such
+as vehicle miles traveled are related to the number of vehicles and vehicle types chosen,
+these variables are considered as exogenous variables in the vehicle type choice model.
+Thus, the vehicle type choice models are subject to simultaneity bias in the parameter
+estimation. In other studies, vehicle usage models for each vehicle in multi-vehicle
+households are developed using simultaneous equation models. Mannering and Train
+observe that in the discrete choice models, forecasting the demand for each make and
+model (normally involving forecasting the characteristics of each make/model combination,
+and then calculating the probability that each household in the sample chooses each
+make/model) is difficult due to the large number of alternatives.
+7
+
+The authors suggest some directions for automobile demand models based on their review:
+1) the relationships among number of vehicles owned, vehicle types owned, and vehicle
+usage need to be better understood, 2) dynamic approaches to modeling automobile
+demand need to be developed such as a disaggregate choice model conditional on vehicle
+holding (whether selling or keeping a vehicle owned) over time, and 3) models based on
+hypothetical choice need to be improved for estimation of the potential market for new
+technologies.
+2.1.3 A Disaggregate Model of Auto-Type Choice – Charles A. Lave and Kenneth Train
+(1979)
+The authors develop a disaggregate model of vehicle type choice for households buying a
+new car. They conducted home interviews with a stratified random sample (approximately
+equal sample sizes across vehicle classes of small, medium, and large) of 541 new car
+buyers in seven U.S. cities in 1976. Vehicle types are classified into 10 categories including
+subdivisions within categories based on size and price: subsubcompact, sports, subcompact
+A and B, compact A and B, intermediate, standard A and B, and luxury. On the basis of
+these categories, a multinomial logit model is developed using car characteristics (e.g. price,
+weight, fuel efficiency, horsepower), household characteristics (e.g. income, number of
+household members, number of miles driven), and driving environment (e.g. gasoline price)
+as explanatory variables. The model consists of many interaction terms of car
+characteristics associated with socioeconomic variables (e.g. cost/income, gas price/miles
+per gallon, weight*age) since car characteristics do not vary across the respondents, and
+respondent characteristics do not vary across the vehicle alternatives.
+The results of the model indicate that larger households are more likely to choose
+subsubcompact and subcompact cars. Interestingly, households with more miles driven are
+more likely to choose large vehicles, although this effect was not significant in the model.
+Older people tend to choose larger cars, and households with high incomes are likely to
+choose large and expensive cars. On the other hand, vehicle price negatively affects the
+8
+
+choice of each vehicle type, and households owning more than two vehicles tend to choose
+smaller cars when they buy another.
+2.1.4 An Empirical Analysis of Household Choice among Motor Vehicles – Charles F.
+Manski and Leonard Sherman (1980)
+This paper presents multinomial logit models of vehicle type choice conditional on the
+number of vehicles owned, and focuses on single-vehicle and two-vehicle households. The
+authors use a nationwide U.S. sample of 1,200 households from a consumer panel survey in
+1976. The vehicles are classified into 600 different types by make, model, and vintage, but
+the models use only 26 alternative vehicle types which include the chosen alternative and
+25 others randomly selected from the universal choice set.
+The vehicle type choice models (for currently-owned cars) are estimated separately for
+single-vehicle and two-vehicle households (the latter case models the joint choice of two
+vehicles). Vehicle attributes (including cost, passenger-carrying, load-carrying, performance,
+and class characteristics) and household characteristics (including number of household
+members, income, age) are used as explanatory variables in the models. According to the
+estimated models, seating space and luggage space positively affect the vehicle type
+choices, especially in larger single-vehicle households, while scrappage rate (a proxy for
+the probability of mechanical vehicle failure) turns out to be a negative factor for the
+vehicle choices. Households headed by someone older than 45 are more likely to consider
+vehicle weight in their vehicle type choices, whereas households with low incomes are less
+likely to hold vehicles with higher operating cost. The transaction cost variable in the
+models is a dummy variable taking on the value zero for the alternative currently owned by
+the household, and one for all other available vehicle types. This transaction cost variable
+negatively affects the choice probability, indicating the inertia effect of tending to retain an
+existing vehicle. Interestingly, the authors find that acceleration time significantly
+positively affects the vehicle type choice. This result is counterintuitive and the authors
+suggest that it may be due either to data problems such as correlation with excluded
+9
+
+variables, or may reflect the relative unimportance of acceleration time to consumer
+preferences.
+2.1.5 Estimation and Use of Dynamic Transaction Models of Automobile Ownership – Irit
+Hocherman, Joseph N. Prashker, and Moshe Ben-Akiva (1983)
+This paper presents dynamic transaction models for automobile ownership level and type
+choice. The authors use a stratified random sample of 500 households that did not buy a car
+and 800 households that bought a car in 1979 in the Haifa urban area of Israel. The vehicle
+type choice model is embedded in a two-stage nested logit model of vehicle type choice
+conditioned on transaction type (buying a first car or replacing an existing car). Hocherman,
+et al. estimated a vehicle type choice model using the households purchasing a car, and car
+purchase decision models for households with and without a vehicle (using the entire
+sample), incorporating an inclusive value derived from the vehicle type choice model as an
+explanatory variable for the “buy” and “replace” alternatives in the upper (transaction type)
+level of the model. The car purchase decision models assumed that the auto ownership level
+and vehicle type owned in the previous time influence decisions of transaction types in the
+current time period.
+The vehicle types were classified by make, model, body type, and vintage (using vintage
+dummy variables for less than 2 years, 2-9 years, 10-14 years, and 15 years or older). In
+addition to the chosen alternative, 19 alternative vehicle types were randomly selected from
+950 different types identified for the models. Household characteristics such as income, age,
+and work status, previous car attributes (such as engine size and average mileage),
+alternative car attributes (such as cost, size, and performance) and transaction costs (such as
+search costs, information costs, and brand loyalty) were employed as explanatory variables.
+The authors found that, in the case of vehicle type choice conditioned on purchase, the
+purchase price and operating cost variables generally affected vehicle type choice
+negatively except in households where the head of household is 45 or older, in which case
+10
+
+the effect was not statistically significant. People who are older or high-income tended to
+choose more expensive cars. When considering vehicle performance, the 30 to 45 age
+group placed high value on horsepower and the weight of a car. Vintage dummy variables
+(taking vintage less than 2 years as the base category) had a highly significant and negative
+effect on the choice of each vehicle type. That is, the older the car, the higher the
+transaction cost and the less likely the car was to be chosen. Brand loyalty and the number
+of vehicles of the same make positively affected the vehicle type choice. In the purchase
+decision model for households without a vehicle, higher income households and people
+with long commutes by bus were more likely to buy a car, while households with older
+household heads were less likely to buy a car. For households with a vehicle, attributes of
+the previous car such as engine size and vintage affected the decision to replace a car: e.g.
+smaller engine size and older vehicle age positively affected the replacement decision.
+2.1.6 A Nested Logit Model of Automobile Holdings for One Vehicle Households – James
+Berkovec and John Rust (1985)
+This paper develops a nested logit model for the type of vehicle currently owned by single-
+vehicle households. A nationwide U.S. sample of 237 single-vehicle households (owning
+neither vans, pickups, utility vehicles, nor vehicles older than 1967), from 1,095 households
+responding to a home interview travel survey in 1978, is used to estimate the model. The
+vehicle types are classified into 15 categories based on size (subcompact, compact,
+intermediate, standard, and luxury/sports) and age (new (1977-78), mid (1973-76), and old
+(1967-1972)), and the nested logit structure models choice of vehicle size category
+conditional on vehicle age. The model considers vehicle attributes (such as capital and
+operating costs, capacity, and performance), household attributes (such as income and age),
+and a transaction variable (defined as a dummy variable that is one if the currently-held
+vehicle was owned since last year and zero otherwise) as explanatory variables.
+Additionally, the authors estimate two other models with and without the transaction
+variable using a subset of the specification in the first model, to analyze whether or not the
+vehicle choice process is a sequence of independent discrete decisions (i.e. with a
+11
+
+negligible transaction cost). The authors estimate the three models using a two-step
+estimation technique (a sequential maximum likelihood estimate for the lower level plus
+one Newton-step estimate for the upper level).
+The authors find that the transaction variable is a significantly positive factor in the models
+with a transaction variable. That is, all else equal, the vehicle owned last year has a higher
+probability of being chosen (kept) this year. Berkovec and Rust also point out that the
+transaction variables have different magnitudes but the same sign in the two models due to
+the misspecification or correlation between the transaction variable and the error terms in
+the nested model structure. From both results, the authors conclude that “there is clear
+evidence of strong inertia in vehicle holdings: in each period a consumer is significantly
+more likely to keep a currently held automobile than to trade for a new one”. In addition,
+all cost (such as purchase price and operating cost) and vehicle age variables negatively
+affect the choice of each vehicle type. In the first model, vehicle size variables such as
+turning radius negatively affect the choice of each vehicle type in urban as opposed to rural
+areas, perhaps due to the greater difficulty of parking in urban areas. Vehicle performance
+such as horsepower is more attractive to the group age 45 or younger. In the case of
+manufacturers, Fords and foreign vehicles are valued significantly positively in the models
+with a transaction variable, while other domestic vehicle brands are valued significantly
+negatively (with respect to the base of GM vehicles).
+2.1.7 Forecasting Automobile Demand Using Disaggregate Choice Models – James
+Berkovec (1985)
+The paper presents a simulation model to forecast automobile market demand (including
+vehicle holdings, new car sales, and used car scrappage rates) under various gas price
+policies. This model consists of a disaggregate discrete choice model for vehicle type, a
+regression model for vehicle scrappage rate, and a simple function of vehicle price for new
+car supply. The vehicle scrappage rate is defined a probability of vehicle failure needing to
+be repaired and negatively relating to the vehicle value in a given period. The author uses a
+12
+
+nationwide U.S. sample of 1,048 households from a home interview survey conducted in
+1978. Vehicles are classified into 131 different types based on make, model, and vintage
+plus an old car group of all pre-1969 vehicles.
+Berkovec first estimates a general linear model for natural log of scrappage rate based on
+vehicle price, model year, and class. Then, he develops a nested logit model for vehicle
+type conditional on household vehicle ownership. The vehicle type choice model considers
+vehicle attributes (such as costs and seating space) and household attributes (such as
+income and number of household members) as explanatory variables. In this model, capital
+cost negatively affects the vehicle type choice, while number of seats in a vehicle positively
+affects the vehicle type choice. Using these models, he also predicts automobile demand for
+each vehicle type, for 12 different consumer groups (defined by three income levels and
+four household sizes) under different gasoline price scenarios. Overall, the simulation
+model results indicate that households are less likely to change vehicle types owned, as gas
+price increases. Thus, the total sales of new vehicles decrease and the scrappage rates of
+older vehicles increase due to fuel inefficiency (less vehicle value) as the gasoline price
+increases.
+2.1.8 A Dynamic Empirical Analysis of Household Vehicle Ownership and Utilization -
+Fred Mannering and Clifford Winston (1985)
+This paper focuses mainly on a dynamic model for vehicle type choice (a multinomial logit
+model) and utilization (a general linear model) such as vehicle miles traveled over time, for
+single-vehicle and two-vehicle households, using lagged utilization variables. The authors
+use a nationwide U.S. sample of 3,842 households from the National Interim Energy
+Consumption Survey in 1978 and the Household Transportation Panel Survey in 1979 to
+1980. The vehicle types are classified by make, model, and year (e.g. Ford Maverick 1972).
+The dependent choice set includes the chosen alternative and nine others randomly selected
+from more than 2,000 different types. The vehicle type choice models consider vehicle
+characteristics, brand loyalty and preference (such as lagged utilization variables of the
+13
+
+same vehicle or same make, and make indicator variables), and household characteristics as
+explanatory variables.
+Separate vehicle type choice models were estimated for both single-vehicle and two-vehicle
+households. In the latter case, the joint choice of the two vehicle types was modeled. In
+both cases, the results indicate that households’ brand loyalty variables (lagged utilization
+variables of the same vehicle or same make) positively affect their choices of a particular
+vehicle make. On the other hand, capital and operating costs negatively affect the choice of
+vehicle type. The choice probability is more elastic with respect to income and capital cost
+for newer vehicles, and the choice probability is more elastic with respect to operating cost
+for domestic cars than for foreign cars. The authors also find that estimates of the choice
+probability with respect to income and capital cost are less elastic for two-vehicle
+households than for single vehicle households.
+2.1.9 Accessibility and Auto Use in a Motorized Metropolis – Ryuichi Kitamura, Thomas F.
+Golob, Toshiyuki Yamamoto, and Ge Wu (2000)
+This paper presents a recent vehicle type choice model using automobile and transit
+accessibility indices1 and residential density as key explanatory variables. The authors use a
+sample of 1,898 households from a random digit dialing telephone survey of the South
+Coast (Los Angeles) metropolitan area in 1993. The choice studied is the vehicle that is
+currently used in single-vehicle households or that is most recently acquired in multi-
+vehicle households. Vehicle types are classified into 6 categories: four-door sedan, two-
+door coupe, van/wagon, sports car, sport utility vehicle (SUV), and pickup truck.
+Based on the accessibility indices, residential density, primary driver attributes, and
+household attributes, a multinomial logit model for vehicle type choice is developed. The
+authors also develop a vehicle use model for annual vehicle mileage (discussed in Section
+2.2.1). Their findings for the vehicle type choice model are as follows. Four-door sedans
+14
+
+and vans/wagons are more likely to be chosen in areas with high transit accessibility, and
+sports cars are more likely to be chosen in areas with high residential density. In the case of
+the primary users and household attributes, males are more likely to use pickup trucks, and
+younger people are more likely to use sports cars, SUVs, and pickup trucks. People with
+college degrees or long-distance commuters are more likely to use four-door sedans.
+Households with high incomes are more likely to use SUVs, whereas households with low
+incomes are more likely to use pickup trucks and two-door coupes. Especially, larger
+households are more likely to use vans/wagons.
+2.1.10 An Exploratory Analysis of Automobile Leasing in the United States – Fred
+Mannering, Clifford Winston, and William Starkey (2002)
+This paper presents a nested logit model of vehicle type choice conditional on vehicle
+acquisition methods such as leasing, financing, and paying cash. The authors develop
+separate vehicle type choice models for each vehicle acquisition method. Based on a
+nationwide (U.S.) household panel survey, a sample of 654 households buying new
+vehicles between 1993 and 1995 is used. The vehicle type choice model specifically
+considers newly-purchased vehicles regardless of the number of vehicles owned. The
+vehicle types are based on makes and models. Invoking the independence of irrelevant
+alternatives (IIA) property of the multinomial logit model, the vehicle type choice model
+for each acquisition method uses only ten alternative vehicle types: the chosen alternative
+plus nine others randomly selected from an universal set of 150-175 types for each year.
+The models contain vehicle attributes including vehicle size classes (subcompact, compact,
+mid-sized, large, minivan, SUV) associated with manufacturers (domestic and foreign) and
+residual values, household attributes, and brand loyalty (such as the number of previous
+consecutive purchases of a given make) as explanatory variables. The vehicle’s residual
+value is defined as “the percentage of the manufacturer’s suggested retail price that the
+vehicle is expected to retain after its first three years of use”. The results of the models
+1 The accessibility indices are the log-sum measures of multinomial logit destination choice models for home-
+15
+
+indicate that regardless of acquisition type, households are more likely to choose a vehicle
+with higher brand loyalty and residual values. In the case of leasing a vehicle, households
+leasing a vehicle tend to place a high value on vehicle attributes such as a passenger side
+airbag and horsepower, and they are more likely to choose larger vehicles and SUVs.
+2.1.11 A Hierarchical Decision-Process Model for Forecasting Automobile Type-choice –
+Michael Murtaugh and Hugh Gladwin (1980)
+This paper presents a hierarchical decision process model for vehicle type choice, using an
+inductive process rather than a statistical model. The model is based on a sample of 45 new
+car buyers in Orange County, California in 1978. Car types are classified into ten categories
+based on vehicle sizes and prices: minicompact, sports specialty (two-seaters), subcompact,
+sporty low-priced subcompacts, compacts, sports sedans, intermediate, large 1 (less than
+$5,700, such as Buick LeSabre), large 2 (over $5,700, such as Chrysler New Yorker), and
+luxury. The model consists of two stages represented on flowcharts. In the first stage,
+several demographic questions based on the survey results are asked in a logical sequence
+to find a preferred vehicle group: e.g. “parent in household with children?”, “ total of
+children’s ages ≥ 27?”, “household has more than one car?” and so on. The assumption
+behind this sequential process is that households with older children tend to choose large
+cars because they need more space than those with younger children. At the end of the first
+stage, the model classifies vehicle groups into four categories based on the previous
+questions: car for large family, car for small family, family car for limited use, and single
+person car. In the second stage, cost categories are presented to find the size of a car that
+can be purchased, and preferences for foreign or domestic cars, fuel economy, and age of
+the consumer are also asked to decide a specific vehicle type choice. Through this decision
+process, the model predicts an individual’s choice of vehicle type to purchase.
+based non-work trips.
+16
+
+2.1.12 Summary of Vehicle Type Choice Models
+Table 2.1 summarizes the vehicle type choice models reviewed, comparing model types,
+dependent variables, explanatory variables, and data. As mentioned before, disaggregate
+choice models (multinomial logit and nested logit models) are generally used for the
+vehicle type choice, and vehicle and household characteristics are mainly considered as
+explanatory variables in the models. These vehicle type choice models can be further
+divided into two categories, vehicle holdings and vehicle purchase models, depending on
+whether the chosen vehicle type is viewed as already owned or newly purchased. The
+models for vehicle holdings usually include scrappage rate, transaction cost, and vehicle
+age as explanatory variables, differing from those for vehicle purchase.
+However, it is difficult to compare significant variables across the vehicle type choice
+models because each model has a different set of vehicle type categories such as vehicle
+classes and makes/models. Not surprisingly, the most common variable is vehicle price,
+which is significant across all models except two (Kitamura, et al., 2000; Murtaugh and
+Gladwin, 1980). That is, all else equal, the more a vehicle costs, the lower its choice
+probability. Of greatest interest to the present study is the impact of demographic variables
+on vehicle type choice, and income or number of household members positively affects the
+choice probability of vehicle type in some models.
+The data used in our study were not collected with a vehicle type choice model in mind, so
+we do not have a full inventory of all households’ vehicles, including their acquisition
+history. We have only the make, model, and year of the single vehicle driven most often by
+the respondent. However, if we selected the households in our sample having only one
+vehicle, it would be possible to develop a vehicle type choice model similar to some of
+those reviewed here. In addition to the demographic and vehicle characteristics normally
+used in such models, we have unique data on attitudes, personality, and lifestyle that are
+also relevant to vehicle choice. Such a model is beyond the scope of the present study, as it
+would involve the generation of vehicle type choice sets and the acquisition of data for each
+17
+
+type of vehicle modeled (whether chosen or non-chosen). We are able, however, to develop
+models of most-often-driven vehicle class (for the entire sample), using the full range of
+individual characteristics available in our data set. The outcome of this effort is presented in
+Chapter 5.
+18
+
+Table 2.1:  Summary of Vehicle Type Choice Models
+Reference  Lave and Train (1979)  Manski and Sherman (1980)  Hocherman, et al. (1983)
+Data Location
+7 U.S. cities (1976)  U.S. (1976)  Haifa urban area, Israel (1979)
+(Year)
+800 households buying a new
+1,200 single-vehicle or two-
+| Sample Size  | 541 new car buyers  |     | or used car plus 500  |
+| ------------ | ------------------- | --- | --------------------- |
+vehicle households
+households not buying a car
+Two-stage nested logit model
+Multinomial logit model of  Multinomial logit model of  of vehicle type purchased,
+Model Type
+vehicle type purchased  vehicle holdings  conditional on a purchase
+being made
+|     | 10 vehicle classes  | Chosen alternative plus 25  | Upper level:   |
+| --- | ------------------- | --------------------------- | -------------- |
+- subsubcompact  alternative makes/models/  Buying a first car or replacing
+|     | - sports        | vintage (randomly selected  | an existing car  |
+| --- | --------------- | --------------------------- | ---------------- |
+|     | - subcompact-A  | from 600 vehicle types)     |                  |
+|     | - subcompact-B  |                             | Lower level:     |
+Dependent
+|     | - compact-A  |     | Chosen alternative plus 19  |
+| --- | ------------ | --- | --------------------------- |
+Variable
+|     | - compact-B     |     | alternative makes/models/    |
+| --- | --------------- | --- | ---------------------------- |
+|     | - intermediate  |     | vintages (randomly selected  |
+|     | - standard-A    |     | from 950 vehicle types)      |
+- standard-B
+- luxury
+|              | Vehicle attributes         | Vehicle attributes   | Vehicle attributes         |
+| ------------ | -------------------------- | -------------------- | -------------------------- |
+|              | - purchase price           | - purchase price     | - purchase price           |
+|              | - operating cost           | - operating cost     | - operating cost           |
+|              | - no. of seats             | - no. of seats       | - vehicle size             |
+|              | - weight                   | - weight             | - engine size              |
+|              | - horsepower to weight     | - luggage space      | - luggage space            |
+|              |                            | - acceleration time  | - horsepower to weight     |
+|              | Primary driver attributes  | - vehicle age        | - transaction cost         |
+|              | - age                      | - turning radius     | - vehicle age              |
+|              | - education                | - braking distance   |                            |
+| Explanatory  |                            | - noise level        | Primary driver attributes  |
+Variables Tested  Household attributes  - scrappage rate  - age
+|     | - no. of household members         | - transaction-search cost     |                             |
+| --- | ---------------------------------- | ----------------------------- | --------------------------- |
+|     | - income                           | - foreign/domestic            | Household attributes        |
+|     | - no. of vehicles                  |                               | - no. of household members  |
+|     | - vehicle miles traveled           | Household attributes          | - income                    |
+|     |                                    | - no. of household members    | - no. of vehicles           |
+|     |                                    | - no. of workers              | - age                       |
+|     |                                    | - income                      |                             |
+|     |                                    | - age                         | Brand loyalty               |
+|     |                                    | - education                   | - brand loyalty             |
+|     |                                    | - location (city or not)      | - no. of same make cars     |
+|     | - purchase price /income (−)       | - purchase price (−)          | - purchase price (−)        |
+|     | - weight*age (+)                   | - no. of seats (+)            | - operating cost (−)        |
+|     | - no. of household members         | - vehicle weight and age (+)  | - engine size (+)           |
+|     |   (+, for subsubcompact and        | - acceleration time (+)       | - vehicle age (−)           |
+Significant
+|     |    subcompact A)  | - luggage space (+)  | - income (+)  |
+| --- | ----------------- | -------------------- | ------------- |
+Results
+|     | - no. of vehicles (+)  | - scrappage rate (−)  | - brand loyalty (+)  |
+| --- | ---------------------- | --------------------- | -------------------- |
+  - transaction-search cost (−)  - no. of same make cars (+)
+|     |     | - operating cost and low     | - horsepower to weight (+)  |
+| --- | --- | ---------------------------- | --------------------------- |
+
+|     |     |    income HH  (−)  |     |
+| --- | --- | ------------------ | --- |
+Note: Sign in parentheses means positive or negative effect on the choice of the associated vehicle type.
+
+|     |     | 19  |     |
+| --- | --- | --- | --- |
+
+(Table 2.1 continued)
+Mannering and Winston
+| Reference  | Berkovec and Rust (1985)  | Berkovec (1985)  |     |
+| ---------- | ------------------------- | ---------------- | --- |
+(1985)
+Data Location
+|     | U.S. (1978)  | U.S. (1978)  | U.S. (1978 to 1980)  |
+| --- | ------------ | ------------ | -------------------- |
+(Year)
+3,842 single-vehicle or two-
+| Sample Size  | 237 single-vehicle households  | 1,048 households  |     |
+| ------------ | ------------------------------ | ----------------- | --- |
+vehicle households
+Nested logit model of vehicle  Nested logit model of vehicle  Multinomial logit model of
+Model Type
+|     | holdings       | holdings       | vehicle holdings           |
+| --- | -------------- | -------------- | -------------------------- |
+|     | Upper level:   | Upper level:   | Chosen alternative plus 9  |
+vehicle age groups  No. of vehicles  (0, 1, 2, and 3)  alternative makes/models/
+|     | - new (1977-78)  |                           | vintages (randomly selected  |
+| --- | ---------------- | ------------------------- | ---------------------------- |
+|     | - mid (1973-76)  | Lower level:              | from 2,000 vehicle types)    |
+|     | - old (1967-72)  | 131 vehicle classes and   |                              |
+|     |                  | vintages                  |                              |
+|     | Lower level:     | - 10 years (1969-1978)    |                              |
+Dependent
+|     | 5 vehicle classes   | - 13 vehicle classes each year:    |     |
+| --- | ------------------- | ---------------------------------- | --- |
+Variable
+|     | - subcompact     |   (domestic) subcompact,            |     |
+| --- | ---------------- | ----------------------------------- | --- |
+|     | - compact        |   compact, sporty, intermediate,    |     |
+|     | - intermediate   |   standard,   luxury,  pickup       |     |
+|     | - standard       |   truck, van, and utility vehicle;  |     |
+|     | - luxury/sports  |   (foreign) subcompact, larger,     |     |
+  sports, and luxury
+- all models before 1969
+|                   | Vehicle attributes               | Vehicle attributes             | Vehicle attributes              |
+| ----------------- | -------------------------------- | ------------------------------ | ------------------------------- |
+|                   | - purchase price                 | - purchase price               | - purchase price                |
+|                   | - operating cost                 | - operating cost               | - operating cost                |
+|                   | - no. of seats                   | - no. of seats                 | - vehicle age                   |
+|                   | - vehicle age                    | - shoulder room                | - shoulder room                 |
+|                   | - turning radius                 | - proportion of                | - luggage space                 |
+|                   | - horsepower to weight           |   makes/models in class to     | - horsepower to engine          |
+|                   | - transaction                    |   total makes/models           |   displacement                  |
+| Explanatory       |   (kept last year’s car or not)  | - new or used                  |                                 |
+| Variables Tested  | - manufacturer                   |                                | Household attributes            |
+|                   |                                  | Household attributes           | - no. of household members      |
+|                   | Household attributes             | - no. of household members     | - income                        |
+|                   | - no. of household members       | - income                       | - age                           |
+|                   | - income                         |                                |                                 |
+|                   | - age                            |                                | Brand loyalty                   |
+|                   |                                  |                                | - lagged utilization of same    |
+|                   |                                  |                                |   vehicle or same make          |
+|                   |                                  |                                | - manufacturer                  |
+- purchase price (−)  - purchase price (−)  - purchase price/income (−)
+|     | - operating cost (−)  | - no. of seats (+)  |     |
+| --- | --------------------- | ------------------- | --- |
+- operating cost/income (−)
+|     | - no. of seats (+)  | - proportion of   |     |
+| --- | ------------------- | ----------------- | --- |
+- lagged utilization of same
+Significant
+- vehicle age (−)    makes/models in class to       vehicle or same make (+)
+Results
+|     | - turning radius in urban (−)  |   total make/models (+)  |     |
+| --- | ------------------------------ | ------------------------ | --- |
+|     | - horsepower to weight (+)     |                          |     |
+|     |                                |                          |     |
+- transaction (+)
+Note: Sign in parentheses means positive or negative effect on the choice of the associated vehicle type.
+
+|     |     | 20  |     |
+| --- | --- | --- | --- |
+
+(Table 2.1 continued)
+Reference  Kitamura, et al. (2000)  Mannering, et al.  (2002)  Murtaugh and Gladwin (1980)
+| Data Location  | South Coast (Los Angeles)  |                            |                           |
+| -------------- | -------------------------- | -------------------------- | ------------------------- |
+|                |                            | U.S. (1993 to 1995)        | Orange County, CA (1978)  |
+| (Year)         | metropolitan area (1993)   |                            |                           |
+|                |                            | 654 households buying new  | 45 households buying new  |
+| Sample Size    | 1,898 households           |                            |                           |
+|                |                            | vehicles                   | vehicles                  |
+Multinomial logit model of
+Hierarchical decision-process
+|             | vehicle holdings (most recent  | Nested logit model of vehicle  |                               |
+| ----------- | ------------------------------ | ------------------------------ | ----------------------------- |
+| Model Type  |                                |                                | model (flowchart) of vehicle  |
+|             | vehicle for multi-vehicle      | purchased                      |                               |
+purchased
+households)
+|            | 6 vehicle classes          | Upper level:                  | 10 vehicle categories  |
+| ---------- | -------------------------- | ----------------------------- | ---------------------- |
+|            | - 4-door sedan             | Vehicle acquisition type      | - minicompact          |
+|            | - 2-door coupe             | - cash, non-cash (lease,      | - sports-specialty     |
+|            | - van/wagon                |   finance)                    | - subcompact           |
+| Dependent  | - sports car               |                               | - sporty               |
+| Variable   | - sports utility           | Lower level:                  | - compact              |
+|            | - pickup truck             | Chosen alternative plus 9     | - sports sedan         |
+|            |                            | alternative makes and models  | - intermediate         |
+|            |                            | (randomly selected from 175   | - large 1 and 2        |
+|            |                            | vehicle types)                | - luxury               |
+|            | Primary driver attributes  | Vehicle attributes            | Vehicle attributes     |
+|            | - age                      | - purchase price              | - purchase price       |
+|            | - gender                   | - operating cost              | - foreign or U.S.      |
+|            | - education                | - passenger side airbag       | - traded-in            |
+|            | - employment status        | - horsepower                  | - vehicle age          |
+|            | - acquisition decision     | - turning radius              |                        |
+|            | - commute distance         | - vehicle reliability         | Household attributes   |
+|            |                            | - vehicle residual value      | - no. of household     |
+|            | Household attributes       | - vehicle size:               |   members              |
+Explanatory   - no. of household members    two-seater, mini-compact,  - total age of  children
+Variables Tested  - no. of workers    pickup, subcompact,   - education
+|     | - no. of vehicles                |   compact, mid-sized,    | - location (city or not)  |
+| --- | -------------------------------- | ------------------------ | ------------------------- |
+|     | - income                         |   large, minivan,  SUV   |                           |
+|     | - type (single, group)           |                          |                           |
+|     |                                  | Household attributes     |                           |
+|     | Residence attributes             | - income                 |                           |
+|     | - accessibility (auto, transit)  |                          |                           |
+|     | - residential density            | Brand loyalty            |                           |
+- consecutive purchases
+- manufacturer
+- age  (+, for 4-door, 2-door,   - purchase price/income (−)  Not applicable for this model
+|     |     and van/wagon)               | - passenger side airbag (+)  |     |
+| --- | -------------------------------- | ---------------------------- | --- |
+|     | - male (− , for all but pickup)  | - horsepower (+)             |     |
+
+|               | - college degree             | - vehicle residual value (+)  |     |
+| ------------- | ---------------------------- | ----------------------------- | --- |
+| Significant   |    (+, for 4-door)           | - consecutive purchases (+)   |     |
+| Results       | - no. of household members   |                               |     |
+|               |    (+, for van/wagon)        |                               |     |
+|               | - income (+, for SUV)        |                               |     |
+|               | - transit accessibility      |                               |     |
+|               |    (+, for 4-door)           |                               |     |
+Note: Sign in parentheses means positive or negative effect on the choice of the associated vehicle type.
+
+|     |     | 21  |     |
+| --- | --- | --- | --- |
+
+2.2 Vehicle Use Models
+In this section, three papers developing vehicle use models are reviewed. They are
+distinguished from the many other extant vehicle use models as being relevant to the
+current study, in that these papers relate the amount of vehicle use in terms of vehicle miles
+traveled or annual vehicle mileage to vehicle type. The first two papers are based on U.S.
+data and the other on Australian data. The models are developed using ordinary least
+squares or structural equation methods.
+2.2.1 Accessibility and Auto Use in a Motorized Metropolis – Ryuichi Kitamura, Thomas F.
+Golob, Toshiyuki Yamamoto and Ge Wu (2000)
+In addition to the vehicle type choice model discussed in Section 2.1.9, this paper presents
+ordinary least squares models for vehicle use. The annual mileage of the vehicle most
+recently purchased is estimated using accessibility indices, residential density, primary and
+secondary driver attributes, and household attributes. The authors use selectivity bias
+correction terms to deal with the potential correlation between the error terms of vehicle
+type choice and vehicle use in the model. They estimate three models, containing zero, one,
+and six correction terms, respectively, and then these correction terms turn out to be
+insignificant in the last two models. That is, there is no selectivity bias in the model without
+correction terms. The results show that none of the accessibility indices are significant in
+the models. On the other hand, number of vehicles available and age of primary driver
+negatively affect vehicle use, while commute distance and household income positively
+affect vehicle use. The van/station wagon category is more likely to have higher annual
+mileage than the other vehicle categories.
+22
+
+2.2.2 A Vehicle Use Forecasting Model Based on Revealed and Stated Vehicle Type Choice
+and Utilisation Data – Thomas F. Golob, David S. Bunch and David Brownstone (1997)
+This paper describes structural equation models of household annual vehicle miles traveled
+(VMT) based on vehicle type. A sample of 4,747 California households taken by computer-
+aided telephone interview (CATI) in 1993 is used for the analysis. The authors estimate
+structural equation models for single-vehicle households and two-vehicle households
+separately. We mainly discuss the model for single-vehicle households because both models
+have similar results except for an additional direct effect between gender and age of
+principal driver in the model for two-vehicle households. Endogenous variables in the
+model are natural log of VMT per year, age, gender, and employment status of principal
+driver, and exogenous variables are household (such as income and average age of head)
+and vehicle (vehicle type and operating cost) characteristics. The vehicle type variable is
+classified into 13 categories: mini, subcompact, compact, mid-sized, full-size, sports,
+compact pickup, full-size pickup, minivan, full-size van, luxury, compact SUV, and full-
+size SUV. The model indicates that women tend to drive less, while workers tend to drive
+more. Households that own mini or sports cars drive less than those with other cars. The
+model also explains that vehicle age has a negative effect on VMT. Further, households
+with older heads tend to drive less, while those with more children or high income drive
+more.
+2.2.3 An Econometric Model of Vehicle Use in the Household Sector – David A. Hensher
+(1985)
+This paper develops simultaneous equations models for household vehicle use in the short
+and long run using the three-stage least squares method. The models use a sample of 1,436
+households from the first wave household panel survey in the Sydney, Australia
+metropolitan area from 1981 to 1982. Endogenous variables are annual vehicle kilometers,
+fuel cost per kilometer, and fuel efficiency of vehicle (liters per 100 km). Exogenous
+variables in the models are vehicle attributes including vehicle types (such as a station
+wagon or a panel van) and household attributes including those of the primary driver. Six
+23
+
+simultaneous equation models are estimated separately: for one-, two-, and three-vehicle
+households, each for the short and long run. Each model consists of equations for annual
+VKT, fuel cost/km, and fuel efficiency for each vehicle in the household. The results show
+that only for the three-vehicle households is vehicle type significant. In particular, three-
+vehicle households that own a panel van or a utility vehicle tend to drive more than those
+with other vehicle types. The author also finds that the vehicle registration type strongly
+affects vehicle use. That is, vehicles registered for household-business are driven more than
+those registered for other-business. Vehicle age and operating cost negatively affect vehicle
+use, while vehicle weight positively affects vehicle use.
+2.2.4 Summary of Vehicle Use Models
+Table 2.2 summarizes the vehicle use models reviewed, comparing model types, dependent
+variables, explanatory variables, and data. Generally, least squares or structural equation
+models are used to estimate vehicle use. These models mainly consider vehicle attributes
+(including the vehicle type), primary driver characteristics, and household characteristics as
+explanatory variables. Interestingly, two models show that households owning a van tend to
+drive more than those with other vehicle types. These results imply that vehicle type is
+significantly associated with vehicle use such as VMT. Similar to vehicle use, our data
+contains objective mobility variables such as travel distance and frequency. The
+relationship between vehicle type and objective mobility in our sample is discussed in
+Chapter 4.
+24
+
+Table 2.2:  Summary of Vehicle Use Models
+Reference  Kitamura, et al. (2000)  Golob, et al. (1997)  Hensher (1985)
+Data Location  South Coast (Los Angeles)  Sydney Australia metropolitan
+California (1993)
+| (Year)  | metropolitan area (1993)  |     | area (1981-1982)  |
+| ------- | ------------------------- | --- | ----------------- |
+Sample Size  1,898 households  4,747 households   1,436 households
+Structural equation models for
+Simultaneous equations model
+| Model Type  | Ordinary least squares models  | single-vehicle and two-vehicle  |     |
+| ----------- | ------------------------------ | ------------------------------- | --- |
+using three-stage least squares
+households
+Annual vehicle kilometers
+| Dependent   | Annual mileage for the vehicle  | Natural log of vehicle miles  |     |
+| ----------- | ------------------------------- | ----------------------------- | --- |
+Fuel cost per kilometer
+| Variable(s)  | last acquired  | traveled per year  |     |
+| ------------ | -------------- | ------------------ | --- |
+Fuel efficiency of vehicle
+|     | Vehicle attributes         | Vehicle attributes     | Vehicle attributes              |
+| --- | -------------------------- | ---------------------- | ------------------------------- |
+|     | - vehicle type: van/wagon  | - operating cost       | - operating cost                |
+|     | - brand new                | - vehicle age          | - average occupancy of vehicle  |
+|     | - ownership                | - 13 vehicle classes:  | - registration  type            |
+|     |                            |    mini, subcompact,   |   (HH-business/                 |
+Primary driver attributes     compact, mid-sized,     other-business/private)
+|     | - age  |    full-size, sports,  | - no. of months held   |
+| --- | ------ | ---------------------- | ---------------------- |
+- need a car for work     compact pickup,  - replacement (whether or not
+- participated in the acquisition     full-size pickup,    the vehicle was replaced in
+|     |   decision                   |    minivan, full-size van,  |   last 12 months)     |
+| --- | ---------------------------- | --------------------------- | --------------------- |
+|     | - commute distance           |    compact SUV, luxury,     | - weight              |
+|     |                              |    and full-size SUV        | - vehicle age         |
+|     | Secondary driver attributes  |                             | - no. of cylinders    |
+|     | - gender                     | Household attributes        | - vehicle type:       |
+|     | - commute distance           | - no. of household members  |   panel van/utility,  |
+Explanatory
+|     |     | - no. of children  |   light commercial/  |
+| --- | --- | ------------------ | -------------------- |
+Variables Tested
+|     | Household attributes  | - no. of workers  |   camper van  |
+| --- | --------------------- | ----------------- | ------------- |
+- no. of household members  - income  - vehicle kilometers of  other
+- no. of drivers  - average age of head     vehicles (for multi-vehicle
+|     | - no. of vehicles                | - no. of vehicles  |    households)              |
+| --- | -------------------------------- | ------------------ | --------------------------- |
+|     | - income                         |                    |                             |
+|     | - no. of years at present        |                    | Primary driver attributes   |
+|     |   address                        |                    | - age                       |
+|     | - single parents                 |                    | - education                 |
+|     |                                  |                    |                             |
+|     | Residence attributes             |                    | Household attributes        |
+|     | - accessibility (auto, transit)  |                    | - no. of household members  |
+|     | - residential density            |                    | - income                    |
+- no. of commuters
+- no. of decision units
+- residential location
+|     | - van/wagon (+)  | - female principal driver (−)    | - operating cost (−)  |
+| --- | ---------------- | -------------------------------- | --------------------- |
+|     | - age (−)        | - employed principal driver (+)  | - vehicle age (−)     |
+Significant   - commute distance (+)  - mini car (−)  - HH-business registration
+Results  - no. of vehicles (−)  - sports car (−)     type (+)
+|     | - income (+)          | - no. of children (+)  | - panel van/utility (+)  |
+| --- | --------------------- | ---------------------- | ------------------------ |
+|     | - no. of drivers (+)  |                        | - weight (+)             |
+- income (+)
+Note: Sign in parentheses means positive or negative effect on the vehicle use such as VMT.
+
+|     |     | 25  |     |
+| --- | --- | --- | --- |
+
+2.3 Attitudes toward Mobility
+This section briefly reviews one paper and two master’s theses based on the same 1998 data
+set analyzed in this study. These studies use the same travel attitude, personality, lifestyle,
+and mobility characteristics that will be considered as explanatory variables in our vehicle
+type choice model. Thus, they provide additional information on the context of the present
+study, including what has been learned so far about the measurement of these variables and
+their relationships to each other.
+2.3.1 How Derived is the Demand for Travel? Some Conceptual and Measurement
+Considerations- Patricia L. Mokhtarian and Ilan Salomon (forthcoming)
+By considering undirected travel and travel affinity, this paper contends that travel can have
+a positive utility. The authors disagree with an absolute application of the axiom that “travel
+is a derived demand” and point out that, in some cases, “travel is not a byproduct of the
+activity but itself constitutes the activity”. Thus, they suggest, the utility of travel derives
+not just from the utility of reaching a desired destination (the traditional view of the utility
+of travel), but also from positive aspects of traveling itself (enjoyment of movement,
+exposure to the environment, skill in handling a vehicle, exploration and variety-seeking
+impulses, and so on) as well as from activities that can be conducted while traveling
+(relaxing, listening to music, using technology to work productively, etc.). Data on attitudes
+toward travel and other indicators were obtained from 1,904 San Francisco Bay Area
+respondents to a 1998 mail-out/mail-back questionnaire. Initial results support the existence
+of a positive utility of travel. For example, more than three-quarters of the sample indicated
+sometimes or often traveling “just for fun of it” and “out of your way to see beautiful
+scenery”. Further, more than two-thirds disagreed that “the only good thing about traveling
+is arriving at your destination”.
+26
+
+2.3.2 Attitudes toward Travel: The Relationships among Perceived Mobility, Travel Liking,
+and Relative Desired Mobility- Richard W. Curry (2000)
+This master’s thesis explores how travel liking and the qualitative perception of the amount
+one travels (perceived mobility) affect the desired amount of travel (relative desired
+mobility) by mode and purpose for short-and long-distance trips. Curry uses six different
+methodologies to study these relationships: correlation, cross tabulation, graphical,
+regression, vector sorting, and cluster analysis. The results show that travel liking is
+positively correlated to relative desired mobility, especially for short-distance trips. That is,
+the more people like to travel, the more they want to increase their travel. The result for
+perceived mobility is more complex. Respondents’ desire to increase their travel (relative
+desired mobility) is negatively related to their perceived mobility in some cases (e.g.
+commuting to work, travel by rapid transit), while it is positively related to their perceived
+mobility in other cases (e.g. entertainment for long-distance trips, walking). In these latter
+cases, the more people already travel, the more they want to increase their travel in these
+categories.
+As part of his thesis, Curry classified the vehicle most often driven by the respondent into
+ten categories based mainly on Consumer Reports magazine (these categories are discussed
+in greater detail in Chapter 3). Then, he compared the category of the most-often-driven
+vehicle across six groups obtained by cluster analyzing selected travel liking responses.
+Even though the vehicle type distribution was not significantly different across groups, he
+concluded that several trends exist. Those who dislike travel try to alleviate their discomfort
+by driving more comfortable vehicles such as large and luxury cars, and those who hate
+short-distance work travel but enjoy recreation travel tend to drive more SUVs and sports
+cars.
+27
+
+2.3.3 Attitude, Personality and Lifestyle Characteristics as Related to Travel: A Survey of
+Three San Francisco Bay Area Neighborhoods- Lothlorien S. Redmond (2000)
+This master’s thesis focuses on comparing clusters of respondents with similar profiles
+based on their scores on travel attitude, personality, and lifestyle factors. Redmond first
+used factor analysis to develop six factors (travel dislike, pro-environmental solution,
+commute benefit, travel freedom, travel stress, and pro-high density) from 32 attitude
+variables, four factors (adventure seeker, organizer, loner, and calm) from 17 personality
+variables, and four factors (frustrated, family and community oriented, status seeking, and
+workaholic) from 18 lifestyle variables of the survey. Scores on these factors will be used
+as explanatory variables in our vehicle type choice model, so each factor is discussed in
+more detail in Chapter 3. Then, she used cluster analysis to develop two independent
+partitions of the respondents into groups. In the first case, she identified six clusters based
+on five travel attitude factors (omitting the commute benefit factor, which was defined only
+for commuters), and in the second case she identified 11 clusters based on the eight
+personality and lifestyle factors taken together. Demographic, mobility, and travel liking
+variables were tested for significant differences across clusters, and many such differences
+were found. For example, “excess travelers”, one of the six attitude clusters, are young,
+highly urban, highly educated, and adventure-seeking. They like to travel and are strongly
+pro-environment and pro-high density. On the other hand, the “new family model”, one of
+the 11 personality and lifestyle clusters, mainly consists of young families. People in this
+cluster are family and community oriented, and have strongly positive attitudes toward
+travel. That is, they enjoy traveling.
+28
+
+CHAPTER 3. DATA CHARACTERISTICS
+3.1 Survey
+3.1.1 Survey Area
+The data for this study were collected from mail-out/mail-back surveys completed by
+residents of the San Francisco Bay Area in May and June of 1998. Assuming that attitudes
+toward travel and mobility may vary by type of residential location, three neighborhoods
+were selected based in part on a previous study by Kitamura, et al. (1994): Concord and
+Pleasant Hill represent suburban neighborhoods, and an area defined as North San
+Francisco represents an urban neighborhood.
+North San Francisco has more mixed land uses, higher residential density, and a more grid-
+like street system compared to the suburban examples. On the other hand, Concord has
+more segregated land uses and lower residential density. Pleasant Hill was selected to
+represent another part of the spectrum of suburban neighborhoods. Compared to Concord,
+Pleasant Hill has greater residential density and lower household income, indicating fewer
+single-family homes.
+3.1.2 Survey Contents
+The survey consists of 14 pages of questions, grouped into six sections. The sections are
+“Your Opinions about Travel” (Section A), “Your Lifestyle as it Relates to Travel” (Section
+B), “The Amount You Travel” (Section C), “How You View Your Travel” (Section D),
+“Your Travel-Related Choices” (Section E), and “General Information” (Section F). These
+sections contained questions about objective and perceived mobility, attitudes toward travel,
+lifestyle, personality, relative desired mobility, travel liking, and demographic
+characteristics.
+29
+
+3.1.3 Sample Size and Characteristics
+The surveys were sent to 8,000 randomly-selected households in the three neighborhoods:
+4,000 surveys were sent to North San Francisco, and Concord and Pleasant Hill received
+2,000 surveys each. After discarding surveys with too much missing data from about 2,000
+returned surveys, 1,904 surveys were retained for an overall response rate of 23.8%: 888
+surveys from North San Francisco, 473 surveys from Concord, and 543 surveys from
+Pleasant Hill. Respondents are relatively evenly divided between the urban and suburban
+neighborhoods.
+Based on Curry (2000) and Redmond (2000), we briefly describe key demographic
+characteristics of the sample. As shown in Table 3.1, almost 98% of respondents have
+driver's licenses and almost half of them (47.0%) are between the ages of 41 and 64. Most
+respondents (92.6%) have at least some college or technical school education, and 66% of
+them have a 4-year college degree or more. Approximately 80% of respondents are
+employed in full-time or part-time jobs. A high percentage (44.5%) of respondents are
+engaged in professional or technical jobs. The average household size in our sample is 2.4
+people and 1.6 workers, and the average number of vehicles is 1.9 vehicles per household.
+For workers in our sample, actual commute time is almost 30 minutes, while ideal commute
+time is about 16 minutes.
+30
+
+Table 3.1:  Sample Demographics
+Count (Percent)
+Characteristics
+|     |     |     | North San  | Pleasant  |     |
+| --- | --- | --- | ---------- | --------- | --- |
+Total  Concord
+|              |     |             | Francisco   | Hill        |             |
+| ------------ | --- | ----------- | ----------- | ----------- | ----------- |
+| % of sample  |     | 1904 (100)  | 888 (46.6)  | 543 (28.5)  | 473 (24.8)  |
+Have a driver’s license T1, N1, C1*
+|     |     | 1857 (97.7)  | 854 (96.4)  | 541 (99.6)  | 462 (97.9)  |
+| --- | --- | ------------ | ----------- | ----------- | ----------- |
+Age category T1, N1, C1
+|   23 or younger  |     | 61 (3.2)    | 35 (4.0)    | 15 (2.8)    | 11 (2.3)    |
+| ---------------- | --- | ----------- | ----------- | ----------- | ----------- |
+|   24 – 40        |     | 691 (36.3)  | 439 (49.5)  | 130 (23.9)  | 122 (25.8)  |
+|   41 – 64        |     | 894 (47.0)  | 332 (37.5)  | 294 (54.1)  | 268 (56.8)  |
+|   65 – 74        |     | 155 (8.2)   | 48 (5.4)    | 59 (10.9)   | 48 (10.2)   |
+|   75 or older    |     | 100 (5.3)   | 32 (3.6)    | 45 (8.3)    | 23 (4.9)    |
+Educational background T2, N2, C1
+  Some grade school or high school  15 (0.8)  8 (0.9)  4 (0.7)  3 (0.6)
+  High school diploma  126 (6.6)  25 (2.8)  34 (6.3)  67 (14.2)
+  Some college or technical school  506 (26.6)  152 (17.1)  188 (34.6)  166 (35.2)
+  4-year college/technical school degree  603 (31.7)  328 (37.0)  158 (29.1)  117 (24.8)
+  Some graduate school  211 (11.1)  110 (12.4)  49 (9.0)  52 (11.0)
+  Completed graduate degree(s)  441 (23.2)  264 (29.8)  110 (20.3)  67 (14.2)
+Current employment status T3, P1
+  Full-time  1249 (65.6)  640 (72.1)  325 (60.0)  284 (60.0)
+|   Part-time  |     | 267 (14.0)  | 128 (14.4)  | 79 (14.6)  | 60 (12.7)  |
+| ------------ | --- | ----------- | ----------- | ---------- | ---------- |
+|   Homemaker  |     | 60 (3.2)    | 16 (1.8)    | 24 (4.4)   | 20 (4.2)   |
+  Non-employed student  25 (1.3)  13 (1.5)  5 (0.9)  7 (1.5)
+|   Unemployed  |     | 37 (1.9)    | 19 (2.1)  | 7 (1.3)     | 11 (2.3)   |
+| ------------- | --- | ----------- | --------- | ----------- | ---------- |
+|   Retired     |     | 265 (13.9)  | 72 (8.1)  | 102 (18.8)  | 91 (19.2)  |
+Occupation category T4, N3, P1, C2
+|   Homemaker       |     | 88 (4.6)   | 23 (2.6)  | 42 (7.7)  | 23 (4.9)   |
+| ----------------- | --- | ---------- | --------- | --------- | ---------- |
+|   Service/repair  |     | 97 (5.1)   | 38 (4.3)  | 33 (6.1)  | 26 (5.5)   |
+|   Sales           |     | 165 (8.7)  | 72 (8.2)  | 45 (8.3)  | 48 (10.2)  |
+  Production/construction/crafts  79 (4.2)  30 (3.4)  16 (2.0)  33 (7.0)
+  Manager/administrator  388 (20.5)  179 (20.3)  120 (22.1)  89 (18.9)
+  Clerical/administrative support  195 (10.3)  80 (9.1)  67 (12.4)  48 (10.2)
+  Professional/technical  844 (44.5)  445 (50.4)  212 (39.1)  187 (39.7)
+|   Other  |     | 40 (2.1)  | 16 (1.8)  | 7 (1.3)  | 17 (3.6)  |
+| -------- | --- | --------- | --------- | -------- | --------- |
+Mean (Standard Deviation)
+Characteristics
+|     |     |     | North San  | Pleasant  |     |
+| --- | --- | --- | ---------- | --------- | --- |
+Total  Concord
+|     |     |     | Francisco  | Hill  |     |
+| --- | --- | --- | ---------- | ----- | --- |
+Ideal one-way commute time T5, N4, P2, C3  16.3 (8.8)  16.4 (8.4)  16.0 (8.9)  16.5 (9.2)
+Actual one-way commute time
+… time (minute) T6, N5, P3, C4
+|     |     | 29.7 (21.1)  | 28.1 (18.3)  | 30.8 (21.8)  | 31.7 (35.2)  |
+| --- | --- | ------------ | ------------ | ------------ | ------------ |
+… distance (miles) T7, N6, P4, C5
+|     |     | 14.5 (20.2)  | 11.1 (17.7)  | 17.5 (14.6)  | 18.5 (27.8)  |
+| --- | --- | ------------ | ------------ | ------------ | ------------ |
+Number of personal vehicles per HH T8, N7, C2  1.9 (1.8)  1.5 (1.0)  2.2 (1.2)  2.4 (3.0)
+Percent of time vehicle is available T4, N7, P5, C6  90.8 (25.6)  83.6 (33.4)  98.5 (8.4)  95.6 (16.8)
+Number of persons in HH  2.4 (1.2)  2.1 (1.2)  2.4 (1.2)  2.7 (1.3)
+Number of workers in HH T9, N8, P6, C7
+|     |     | 1.6 (0.9)  | 1.6 (0.9)  | 1.5 (0.9)  | 1.6 (1.0)  |
+| --- | --- | ---------- | ---------- | ---------- | ---------- |
+Note: This table is reproduced from Redmond (2000).
+The following numbers are sample sizes, where T stands for Total, N stands for North San Francisco, C stands for
+Concord, and P stands for Pleasant Hill.
+T1 = 1901, T2 = 1902, T3 = 1903, T4 = 1896, T5 = 1531, T6 = 1420, T7 = 1394, T8 = 1899, T9 = 1872,
+N1 = 886,  N2 = 887,  N3 = 883,  N4 = 825,  N5 = 700,  N6 = 687,  N7 = 885,  N8 = 875,
+| C1 = 472,  C2 = 471,  | C3 = 417,  C4 = 337,  | C5 = 330,  C6 = 470,  | C7 = 466,   |     |     |
+| --------------------- | --------------------- | --------------------- | ----------- | --- | --- |
+| P1 = 542,  P2 = 489,  | P3 = 383,  P4 = 377,  | P5 = 541,  P6 = 531   |             |     |     |
+|                       |                       | 31                    |             |     |     |
+
+3.2 The Dependent Variable, Vehicle Type
+This section explains the vehicle type categories later used as the dependent variable in our
+model. We first describe the vehicle type question in the survey and then indicate how we
+defined the vehicle type categories.
+One question in Section F of the survey asked for the make, model, and year of the vehicle
+the respondent drives most often, with a “not applicable” box for those who do not have
+access to a vehicle. First, all of the spelling errors from initial data entry were corrected
+through reference to the Consumer Reports magazine2, vehicle manufacturers’ web pages,
+and vehicle fan club web pages. Missing values were coded “unspecified” when the
+respondent answered either make or model but left the other blank, while they were coded
+“none” if both were left blank. If the respondent marked “not applicable” for the question,
+then make and model were coded “blank” and year was labeled “-8”, representing an
+acceptable missing value. After cleaning the data on vehicle information, there are about
+550 pairs of make and model, with each pair having at least a few responses.
+Curry (2000) created a variable named “Car Type” (sometimes called “vehicle class”)
+based on vehicle makes and models. In his thesis, the makes and models were classified
+into ten categories mostly based on the classification scheme presented in Consumer
+Reports: subcompact, small, compact3, mid-sized (at one time referred to as “medium” by
+Consumer Reports), large, luxury, sports, minivan/van, pickup, and sport utility vehicle
+(SUV). He also assumed that the Consumer Reports’ classification scheme accurately
+reflects consumer perception, even though the definition of categories has changed from
+year to year4. That is, a make/model combination is classified according to its Consumer
+2 Consumer Reports provides detailed information on new automobiles every year (usually in its April issue),
+classifies the vehicle type, and rates the automobiles on various aspects as a guide to consumers.
+3 The Consumer Reports distinguished compact and mid-sized cars by saying that compact cars are “models
+that offer practical transportation for a small family”, while mid-sized cars are models that are “bigger and
+roomier than compacts but priced about the same” (Consumer Reports, April 1991, p. 246).
+4 Some vehicle categories used by Consumer Reports have entered and dropped out in particular time periods.
+For example, the “subcompact car” classification has not been used since 1980, while “sports car” and “SUV”
+were created in 1984 and 1990, respectively. In particular, the size of a “mid-sized car” has not been
+32
+
+Reports designation for that model year, even if the same make and model are classified
+differently today. Table 3.2 shows some other vehicle classification schemes found in the
+academic literature and in statistical reports. These schemes are focused on vehicle size,
+vehicle function, or both. Similar to the Consumer Reports classification system, most
+schemes of vehicle classification first group vehicles by size, and then special categories
+such as sports, pickup, and SUV are added.
+Table 3.2: Vehicle Classification Schemes
+Item Source Vehicle Classification Basis
+Academic Kitamura, 4-door sedan, 2-door coupe, van/wagon, sports car, sports
+Function
+Literature et al. (2000) utility, pickup truck
+Subsubcompact, sports, subcompact-A, subcompact-B,
+Lave and
+compact-A, compact-B, intermediate, standard-A, Size
+Train (1979)
+standard-B, luxury
+Berkovec
+and Rust Subcompact, compact, intermediate, standard, luxury/sports Size
+(1985)
+Murtaugh
+Minicompact, sports-specialty, subcompact, sporty, compact,
+and Gladwin Size
+sports sedan, intermediate, large 1, large 2, luxury
+(1980)
+Minicompact, subcompact, compact, mid-sized, full-sized,
+Golob, et al.
+sports, compact pickup, full-sized pickup, minivan, full-sized Size
+(1997)
+van, compact SUV, luxury, full-sized SUV
+Statistical NPTS Automobile (including wagon), van, SUV, pickup, other truck,
+Function
+Reports (1995) RV, motorcycle, other
+Minicompact, subcompact, compact, mid-sized, large, two-
+Size &
+NTS (1997) seater, small pickup, large pickup, small van, large van, small
+function
+utility, large utility
+Two-seater, minicompact, subcompact, compact, mid-sized,
+large, station wagon (small & mid-sized), pickup (small & Size &
+EPA (1996)
+standard by 2wd & 4wd), van (cargo & passenger type), function
+special purpose vehicle (2wd & 4wd)
+Consumer
+Size &
+Reports Small, sports, mid-sized, large, minivan, luxury, SUV, pickup
+function
+(1995)
+Note: Vehicle function generally refers to engine size, wheel drive, and specialty.
+In this study, the nine vehicle categories currently used in Consumer Reports define the
+values of the dependent variable for the vehicle type choice model. Of the ten categories
+defined by Curry, subcompact is combined with small and the others are unchanged. These
+consistent across all time periods, especially in periods without a “compact car” category (1980-1983 and
+33
+
+categories are obviously less detailed than specific make/model combinations, but the
+sample size is not large enough to permit analysis at that level of detail.
+The first five categories are classified in order of vehicle size and the other categories are
+added to represent specialized vehicles. Certain vehicles in other categories such as
+“minicompact” or “subcompact” were included in the “small” category, and “sedan” or
+“wagon” types were reclassified into categories based on each vehicle’s size. As Curry
+(2000) did, we also assumed that the same category label consistently represents
+consumers’ perception of a vehicle type across time, even though the definition of that
+category may have changed over time.
+While classifying the sample vehicle makes and models into the nine categories, some
+cases with missing values of either makes or models could not be fit into an appropriate
+category, and these were classified as “unspecified”. From an original sample of 1,904
+cases, 217 (11.4%) could not be classified into one of the nine types, including 29 (1.5%)
+missing cases, 68 (3.6%) “unspecified” cases, 9 (0.5%) other means cases (such as
+motorcycle and bus), and 111 (5.8%) “not applicable” (do not drive or do not have a vehicle
+available) cases. As expected, most “not applicable” responses come from North San
+Francisco where public transit service is relatively good and auto ownership is relatively
+low. All unclassified cases were of necessity excluded from this portion of the study.
+Table 3.3 presents the distribution of vehicle types in our sample. The “small” and “mid-
+sized” categories are the largest, while the “large” and “luxury” categories are the smallest.
+It is of interest to compare the distribution of vehicle types in our sample to national data.
+The Bureau of Transportation Statistics reports the distribution of new car sales nationwide
+in its annual National Transportation Statistics report5 (BTS, 1999). As an approximation to
+the composition of the entire vehicle fleet in 1997, the composite distribution of new car
+1995-1998).
+5 The NTS report contains sales of new automobiles and light trucks matched to EPA fuel economy values
+every year.
+34
+
+sales for the years 1990-1997 combined was: minicompact (0.5%), subcompact (13.2%),
+compact (21.1%), mid-sized (17.5%), large (8.9%), two-seater (0.7%), pickup (16.9%), van
+(10.7%), and utility (10.6%). Differences between our sample and the NTS distribution
+may be due to the different vehicle categories and the fact that we are only obtaining data
+on one vehicle rather than all vehicles in a household.
+
+Table 3.3:  Sample Distribution of Vehicle Types
+Number of Cases (% of column)
+| Vehicle Type  |        |          |                | North San  |
+| ------------- | ------ | -------- | -------------- | ---------- |
+|               | Total  | Concord  | Pleasant Hill  |            |
+Francisco
+Classified  1,687 (88.6)   433 (91.5)  514 (94.7)  740 (83.3)
+|    Small      | 372 (19.5)   | 68 (14.4)   | 83 (15.3)   | 221 (24.9)  |
+| ------------- | ------------ | ----------- | ----------- | ----------- |
+|    Compact    | 237 (12.4)   | 63 (13.3)   | 68 (12.5)   | 106 (11.9)  |
+|    Mid-sized  | 353 (18.5)   | 88 (18.6)   | 123 (22.7)  | 142 (16.0)  |
+|    Large      | 53 (  2.8)   | 24 (  5.1)  | 18 (  3.3)  | 11 (  1.2)  |
+|    Luxury     | 58 (  3.0)   | 11 (  2.3)  | 11 (  2.0)  | 36 (  4.1)  |
+|    Sports     | 151 (  7.9)  | 30 (  6.3)  | 41 (  7.6)  | 80 (  9.0)  |
+   Minivan/van  111 (  5.8)  50 (10.6)  34 (  6.3)  27 (  3.0)
+|    Pickup  | 159 (  8.4)  | 58 (12.3)   | 65 (12.0)  | 36 (  4.1)  |
+| ---------- | ------------ | ----------- | ---------- | ----------- |
+|    SUV     | 193 (10.1)   | 41 (  8.7)  | 71 (13.1)  | 81 (  9.1)  |
+Unclassified  217 (11.4)  40 (  8.5)  29 (  5.3)  148 (16.7)
+|    Other  | 9 (  0.5)  | 2 (  0.4)  | 1 (  0.2)  | 6 (  0.7)  |
+| --------- | ---------- | ---------- | ---------- | ---------- |
+   Unspecified  68 (  3.6)  23 (  4.9)  22 (  4.1)  23 (  2.6)
+   Not applicable  111 (  5.8)  11 (  2.3)  3 (  0.6)  97 (10.9)
+|    Missing  | 29 (  1.5)     | 4 (  0.8)    | 3 (  0.6)    | 22 (  2.5)   |
+| ----------- | -------------- | ------------ | ------------ | ------------ |
+| Total       | 1,904 (100.0)  | 473 (100.0)  | 543 (100.0)  | 888 (100.0)  |
+
+3.3  Key Explanatory Variables
+This section describes the explanatory variables used in the vehicle type choice model:
+travel-related  attitudes,  personality,  lifestyle,  mobility,  travel  liking,  and  demographic
+variables. Some of these variables came directly from the survey, and others have been
+defined in the course of previous work (Curry, 2000; Redmond, 2000).
+
+3.3.1 Travel-related Attitudes
+Section A of the survey contained 32 statements expressing attitudes on various issues
+related to travel, residential location, and the environment. Respondents were asked to rate
+each statement using a five-point Likert-type scale from “strongly disagree” to “strongly
+|     |     | 35  |     |     |
+| --- | --- | --- | --- | --- |
+
+agree”. Redmond (2000) factor-analyzed the responses to these 32 interrelated statements,
+and identified six distinct factors: travel dislike, pro-environmental solutions, commute
+benefit, travel freedom, travel stress, and pro-high density. The scores of each respondent
+on these factors are considered to be key explanatory variables in the vehicle type choice
+model. The factors are described as follows.
+• Travel dislike. This factor indicates a disutility for travel, with strongly loading
+variables such as: “traveling is boring”, “travel time is generally wasted time”, and
+“the only good thing about traveling is arriving at your destination”. The travel
+liking variables described in Section 3.3.4 are direct, mode- and purpose-specific
+measures of an affinity for travel, whereas this is a more indirect, generic measure.
+• Pro-environmental solutions. This factor represents a tendency to support
+environmental solutions to improve air quality and reduce congestion, with strongly
+loading variables such as: “to improve air quality, I am willing to pay a little more
+to use an electric or other clean-fuel vehicle”, “we need more public transportation,
+even if taxes have to pay for a lot of the costs”, and “we should raise the price of
+gasoline to reduce congestion and air pollution”.
+• Commute benefit. This factor relates to a positive utility specifically for commuting,
+and was defined only for the commuters in the sample. It includes “my commute is
+a real hassle” (negative loading), “my commute trip is a useful transition between
+home and work”, and “I use my commute time productively”.
+• Travel freedom. This factor mainly consists of the variables “I have the freedom to
+go anywhere I want to” for both short- and long-distance travel. While on the face
+of it the factor represents a perception of the simple ability to travel, it may also
+carry overtones of an affinity for travel, with high-scoring individuals potentially
+saying “traveling gives me a sense of freedom”.
+• Pro-high density. This factor indicates a preference for higher-density residential
+locations. The variables “I like living in a neighborhood where there is a lot going
+on”, “having shops and services within walking distance of my home is important
+36
+
+to me”, and “living in a multiple family unit would not give me enough privacy”
+(negative) load heavily on this factor.
+• Travel stress. This factor indicates a disutility for traveling, similar to “travel
+dislike” but focusing on particular sources of anxiety. Strongly loading variables
+include “I worry about my safety when I travel”, “traveling makes me nervous”, and
+“I tend to get sick when traveling”.
+3.3.2 Personality
+The personality section of the survey (Section B, Question 1) asked “how well each of [17]
+words and phrases describes you”, on a five-point scale from “hardly at all” to “almost
+completely”. Redmond (2000) developed a four-factor solution from these 17 variables, and
+the scores on each personality factor are also considered key explanatory variables in the
+vehicle type choice model. The four factors are labeled adventure seeker, organizer, loner,
+and calm:
+• Adventure seeker. High scores on this factor indicate people who are “adventurous”,
+“variety-seeking”, “spontaneous”, “risk-taking”, and “ambitious”.
+• Organizer. This factor indicates people who like everything to have its place and
+run on schedule. Personality traits of “efficient”, “on time”, and “like a routine”
+heavily load on the factor.
+• Loner. High scores on this factor represent people who “like being alone” and
+“being independent”.
+• Calm. This factor indicates people who are more “patient” and less “aggressive” and
+“restless”, and they don’t like “being in charge”.
+3.3.3 Lifestyle
+Section B, Question 2 of the survey contained 18 statements indicating lifestyle choices
+potentially related to travel. The statements focused on work, family, community, money,
+and status, and respondents reacted to them on a Likert-type scale from “strongly disagree”
+to “strongly agree”. Redmond (2000) developed a four-factor solution from these 18
+37
+
+variables, and the scores on each lifestyle factor are also expected to be key explanatory
+variables in the vehicle type choice model. The four factors are named frustrated, family
+and community oriented, workaholic, and status seeking:
+• Frustrated. Variables loading heavily on this factor are “I often feel like I don’t have
+much control over my life” and “I am generally satisfied with my life” (negative
+loading).
+• Family and community oriented. High scores on this factor represent people who
+prioritize their family, friends, and community over work and money. Variables of
+“I’d like to spend more time with my family and friends” and “I’d like to spend
+more time on social, environmental, or religious causes” load heavily on the factor.
+• Workaholic. This factor represents people who put a high priority on work. The
+factor is based on variables such as “I’m pretty much a workaholic” and “I’d like to
+spend more time on work”.
+• Status seeking. High scores on this factor indicate people who seek higher social
+status related to wealth and want to display their wealth. Heavily loading variables
+are “to me, the car is a status symbol”, “a lot of the fun of having something nice is
+showing it off”, and “to me, a car is nothing more than a convenient way to get
+around” (negative loading).
+3.3.4 Mobility and Travel Liking
+The survey contains three types of questions relating to mobility: objective mobility,
+perceived mobility, and relative desired mobility. Another set of questions with a similar
+format relates to travel liking. All these questions ask about travel by mode and purpose for
+both short- and long-distance trips6.
+• Objective mobility. These questions ask about the amount of travel by mode and
+purpose in terms of distance and frequency for short- and long-distance trips. For
+short-distance trips, the travel frequencies are requested on a six-point scale ranging
+6 The definition of long-distance is more than 100 miles one way.
+38
+
+from "never" to "5 or more times a week", while the travel distance questions
+directly ask for the amount of miles per week by each mode and purpose. These
+responses can only be considered estimates of the amount of travel rather than
+accurate measures. For long-distance trips, respondents were asked to record the
+number of trips they took in the calendar year 1997, in each mode-purpose category,
+by region of the world. Curry (2000) transformed these reported trip frequencies to
+approximate trip distances, using an estimated average distance between the San
+Francisco Bay and a given destination region. We will use these trip distances to
+compare objective mobility for short- and long-distance trips across vehicle types.
+• Perceived Mobility. These questions ask respondents how they perceive the amount
+of travel they currently do, on a five-point semantic scale anchored by the labels
+"none" and "a lot". Separately for short- and long-distance trips, responses are
+obtained for “overall” and by mode and purpose.
+• Relative Desired Mobility. These questions ask about respondents’ desired amount
+of travel compared to their current travel. All responses are based on a five-point
+scale ranging from “much less” to “much more” for “overall” and by mode and
+purpose, for short- and long-distance.
+• Travel Liking. These questions ask how much respondents enjoy traveling itself
+(distinguished in the survey instructions from the activity at the destination),
+“overall” and by mode and purpose, for short- and long-distance trips. All responses
+are based on a five-point scale ranging from “strongly dislike” to “strongly like”.
+3.3.5 Demographics
+The survey contains a series of demographic questions. Information obtained includes
+gender, age, educational background, employment status, occupation, number of vehicles,
+number of household members by age group, household income, and personal income, plus
+questions related to commute time/distance and personal limitations on the use of specific
+modes. All relevant demographic variables will be compared across vehicle types in the
+following chapter and considered explanatory variables in the vehicle type choice model.
+39
+
+CHAPTER 4. DESCRIPTIVE ANALYSES OF VEHICLE TYPE
+This chapter explores whether or not the variables discussed in Chapter 3, plus two
+(attitudinal and personality/lifestyle) cluster membership variables created in previous work
+(Redmond, 2000), are significantly related to the choice of vehicle type the respondent
+drives most often. We conducted ANOVA and chi-squared tests to identify statistical
+differences among groups classified by vehicle type. The ANOVA test was used for
+continuous or quasi-continuous variables such as the travel attitude, personality, lifestyle,
+mobility, and travel liking variables, while the chi-squared test was used for categorical
+variables such as demographic characteristics and cluster memberships. The Bonferroni
+multiple comparisons test was additionally conducted for the variables that had statistical
+differences among vehicle type groups based on the ANOVA test, to identify which
+categories are significantly different from other categories. In the tables that follow, means
+(of the variable under discussion for a particular vehicle type category) that are
+significantly different from the mean of another category at a level of α = 0.05 are bolded
+(see Appendix 2 for more detailed results).
+4.1 Travel Attitudes, Personality, and Lifestyle
+4.1.1 Travel Attitudes
+ANOVA was used to compare the means of the travel dislike, pro-environmental solution,
+commute benefit, travel freedom, travel stress, and pro-high density factor scores across
+vehicle type groups. The mean scores on the pro-environmental solution, travel freedom,
+and pro-high density factors turn out to be significantly different among the groups at a
+level of α = 0.01, whereas the others are not significantly different at a level of α = 0.05.
+Table 4.1 displays the mean factor scores for each vehicle type.
+40
+
+Table 4.1:  Mean Travel Attitude Factor Scores by Vehicle Type
+Pro-
+|               |                               |     | Commute   | Travel   |                | Pro-high  |
+| ------------- | ----------------------------- | --- | --------- | -------- | -------------- | --------- |
+| Vehicle Type  | Travel Dislike environmental  |     |           |          | Travel Stress  |           |
+|               |                               |     | Benefit*  | Freedom  |                | Density   |
+(no. of cases)  (std. error)  Solution  (std. error)  (std. error)  (std. error)  (std. error)
+(std. error)
+|     | -0.042  | 0.140  | 0.015  | -0.068  | 0.018  | 0.114  |
+| --- | ------- | ------ | ------ | ------- | ------ | ------ |
+Small
+|     | (0.043)  | (0.040)  | (0.051)  | (0.038)  | (0.044)  | (0.041)  |
+| --- | -------- | -------- | -------- | -------- | -------- | -------- |
+(372)  [None]  [M, L, V, P, U]  [None]  [U]  [None]  [M, L, V, P, U]
+| Compact  | 0.098    | -0.041   | -0.054   | -0.070   | 0.024    | -0.035   |
+| -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+|          | (0.058)  | (0.051)  | (0.061)  | (0.045)  | (0.051)  | (0.051)  |
+(237)
+|     | [None]  | [L]     | [None]  | [U]    | [None]  | [L, V, P]  |
+| --- | ------- | ------- | ------- | ------ | ------- | ---------- |
+|     | 0.065   | -0.167  | -0.052  | 0.025  | 0.006   | -0.129     |
+Mid-sized
+|     | (0.046)  | (0.041)  | (0.055)  | (0.039)  | (0.047)  | (0.040)  |
+| --- | -------- | -------- | -------- | -------- | -------- | -------- |
+(353)
+|     | [None]  | [S]     | [None]  | [None]  | [None]  | [S, L, V, P]  |
+| --- | ------- | ------- | ------- | ------- | ------- | ------------- |
+|     | 0.178   | -0.519  | 0.030   | -0.020  | -0.052  | -0.607        |
+Large
+|     | (0.136)  | (0.112)  | (0.163)  | (0.079)  | (0.129)  | (0.109)  |
+| --- | -------- | -------- | -------- | -------- | -------- | -------- |
+(53)
+[None]  [S, C, X, R]  [None]  [None]  [None]  [S, C, M, X, R, U]
+|     | 0.180  | 0.018  | 0.030  | 0.210  | -0.208  | 0.049  |
+| --- | ------ | ------ | ------ | ------ | ------- | ------ |
+Luxury
+|     | (0.138)  | (0.108)  | (0.148)  | (0.095)  | (0.093)  | (0.118)  |
+| --- | -------- | -------- | -------- | -------- | -------- | -------- |
+(58)
+|     | [None]  | [L]     | [None]  | [None]  | [None]  | [L, V, P]  |
+| --- | ------- | ------- | ------- | ------- | ------- | ---------- |
+|     | -0.122  | -0.026  | -0.046  | 0.115   | -0.154  | 0.084      |
+Sports
+|     | (0.070)  | (0.069)  | (0.085)  | (0.057)  | (0.070)  | (0.069)  |
+| --- | -------- | -------- | -------- | -------- | -------- | -------- |
+(151)
+|     | [None]  | [L]     | [None]  | [None]  | [None]  | [L, V, P]  |
+| --- | ------- | ------- | ------- | ------- | ------- | ---------- |
+|     | -0.052  | -0.141  | 0.248   | 0.048   | -0.091  | -0.436     |
+Minivan/Van
+|     | (0.083)  | (0.076)  | (0.090)  | (0.063)  | (0.075)  | (0.068)  |
+| --- | -------- | -------- | -------- | -------- | -------- | -------- |
+(111)
+|     | [None]  | [S]     | [None]  | [None]  | [None]  | [S, C, M, X, R]  |
+| --- | ------- | ------- | ------- | ------- | ------- | ---------------- |
+|     | -0.001  | -0.266  | -0.045  | -0.067  | -0.006  | -0.500           |
+Pickup
+| (159)  | (0.063)  | (0.069)  | (0.075)  | (0.051)  | (0.062)  | (0.063)            |
+| ------ | -------- | -------- | -------- | -------- | -------- | ------------------ |
+|        | [None]   | [S]      | [None]   | [None]   | [None]   | [S, C, M, X, R, U] |
+|        | -0.065   | -0.166   | -0.026   | 0.151    | -0.057   | -0.185             |
+SUV
+|     | (0.060)  | (0.063)  | (0.067)  | (0.049)  | (0.055)  | (0.056)  |
+| --- | -------- | -------- | -------- | -------- | -------- | -------- |
+(193)
+|        | [None]  | [S]     | [None]  | [S, C]  | [None]  | [S, L, P]  |
+| ------ | ------- | ------- | ------- | ------- | ------- | ---------- |
+| Total  | 0.008   | -0.081  | -0.011  | 0.012   | -0.027  | -0.114     |
+(1,687)  (0.021)  (0.020)  (0.024)  (0.017)  (0.020)  (0.020)
+| F-value  | 1.884  | 7.570  | 1.052  | 3.277  | 1.252  | 15.678  |
+| -------- | ------ | ------ | ------ | ------ | ------ | ------- |
+(Sig.)  (0.058)  (0.000)  (0.395)  (0.001)  (0.265)  (0.000)
+Notes:
+A bold figure indicates that the mean of that category is significantly different from that of another category.
+The letters in brackets indicate categories whose means are significantly different from the mean of the row
+category, where S stands for small, C stands for compact, M stands for mid-sized, L stands for large, X stands
+for luxury, R stands for sports, V stands for minivan/van, P stands for pickup, and U stands for SUV.
+*  The commute benefit factor has a different sample size (N=1,278) as it was defined only for commuters:
+small (308), compact (180), mid-sized (244), large (27), luxury (33), sports (123), minivan/van (72), pickup
+(132), and SUV (159).
+
+Taking each factor in turn, we first see some interesting trends for the travel dislike factor,
+which are worth pointing out even though the differences are not statistically significant at
+a level of α = 0.05. We had expected that driving large or luxury vehicles would be
+associated with liking travel (i.e. a low travel dislike factor score), with the comfort of the
+vehicle being a causal influence on the affinity for travel. Instead we found the opposite
+result:  large  and  luxury  car  drivers  have  the  highest  mean  travel  dislike  scores.  This
+|     |     |     | 41  |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+
+suggests that the converse direction of causality may be at work: because a person doesn’t
+like travel, she acquires a comfortable car to help ameliorate its unpleasantness. The fact
+that both counteracting directions of influence may be at work for different people in the
+sample may explain why the observed result is not statistically significant. We do note the
+expected result for sports car and SUV drivers: they have the lowest travel dislike scores,
+i.e. like travel the most. Here too, however, both directions of causality may be at work,
+although this time with the same sign: loving travel may be both a cause and an effect of
+driving a “fun”, fast, “tough”, outdoorsy vehicle.
+As expected, pro-environmentalists are more likely to use smaller vehicles. They tend to
+use small cars rather than large cars or pickup trucks, which have higher emissions. As
+commute benefit means are not significantly different among the groups, the assessment of
+the potential benefits of commuting is less related to a particular car type. Interestingly,
+however, minivan/van drivers tend to view the benefits of commuting more positively than
+average. We may expect that minivan/van drivers are more likely to be chauffeuring
+children, and possibly running errands such as grocery shopping, in connection with their
+commute trips. Thus, this group may see the value of chaining other activities to the work
+trip, and may also (as other components of this study are suggesting) value the commute
+time as time to spend with family members.
+Those who feel that they have travel freedom are more likely to use sporty, versatile, or
+leisure cars such as luxury cars and SUVs. On the other hand, they are less likely to use
+small and compact cars that may not offer the space or the versatility to carry people or
+materials comfortably. The relationship here may be one of third party correlation – both
+the lack of feeling of travel freedom and the ownership of a smaller car may be
+consequences of lower income – or, the perceived lack of freedom may be more directly
+due to the perceived limitations of a smaller car, or both. Not surprisingly, those who drive
+luxury and sports cars are less likely to feel stressed when they travel, although the mean
+42
+
+scores do not differ significantly among the groups. Presumably, the amenities of the car
+they are driving contribute to mitigating any stress they might feel.
+The pro-high density attitude varies considerably across vehicle type groups. Consistent
+with the stereotype of young, upwardly-mobile urban professionals preferring higher-
+density environments and older, more affluent, more settled families preferring lower-
+density suburbs, we find that drivers of small and sports cars feel more positive than
+average toward higher densities, while drivers of large cars, pickups, and minivans feel less
+positive than average. The scarcity of parking in higher-density environments (assuming a
+strong correlation between people’s attitudes and their actual residential choices) may also
+motivate a preference for smaller cars and away from larger vehicles there.
+4.1.2 Personality
+In this section, we describe the differences between vehicle type groups in terms of the four
+personality factors: adventure seeker, organizer, loner, and calm. Mean scores for all of the
+factors except “organizer” differ statistically across groups, at a level of α= 0.0005 or better.
+Table 4.2 shows the mean factor scores for each vehicle type.
+As a general observation it can be noted that mean scores differ less extremely for this
+group of factors than for several of the attitudinal factors of Table 4.1. This suggests that
+personalities spread somewhat more evenly across different vehicle types than do attitudes,
+so it must be remembered that the significant differences observed here represent general
+tendencies, not dramatic distinctions. Adventure seekers are ambitious, spontaneous, and
+variety-seeking, and might be expected to enjoy traveling in general and driving in
+particular. Thus, it is not surprising that drivers of sports cars and SUVs have the highest
+mean scores on the “adventure seeker” factor, whereas drivers of large and compact cars
+have the lowest mean scores (the mean for large car drivers, although the lowest of the nine
+groups, is not significantly different from the other means because of its relatively high
+standard error due to the small sample size for that group). Similar to our result, research by
+43
+
+automakers found that “SUV buyers tend to be more restless, more sybaritic, less social
+people  who  are  ‘self-oriented’,  to  use  the  automakers’  words,  and  who  have  strong
+conscious or subconscious fears of crime” (Bradsher, 2000).
+
+Table 4.2:  Mean Personality Factor Scores by Vehicle Type
+| Vehicle Type  | Adventure Seeker  | Organizer  | Loner  | Calm  |
+| ------------- | ----------------- | ---------- | ------ | ----- |
+(no. of cases)  (std. error)  (std. error)  (std. error)  (std. error)
+-0.015
+| Small  | 0.013    |          | 0.122    | 0.068    |
+| ------ | -------- | -------- | -------- | -------- |
+|        | (0.045)  | (0.040)  | (0.047)  | (0.041)  |
+(372)
+|     | [R]     | [None]  | [M, V]  | [R]    |
+| --- | ------- | ------- | ------- | ------ |
+|     | -0.122  | -0.063  | -0.106  | 0.086  |
+Compact
+|     | (0.061)  | (0.052)  | (0.057)  | (0.050)  |
+| --- | -------- | -------- | -------- | -------- |
+(237)
+|     | [R]     | [None]  | [None]  | [R]    |
+| --- | ------- | ------- | ------- | ------ |
+|     | -0.059  | 0.095   | -0.102  | 0.006  |
+Mid-sized
+|     | (0.046)  | (0.042)  | (0.047)  | (0.044)  |
+| --- | -------- | -------- | -------- | -------- |
+(353)
+|     | [R]     | [None]  | [S]     | [None]  |
+| --- | ------- | ------- | ------- | ------- |
+|     | -0.186  | 0.038   | -0.244  | -0.116  |
+Large
+|     | (0.132)  | (0.116)  | (0.125)  | (0.110)  |
+| --- | -------- | -------- | -------- | -------- |
+(53)
+|     | [R]    | [None]  | [None]  | [None]  |
+| --- | ------ | ------- | ------- | ------- |
+|     | 0.059  | 0.043   | -0.139  | -0.192  |
+Luxury
+|     | (0.117)  | (0.106)  | (0.109)  | (0.127)  |
+| --- | -------- | -------- | -------- | -------- |
+(58)
+|     | [None]  | [None]  | [None]  | [None]  |
+| --- | ------- | ------- | ------- | ------- |
+|     | 0.337   | -0.089  | 0.118   | -0.214  |
+Sports
+|     | (0.079)  | (0.061)  | (0.080)  | (0.066)  |
+| --- | -------- | -------- | -------- | -------- |
+(151)
+|     | [S, C, M, L, V]  | [None]  | [None]  | [S, C, V]  |
+| --- | ---------------- | ------- | ------- | ---------- |
+|     | -0.114           | 0.026   | -0.238  | 0.211      |
+Minivan/Van
+|     | (0.088)  | (0.088)  | (0.087)  | (0.073)  |
+| --- | -------- | -------- | -------- | -------- |
+(111)
+|     | [R]    | [None]  | [S, U]  | [R, U]  |
+| --- | ------ | ------- | ------- | ------- |
+|     | 0.035  | 0.007   | -0.005  | -0.048  |
+Pickup
+|        | (0.069)  | (0.058)  | (0.074)  | (0.070)  |
+| ------ | -------- | -------- | -------- | -------- |
+| (159)  | [None]   | [None]   | [None]   | [None]   |
+|        | 0.134    | 0.113    |          |          |
+| SUV    |          |          | 0.140    | -0.120   |
+|        | (0.063)  | (0.057)  | (0.066)  | (0.059)  |
+(193)
+|          | [None]   | [None]   | [V]      | [V]      |
+| -------- | -------- | -------- | -------- | -------- |
+| Total    | 0.011    | 0.018    | -0.011   | -0.005   |
+| (1,687)  | (0.022)  | (0.019)  | (0.022)  | (0.020)  |
+| F-value  | 4.484    | 1.516    | 4.292    | 4.058    |
+| (Sig.)   | (0.000)  | (0.147)  | (0.000)  | (0.000)  |
+Notes:
+A bold figure indicates that the mean of that category is significantly different from that of another category.
+The letters in brackets indicate categories whose means are significantly different from the mean of the row
+category, where S stands for small, C stands for compact, M stands for mid-sized, L stands for large, X stands
+for luxury, R stands for sports, V stands for minivan/van, P stands for pickup, and U stands for SUV.
+
+Organizers are more routine-oriented and efficient, so they may be more likely to use cars
+rather than transit, but with no hypothesized tendency toward particular vehicle types. As
+expected, the ANOVA test shows that there is no significant difference in mean factor score
+among the groups. Turning to the loner factor, it is logical that minivan and large car drivers
+|     |     | 44  |     |     |
+| --- | --- | --- | --- | --- |
+
+have the lowest scores, since those car types imply the frequent presence of other
+passengers. The high mean scores for small and sports car drivers are similarly logical.
+SUV drivers also have a greater-than-average tendency to be loners (with the highest mean
+score on that factor). This intriguing orientation of loners toward cars (sports cars as well as
+SUVs) that are arguably symbols of flamboyance may reflect a desire for attention and
+social acceptance (whether conscious or unconscious).
+People with a high “calm” factor score are in some ways the antithesis of the adventure
+seekers; the means on these two scores have opposite signs for seven of the nine vehicle
+groups. Interestingly, minivan drivers have the highest mean score on this factor, indicating
+perhaps a more settled status and maturity of parenthood (as a general tendency). Sports car
+drivers are the least calm on average, suggesting a certain restless attitude toward life in
+general and travel in particular. Luxury car drivers have a similarly low average (although
+with a higher standard error so that it is not significantly different from the other categories),
+suggesting a tendency of this group to be striving for ever-greater success.
+4.1.3 Lifestyle
+The ANOVA test was also carried out to compare mean scores of each vehicle type group
+on the four lifestyle factors: frustrated, family/community oriented, workaholic, and status
+seeking. All factors have statistically significantly different mean scores among the groups
+at a level of α = 0.05 or better.
+45
+
+Table 4.3:  Mean Lifestyle Factor Scores by Vehicle Type
+Family/Community
+| Vehicle Type  | Frustrated  |     | Workaholic  | Status Seeking  |
+| ------------- | ----------- | --- | ----------- | --------------- |
+Oriented
+| (no. of cases)  | (std. error)  |     | (std. error)  | (std. error)  |
+| --------------- | ------------- | --- | ------------- | ------------- |
+(std. error)
+|     | 0.000  | 0.094  | -0.115  | -0.162  |
+| --- | ------ | ------ | ------- | ------- |
+Small
+|     | (0.044)  | (0.040)  | (0.038)  | (0.041)  |
+| --- | -------- | -------- | -------- | -------- |
+(372)
+|     | [None]  | [None]  | [P]    | [X, R, P, U]  |
+| --- | ------- | ------- | ------ | ------------- |
+|     | 0.039   | -0.024  | 0.042  | -0.074        |
+Compact
+|     | (0.051)  | (0.048)  | (0.050)  | (0.047)  |
+| --- | -------- | -------- | -------- | -------- |
+(237)
+|     | [None]  | [None]  | [None]  | [X]     |
+| --- | ------- | ------- | ------- | ------- |
+|     | -0.009  | -0.035  | 0.003   | -0.023  |
+Mid-sized
+|     | (0.041)  | (0.041)  | (0.039)  | (0.043)  |
+| --- | -------- | -------- | -------- | -------- |
+(353)
+|     | [None]  | [None]  | [None]  | [X]    |
+| --- | ------- | ------- | ------- | ------ |
+|     | -0.009  | -0.207  | 0.112   | 0.172  |
+Large
+|     | (0.108)  | (0.123)  | (0.098)  | (0.103)  |
+| --- | -------- | -------- | -------- | -------- |
+(53)
+|     | [None]  | [None]  | [None]  | [None]  |
+| --- | ------- | ------- | ------- | ------- |
+|     | -0.181  | -0.078  | 0.214   | 0.481   |
+Luxury
+|     | (0.087)  | (0.104)  | (0.101)  | (0.132)  |
+| --- | -------- | -------- | -------- | -------- |
+(58)
+|     | [None]  | [None]  | [None]  | [S, C, M, V]  |
+| --- | ------- | ------- | ------- | ------------- |
+|     | -0.070  | 0.069   | -0.099  | 0.186         |
+Sports
+|        | (0.070)  | (0.061)  | (0.062)  | (0.073)  |
+| ------ | -------- | -------- | -------- | -------- |
+| (151)  | [None]   | [None]   | [None]   | [S, V]   |
+|        | -0.034   | -0.006   | 0.004    | -0.148   |
+Minivan/Van
+|     | (0.084)  | (0.077)  | (0.074)  | (0.075)  |
+| --- | -------- | -------- | -------- | -------- |
+(111)
+|     | [None]  | [None]  | [None]  | [X, R]  |
+| --- | ------- | ------- | ------- | ------- |
+|     | 0.192   | -0.082  | 0.149   | 0.134   |
+Pickup
+|     | (0.065)  | (0.052)  | (0.062)  | (0.059)  |
+| --- | -------- | -------- | -------- | -------- |
+(159)
+|     | [U]     | [None]  | [S]    | [S]    |
+| --- | ------- | ------- | ------ | ------ |
+|     | -0.096  | 0.073   | 0.026  | 0.106  |
+SUV
+|     | (0.054)  | (0.055)  | (0.049)  | (0.057)  |
+| --- | -------- | -------- | -------- | -------- |
+(193)
+|          | [P]      | [None]   | [None]   | [S]      |
+| -------- | -------- | -------- | -------- | -------- |
+| Total    | -0.004   | 0.008    | 0.000    | 0.003    |
+| (1,687)  | (0.020)  | (0.019)  | (0.018)  | (0.020)  |
+| F-value  | 2.047    | 1.993    | 3.140    | 7.635    |
+| (Sig.)   | (0.038)  | (0.044)  | (0.002)  | (0.000)  |
+Notes:
+A bold figure indicates that the mean of that category is significantly different from that of another category.
+The letters in brackets indicate categories whose means are significantly different from the mean of the row
+category, where S stands for small, C stands for compact, M stands for mid-sized, L stands for large, X stands
+for luxury, R stands for sports, V stands for minivan/van, P stands for pickup, and U stands for SUV.
+
+Table 4.3 shows the mean factor scores for each vehicle type. While the differences across
+groups in mean frustration score are not as extreme as for some of other factors, they are
+still statistically significant. It is perhaps not surprising that luxury car drivers are least
+frustrated (although not significantly different from the other categories), and on the other
+hand it is intriguing that pickup truck drivers are the most frustrated.
+
+We expected that those who are family/community oriented would be more likely to use a
+larger vehicle, especially a minivan/van or perhaps an SUV. However, it turns out that these
+|     |     | 46  |     |     |
+| --- | --- | --- | --- | --- |
+
+groups do not have very high mean scores on the family/community factor. In fact, the large
+car group has the most negative mean. Drivers of small cars have the highest (although not
+very high) mean score on this factor, perhaps because small cars are more economical and
+practical than large cars and represent family or community orientation, just not big
+families. Also, it is important to remember that we do not have data on the household’s
+entire fleet, only on the single car driven most often by the respondent. The small car could
+be the economical second (or third) vehicle in a family that also has a minivan or large car.
+`
+Workaholics are likely to be ambitious and career-oriented, with potentially higher incomes
+as a result, or the desire to project an affluent, successful image. So it is not surprising that
+small car drivers have the lowest mean score and luxury car drivers have the highest mean
+score on this factor. The second-highest mean score, for pickup truck drivers, was not
+predicted but is interesting. With respect to the final personality factor, clearly, status
+seekers are more likely to drive a large, luxury, or expensive car, as they are likely to think
+of their cars as a status symbol. As expected, drivers of luxury and sports cars have the
+highest mean scores on this factor, with large car drivers next and pickup truck drivers next.
+The mean score for SUV drivers is also positive. Not surprisingly, small car drivers are the
+least status-seeking.
+4.2 Mobility and Travel Liking
+We used ANOVA to compare the means across vehicle type groups of three different kinds
+of measures of mobility (objective mobility, perceived mobility, and relative desired
+mobility) and travel liking for short- and long-distance trips. The bold figures in the tables
+indicate the vehicle type categories whose means are significantly different from that of
+another category.
+4.2.1 Objective Mobility
+For this study, we focus on distance traveled as the key measure of objective mobility. For
+short-distance trips we analyze distance traveled by personal vehicle and overall, and for
+47
+
+long-distance trips we analyze distance traveled by personal vehicle and by airplane.
+Distance traveled for long-distance trips was estimated by multiplying the number of
+reported trips to each destination region by an average distance to that region (Curry, 2000).
+In the present study, we counted only long-distance trips within North, Central, and South
+America, because vehicle type might be more clearly related to travel to areas accessible by
+car to the survey respondents (whether a personal vehicle or airplane was chosen for the
+trip). The sum of the natural log of the miles for each long-distance trip was also analyzed,
+to reflect a potential non-linear relationship between distance and other variables of interest
+(see Curry, 2000 for a more complete discussion of these objective mobility measures). As
+shown in Table 4.4, all variables, except for long-distance travel by personal vehicle, have
+significant differences across groups at a level of α = 0.05.
+For short-distance trips, drivers of pickup trucks have the highest mean distance traveled
+both by personal vehicle and overall, as shown in Figure 4.1. Both driving the pickup truck
+and traveling more than average (for short-distance trips) may be consequences of a need to
+move goods or materials some distance on a frequent basis. Other people who travel a lot
+by a personal vehicle may prefer bigger cars for greater comfort, so they tend to use
+minivans/vans or SUVs. On the other hand, those who travel less by a personal vehicle tend
+to use small or luxury cars. Those people may drive smaller cars because they do not make
+many trips, or more comfortable cars if they don’t like traveling. Driving a luxury car may
+also be an indicator of greater age, which in some cases would be associated with lower
+mobility (e.g. for retired workers). For overall short-distance trips, the results are similar to
+those made by personal vehicle.
+48
+
+Table 4.4:  Mean Distance Traveled (Objective Mobility) by Vehicle Type
+Short-Distance Trips (miles/week)  Long-Distance Trips (miles/year), Western Hemisphere
+Vehicle
+|       |         | Personal  |          |         | Personal  |            | Ln (Personal  |                |
+| ----- | ------- | --------- | -------- | ------- | --------- | ---------- | ------------- | -------------- |
+| Type  | Sample  |           | Overall  | Sample  |           | Airplane*  |               | Ln (Airplane)* |
+Size  Vehicle  (std. error)  Size  Vehicle*  (std. error)  Vehicle)*  (std. error)
+|              |        | (std. error)  |               |        | (std. error)  |                  | (std. error)  |                  |
+| ------------ | ------ | ------------- | ------------- | ------ | ------------- | ---------------- | ------------- | ---------------- |
+|              |        | 149           | 184           |        | 1,790         | 4,931            | 31.0          | 26.5             |
+| Small        | 372    | (8)           | (8)           | 368    | (196)         | (514)            | (2.4)         | (2.6)            |
+|              |        | [P]           | [P]           |        | [None]        | [X]              | [None]        | [X]              |
+|              |        | 156           | 188           |        | 1,556         | 4,523            | 34.3          | 27.2             |
+| Compact      | 237    | (11)          | (11)          | 236    | (358)         | (577)            | (9.3)         | (2.7)            |
+|              |        | [P]           | [P]           |        | [None]        | [X]              | [None]        | [X]              |
+|              |        | 169           | 206           |        | 2,001         | 4,809            | 42.6          | 31.1             |
+| Mid-sized    | 353    | (9)           | (11)          | 351    | (238)         | (411)            | (5.6)         | (2.7)            |
+|              |        | [P]           | [P]           |        | [None]        | [X]              | [None]        | [X]              |
+|              |        | 165           | 196           |        | 2,621         | 4,450            | 59.8          | 27.2             |
+| Large        | 53     | (24)          | (24)          | 52     | (1,011)       | (1,184)          | (24.8)        | (6.5)            |
+|              |        | [None]        | [None]        |        | [None]        | [X]              | [None]        | [X]              |
+|              |        |               |               |        |               | 14,547           |               | 69.7             |
+|              |        | 149           | 165           |        | 1,746         |                  | 36.6          |                  |
+| Luxury       | 58     | (19)          | (19)          | 57     | (357)         | (3,942)          | (6.6)         | (16.9)           |
+|              |        |               |               |        |               | [S, C, M, L, R,  |               | [S, C, M, L, R,  |
+|              |        | [None]        | [P]           |        | [None]        |                  | [None]        |                  |
+|              |        |               |               |        |               | V, P, U]         |               | V, P, U]         |
+|              |        | 175           | 212           |        | 2,068         | 7,794            | 48.1          | 40.2             |
+| Sports       | 151    | (14)          | (15)          | 149    | (486)         | (1,275)          | (12.6)        | (6.3)            |
+|              |        | [None]        | [None]        |        | [None]        | [X, P]           | [None]        | [X, P]           |
+|              |        | 180           | 229           |        | 1,762         | 3,302            | 39.7          | 20.4             |
+| Minivan/Van  | 111    |               |               | 111    |               |                  |               |                  |
+|              |        | (16)          | (21)          |        | (398)         | (530)            | (10.3)        | (3.7)            |
+|              |        | [None]        | [None]        |        | [None]        | [X]              | [None]        | [X]              |
+|              |        | 223           | 266           |        | 2,154         | 3,048            | 46.4          | 17.2             |
+| Pickup       | 159    |               |               | 157    |               |                  |               |                  |
+|              |        | (17)          | (19)          |        | (486)         | (590)            | (12.3)        | (2.7)            |
+|              |        | [S, C, M]     | [S, C, M, X]  |        | [None]        | [X, R, U]        | [None]        | [X, R, U]        |
+|              |        | 182           | 214           |        | 1,912         | 7,581            | 42.2          | 41.6             |
+| SUV          | 192    |               |               | 193    |               |                  |               |                  |
+|              |        | (12)          | (12)          |        | (217)         | (1,042)          | (5.5)         | (5.1)            |
+|              |        | [None]        | [None]        |        | [None]        | [X, P]           | [None]        | [X, P]           |
+|              |        | 170           | 205           |        | 1,897         | 5,436            | 39.8          | 30.7             |
+| Total        | 1,686  |               |               | 1,674  |               |                  |               |                  |
+|              |        | (4)           | (5)           |        | (115)         | (283)            | (2.7)         | (1.4)            |
+| F-value      |        | 3.182         | 3.650         |        | 0.454         | 8.016            | 0.782         | 6.726            |
+|              |        |               |               |        |               |                  |               |                  |
+(sig.)  (0.001)  (0.000)  (0.889)  (0.000)  (0.618)  (0.000)
+Notes:
+* Mode-specific data on long-distance travel were only collected for the trip purposes of “work/school-
+related” and “entertainment/recreation/social”, which are expected to comprise the bulk of long-distance
+travel.
+“Ln (Personal Vehicle)” means the sum across trips of the natural log of the miles traveled for each trip by
+personal vehicle, and similarly for airplane.
+A bold figure indicates that the mean of that category is significantly different from that of another category.
+The letters in brackets indicate categories whose means are significantly different from the mean of the row
+category, where S stands for small, C stands for compact, M stands for mid-sized, L stands for large, X stands
+for luxury, R stands for sports, V stands for minivan/van, P stands for pickup, and U stands for SUV.
+
+|     |     |     |     | 49  |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+300
+250
+200
+150
+100
+50
+0
+S
+mall
+Co
+mpact Mid-sized Large Luxury
+Sp
+M
+o
+i
+r
+n
+ts
+ivan/
+Van Pickup
+S U
+V
+keew
+rep
+selim
+personal vehicle trips
+overall trips
+personal vehicle trip average
+overall trip average
+Figure 4.1: Objective Mobility for Short-Distance Trips
+For long-distance trips, mean distances traveled by personal vehicle are not significantly
+different among the groups, indicating that the amount of long-distance travel by personal
+vehicle is not strongly related to a particular vehicle type. Interestingly, as shown in Figure
+4.2, drivers of the more comfortable cars such as luxury cars tend to travel more by airplane
+than other drivers. Those people are more likely to have higher incomes supporting their
+extensive air travel for business or pleasure. They probably place higher value on their
+travel time, and also prefer more expensive cars (luxury and sports cars, and SUVs).
+Examining the sum of the natural logs of the miles traveled for each trip is useful because
+this measure has the effect of giving some weight to the number of trips, not just the total
+distance traveled (Curry, 2000). Similar to the result for the mean raw distance traveled,
+only the mean sum of the natural logs of the miles traveled by airplane is significantly
+different among the groups, and the luxury car group has also the highest mean value.
+Unlike the result for raw distance, however, drivers of SUVs have the second-highest mean
+value of the sum of the natural logs of the miles traveled. That is, when number of trips as
+50
+
+well as distance traveled is taken into consideration, SUV drivers tend to engage in more
+long-distance travel than drivers of sports cars.
+16000
+14000
+12000
+10000
+8000
+6000
+4000
+2000
+0
+S
+mall
+Co
+mpact Mid-sized Large Luxury
+Spo
+M
+rts
+inivan/
+Van Pickup
+S U
+V
+raey
+rep
+selim
+personal vehicle trips
+airplane trips
+personal vehicle trip average
+airplane trip average
+Figure 4.2: Objective Mobility for Long-Distance Trips
+4.2.2 Perceived Mobility
+As described in the previous chapter, perceived mobility refers to the respondent’s
+perception of the amount currently traveled. It is measured on a five-point scale from
+“none” to “a lot”. For short-distance trips, we analyze perceived mobility for personal
+vehicle and overall, and for long-distance trips, we analyze perceived mobility for personal
+vehicle, airplane travel, and overall. As shown in Table 4.5, the means of all variables are
+significantly different across vehicle type groups at a level of α = 0.01.
+51
+
+Table 4.5:  Mean Perceived Mobility by Vehicle Type
+|     |     | Short-Distance Trips  |     | Long-Distance Trips  |     |     |
+| --- | --- | --------------------- | --- | -------------------- | --- | --- |
+Sample
+| Vehicle Type  |        | Personal      |               | Personal        |                     |               |
+| ------------- | ------ | ------------- | ------------- | --------------- | ------------------- | ------------- |
+|               | Size   |               | Overall       |                 | Airplane            | Overall       |
+|               |        | Vehicle       |               | Vehicle         |                     |               |
+|               |        |               | (std. error)  |                 | (std. error)        | (std. error)  |
+|               |        | (std. error)  |               | (std. error)    |                     |               |
+|               |        | 3.87          | 3.47          | 2.95            | 2.74                | 2.71          |
+| Small         | 372    | (0.06)        | (0.06)        | (0.06)          | (0.06)              | (0.05)        |
+|               |        | [V]           | [None]        | [V]             | [P]                 | [None]        |
+|               |        | 3.84          | 3.33          | 2.82            | 2.65                | 2.65          |
+| Compact       | 237    | (0.07)        | (0.06)        | (0.08)          | (0.07)              | (0.06)        |
+|               |        | [V]           | [V]           | [V, P, U]       | [P]                 | [None]        |
+|               |        | 4.07          | 3.42          | 3.14            | 2.64                | 2.76          |
+| Mid-sized     | 353    | (0.06)        | (0.05)        | (0.07)          | (0.06)              | (0.05)        |
+|               |        | [None]        | [None]        | [V]             | [P]                 | [None]        |
+|               |        | 4.04          | 3.62          | 3.19            | 2.57                | 3.00          |
+| Large         | 53     | (0.15)        | (0.15)        | (0.17)          | (0.15)              | (0.14)        |
+|               |        | [None]        | [None]        | [None]          | [None]              | [None]        |
+|               |        | 3.88          | 3.36          | 2.81            | 3.05                | 3.05          |
+| Luxury        | 58     | (0.17)        | (0.14)        | (0.17)          | (0.18)              | (0.15)        |
+|               |        | [None]        | [None]        | [V]             | [P]                 | [None]        |
+|               |        | 3.89          | 3.60          | 2.83            | 2.88                | 2.85          |
+| Sports        | 151    | (0.10)        | (0.09)        | (0.10)          | (0.10)              | (0.08)        |
+|               |        | [None]        | [None]        | [V]             | [P]                 | [None]        |
+|               |        | 4.27          | 3.77          | 3.61            | 2.50                | 2.99          |
+| Minivan/Van   | 111    | (0.09)        | (0.09)        | (0.12)          | (0.11)              | (0.09)        |
+|               |        | [S, C]        | [C]           | [S, C, M,X, R]  | [None]              | [None]        |
+|               |        | 4.06          | 3.50          | 3.27            | 2.23                | 2.74          |
+| Pickup        | 159    | (0.09)        | (0.08)        | (0.11)          | (0.08)              | (0.08)        |
+|               |        | [None]        | [None]        | [C]             | [S, C, M, X, R, U]  | [None]        |
+|               |        | 4.11          | 3.58          | 3.23            | 2.77                | 2.88          |
+| SUV           | 193    |               |               |                 |                     |               |
+|               |        | (0.07)        | (0.07)        | (0.09)          | (0.08)              | (0.07)        |
+|               |        | [None]        | [None]        | [C]             | [P]                 | [None]        |
+|               | 1,687  | 3.99          | 3.49          | 3.07            | 2.66                | 2.78          |
+Total
+|          |     | (0.03)  | (0.02)  | (0.03)  | (0.03)  | (0.02)  |
+| -------- | --- | ------- | ------- | ------- | ------- | ------- |
+| F-value  |     | 2.672   | 2.592   | 6.313   | 5.078   | 2.665   |
+
+| (sig.)  |     | (0.006)  | (0.008)  | (0.000)  | (0.000)  | (0.007)  |
+| ------- | --- | -------- | -------- | -------- | -------- | -------- |
+Notes:
+A bold figure indicates that the mean of that category is significantly different from that of another category.
+The letters in brackets indicate categories whose means are significantly different from the mean of the row
+category, where S stands for small, C stands for compact, M stands for mid-sized, L stands for large, X stands
+for luxury, R stands for sports, V stands for minivan/van, P stands for pickup, and U stands for SUV.
+
+For short-distance trips, Table 4.5 and Figure 4.3 show that drivers of minivans have a
+significantly higher perception of their mobility than do drivers of other vehicle types. This
+may  be  because  minivan  drivers  are  likely  to  be  parents  with  multiple  demands  for
+traveling to satisfy work, personal, and family needs. The results for overall short-distance
+trips are similar to those for personal vehicle trips only, with compact car drivers also
+showing a lower perception of their overall short-distance mobility. Individuals with a
+|     |     |     | 52  |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+
+perceived lower demand for local travel may not wish to spend more money on a larger or
+more luxurious car.
+4.50
+4.00
+3.50
+3.00
+2.50
+2.00
+1.50
+1.00
+0.50
+0.00
+S
+mall
+Co
+mpact Mid-sized Large Luxury
+Sp
+M
+or
+i
+t
+n
+s
+ivan/
+Van Pickup
+S
+U V
+ytiliboM
+deviecreP
+personal vehicle
+trips
+overall trips
+personal vehicle
+trip average
+overall trip average
+Figure 4.3: Perceived Mobility for Short-Distance Trips
+For long-distance trips, Figure 4.4 shows that people who use larger cars (especially
+minivans, but also mid-sized and large cars, pickups, and SUVs) tend to have higher
+perceptions of their personal vehicle mobility than those who use smaller cars. These
+results are similar to those for short-distance trips. On the other hand, people with an above
+average perception of their airplane travel tend to drive expensive cars (luxury and sports
+cars, and SUVs). Both characteristics are associated with higher incomes. Interestingly,
+however, small car drivers also have a slightly above-average perception of their airplane
+mobility. Differing both from the short-distance trips and from the long-distance trips by
+personal vehicle, those who drive minivans/vans and pickup trucks rate their airplane
+mobility lower than average. Minivan drivers are probably parents who are more likely to
+take the family on a driving vacation than a flying one, while pickup truck drivers may
+have a greater tendency to be blue collar workers of more moderate incomes, who have
+53
+
+little demand for work-related airplane travel, and a greater inclination to take vacations
+involving driving rather than flying. The results for long-distance overall perceived
+mobility are a mixture of those for personal vehicle and airplane separately. Above-average
+ratings for overall long-distance perceived mobility are observed for drivers of larger or
+specialty cars (large and luxury cars, minivans, and SUVs).
+4.00
+3.50
+3.00
+2.50
+2.00
+1.50
+1.00
+0.50
+0.00
+S mall
+Co
+mpact Mid-sized Large Luxury Spo
+M
+rt
+i
+s nivan/Van Pickup SUV
+ytiliboM
+deviecreP
+personal vehicle trips
+airplane trips
+overall trips
+personal vehicle trip
+average
+airplane trip average
+overall trip average
+Figure 4.4: Perceived Mobility for Long-Distance Trips
+4.2.3 Relative Desired Mobility
+Relative desired mobility is a measure of an individual’s ideal amount of travel compared to
+the current amount traveled, using a five-point scale (“much less” to “much more”). We
+compare the means of relative desired mobility across vehicle type groups for personal
+vehicle and overall trips for both short- and long-distance travel, and long-distance airplane
+trips. However, none of the means are significantly different across the groups at a level of
+α = 0.1. Table 4.6 shows that, on average, respondents would like to travel a little less or
+about the same (ranging from 2.6 to 3.0) for short-distance travel compared to their current
+travel, but about the same or a little more (ranging from 3.0 to 3.6) for long-distance travel.
+Overall, there are no distinct differences on these variables among the groups. This
+54
+
+interesting result indicates that desires to increase or decrease one’s travel tend to be
+independent of vehicle type.
+
+Table 4.6:  Mean Relative Desired Mobility by Vehicle Type
+|               |         | Short-Distance Trips  |               | Long-Distance Trips  |               |               |
+| ------------- | ------- | --------------------- | ------------- | -------------------- | ------------- | ------------- |
+| Vehicle Type  | Sample  |                       |               |                      |               |               |
+|               | Size    | Personal              | Overall       | Personal             | Airplane      | Overall       |
+|               |         | Vehicle               |               | Vehicle              |               |               |
+|               |         |                       | (std. error)  |                      | (std. error)  | (std. error)  |
+|               |         | (std. error)          |               | (std. error)         |               |               |
+|               |         | 2.73                  | 2.64          | 3.04                 | 3.58          | 3.58          |
+| Small         | 372     |                       |               |                      |               |               |
+|               |         | (0.04)                | (0.04)        | (0.04)               | (0.05)        | (0.05)        |
+|               |         | 2.78                  | 2.67          | 3.09                 | 3.58          | 3.51          |
+| Compact       | 237     |                       |               |                      |               |               |
+|               |         | (0.05)                | (0.04)        | (0.05)               | (0.07)        | (0.06)        |
+|               | 353     | 2.85                  | 2.69          | 3.08                 | 3.47          | 3.53          |
+Mid-sized
+|              |       | (0.04)   | (0.04)   | (0.04)   | (0.05)   | (0.05)   |
+| ------------ | ----- | -------- | -------- | -------- | -------- | -------- |
+|              |       | 2.92     | 2.72     | 3.21     | 3.30     | 3.40     |
+| Large        | 53    |          |          |          |          |          |
+|              |       | (0.10)   | (0.08)   | (0.11)   | (0.15)   | (0.13)   |
+|              |       | 2.91     | 2.69     | 3.16     | 3.34     | 3.52     |
+| Luxury       | 58    |          |          |          |          |          |
+|              |       | (0.10)   | (0.12)   | (0.11)   | (0.15)   | (0.13)   |
+|              |       | 2.75     | 2.61     | 3.12     | 3.58     | 3.52     |
+| Sports       | 151   |          |          |          |          |          |
+|              |       | (0.06)   | (0.06)   | (0.07)   | (0.08)   | (0.07)   |
+|              |       | 2.91     | 2.63     | 3.20     | 3.53     | 3.59     |
+| Minivan/Van  | 111   |          |          |          |          |          |
+|              |       | (0.08)   | (0.07)   | (0.07)   | (0.10)   | (0.07)   |
+|              |       | 2.86     | 2.62     | 3.11     | 3.45     | 3.53     |
+| Pickup       | 159   |          |          |          |          |          |
+|              |       | (0.06)   | (0.05)   | (0.07)   | (0.08)   | (0.07)   |
+|              |       | 2.75     | 2.67     | 3.10     | 3.54     | 3.57     |
+| SUV          | 193   |          |          |          |          |          |
+|              |       | (0.05)   | (0.05)   | (0.06)   | (0.07)   | (0.06)   |
+|              |       | 2.80     | 2.66     | 3.09     | 3.52     | 3.54     |
+| Total        | 1687  |          |          |          |          |          |
+|              |       | (0.02)   | (0.02)   | (0.02)   | (0.02)   | (0.02)   |
+| F-value      |       | 1.624    | 0.332    | 0.679    | 1.118    | 0.399    |
+| (Sig.)       |       | (0.113)  | (0.954)  | (0.710)  | (0.348)  | (0.921)  |
+Note: Mean relative desired mobility does not differ significantly by vehicle type, for any of the five
+categories of travel shown in the table.
+
+4.2.4  Travel Liking
+Travel liking focuses on an individual’s feeling about traveling. Individuals responded on a
+five-point scale from “strongly dislike” to “strongly like”. We separately compared travel
+liking by personal vehicle and overall for both short- and long-distance trips, and by
+airplane for long-distance trips.
+|     |     |     | 55  |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+
+Table 4.7:  Mean Travel Liking by Vehicle Type
+|                           |       | Short-Distance Trips  |               | Long-Distance Trips  |               |               |
+| ------------------------- | ----- | --------------------- | ------------- | -------------------- | ------------- | ------------- |
+| Vehicle Type Sample Size  |       | Personal              |               | Personal             |               |               |
+|                           |       |                       | Overall       |                      | Airplane      | Overall       |
+|                           |       | Vehicle               |               | vehicle              | (std. error)  |               |
+|                           |       |                       | (std. error)  |                      |               | (std. error)  |
+|                           |       | (std. error)          |               | (std. error)         |               |               |
+|                           |       | 3.44                  | 3.19          | 3.32                 | 3.66          | 3.62          |
+| Small                     | 372   | (0.05)                | (0.04)        | (0.05)               | (0.05)        | (0.05)        |
+|                           |       | [V, U]                | [None]        | [V]                  | [None]        | [None]        |
+|                           |       | 3.51                  | 3.20          | 3.37                 | 3.72          | 3.54          |
+| Compact                   | 237   | (0.06)                | (0.04)        | (0.06)               | (0.06)        | (0.06)        |
+|                           |       | [None]                | [None]        | [None]               | [None]        | [None]        |
+|                           |       | 3.59                  | 3.20          | 3.41                 | 3.65          | 3.60          |
+| Mid-sized                 | 353   | (0.04)                | (0.04)        | (0.05)               | (0.05)        | (0.04)        |
+|                           |       | [None]                | [None]        | [None]               | [None]        | [None]        |
+|                           |       | 3.74                  | 3.19          | 3.57                 | 3.57          | 3.60          |
+| Large                     | 53    | (0.12)                | (0.09)        | (0.14)               | (0.16)        | (0.13)        |
+|                           |       | [None]                | [None]        | [None]               | [None]        | [None]        |
+|                           |       | 3.66                  | 3.16          | 3.31                 | 3.66          | 3.52          |
+| Luxury                    | 58    | (0.12)                | (0.10)        | (0.14)               | (0.16)        | (0.12)        |
+|                           |       | [None]                | [None]        | [None]               | [None]        | [None]        |
+|                           |       | 3.60                  | 3.21          | 3.40                 | 3.72          | 3.61          |
+| Sports                    | 151   | (0.08)                | (0.07)        | (0.08)               | (0.08)        | (0.07)        |
+|                           |       | [None]                | [None]        | [None]               | [None]        | [None]        |
+|                           |       | 3.79                  | 3.32          | 3.68                 | 3.61          | 3.82          |
+| Minivan/Van               | 111   | (0.07)                | (0.07)        | (0.07)               | (0.10)        | (0.07)        |
+|                           |       | [S]                   | [None]        | [S]                  | [None]        | [None]        |
+|                           |       | 3.69                  | 3.16          | 3.48                 | 3.56          | 3.67          |
+| Pickup                    | 159   | (0.07)                | (0.05)        | (0.08)               | (0.09)        | (0.07)        |
+|                           |       | [None]                | [None]        | [None]               | [None]        | [None]        |
+|                           |       | 3.72                  | 3.22          | 3.55                 | 3.69          | 3.74          |
+| SUV                       | 193   |                       |               |                      |               |               |
+|                           |       | (0.05)                | (0.05)        | (0.07)               | (0.07)        | (0.06)        |
+|                           |       | [S]                   | [None]        | [None]               | [None]        | [None]        |
+|                           | 1687  | 3.59                  | 3.20          | 3.43                 | 3.66          | 3.63          |
+Total
+|          |     | (0.02)  | (0.02)  | (0.02)  | (0.03)  | (0.02)  |
+| -------- | --- | ------- | ------- | ------- | ------- | ------- |
+| F-value  |     | 3.527   | 0.521   | 2.490   | 0.439   | 1.527   |
+
+| (Sig.)  |     | (0.000)  | (0.841)  | (0.011)  | (0.898)  | (0.143)  |
+| ------- | --- | -------- | -------- | -------- | -------- | -------- |
+Notes:
+A bold figure indicates that the mean of that category is significantly different from that of another category.
+The letters in brackets indicate categories whose means are significantly different from the mean of the row
+category, where S stands for small, C stands for compact, M stands for mid-sized, L stands for large, X stands
+for luxury, R stands for sports, V stands for minivan/van, P stands for pickup, and U stands for SUV.
+
+As shown in Table 4.7, travel liking for both short- and long-distance trips by personal
+vehicle differs significantly across groups of vehicle types at a level of α = 0.05. Drivers of
+larger cars tend to like personal vehicle travel more, for short- and long-distance trips. In
+general, both directions of causality are likely to be in effect, with driving a larger car both
+reflecting, and partly responsible for, a love of travel. The mean for minivans/vans is
+particularly high. Again, the high travel liking for this group may be partly a consequence
+of having a roomy, comfortable vehicle for transporting family or friends, and conversely,
+|     |     |     | 56  |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+
+those who already enjoy traveling with others are more likely to invest in a vehicle that will
+facilitate doing so comfortably. For the overall and airplane categories, mean travel liking is
+not significantly different among the groups.
+4.3 Demographics
+In this section, demographic variables are analyzed to explore whether they are
+significantly different among vehicle type groups. We conducted chi-squared tests on cross-
+tabulation tables for general categorical variables and some continuous variables after
+categorization (such as number of vehicles and workers), and ANOVA tests on continuous
+variables (such as commute time and distance). For some of the variables, more than 10%
+of the cells in the cross-tabulation table have an expected count less than five. Thus, where
+necessary, cells are combined to increase cell counts, so as to make the chi-squared test
+more reliable. Then, we created bar charts to present the distribution of demographic
+characteristics within each vehicle type group (the percentages within each vehicle type
+sum to 100). The average lines represent the sample average. The bar charts help to
+illustrate which categories are over- or under-represented in each vehicle type. For a more
+detailed analysis, all cross-tabulation tables are presented in Appendix B.
+4.3.1 Neighborhood
+As discussed earlier, we selected Concord and Pleasant Hill as examples of suburban
+neighborhoods, and North San Francisco as our urban example. The Pearson chi-squared
+test shows that there are significant differences in neighborhood distribution within vehicle
+types (p-value = 0.000). As shown in Figure 4.5, Concord is overrepresented among drivers
+of large cars and minivans/vans, and Pleasant Hill tends to be overrepresented with respect
+to pickup trucks and SUVs. Both neighborhoods have lower residential density (than North
+San Francisco) and relatively little public transit, so those residents may depend more on
+their personal vehicles for movement of people and goods and may desire larger cars. These
+suburban neighborhood residents are also more likely to have families. Conversely, North
+San Francisco residents are overrepresented among small and sports car drivers. As
+57
+
+expected, these respondents are more likely to use smaller cars due to their greater
+maneuverability in the tight traffic and parking situations characteristic of the urban
+environment. Further, San Francisco residents have many opportunities to use public transit.
+Interestingly, luxury cars are overrepresented in North San Francisco. This is related to
+income as the residents of North San Francisco have the highest average income.
+70.0
+60.0
+50.0
+40.0
+30.0
+20.0
+10.0
+0.0
+S m
+all
+C o m p a
+ct
+Mi d- si z e
+d
+L ar g
+e
+L u x ur
+y
+S p ort
+s
+ni v a n/ V a
+n
+Pi c k u
+p
+S U
+V
+Mi
+tnecreP
+Concord
+Pleasant Hill
+North San Francisco
+Concord average
+Pleasant Hill average
+North San Francisco
+average
+Note: Number of cases = 1687, Pearson chi-squared value (p-value) = 127.4 (0.000).
+Figure 4.5: Neighborhood by Vehicle Type
+4.3.2 Gender
+The Pearson chi-squared test shows that there are significant differences in the gender
+distribution within vehicle types (p-value = 0.000). As shown in Figure 4.6, females are
+overrepresented among drivers of smaller cars (such as small, compact, and mid-sized cars),
+while males are overrepresented for larger cars (such as large and luxury cars, but
+especially pickup trucks). Males are more likely to drive more powerful or bigger cars than
+females (although SUV drivers, interestingly, exactly represent the overall sample
+distribution of gender). In particular, females make up a larger proportion of minivan/van
+drivers than males, as expected. Females continue to bear most of the household
+58
+
+responsibilities and are likely to use minivans/vans for the purposes of transporting children,
+their sports gear, groceries, and so on.
+100.0
+90.0
+80.0
+70.0
+60.0
+50.0
+40.0
+30.0
+20.0
+10.0
+0.0
+S m
+all
+C o m p
+act
+Mi d-siz e
+d
+L ar g
+e
+L ux
+ury
+S p
+orts
+niv a n/ V a
+n
+Pick u
+p
+S U
+V
+Mi
+tnecreP
+Female
+Male
+Female average
+Male average
+Note: Number of cases = 1680, Pearson chi-squared value (p-value) = 114.2 (0.000).
+Figure 4.6: Gender by Vehicle Type
+4.3.3 Age
+We first compared vehicle types using five age categories (namely 23 or younger, 24-40,
+41-64, 65-74, and 75 or older) for respondents based on the original survey, but 20% of the
+total cells had an expected count of less than 5. After combining cells with small counts,
+three categories (40 or younger, 41-64, and 65 or older) remained. The Pearson chi-squared
+test shows that there are significant differences in age distribution within vehicle types (p-
+value = 0.000). As shown in Figure 4.7, people age 40 or younger tend to be
+overrepresented among drivers of small or sports cars and SUVs. Younger drivers are likely
+to be more adventurous in some cases, or to have lower incomes in other cases, than the
+other age groups. On the other hand, people age 41-64 are overrepresented among drivers
+of luxury cars, minivans/vans, and pickup trucks. They are more likely to be family-
+oriented and economically stable than the other age groups, and hence have a tendency
+59
+
+toward practical or expensive cars. The oldest drivers (65 or older) tend to be
+overrepresented among drivers of large and luxury cars because they desire to use more
+comfortable and safer cars, and can afford the more expensive cars.
+70.0
+60.0
+50.0
+40.0
+30.0
+20.0
+10.0
+0.0
+S m
+all
+o m p a
+ct
+d- si z e
+d
+L ar g
+e
+L u x ur
+y
+S p ort
+s
+a n/ V a
+n
+Pi c k u
+p
+S U
+V
+C Mi ni v
+Mi
+tnecreP
+40 or younger
+41-64
+65 or older
+40 or younger average
+41-64 average
+65 or older average
+Note: Number of cases = 1687, Pearson chi-squared value (p-value) = 146.7 (0.000).
+Figure 4.7: Age by Vehicle Type
+4.3.4 Education
+Similar to age, we combined “some grade school or high school” with “high school
+diploma” to reduce the number of cells with an expected count of less than 5. The Pearson
+chi-squared test shows that there are significant differences in education levels across
+vehicle types (p-value = 0.000). As shown in Figure 4.8, drivers of pickup trucks and,
+interestingly, large cars, are disproportionately likely to have only a high school education
+or less, while drivers of compact or luxury cars and SUVs are more likely to have
+completed graduate degrees. Individuals’ education levels are certainly correlated to their
+occupations and income. Thus, high school graduates may be more likely to hold blue-
+collar jobs for which a pickup truck would be useful, and the large cars driven by this group
+may tend to be second-hand. On the other hand, college graduates are overrepresented
+60
+
+among drivers of small, sports, or mid-sized cars and SUVs. This education level may
+represent the middle class (income), and therefore reflect various patterns rather than a
+distinct tendency.
+45.0
+40.0
+35.0
+30.0
+25.0
+20.0
+15.0
+10.0
+5.0
+0.0
+Small
+Co
+mpact Mid-sized Large Luxury Sports Minivan/Van Pickup SUV
+tnecreP
+Some high school or high school
+diploma
+Some college or technical school
+4-year college/technical school
+degree
+Some graduate school
+Completed graduate degree
+Some high school or high school
+diploma average
+Some college or technical school
+average
+4-year college/technical school
+degree average
+Some graduate school average
+Completed graduate degree
+average
+Note: Number of cases = 1686, Pearson chi-squared value (p-value) = 91.3 (0.000).
+Figure 4.8: Education by Vehicle Type
+4.3.5 Employment Status
+The category of “unemployed” is combined with those of “homemaker” and “non-
+employed student” to reduce the number of cells with an expected count of less than 5. The
+Pearson chi-squared test shows that there are significant differences in the distribution of
+employment status within vehicle types (p-value = 0.000). Figure 4.9 shows that full-time
+workers are overrepresented among drivers of small cars, pickup trucks, and SUVs; they
+are likely using these vehicles for commuting or work-related activities. Interestingly, part-
+time workers tend to be overrepresented among drivers of large and luxury cars. These may
+tend to be wives in affluent households who work more to keep busy than out of economic
+necessity, or again, some of the large cars may be second-hand vehicles owned by lower-
+income households. Conversely, unemployed people are overrepresented among drivers of
+61
+
+minivans/vans because this group includes homemakers and non-employed students. As
+expected, retired people may prioritize more comfortable and bigger cars, so they tend to be
+overrepresented among drivers of large and luxury cars.
+90.0
+80.0
+70.0
+60.0
+50.0
+40.0
+30.0
+20.0
+10.0
+0.0
+S m
+all
+C o m p
+act
+Mi d-siz e
+d
+L ar g
+e
+L ux
+ury
+S p
+orts
+niv a n/ V a
+n
+Pick u
+p
+S U
+V
+Mi
+tnecreP
+Full-time
+Part-time
+Unemployed
+Retired
+Full-time average (66.8%)
+Part-time average (13.5%)
+Unemployed average (6.2%)
+Retired average (13.5%)
+Note: Number of cases = 1686, Pearson chi-squared value (p-value) = 122.1 (0.000).
+Figure 4.9: Employment Status by Vehicle Type
+4.3.6 Occupation
+We combined “production/construction/crafts” with “service/repair” and discarded “other”
+to decrease the number of cells with an expected count of less than 5. The Pearson chi-
+squared test shows that there are significant differences in occupational distributions within
+vehicle types (p-value = 0.000). As shown in Figure 4.10, homemakers are overrepresented
+among drivers of minivans/vans; they are likely to use this vehicle for non-commuting trips
+such as shopping and taking kids where they need to go. Those who are employed in
+service/repair or production/construction/crafts tend to be overrepresented in the
+minivan/van and pickup truck groups, presumably because they need bigger vehicles for
+carrying job-related equipment. Those who are employed as sales or managers/administra-
+tors are overrepresented among large and luxury car drivers; those occupations may be
+more likely to view a car as a symbol of status or success. Conversely, those employed in
+62
+
+clerical and administrative support jobs are overrepresented in the small car group, likely a
+consequence of lower incomes. Interestingly, those who are employed in professional/tech-
+nical jobs are also overrepresented among small and compact car drivers. It may be that the
+smaller car is a commuting vehicle for this group, and that the household has other vehicles
+as well.
+60.0
+50.0
+40.0
+30.0
+20.0
+10.0
+0.0
+S m all C o m p ac M t i d-siz e d L ar g e L ux ury S p ort n s iv a n/ V a n Pick u p S U V
+Mi
+tnecreP
+Homemaker
+Sales
+Service/Production/Construction
+Manager/Administrator
+Clerical/Administrative support
+Professional/technical
+Homemaker average (4.8%)
+Sales average (8.9%)
+Service/Production/Construction average
+(9.0%)
+Manager/Administrator average (21.2%)
+Clerical/Administrative support average
+(10.0%) Professional/technical average (46.1%)
+Note: Number of cases = 1680, Pearson chi-squared value (p-value) = 118.6 (0.000).
+Figure 4.10: Occupation by Vehicle Type
+4.3.7 Personal Income
+The Pearson chi-squared test shows that there are significant differences in the distribution
+of personal income within vehicle types (p-value = 0.000). As shown in Figure 4.11, people
+with low incomes (less than $15,000) are overrepresented in the small car group, while
+those with high incomes ($95,000 or more) are overrepresented in the luxury car and SUV
+groups. These results are certainly to be expected. Interestingly, lower income (less than
+$15,000) drivers are also overrepresented in the large car and minivan/van groups. Since we
+are just looking at personal income here, this can reflect the tendency of drivers of these
+family vehicle types to be women who are homemakers and/or employed part-time. The
+result for large cars can also partly reflect the second-hand ownership phenomenon
+63
+
+suggested earlier. On the other hand, people of middle incomes ($35,000 to $54,999) tend
+to be overrepresented among small car and pickup truck drivers.
+40.0
+35.0
+30.0
+25.0
+20.0
+15.0
+10.0
+5.0
+0.0
+S m
+all
+C o m p
+act
+Mi d-siz e
+d
+L ar g
+e
+L ux
+ury
+S p
+orts
+niv a n/ V a
+n
+Pick u
+p
+S U
+V
+Mi
+tnecreP
+Less than $15,000
+$15,000 - $34,999
+$35,000 - $54,999
+$55,000 - $74,999
+$75,000 - $94,999
+$95,000 or more
+Less than $15,000 average (9.7%)
+$15,000 - $34,999 average (21.5%)
+$35,000 - $54,999 average (28.2%)
+$55,000 - $74,999 average (18.1%)
+$75,000 - $94,999 average (9.5%)
+$95,000 or more average (12.9%)
+Note: Number of cases = 1615, Pearson chi-squared value (p-value) = 124.0 (0.000).
+Figure 4.11: Personal Income by Vehicle Type
+4.3.8 Household Income
+We combined “less than $15,000” with “$15,000-$34,999” to reduce the number of cells
+with an expected count of less than 5. The Pearson chi-squared test indicates that there are
+significant differences in distribution of household income within vehicle types (p-value =
+0.000). Figure 4.12 shows that households with low incomes (less than $35,000) are
+overrepresented in the small and large car groups, while households of high incomes
+($95,000 or more) are overrepresented among luxury cars and SUVs. The results are similar
+to those for personal income, except that now, minivan drivers are disproportionately less
+likely to be either lowest-income or highest-income. This is an expected result (minivans
+are likely to be owned by young families, who are likely to have moderate household
+incomes).
+64
+
+70.0
+60.0
+50.0
+40.0
+30.0
+20.0
+10.0
+0.0
+S m
+all
+C o m p
+act
+Mi d-siz e
+d
+L ar g
+e
+L ux
+ury
+S p
+orts
+niv a n/ V a
+n
+Pick u
+p
+S U
+V
+Mi
+tnecreP
+Less than $35,000
+$35,000-$54,999
+$55,000-$74,999
+$75,000-$94,999
+$95,000 or more
+Less than $35,000 average
+$35,000-$54,999 average
+$55,000-$74,999 average
+$75,000-$94,999 average
+$95,000 or more average
+Note: Number of cases = 1616, Pearson chi-squared value (p-value) = 115.2 (0.000).
+Figure 4.12: Household Income by Vehicle Type
+4.3.9 Number of Vehicles in the Household
+We discarded two cases of zero vehicles (who could have legitimately answered the vehicle
+type question with respect to a loaned vehicle that they often drive) and combined cases
+having four vehicles with those having more than four vehicles to reduce the number of
+cells with an expected count of less than 5. The Pearson chi-squared test shows that there
+are significant differences in distribution of the number of vehicles within vehicle types (p-
+value = 0.000). As shown in Figure 4.13, people who have one car are overrepresented
+among the smaller car types such as small and compact cars, while households with two
+cars are overrepresented among specialty cars such as minivans/vans, pickup trucks, and
+SUVs. It is likely that one-vehicle households are lower income and hence the single
+vehicle tends to be small, whereas two-vehicle households have a greater opportunity to
+diversify vehicle types for different uses. Additionally, households with three or more cars
+are overrepresented among drivers of large cars, luxury cars, minivans/vans, and pickup
+trucks. These households are more likely to be families or higher-income, so the results are
+logical.
+65
+
+60.0
+50.0
+40.0
+30.0
+20.0
+10.0
+0.0
+S m
+all
+C o m p
+act
+Mi d-siz e
+d
+L ar g
+e
+L ux
+ury
+S p
+orts
+niv a n/ V a
+n
+Pick u
+p
+S U
+V
+Mi
+tnecreP
+1
+2
+3
+4 or more
+1 average
+2 average
+3 average
+4 or more average
+Note: Number of cases = 1672, Pearson chi-squared value (p-value) = 100.6 (0.000).
+Figure 4.13: Number of Vehicles by Vehicle Type
+4.3.10 Number of Licensed Drivers
+We combined households having four driver’s licenses with those having more than four
+driver’s licenses to reduce the number of cells with an expected count of less than 5. The
+Pearson chi-squared test shows that there are significant differences in the distribution of
+the number of licensed drivers within vehicle types (p-value = 0.000). The number of
+licensed drivers is strongly correlated with the number of vehicles (r = 0.587), and both sets
+of results are similar. As shown in Figure 4.14, households who have one driver’s license
+(probably a single adult or single-parent family) tend to be overrepresented among drivers
+of smaller cars such as small and compact cars, whereas households who have two driver’s
+licenses tend to be overrepresented among large car, minivan/van, and SUV groups. Since
+households with multiple driver’s licenses tend to have multiple vehicles, this again reflects
+the ability of such households to specialize their vehicle fleet.
+66
+
+70.0
+60.0
+50.0
+40.0
+30.0
+20.0
+10.0
+0.0
+S m
+all
+C o m p
+act
+Mi d-siz e
+d
+L ar g
+e
+L ux
+ury
+S p
+orts
+niv a n/ V a
+n
+Pick u
+p
+S U
+V
+Mi
+tnecreP
+1
+2
+3
+4 or more average
+1 average
+2 average
+3 average
+4 or more average
+Note: Number of cases = 1685, Pearson chi-squared value (p-value) = 62.5 (0.000).
+Figure 4.14: Number of Licensed Drivers by Vehicle Type
+4.3.11 Number of Workers
+We combined three workers in a household with more than three workers to reduce the
+number of cells with an expected count of less than 5. Here, number of workers includes
+full-time or part-time workers. The Pearson chi-squared test shows that there are significant
+differences in the distribution of the number of workers within vehicle types (p-value =
+0.000). Figure 4.15 shows that households with three or more workers are overrepresented
+among drivers of minivans/vans, whereas households with no workers are overrepresented
+in the large car group. It is likely that households with several workers include some
+teenagers or young adult children living at home, so the minivan may still fulfill a family
+need, or possibly it is primarily used for carpooling to work. Households with no workers
+comprise mainly retired people (65.4%), and they may prioritize more comfortable cars. On
+the other hand, households with one worker are overrepresented in the small car group;
+these may be lower-income households who want an economical car for commuting.
+67
+
+60.0
+50.0
+40.0
+30.0
+20.0
+10.0
+0.0
+S
+mall
+Co
+mpact Mid-sized Large Luxury Sports
+Minivan/
+Van Pickup
+S
+U
+V
+tnecreP
+0
+1
+2
+3 or more
+0 average (9.9%)
+1 average (36.1%)
+2 average (44.0%)
+3 or more average (9.9%)
+Note: Number of cases = 1662, Pearson chi-squared value (p-value) = 63.3 (0.000).
+Figure 4.15: Number of Workers by Vehicle Type
+4.3.12 Number of Household Members
+We compared distributions of household size across vehicle types, in terms of both total
+household members and members in each age group. Although these are quasi-continuous
+variables, for greater insight we present the full distributions rather than just the means.
+Total number of household members. We combined five people in a household with more
+than five people to reduce the number of cells that have an expected count of less than 5.
+The Pearson chi-squared test shows that there are significant differences in household size
+distributions within vehicle types (p-value = 0.000). As expected, the more people in the
+household, the bigger the car driven by the respondent tends to be. As shown in Figure 4.16,
+households with five or more people are overrepresented among drivers of minivans/vans,
+while households with one person are overrepresented in the small and compact car groups.
+68
+
+70.0
+60.0
+50.0
+40.0
+30.0
+20.0
+10.0
+0.0
+S m
+all
+C o m p
+act
+Mi d-siz e
+d
+L ar g
+e
+L ux
+ury
+S p
+orts
+niv a n/ V a
+n
+Pick u
+p
+S U
+V
+Mi
+tnecreP
+1
+2
+3
+4
+5 or more
+1 average
+2 average
+3 average
+4 average
+5 or more average
+Note: Number of cases = 1687, Pearson chi-squared value (p-value) = 181.7 (0.000).
+Figure 4.16: Total Number of Household Members by Vehicle Type
+Number of household members under 19. The Pearson chi-squared test shows that there are
+significant differences in distribution of the number of household members under 19 years
+old within vehicle types (p-value = 0.000). As expected, Figure 4.17 shows that households
+with two or more people under 19 are overrepresented among drivers of minivans/vans,
+whereas households with no people under 19 are overrepresented in the small, large, and
+sports car types.
+69
+
+100.0
+90.0
+80.0
+70.0
+60.0
+50.0
+40.0
+30.0
+20.0
+10.0
+0.0
+S m
+all
+C o m p
+act
+Mi d-siz e
+d
+L ar g
+e
+L ux
+ury
+S p
+orts
+niv a n/ V a
+n
+Pick u
+p
+S U
+V
+Mi
+tnecreP
+0
+1
+2 or more
+0 average
+1 average
+2 or more average
+Note: Number of cases = 1681, Pearson chi-squared value (p-value) = 121.1 (0.000).
+Figure 4.17: Number of Household Members Under Age 19 by Vehicle Type
+Number of household members age 19-40. The Pearson chi-squared test shows that there
+are significant differences in distribution of the number of household members age 19-40
+within vehicle types (p-value = 0.000). As shown in Figure 4.18, households with two or
+more people age 19-40 are overrepresented in the small car, sports car, and SUV groups,
+while households with no people age 19-40 are overrepresented among large and luxury car
+drivers. These results are similar to those based on the respondent’s age, discussed in
+Section 4.3.3.
+70
+
+80.0
+70.0
+60.0
+50.0
+40.0
+30.0
+20.0
+10.0
+0.0
+S m
+all
+C o m p
+act
+Mi d-siz e
+d
+L ar g
+e
+L ux
+ury
+S p
+orts
+niv a n/ V a
+n
+Pick u
+p
+S U
+V
+Mi
+tnecreP
+0
+1
+2
+3 or more
+0 average
+1 average
+2 average
+3 or more average
+Note: Number of cases = 1681, Pearson chi-squared value (p-value) = 87.9 (0.000).
+Figure 4.18: Number of Household Members Age 19-40 by Vehicle Type
+Number of household members age 41-64. The Pearson chi-squared test shows that there
+are significant differences in distribution of the number of household members age 41-64
+within vehicle types (p-value = 0.000). This age group may have the greatest degree of
+economic stability. As shown in Figure 4.19, households with two or more people age 41-
+64 are overrepresented in the luxury car, minivan/van, and SUV groups, while households
+with no people age 41-64 are overrepresented in the small and large car groups. Thus,
+households with more people age 41-64 are more likely to use expensive or family-oriented
+cars. Households with no people age 41-64 consist of younger or older adults, so they tend
+to use small or large cars respectively. These results are also similar to those based on the
+respondent’s age (Section 4.3.3).
+71
+
+60.0
+50.0
+40.0
+30.0
+20.0
+10.0
+0.0
+S m
+all
+o m p a
+ct
+d- si z e
+d
+L ar g
+e
+L u x ur
+y
+S p ort
+s
+a n/ V a
+n
+Pi c k u
+p
+S U
+V
+C Mi ni v
+Mi
+tnecreP
+0
+1
+2 or more
+0 average
+1 average
+2 or more average
+Note: Number of cases = 1681, Pearson chi-squared value (p-value) = 65.2 (0.000).
+Figure 4.19: Number of Household Members Age 41-64 by Vehicle Type
+Number of household members age 65 or older. We combined households having two
+members age 65 or older with those having more than two such members to reduce the
+number of cells with an expected count of less than 5. Nevertheless, 11.1 % of cells still
+had an expected count of less than 5. This is a marginally acceptable proportion. The
+Pearson chi-squared test shows that there are significant differences in distribution of the
+number of household members age 65 or older within vehicle types (p-value of 0.000).
+Figure 4.20 indicates that households with two or more people age 65 or older are
+overrepresented among drivers of large and luxury cars. This result is similar to that for the
+respondents’ age (Section 4.3.3).
+72
+
+100.0
+90.0
+80.0
+70.0
+60.0
+50.0
+40.0
+30.0
+20.0
+10.0
+0.0
+S m
+all
+o m p a
+ct
+d- si z e
+d
+L ar g
+e
+L u x ur
+y
+S p ort
+s
+a n/ V a
+n
+Pi c k u
+p
+S U
+V
+C Mi ni v
+Mi
+tnecreP
+0
+1
+2 or more
+0 average
+1 average
+2 or more average
+Note: Number of cases = 1681, Pearson chi-squared value (p-value) = 113.7 (0.000).
+Figure 4.20: Number of Household Members Age 65 or Older by Vehicle Type
+4.3.13 Commute Time and Distance
+We used ANOVA to compare the commute time by vehicle type (N= 1268). As illustrated
+in Figure 4.21, the test shows that there is no significant difference in the average commute
+time across vehicle type groups (p-value of 0.761). Thus, commute time is independent of
+vehicle type. We also conducted ANOVA to compare the commute distance by vehicle type
+(N=1250). Similar to the commute time, the test indicates that there is no significant
+difference in the average commute distance across vehicle type groups (p-value of 0.791).
+That is, vehicle type is not associated with commute distance (see Figure 4.22).
+73
+
+35
+30
+25
+20
+15
+10
+5
+0
+S m a C ll o m p a c M t i d- si z e d L ar g e L u x ur y S p o n r i t v s a n/ V a n Pi c k u p S U V
+Mi
+setuniM
+commute time
+commute time
+average
+Figure 4.21: Commute Time by Vehicle Type
+18
+16
+14
+12
+10
+8
+6
+4
+2
+0
+S m al o l m p a ct d- si z e d L ar g e L u x ur y S p ort a s n/ V a n Pi c k u p S U V
+C Mi ni v
+Mi
+seliM commute distance
+commute distance
+average
+Figure 4.22: Commute Distance by Vehicle Type
+74
+
+4.4 Attitudinal and Personality/Lifestyle Clusters
+In earlier work, Redmond (2000) performed two cluster analyses - one on the attitudinal
+factor scores and one on the personality and lifestyle factor scores together - to identify
+groups of people in the sample having similar attitudinal profiles, and similar personality
+and lifestyle profiles. The resulting clusters are summarized in Table 4.8. It is of interest to
+examine how the distribution of vehicle type varies by cluster - or equivalently, how the
+distribution of cluster membership varies within each vehicle type. The resulting
+relationships can be rather complex, since the clusters represent individuals with similar
+tendencies on several variables simultaneously, but for which there could be considerable
+variation within each cluster. Nevertheless, some intriguing patterns emerge, as discussed
+below.
+4.4.1 Six Attitudinal Clusters
+The Pearson chi-squared test shows that there are significant differences in the distribution
+of the six attitudinal clusters within vehicle types (p-value = 0.000). We first focus on the
+vehicle type composition of each cluster, and then focus on the cluster composition of each
+vehicle type. The complete cross-tabulation is shown in Appendix 4, and illustrated in
+Figure 4.23. Additionally, Table A1 of Appendix 4 summarizes the results qualitatively.
+Figure 4.23 shows that, interestingly, Affluent Professionals are overrepresented among
+drivers of compact and mid-sized cars, underrepresented among drivers of large cars,
+minivans, and pickups, and proportionally represented among drivers of small, luxury, and
+sports cars and SUVs. These results are consistent with their character as tending to have a
+weaker travel stress attitude, the highest incomes, and the smallest households without
+children. The compact and mid-sized cars are logical choices for smaller households, but
+are likely to be the upscale versions of vehicles in these classes, and may also be the second
+(or third) vehicle in a household that also has an expensive car such as a luxury car or SUV.
+75
+
+Table 4.8: Cluster Descriptions
+Cluster Name
+Description
+(Sample Percent)
+Attitude Clusters
+Affluent Professionals Affluent and mobile, this cluster eats out a lot, is not family and community
+(17.5%) oriented and usually doesn’t have a (large) family. They seem to be more
+entertainment oriented than work oriented.
+Transit-using Urbanites Young, urban, highly educated and community oriented. This cluster is
+(15.0%) pro-environment and pro-high density (they live in urban areas and like it).
+Homemakers and Older Older suburbanites who focus on family and home and don’t particularly
+Workers (20.5%) like travel.
+Travel Haters (12.1%) This work-oriented cluster doesn’t like travel, does as little as possible and
+wants to do less of it.
+Excess Travelers Young, urban, highly educated and adventure seeking. This cluster is pro-
+(19.7%) environment and pro-high density, and pro-travel. Not one of the highest
+income groups, perhaps because they are prioritizing their adventure time
+over work time and status-seeking.
+Adventurous, Car-Oriented Car-bound, excess travelers, oldest, organized, status conscious, and
+Suburbanites (15.2%) suburban.
+Personality and Lifestyle Clusters
+New Family Model Young families, enjoy traveling for fun but not for work, family/community
+(11.0%) oriented but not settling down.
+Homebodies (8.1%) Not particularly social, don’t really like travel, one of the more neutral
+clusters compared to the others.
+Mobile Yuppies (6.8%) Young, professional, highly educated, travel lovers.
+Transit Advocates (10.0%) Highly educated, environmentally sensitive, transit-oriented.
+Assistant V.P.s (10.9%) Suburban, auto-oriented (but not particularly travel loving), older, least
+educated, frustrated.
+Status Seeking Workaholics Travel most (miles and frequency) for work, auto-bound, enjoy work
+(9.0%) travel... one of the more extreme clusters – most status seeking, workaholic
+and not calm.
+Suburban and Stationary Mostly older, suburban women, calm, don’t travel a lot.
+(10.8%)
+Older and Independent Older, independent, unencumbered (most strongly NOT family/community
+(9.4%) oriented), entertainment focused.
+Middle-of-the-roaders Most neutral cluster, most strongly family/community oriented.
+(8.7%)
+Travel Lovin' Transit Users Highly educated urban women, middle income, environmentally sensitive,
+(7.1%) like short distance travel by bus, strong excess travelers, highest walking
+share of total miles traveled.
+Frustrated Loners (8.1%) Most extremely frustrated, above average commutes, somewhat transit
+oriented.
+Source: Redmond (2000).
+76
+
+Transit-using Urbanites tend to be overrepresented among drivers of small cars and
+underrepresented among drivers of mid-sized and large cars, and SUVs. People in this
+cluster are more likely to drive smaller cars because they have stronger pro-environmental
+and pro-high density attitudes. Interestingly, however, they are proportionally represented
+among drivers of luxury and sports cars, minivans and pickups. Homemakers and Older
+Workers are overrepresented among drivers of large cars, minivans, and pickups, and
+underrepresented among drivers of luxury and sports cars, and SUVs. This group consists
+of the least educated with the largest families, so the result is similar to the differences in
+education by vehicle type examined in Section 4.3.4.
+Travel Haters tend to be underrepresented among drivers of small and sports cars, and
+slightly overrepresented with respect to large and luxury cars. We hypothesize the
+explanation to be that, since they have stronger travel dislike and travel stress attitudes, they
+tend to seek larger cars to be more comfortable. In contrast to Travel Haters, Excess
+Travelers are more likely to have weaker travel dislike and travel stress attitudes, plus a
+stronger pro-environmental attitude, and they tend to be young, highly educated, and living
+in an urban area as well. Thus, Excess Travelers tend to be overrepresented among drivers
+of small, luxury, and sports cars, and underrepresented among drivers of large cars,
+minivans, and pickups. Adventurous, Car-oriented Suburbanites tend to have weaker pro-
+environmental, pro-high density, travel dislike, and travel stress attitudes, and they tend to
+be older and suburban. It is natural that they are overrepresented among drivers of large
+cars, minivans, pickups, and SUVs, and underrepresented among drivers of small and
+compact cars. They are about proportionally represented with respect to luxury and sports
+cars.
+Focusing on individual vehicle type, drivers of small cars are more likely to be Transit-
+using Urbanites and Excess Travelers, showing a stronger pro-environmental tendency, and
+less likely to be Travel Haters and Adventurous, Car-oriented Suburbanites. Conversely,
+drivers of large cars are more likely to be Travel Haters and Adventurous, Car-oriented
+77
+
+Suburbanites. This implies that both those who dislike travel and those who travel a lot are
+more likely to drive larger cars to minimize their travel fatigue. Interestingly, pickup drivers
+tend to be Homemakers and Older Workers and Adventurous, Car-oriented Suburbanites,
+but they are less likely to be Excess Travelers. The latter two groups both tend to be
+adventure-seeking excess travelers, but the Adventurous, Car-oriented Suburbanites tend to
+be suburban, older, and status conscious, whereas the Excess Travelers tend to be younger,
+urban, and not status-seeking. SUV drivers also tend to be Adventurous, Car-oriented
+Suburbanites, and are less likely to be Transit-using Urbanites. The summaries for the
+remaining vehicle types can be seen in Table A1, and fit prior expectations reasonably well.
+78
+
+30.0
+25.0
+20.0
+15.0
+10.0
+5.0
+0.0
+Small Compact Mid-sized Large Luxury Sports Minivan/Van Pickup SUV
+tnecreP
+Affluent Professionals Transit-using Urbanites
+Homemakers and Older Workers Travel Haters
+Excess Travelers Adventurous, Car-oriented Suburbanites
+Affluent Professionals Average (18.4%) Transit-using Urbanites Average (13.0%)
+Homemakers and Older Workers Average (20.8%) Travel Haters Average (12.2%)
+Excess Travelers Average (19.3%) Adventurous, Car-oriented Suburbanites Average (16.2%)
+Figure 4.23: Six Attitudinal Clusters by Vehicle Type
+79
+
+4.4.2 Eleven Personality and Lifestyle Clusters
+When all nine vehicle types were first cross-tabulated against the 11 personality and
+lifestyle clusters, 11% of the total cells had an expected count of less than 5. The large (7%)
+and luxury (4%) car categories accounted for all of these cells. Since the chi-squared test is
+of questionable validity when more than 10% of the cells have a small (less than 5)
+expected count, we removed the large car category (which, at 53 cases, was the smallest
+vehicle type category in the sample) and re-did the chi-squared test. After excluding the
+large car category, only 4.5% of the total cells remaining had an expected count less than 5.
+The Pearson chi-squared test shows that there are significant differences in the distribution
+of 11 personality and lifestyle clusters among the eight vehicle types (p-value = 0.000). For
+completeness, the large car category is included in the tables, figure, and discussion, but it
+should be understood that results involving this category are only tentative due to its small
+size. The discussion below is summarized by Table A2 of Appendix 4, and illustrated in
+Figure 4.24. The complete cross-tabulation is found in Appendix 4.
+As shown in Figure 4.24, people in the New Family Model cluster are overrepresented
+among drivers of SUVs, luxury and sports cars, and pickups, because they tend to be
+adventure seekers, not loners, and young families enjoying traveling. On the contrary,
+Homebodies tend to be loners, not adventure seekers, and they have neutral demographic
+traits as well. Hence, Homebodies are overrepresented among drivers of minivans and large
+cars, and underrepresented among drivers of luxury cars.
+Mobile Yuppies are overrepresented among drivers of SUVs and sports cars, because they
+tend to be young, highly educated, and travel lovers. As expected, Transit Advocates are
+overrepresented among drivers of smaller cars such as small and compact cars, and
+underrepresented among drivers of large cars and pickups. It is not surprising that Assistant
+V.P.s are overrepresented among drivers of mid-sized or large cars, and pickups. People in
+this cluster are more likely to be suburbanites and workaholics, and they are frustrated,
+80
+
+older, and least educated. Clearly, Status Seeking Workaholics are more likely to drive
+expensive cars such as luxury and sports cars, and less likely to drive small cars.
+Turning to the Suburban and Stationary cluster, people in this cluster are overrepresented
+among drivers of compact cars and minivans, because they tend to be older, calm, and
+suburban women, and don’t travel a lot. Interestingly, people in the Older and Independent
+cluster are more likely to be older and somewhat status seeking, and enjoy traveling,
+especially for entertainment. Thus, they tend to drive larger and more comfortable cars such
+as luxury cars or leisure cars such as SUVs. As the most neutral cluster, Middle-of-the-
+roaders are overrepresented among drivers of mid-sized or large cars, and minivans,
+consistent with their strong tendency toward the organized personality and the
+family/community-oriented lifestyle.
+Similar to Transit Advocates, Travel Lovin’ Transit Users are overrepresented among
+drivers of small cars, but they have a higher proportion than average in the minivan
+category. This is consistent with the observations that Travel Lovin’ Transit Users are more
+likely (68%) to be female than are Transit Advocates (53%), and that minivan drivers are
+most often female (56%). Frustrated Loners are overrepresented among drivers of small
+and sports cars, because they tend to be young and like living in urban areas. Interestingly,
+they are overrepresented among drivers of large cars, differing from the individual tests for
+the frustrated or loner personality factor (although again, this result should be viewed with
+caution due to the small sample size in this category). On the other hand, people in this
+cluster are underrepresented among drivers of luxury cars and minivans, probably because
+those car types imply greater possibilities for the presence of other passengers.
+Focusing on individual vehicle types, drivers of small cars are more likely to be Transit
+Advocates, Travel Lovin’ Transit Users, and Frustrated Loners. The implication is that
+transit-oriented people are more likely to drive small cars, a logical result. On the other
+hand, drivers of luxury cars tend to be in the New Family Model, Status Seeking
+81
+
+Workaholics, and Older and Independent clusters. This result is consistent with the view of
+luxury cars as representing entertainment, comfort, style, affluence, and status, more than a
+simple means of transportation. Drivers of mid-sized and large cars are more likely to be
+Assistant V.P.s and Middle-of-the-roaders, indicating a neutral tendency. Drivers of
+minivans are more likely to be Homebodies, Suburban and Stationary, and Middle-of-the-
+roaders. This result strongly supports the idea that minivans are most likely to be popular
+among people who are family/community-oriented and like living in suburbs. In addition,
+SUV drivers are more likely to be New Family Model, Mobile Yuppies, and Older and
+Independent, probably showing a strong tendency toward a love of travel. Similarly, drivers
+of sports cars tend to be New Family Model, Mobile Yuppies, Status Seeking Workaholics,
+and Frustrated Loners. Clearly, adventure seekers with high incomes or loners are more
+likely to drive sports cars.
+82
+
+25.0
+20.0
+15.0
+10.0
+5.0
+0.0
+Small Compact Mid-sized Large Luxury Sports Minivan/Van Pickup SUV
+tnecreP
+New Family Model Homebodies Mobile Yuppies
+Transit Advocates Assistant V.P.s Status Seeking Workaholics
+Suburban and Stationary Older and Independent Middle-of-the-roaders
+Travel Lovin' Transit Users Frustrated Loners New Family Model Average (11.1%)
+Homebodies Average (8.0%) Mobile Yuppies Average (7.0%) Transit Advocates Average (9.8%)
+Assistant V.P.s Average (10.8%) Status Seeking Workaholics Average (9.0%) Suburban and Stationary Average (11.1%)
+Older and Independent Average (9.4%) Middle-of-the-roaders Average (8.9%) Travel Lovin' Transit Users Average (6.9%)
+Frustrated Loners Average (8.1%)
+Figure 4.24: Eleven Personality and Lifestyle Clusters by Vehicle Type
+83
+
+4.5 Summary of Key Characteristics for Each Vehicle Type
+Table 4.8 summarizes the key characteristics for each vehicle type discussed. We list the
+factor, mobility, and travel liking variables for which the mean of that vehicle type is
+significantly different from the mean of one or more other vehicle types at a level of α =
+0.05 (see bar charts in Part 2 of Appendix 2 for a more detailed illustration). For selected
+values of each demographic and cluster membership variable, the vehicle types having the
+two largest proportions are identified (three largest in the case of the two gender categories).
+Tables A1 and A2 in Appendix 4 provide additional summary information that is
+incorporated here. All vehicle type groups, except the mid-sized car group, have distinct
+characteristics with respect to the variables studied. Obviously, the characteristics of travel
+attitude, personality, and lifestyle for each vehicle type are consistent with those of cluster
+memberships, showing a higher proportion in the corresponding cluster. The mid-sized car
+group tends to be “middle-of-the-road” in its characteristics. Also, no significant differences
+across vehicle types were found with respect to the relative desired mobility, commute time,
+and commute distance variables. The distinct characteristics for each vehicle category are
+as follows:
+• Small Car. Small car drivers tend to have stronger pro-environmental and pro-high
+density attitudes, and a weaker travel freedom attitude. They tend to be loners, and
+not workaholics or status seekers. Additionally, small car drivers tend to perceive
+themselves as traveling less for short-distance trips in a personal vehicle than others
+do, and are less likely to enjoy personal vehicle travel. In terms of demographic
+characteristics, the small car driver group has higher than average proportions of
+North San Francisco residents, females, people age 40 or younger, and people with
+4-year college degrees. It also has higher proportions in clerical or professional jobs,
+and lower incomes. In particular, small car drivers are overrepresented in single-
+vehicle and single-adult households. As expected, small car drivers have the highest
+84
+
+proportions in the Transit-using Urbanites, Excess Traveler, Transit Advocates,
+Travel Lovin’ Transit Users, and Frustrated Loners clusters.
+• Compact Car. Compact car drivers tend to have a weaker travel freedom attitude,
+and travel less for long-distance trips by personal vehicle. They tend to perceive that
+they travel less by personal vehicle and overall short-distance. Similar to small car
+drivers, the compact car driver group has higher proportions in professional jobs
+and single-vehicle households. In addition, they are overrepresented in middle
+income categories, and especially in single-adult households. For the clusters,
+compact car drivers tend to be in the Affluent Professionals, Transit Advocates, and
+Suburban and Stationary clusters.
+• Mid-sized Car. Mid-sized car drivers have no distinct travel attitude, personality,
+lifestyle, mobility, or travel liking characteristics. On demographic traits, we found
+that mid-sized car drivers are more likely than average to be females or
+homemakers, and to have higher incomes or larger households. Also, not
+surprisingly, mid-sized car drivers have higher than average proportions in the
+Affluent Professionals, Assistant V.P.s, and Middle-of-the-roaders clusters.
+• Large Car. In contrast to small car drivers, large car drivers tend to have weaker
+pro-environmental and pro-high density attitudes. They are also more likely to be
+Concord residents, males, older or retired people, and part-time employees.
+Interestingly, large car drivers are overrepresented among less educated or lower
+income people. They are also overrepresented in multi-vehicle or older-adult
+households. Similar to the attitudinal characteristics, large car drivers tend to be in
+the Homemakers and Older Workers, Travel Haters, and Adventurous, Car-oriented
+Suburbanites clusters, and have higher than average proportions in the Homebodies,
+Assistant V.P.s, Middle-of-the-roaders, and Frustrated Loners clusters.
+• Luxury Car. Luxury car drivers are more likely to be status seekers, and to travel
+long-distance by airplane a lot. They are more likely to be North San Francisco
+85
+
+residents, males, and older or retired people. In particular, luxury car drivers are
+overrepresented among highly educated or higher income people. Similar to large
+car drivers, the luxury car driver group has higher than average proportions in multi-
+vehicle or older-adult households. For the clusters, luxury car drivers have higher
+than average proportions in the Travel Haters, Excess Travelers, New Family Model,
+Status Seeking Workaholics, and Older and Independent clusters.
+• Sports Car. Sports car drivers are more likely to be adventure seekers, and less
+likely to be calm. They are more likely than average to have 4-year college degrees
+or lower incomes. Additionally, sports car drivers are overrepresented in two-worker
+or younger-adult households. Clearly, sports car drivers have higher than average
+proportions in the Excess Travelers, New Family Model, Mobile Yuppies, Status
+Seeking Workaholics, and Frustrated Loners clusters.
+• Minivan/Van. Minivan drivers tend to have a weaker pro-high density attitude. They
+tend to be calm, and not to be loners. Minivan drivers tend to perceive that they
+travel more by personal vehicle and overall short-distance than others do. Further,
+they tend to enjoy traveling by personal vehicle more than average. In terms of
+demographics, minivan drivers are more likely to be Concord residents, females,
+homemakers, or age 41-64. They also tend to have higher household incomes as
+well as lower personal incomes. Clearly, minivan drivers are overrepresented in
+multi-vehicle households or larger households with children. Minivan drivers are
+also overrepresented in the Homemakers and Older Workers and Adventurous, Car-
+oriented Suburbanites Attitudinal clusters, and have higher than average proportions
+in the Homebodies, Suburban and Stationary, Middle-of-the-roaders, and Travel
+Lovin’ Transit Users Personality/Lifestyle clusters.
+• Pickup. Pickup drivers tend to have a weaker pro-high density attitude, and are
+more likely to be frustrated and workaholic. Their short-distance travel is higher
+than average, while their long-distance travel by airplane is lower. Likewise, pickup
+86
+
+drivers tend to perceive their long-distance travel by airplane as lower than others
+do. Demographically, pickup drivers are more likely to be Pleasant Hill residents,
+males, and age 41-64. They are also overrepresented among lower education levels,
+full-time employees, service-related jobs, middle incomes, and two-vehicle
+households. Additionally, pickup drivers have higher than average proportions in the
+Homemakers and Older Workers, Adventurous, Car-oriented Suburbanites, New
+Family Model, and Assistant V.P.s clusters.
+• SUV. SUV drivers tend to have a stronger travel freedom attitude, and are less likely
+to be frustrated. They tend to enjoy short-distance traveling by personal vehicle.
+Demographically, SUV drivers are more likely to be Pleasant Hill residents and age
+40 or younger. They are also overrepresented among highly educated or higher
+income people. Similar to minivan drivers, the SUV driver group has a higher than
+average proportion in larger households with children. Further, SUV drivers have
+higher than average proportions in the Adventurous, Car-oriented Suburbanites,
+New Family Model, Mobile Yuppies, and Older and Independent clusters.
+87
+
+Table 4.9:  Summary of Key Characteristics Associated with Each Vehicle Type
+Vehicle  Objective Mobility  Perceived Mobility  Relative Desired Mobility Travel Liking
+|       | Travel Attitudes  | Personality  | Lifestyle  |         |     |     |     |     |     |     |
+| ----- | ----------------- | ------------ | ---------- | ------- | --- | --- | --- | --- | --- | --- |
+| Type  |                   |              |            | SD  LD  | SD  | LD  | SD  | LD  | SD  | LD  |
+Pro-environmental (H),
+Small  Pro-high density (H),  Loner (H)  Workaholic (L),      PV (L)        PV (L)  PV (L)
+Status seeking (L)
+Travel freedom (L)
+PV (L),
+| Compact  | Travel freedom (L)  |     |     |     |     | PV (L)  |     |     |     |     |
+| -------- | ------------------- | --- | --- | --- | --- | ------- | --- | --- | --- | --- |
+Overall (L)
+
+| Mid-sized  |     |     |     |     |     |     |     |     |     |     |
+| ---------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+Pro-environmental (L),
+| Large  |     |     |     |     |     |     |     |     |     |     |
+| ------ | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+Pro-high density (L)
+Airplane
+| Luxury  |     |     | Status seeking (H)  |   trips (H),  |     |     |     |     |     |     |
+| ------- | --- | --- | ------------------- | ------------- | --- | --- | --- | --- | --- | --- |
+Ln Air (H)
+Adventure seeker (H),
+| Sports  |     |     |     |     |     |     |     |     |     |     |
+| ------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+Calm (L)
+| Minivan/  |                       | Loner (L),  |     |     | PV (H),      |         |     |     |         |         |
+| --------- | --------------------- | ----------- | --- | --- | ------------ | ------- | --- | --- | ------- | ------- |
+|           | Pro-high density (L)  |             |     |     |              | PV (H)  |     |     | PV (H)  | PV (H)  |
+| Van       |                       | Calm (H)    |     |     | Overall (H)  |         |     |     |         |         |
+Airplane
+Pickup  Pro-high density (L)    Frustrated (H),  PV (H),  trips (L)    Airplane trips
+|     |     |     | Workaholic (H)  | Total (H)  |     | (L)  |     |     |     |     |
+| --- | --- | --- | --------------- | ---------- | --- | ---- | --- | --- | --- | --- |
+Ln Air (L)
+SUV  Travel freedom (H)    Frustrated (L)              PV (H)
+Notes:
+The ‘L’ and ‘H’ in parentheses refer to mean values that are substantially lower or higher, respectively, than the overall sample mean.
+PV = personal vehicle trips, Ln PV (Air) = the sum across trips of the natural log of the personal vehicle (airplane) miles traveled of each trip.
+
+|     |     |     |     | 88  |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+(Table 4.9 continued)
+| Vehicle       |     |         |      |            | Employment  |             | Personal    | Household  |
+| ------------- | --- | ------- | ---- | ---------- | ----------- | ----------- | ----------- | ---------- |
+| Neighborhood  |     | Gender  | Age  | Education  |             | Occupation  |             |            |
+| Type          |     |         |      |            | Status      |             | Income      | Income     |
+Small  NSF (2)  Female (1)  40 or younger (1)  4-year college (1)    Clerical* (1),  $15,000-$34,999 (1),  < $35,000 (1),
+|     |     |     |     |     |     | Professional* (2)  | $35,000-$54,999 (1),  | $35,000-$54,999 (2)  |
+| --- | --- | --- | --- | --- | --- | ------------------ | --------------------- | -------------------- |
+Compact            Professional* (1)  $55,000-$74,999 (2)  $55,000-$74,999 (1)
+Mid-sized
+|     |     | Female (2)  |     |     |     | Homemaker (2)  | $75,000-$94,999 (2)  |     |
+| --- | --- | ----------- | --- | --- | --- | -------------- | -------------------- | --- |
+Sales (1),
+|     |     |     |     |     | Part-time (1),  |     |     | < $35,000 (2),  |
+| --- | --- | --- | --- | --- | --------------- | --- | --- | --------------- |
+Large  Concord (1)  Male (2)  65 or older (1)  High school (1)  Manager* (1),  < $15,000 (2)
+|     |     |     |     |     | Retired (1)  |     |     | $55,000-$74,999 (2)  |
+| --- | --- | --- | --- | --- | ------------ | --- | --- | -------------------- |
+Clerical* (2)
+|     |     |     |     | Some graduate     | Part-time (2),  |             |                       |     |
+| --- | --- | --- | --- | ----------------- | --------------- | ----------- | --------------------- | --- |
+|     |     |     |     |                   |                 | Sales (2),  | $55,000-$74,999 (1),  |     |
+Luxury  NSF (1)  Male (3)  65 or older (2)  school (1),  Unemployed (2),  $95,000 or more (1)
+|     |     |     |     | Graduate degree (1)  | Retired (2)  | Manager* (2)  | $95,000 or more (1)  |     |
+| --- | --- | --- | --- | -------------------- | ------------ | ------------- | -------------------- | --- |
+4-year college (2),
+| Sports  |     |     |     | Some graduate     |     |     | $15,000-$34,999 (2)  |     |
+| ------- | --- | --- | --- | ----------------- | --- | --- | -------------------- | --- |
+school (2)
+| Minivan/  |     |     |     |     |     | Homemaker (1)  |     |     |
+| --------- | --- | --- | --- | --- | --- | -------------- | --- | --- |
+Concord (2)  Female (3)  41-64 (2)  Some college (2)  Unemployed (1)  < $15,000 (1)  $75,000-$94,999 (1)
+| Van  |     |     |     |     |     | Service* (2)  |     |     |
+| ---- | --- | --- | --- | --- | --- | ------------- | --- | --- |
+High school (2),
+Pickup  Pleasant Hill (1)  Male (1)  41-64 (1)  Full-time (1)  Service* (1)  $35,000-$54,999 (2)  $35,000-$54,999 (1)
+Some college (1)
+|     |     |     |     |     |     |     | $75,000-$94,999 (1),  | $75,000-$94,999 (2),  |
+| --- | --- | --- | --- | --- | --- | --- | --------------------- | --------------------- |
+SUV  Pleasant Hill (2)    40 or younger (2)  Graduate degree (2)  Full-time (2)
+|     |     |     |     |     |     |     | $95,000 or more (2)  | $95,000 or more (2)  |
+| --- | --- | --- | --- | --- | --- | --- | -------------------- | -------------------- |
+Notes:
+The number in parentheses indicates the rank of that vehicle type in terms of proportion of that group having the characteristic in question. For example, luxury
+car drivers had the highest proportion of NSF residents of any of the vehicle types, and small car drivers had the second highest proportion.
+* Service = service/production/construction, Manager = manager/administrator, Clerical = clerical/administrative support, Professional = professional/technical.
+|     |     |     |     | 89  |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+(Table 4.9 continued)
+|          |           | No. of    |          |            | No. of HH  | No. of HH  | No. of HH  | No. of HH  |          |           |
+| -------- | --------- | --------- | -------- | ---------- | ---------- | ---------- | ---------- | ---------- | -------- | --------- |
+| Vehicle  | No. of    |           | No. of   | No. of HH  |            |            |            |            | Commute  | Commute   |
+|          |           | Driver’s  |          |            | Members    | Members    | Members    | Members    |          |           |
+| Type     | Vehicles  |           | Workers  | Members    |            |            |            |            | Time     | Distance  |
+|          |           | Licenses  |          |            | < age 19   | 19-40      | 41-64      | > age 64   |          |           |
+One (1),
+| Small  | One (2)  | One (2)  | One (1)  | One (1)  |     |     | None (1)  |     |     |     |
+| ------ | -------- | -------- | -------- | -------- | --- | --- | --------- | --- | --- | --- |
+Two (2)
+|            |          | One (1),          | One (2),          |           |     | One (2),           |          |     |     |     |
+| ---------- | -------- | ----------------- | ----------------- | --------- | --- | ------------------ | -------- | --- | --- | --- |
+| Compact    | One (1)  |                   |                   | One (2)   |     |                    | One (1)  |     |     |     |
+|            |          | Four or more (2)  | Three or more (2) |           |     | Three or more (1)  |          |     |     |     |
+| Mid-sized  |          |                   |                   | Four (2)  |     |                    |          |     |     |     |
+One (2),
+Large  Three (1)  Two (2)  None (1)  Two (1)  None (1)  None (1)  None (2)
+Two or more (1)
+|     | Three (2),  |     |     |     |     |     |     | One (1),  |     |     |
+| --- | ----------- | --- | --- | --- | --- | --- | --- | --------- | --- | --- |
+Luxury  Three (1)  None (2)  Three (1)  One (2)  None (2)  Two or more (2)
+|     | Four or more (1)  |     |     |     |     |     |     | Two or more (2)  |     |     |
+| --- | ----------------- | --- | --- | --- | --- | --- | --- | ---------------- | --- | --- |
+Sports      Two (2)  Two (2)  None (2)  Three or more (2)    None (2)
+| Minivan/  | Two (1),          | Three (2),        |                   | Four (1),         | One (1),         |     |                  |     |     |     |
+| --------- | ----------------- | ----------------- | ----------------- | ----------------- | ---------------- | --- | ---------------- | --- | --- | --- |
+|           |                   |                   | Three or more (1) |                   |                  |     | Two or more (1)  |     |     |     |
+| Van       | Four or more (2)  | Four or more (1)  |                   | Five or more (1)  | Two or more (1)  |     |                  |     |     |     |
+| Pickup    | Two (2)           |                   |                   | Three (2)         |                  |     | One (2)          |     |     |     |
+SUV    Two (2)  Two (1)  Five or more (2)  Two or more (2)  Two (1)    None (1)
+Note: The number in parentheses indicates the rank of that vehicle type in terms of proportion of that group having the characteristic in question. For example,
+compact car drivers had the highest proportion of single-vehicle households of any of the vehicle types, and small car drivers had the second highest proportion.
+
+|     |     |     |     |     | 90  |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+(Table 4.9 continued)
+Vehicle
+Attitudinal Clusters Personality and Lifestyle Clusters
+Type
+Small Transit-using Urbanites (H), Excess Travelers (H) Transit Advocates (H), Travel Lovin’ Transit Users (H), Frustrated Loners (H)
+Compact Affluent Professionals (H) Transit Advocates (H), Suburban and Stationary (H)
+Mid-sized Affluent Professionals (H) Assistant V.P.s (H), Middle-of-the-roaders (H)
+Homemakers and Older Workers (H), Travel Haters (H),
+Large Homebodies (H), Assistant V.P.s (H), Middle-of-the-roaders (H), Frustrated Loners (H)
+Adventurous, Car-oriented Suburbanites (H)
+Luxury Travel Haters (H), Excess Travelers (H) New Family Model (H), Status Seeking Workaholics (H), Older and Independent (H)
+New Family Model (H), Mobile Yuppies (H), Status Seeking Workaholics (H),
+Sports Excess Travelers (H)
+Frustrated Loners (H)
+Minivan/ Homebodies (H), Suburban and Stationary (H), Middle-of-the-roaders (H),
+Homemakers and Older Workers (H), Adventurous, Car-oriented Suburbanites (H)
+Van Travel Lovin’ Transit Users (H)
+Pickup Homemakers and Older Workers (H), Adventurous, Car-oriented Suburbanites (H) New Family Model (H), Assistant V.P.s (H)
+SUV Adventurous, Car-oriented Suburbanites (H) New Family Model (H), Mobile Yuppies (H), Older and Independent (H)
+Note: The ‘H’ in parentheses refers to a proportion that is substantially higher than the overall sample proportion of that cluster membership.
+91
+
+CHAPTER 5. MODELING VEHICLE TYPE CHOICE
+In Chapter 4, we explored whether the explanatory variables individually are statistically
+different among vehicle type groups. In reality, however, the relationship of one variable to
+vehicle type can be affected by other variables. The relationship of one variable to vehicle
+type may be significant in isolation, but disappear or diminish in importance when the
+impact of a related variable is accounted for. Conversely, an insignificant pairwise
+relationship may become significant in the presence of other variables. Thus, in this chapter,
+we examine the combined impact of multiple variables together. Specifically, we develop a
+disaggregate discrete choice model to estimate the probability of choosing each vehicle
+type based on the collective effect of factors such as travel attitude, personality, lifestyle,
+travel liking, and demographic variables. The first section describes the model specification
+including an initial specification and modeling procedure, and the second section presents
+the estimation and interpretation of the final model. In the last section, we discuss the
+independence from irrelevant alternatives (IIA) property of the final model.
+5.1 Model Specification
+The dependent variable, vehicle type driven most often by the respondent, consists of nine
+mutually exclusive categories, so a multinomial logit model is developed for vehicle type
+choice. In a general multinomial discrete choice model, the utility of each discrete
+alternative to the individual is expressed as a linear-in-parameters function of explanatory
+variables plus the combined effect of all unobserved variables, and the individual is
+assumed to select the alternative with the highest utility. Since a portion of utility is
+unobserved, to the analyst the choice of a particular alternative is probabilistic rather than
+deterministic. Expressions for the probability of choosing a given alternative can be
+developed, and estimates of the coefficients of the observed explanatory variables are
+92
+
+chosen so as to maximize the joint probability across the sample of observing the choices
+that are actually made.
+All variables discussed in Chapter 3 are considered as explanatory variables in the initial
+model specification, even though some variables were not significantly different across
+vehicle type groups based on the individual analysis using ANOVA and chi-squared tests.
+Table 5.1 presents the initial model specification including 54 variables, plus alternative-
+specific constant (ASC) terms. These 54 variables comprise travel attitudes, personality,
+lifestyle, travel liking, and demographic traits. Since none of the explanatory variables
+change by alternative, if they were entered into the model directly (i.e. with a constant
+coefficient across all vehicle types), they could not distinguish the choice among the
+various vehicle types. Thus, each variable must be allowed to take on a different weight for
+at least one subset of the alternatives. It is customary (for simplicity of estimation and
+presentation) to take one alternative as the base, and set its coefficient for each variable
+equal to zero.
+For the remaining alternatives, the coefficients for each variable may either be different for
+each alternative, or may be constrained to be equal across two or more alternatives. In this
+analysis, we initially allowed the coefficients for each variable to differ for each vehicle
+type. Thus, initially each explanatory variable (such as the travel freedom factor score) was
+entered into the model as eight alternative-specific variables (ASVs), one for each non-base
+vehicle type. Therefore, the initial model specification contained 55×8 = 440 variables,
+including the ASCs. When initial estimations suggested that some variables had a similar
+impact on more than one vehicle type, we then constrained those coefficients to be equal
+for the sake of parsimony and to increase the degrees of freedom available in the sample.
+We chose the pickup truck alternative as the base alternative in the model, in view of its
+relatively distinct characteristics against most other vehicle types.
+93
+
+Table 5.1: Initial Model Specification
+Classification Explanatory Variables
+Travel dislike, Pro-environmental solution, Commute benefit,
+Travel Attitudes
+Travel freedom, Travel stress, Pro-high density
+Personality Adventure seeker, Organizer, Loner, Calm
+Lifestyle Frustrated, Family/Community oriented, Workaholic, Status seeking
+Overall trips (SD), Personal vehicle trips (SD), Personal vehicle trips (LD),
+Objective Mobility Airplane trips (LD), Sum of log-miles by personal vehicle (LD),
+Sum of log-miles by airplane (LD)
+Overall travel (SD), Personal vehicle travel (SD), Overall travel (SD),
+Perceived Mobility
+Personal vehicle travel (LD), Airplane travel (LD)
+Overall travel (SD), Personal vehicle travel (SD), Overall travel (SD),
+Relative Desired Mobility
+Personal vehicle travel (LD), Airplane travel (LD)
+Overall travel (SD), Personal vehicle travel (SD), Overall travel (SD),
+Travel Liking
+Personal vehicle travel (LD), Airplane travel (LD)
+Urban neighborhoodd, Femaled, Age, Education, Managerd, Salesd,
+Employmentd, Household income, Personal income, No. of vehicles,
+No. of licensed drivers, No. of workers, Household size,
+Demographics
+No. of HH members < 19, No. of HH members 19-40,
+No. of HH members 41-64, No. of HH members > 64,
+Commute time, Commute distance
+Notes:
+“SD” and “LD” stand for short-distance and long-distance trips, respectively.
+“Sum of log-miles by personal vehicle” means the sum across trips of the natural log of the miles traveled for
+each trip by personal vehicle, and similarly for airplane.
+“d” indicates a dummy variable.
+“Urban neighborhood” = 1 for North San Francisco residents, and 0 otherwise.
+“Female” = 1 for female, and 0 for male.
+“Manager” = 1 for manager, and 0 otherwise.
+“Sales” = 1 for sales, and 0 otherwise.
+“Employment” = 1 for full- or part-time job, and 0 otherwise.
+Based on the initial model specification, we identify which variables have significant
+effects on vehicle type choice. However, we are unable to test including all 440 variables
+simultaneously, because the statistical package used to estimate the model, LIMDEP, allows
+at most 200 variables. Instead, we first test models with subsets of variables from the initial
+specification, overlapping some classes of variables across the models. Variables significant
+in any of these preliminary models were retained for further analysis. In this way, nearly
+100 variables were selected for an intermediate model specification. Next, starting with the
+94
+
+intermediate model specification, statistically insignificant variables were eliminated, and
+then variations on the remaining specification were tested to obtain a final model having all
+significant explanatory variables (possibly excepting the ASCs, which should be included
+for technical reasons even if they are not significant, Manski and Lerman, 1977; Cosslett,
+1981).  Figure 5.1 shows the model estimation procedure.
+
+Initial Model Specification
+
+|     | Subset 1  | Subset 2  | Subset 3  | Subset 4  | Subset 5 …  |
+| --- | --------- | --------- | --------- | --------- | ----------- |
+
+|     | Travel attitudes                                    | Travel attitudes Travel attitudes  |            | Personality                      | Personality  |
+| --- | --------------------------------------------------- | ---------------------------------- | ---------- | -------------------------------- | ------------ |
+|     | Personality                                         | Personality                        | Lifestyle  | Perceived MobiTlirtayvel Liking  |              |
+|     | Objective MobilitPye rceived MobiTlirtayvel Liking  |                                    |            | Demographics Demographics        |              |
+
+Select Powerful Variables
+
+|     |     | Intermediate Model Specification  |     |     |     |
+| --- | --- | --------------------------------- | --- | --- | --- |
+
+|     | Model 1  | Model 2  | Model 3  | Model 4  | Model 5 …  |
+| --- | -------- | -------- | -------- | -------- | ---------- |
+|     | ASVs     | ASVs     | ASVs     | ASVs     | ASVs       |
+|     | ASCs     | ASCs     | ASCs     | ASCs     | ASCs       |
+
+No
+|     |     | All variables are significant  |     |     |     |
+| --- | --- | ------------------------------ | --- | --- | --- |
+and conceptually
+interpretable?
+
+Yes
+
+|   Yes  |     |     | Other variables are likely |     |     |
+| ------ | --- | --- | -------------------------- | --- | --- |
+to be significant  and
+interpretable?
+
+No
+|     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- |
+Final Model
+
+Figure 5.1:  Model Estimation Procedure
+|     |     |     |     | 95  |     |
+| --- | --- | --- | --- | --- | --- |
+
+5.2 Model Estimation
+Through the model estimation procedure discussed in Section 5.1, the final model with
+eight ASCs and 40 ASVs, representing 22 different variables, was achieved. As shown in
+Table 5.2, all explanatory variables were statistically significant and conceptually
+interpretable. Additionally, as a goodness-of-fit test statistic, the χ2 value of 1,225.2 shows
+that the final model significantly differs from the equally likely model (in which all
+coefficients are equal to zero) at α << 0.005.
+The ρ2 value of the final model is 0.177, indicating that the model explains 17.7% of the
+information in the data. Compared to the ρ2 value of 0.108 for the market share model (the
+model containing only constant terms), the final model explains substantially more
+information, and the χ2 value of 688.5 indicates there is a significant difference between the
+two models at α << 0.005. Further, the ρ2 value of 0.177 of the final model falls within the
+range of other models found in the literature, such as a ρ2 of 0.126 found in Lave and Train
+(1979) and 0.249 in Kitamura, et al. (2000)7.
+7 As discussed in Chapter 2, both of these models have multinomial logit structures and their dependent
+variables are vehicle type categories (not makes/models), similar to our final model.
+96
+
+Table 5.2:  Final Multinomial Logit Model for Vehicle Type Choice (Base Alternative = Pickup)
+Explanatory Variables  Small  Compact  Mid-sized  Large  Luxury  Sports  Minivan/Van  SUV
+|  Travel Attitudes    |     |     |     |     |                 |     |     |     |     |
+| -------------------- | --- | --- | --- | --- | --------------- | --- | --- | --- | --- |
+|      Travel Dislike  |     |     |     |     |   0.461 (2.74)  |     |     |     |     |
+0.491 (6.11)  0.491 (6.11)  0.491 (6.11)    0.694 (5.62)      0.694 (5.62)
+     Pro-high Density
+|  Personality     |                 |     |                 |     |                   |                   |                 |                   |     |
+| ---------------- | --------------- | --- | --------------- | --- | ----------------- | ----------------- | --------------- | ----------------- | --- |
+|      Organizer   |                 |     |   0.181 (2.22)  |     |                   |                   |                 |                   |     |
+|      Calm        |                 |     |                 |     |                   |                   |   0.333 (2.45)  |                   |     |
+|  Lifestyle       |                 |     |                 |     |                   |                   |                 |                   |     |
+|      Frustrated  |                 |     |                 |     |   -0.507 (-2.25)  |                   |                 |   -0.238 (-2.26)  |     |
+|                  | -0.222 (-2.43)  |     |                 |     |                   |   -0.425 (-3.22)  |                 |                   |     |
+     Workaholic
+|      Status Seeking  |     |     |     |     |   0.756 (4.12)  | 0.445 (3.81)  |     |     |     |
+| -------------------- | --- | --- | --- | --- | --------------- | ------------- | --- | --- | --- |
+|                      |     |     |     |     |                 |               |     |     |     |
+ Objective Mobility
+|      Sum of log-miles by   |     |                   |     |     |   0.004 (2.85)  |                 |     |     |     |
+| -------------------------- | --- | ----------------- | --- | --- | --------------- | --------------- | --- | --- | --- |
+|      airplane for LD       |     |                   |     |     |                 |                 |     |     |     |
+|  Perceived Mobility        |     |                   |     |     |                 |                 |     |     |     |
+|      Overall SD            |     |                   |     |     |                 |   0.208 (2.28)  |     |     |     |
+|                            |     |   -0.182 (-2.35)  |     |     |                 |                 |     |     |     |
+     Overall LD
+|      Personal Vehicle for LD  |                 |     |     |     |     |   -0.221 (-2.90)  |     |     |     |
+| ----------------------------- | --------------- | --- | --- | --- | --- | ----------------- | --- | --- | --- |
+|  Travel Liking                |                 |     |     |     |     |                   |     |     |     |
+|      Personal Vehicle for SD  | -0.151 (-2.00)  |     |     |     |     |                   |     |     |     |
+Note: The number in parentheses indicates the t-value of that coefficient (at a level of α=0.05 a critical t-value = 1.96).
+
+|     |     |     |     | 97  |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+(Table 5.2 continued)
+Explanatory Variables  Small  Compact  Mid-sized  Large  Luxury  Sports  Minivan/Van  SUV
+|  Demographics  |     |     |     |     |     |     |     |     |     |     |     |
+| -------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+     Age  -0.324 (-3.31)          -0.367 (-2.64)    -0.582 (-4.51)
+     Education  0.258 (3.65)  0.364 (5.09)  0.258 (3.65)    0.364 (5.09)  0.364 (5.09)  0.258 (3.65)  0.364 (5.09)
+     Household Income      0.203 (4.09)    0.449 (3.49)      0.292 (4.59)
+|      Personal Income  |     | -0.169 (-3.37)  |     |     |     |     |     |     |     |     |     |
+| --------------------- | --- | --------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+     No. of People < 19      0.240 (2.98)        0.904 (9.44)
+     No. of People > 64      0.350 (2.74)  0.901 (5.07)  0.830 (3.54)
+     Female (dummy)  2.419 (9.03)  2.176 (8.20)  2.419 (9.03)  2.176 (8.20)  2.703 (6.70)  2.176 (8.20)  2.176 (8.20)  2.176 (8.20)
+|      Urban (dummy)  |     | 0.667 (4.81)  |     |     |     |     |   0.826 (2.48)  |     |     |     |     |
+| ------------------- | --- | ------------- | --- | --- | --- | --- | --------------- | --- | --- | --- | --- |
+     Employed (dummy)      -0.579 (-3.03)    -0.989 (-2.42)    -0.799 (-3.16)
+|      Sales (dummy)  |     |     |     |     | 0.621 (3.01)  |     |   0.978 (2.27)  |     |     |     |     |
+| ------------------- | --- | --- | --- | --- | ------------- | --- | --------------- | --- | --- | --- | --- |
+ Constants  0.697 (1.40)  -1.127 (-3.06)  -1.582 (-4.19)  -2.278 (-10.46)  -5.931 (-7.42)  -1.273 (-2.03)  -2.113 (-5.82)  -1.674 (-3.10)
+|  No. of Observations             |      |     |     |     |     |     | 1571           |     |     |     |     |
+| -------------------------------- | ---- | --- | --- | --- | --- | --- | -------------- | --- | --- | --- | --- |
+|  Log-likelihood at 0             |      |     |     |     |     |     | -3451.8        |     |     |     |     |
+|  Log-likelihood at Market Share  |      |     |     |     |     |     | -3183.5        |     |     |     |     |
+|  Log-likelihood at Convergence   |      |     |     |     |     |     | -2839.2        |     |     |     |     |
+|                                  |      |     |     |     |     |     |                |     |     |     |     |
+|  ρ 2 (Adjusted ρ                 | 2 )  |     |     |     |     |     |                |     |     |     |     |
+| o                                | o    |     |     |     |     |     | 0.177 (0.174)  |     |     |     |     |
+ ρ2 (Adjusted ρ2 )
+| c     | c   |     |     |     |     |     | 0.108 (0.105)  |     |     |     |     |
+| ----- | --- | --- | --- | --- | --- | --- | -------------- | --- | --- | --- | --- |
+|  χ 2  |     |     |     |     |     |     | 1225.2         |     |     |     |     |
+o
+|  χ2  |     |     |     |     |     |     | 688.5  |     |     |     |     |
+| ---- | --- | --- | --- | --- | --- | --- | ------ | --- | --- | --- | --- |
+c
+Note: The number in parentheses indicates the t-value of that coefficient (at a level of α=0.05 a critical t-value = 1.96).
+|     |     |     |     |     | 98  |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+Turning to the explanatory variables in the final model, the model has results similar to
+those of the individual tests discussed in the previous chapter. One difference from the
+previous results is that two travel attitude and personality variables are significant for mid-
+sized cars. Some demographic variables are significant for many vehicle type alternatives,
+which is natural considering that the base alternative is the distinctive pickup vehicle type.
+We first describe the results for each explanatory variable (discussion by row), focusing on
+its sign and magnitude for a specific vehicle type alternative. Then, we analyze some key
+significant variables by vehicle type (discussion by column), to develop a profile of typical
+drivers of each kind of vehicle.
+Two travel attitude factors, travel dislike and pro-high density, are significant in the model.
+As we hypothesized that those who dislike travel are more likely to seek more comfortable
+cars to minimize travel fatigue, the travel dislike attitude factor has a positive sign for
+luxury cars. That is, those who have a stronger dislike for travel are more likely to drive
+luxury cars, perhaps to ameliorate the unpleasantness of travel. Interestingly, the pro-high
+density attitude factor has a positive sign both for smaller cars (small, compact, and mid-
+sized cars) and for expensive cars (luxury cars and SUVs), with the larger magnitude
+occurring for the second category. Those who have a stronger pro-high density attitude
+(who tend to live in the urban neighborhood of North San Francisco) are more likely to
+drive smaller cars due to their greater maneuverability in tight traffic and parking situations.
+On the other hand, in our sample those who have a stronger pro-high density attitude are
+also likely to have higher incomes, so they tend to drive expensive cars.
+Two of the personality factors, organizer and calm, turn out to be significant in the model.
+Interestingly, the organizer personality factor is significant (and positive) only for mid-sized
+cars. Organizers (who like to be in charge) may be more likely to be mid-level manager
+types, and hence to drive moderate cars rather than smaller, larger or specialty cars. The
+calm personality factor is significant (and positive) only for minivans. That is, calmer
+99
+
+people are more likely to drive minivans, suggesting the settled status and maturity of
+parenthood.
+All lifestyle factors except family/community oriented are significant in the model. Not
+surprisingly, the frustrated lifestyle factor has a negative sign for luxury cars and SUVs,
+although not driving an expensive car is more likely an indicator of being frustrated for
+other reasons (or a contributory cause of being frustrated), than a direct consequence of
+being frustrated. The workaholic lifestyle factor has a negative sign for small and sports
+cars, perhaps because workaholics are likely to be career-oriented with potentially higher
+incomes. Additionally, the status seeking lifestyle factor has a positive sign for luxury and
+sports cars, as status seekers are likely to think of their cars as a status symbol.
+The model also contains four mobility variables and one travel liking variable. For
+objective mobility, the sum of the natural log of the miles traveled by airplane for long-
+distance trips has a positive sign for luxury cars, with both variables being likely
+consequences of high incomes rather than representing direct causality. For perceived
+mobility, an interesting contrast between short and long distance appears. Those who think
+they travel a lot for short distance overall are more likely to drive sports cars, whereas those
+who think they travel a lot by personal vehicle for long distance are less likely to drive
+sports cars. Similarly, those who think they travel long distance a lot overall are less likely
+to drive compact cars. The implication is that compact and sports cars are desirable for
+traveling around town, but less comfortable or practical for long trips. The result for
+compact cars may also represent an income effect. Those who like traveling by personal
+vehicle for short distance are less likely to drive a small car. Again, the direction of
+causality is ambiguous: those who like traveling by car may be more motivated to invest
+more money in a vehicle, but the degree of liking for travel by car may be somewhat
+influenced by the degree of comfort and amenities offered by one’s current vehicle.
+100
+
+Ten demographic characteristics turn out to be significant in the model, in logical ways.
+The sign and magnitude of each variable are similar to the results of the individual tests.
+The respondent’s age is negatively associated with driving small or sports cars, and SUVs,
+as expected. Education has a positive sign for all vehicle type categories except large cars,
+indicating that drivers of pickups (the base category) and large cars tend to be less-educated
+than drivers of the other vehicle types. The household income variable has a positive sign
+for expensive cars such as luxury cars and SUVs, while the personal income variable has a
+negative sign for small cars. The number of people in the household under age 19 has a
+positive sign and highest magnitude for minivans, with a smaller positive coefficient for
+mid-sized cars. On the other hand, the number of people age 65 or older has a positive sign
+for larger cars such as large and luxury cars. Similar to education, the female variable has a
+positive sign for all vehicle type categories. That is, all else equal, females are less likely to
+drive pickups (the base alternative) than any other vehicle type. As expected, the urban
+neighborhood variable has a positive sign for small and luxury cars. The employed variable
+has a negative sign for mid-sized or luxury cars, and minivans. This indicates that
+unemployed people such as homemakers and retired people may tend to drive family
+vehicles or bigger and more comfortable cars. The sales variable has a positive sign for
+mid-sized and luxury cars, indicating the need for a comfortable vehicle in an occupation
+often involving a lot of travel. The coefficient for luxury cars has the higher magnitude of
+the two, suggestive of the need to appear successful in a sales occupation.
+Additionally, the negative signs on all the alternative-specific constants except the one for
+small cars (which is not significant) show that the average impact of all unmeasured
+variables is to reduce the probability of choosing that vehicle type alternative. Especially,
+the alternative-specific constant for luxury cars has a much higher magnitude than those for
+other vehicle type alternatives, suggesting that the choice of luxury cars is least well-
+explained by the available variables.
+101
+
+Focusing now on each vehicle type (discussion by column), those who have a stronger pro-
+high density attitude are more likely to drive small cars, while those who are workaholics or
+do not enjoy personal vehicle travel for short distance are less likely to choose small cars.
+Additionally, those who have a stronger pro-high density attitude are more likely to drive
+compact cars, while those who perceive that they have a lot of overall long-distance travel
+are less likely to do so. Interestingly, those who have a stronger pro-high density attitude or
+tend to be organizers are more likely to drive mid-sized cars. Those who have higher
+household incomes are also more likely to choose mid-sized cars, but are even more likely
+to drive luxury cars and SUVs.
+In contrast to the individual tests, no travel attitude, personality, lifestyle, mobility, or travel
+liking characteristics are significant to choosing large cars. On the other hand, those who
+have stronger travel dislike and pro-high density attitudes, tend to be status seeking, or not
+frustrated, are more likely to drive luxury cars. With respect to the mobility variables, those
+who travel long-distance by airplane a lot also tend to drive luxury cars.
+Looking at sports cars and SUVs, those who tend to be status seekers, not workaholics, or
+younger are more likely to drive sports cars. Particularly, those who perceive their overall
+short-distance travel to be a lot but their long-distance personal vehicle travel to be lower
+are more likely to drive sports cars. Those who have a stronger pro-high density attitude are
+more likely to drive SUVs, whereas those who are frustrated are less likely to drive SUVs.
+Conversely, those who tend to be calm are more likely to drive minivans.
+5.3 Independence from Irrelevant Alternatives (IIA) Tests
+A central condition for the multinomial logit (MNL) model form to be valid is the
+Independence from Irrelevant Alternatives (IIA) assumption, which states that the relative
+odds of choosing one alternative over another should not differ with the presence or
+absence of other alternatives in the choice set. If this assumption is violated, MNL is not the
+appropriate model structure and an alternative structure or specification must be sought.
+102
+
+IIA will be violated when observed explanatory variables are correlated with unobserved
+ones, or when the unobserved variables for one alternative are correlated with those of
+another alternative. Since several of our vehicle types could be considered similar, it is
+quite possible that IIA is violated in this context. On the other hand, IIA holding or not is a
+property of the model specification, not of the choice context per se, and it is possible
+within the same choice context to remedy a violation of IIA by improving the model
+specification (thereby moving variables from “unobserved” to “observed”, and reducing the
+opportunity for correlations involving the fewer remaining unobserved variables). In
+particular, one common way to try to remedy an IIA violation is to make a generic variable
+(i.e. one having the same coefficient across all alternatives) alternative-specific (allowing
+the coefficient to differ across alternatives). This transfers the alternative-specific
+contribution of that variable to utility from being unobserved to being observed. In our case,
+since all of our explanatory variables are of necessity alternative-specific from the outset, it
+is possible that our specification will not violate IIA. We still must test for that condition,
+however. In this section, we test whether or not the final model violates the independence
+from irrelevant alternatives (IIA) property for a multinomial logit model.
+We first attempted to conduct the Hausman-McFadden test8 (Hausman and McFadden,
+1984) of IIA for various subsets of the model within the LIMDEP software estimation
+package. However, none of the tests could be completed since the V(r) − V(f) matrix was
+not positive definite9. Thus, we conduct another set of tests for IIA, by comparing the MNL
+8 The test statistic is [β(r)−β(f)]’ [V(r)−V(f)]-1 [β(r)−β(f)], where β is an estimated coefficient vector, V is the
+estimated variance-covariance matrix of β, r stands for a restricted model, and f stands for a full model. This
+statistic has the chi-squared distribution, with degrees of freedom equal to the number of linearly independent
+restrictions needed to obtain the restricted model from the full one. The restrictions involve estimating the
+model on only a subset of the alternatives; if IIA holds the restricted model should be similar to the full one,
+and the test statistic should be small. A large test statistic requires rejection of the null hypothesis that IIA
+holds.
+9 The literature (Small and Hsaio, 1985) points out that if IIA holds, V(r) and V(f) will of necessity be similar
+to each other, and so their difference will be “close to zero” in a matrix sense, rendering the V(r) − V(f) matrix
+impossible to invert as required to calculate the test statistic. Thus, the numerical difficulties encountered in
+executing the test are common. They in fact suggest that IIA does hold, but cannot be taken as definitive in
+this regard, since there may be other reasons for the observed result. For example, after excluding one or more
+alternatives from the choice set, some explanatory variables may be collinear or nearly so.
+103
+
+model structure to the more general nested logit (NL) model that does not require IIA to
+hold. Conceptually, the NL model groups alternatives hypothesized to be similar into the
+same nest, and then the discrete choice consists of the joint choice of nest and alternative
+within nest (this is purely a mathematical structure and does not necessarily imply a
+temporal sequence or conceptual clustering on the part of the respondent). If the so-called
+“inclusive value (IV) parameters” of the NL model are not significantly different from one,
+then the NL model is equivalent to the MNL model and IIA can be assumed to hold
+(Hausman and McFadden, 1984). On the other hand, if any of the IV parameters are
+significantly less than one (they must lie between 0 and 1 for the model to be theoretically
+consistent), then the NL model is significantly better than the MNL model and can be used
+to remedy the IIA violation of MNL.
+To test the IIA property using NL models, we first established 17 conceptual nested
+structure models with two or three levels based on vehicle size (e.g., grouping small and
+compact or compact and mid-sized into one nest) and vehicle specialty (e.g., grouping
+sports, minivan/van, pickup, and SUV or sports and SUV into one nest). Figure 5.2
+illustrates the nested structures that we tested.
+Then, we ran the 17 NL models with the same model specification as the final MNL model,
+using the LIMDEP software estimation package. For each of these 17 NL structures, we
+also estimated another model specification (with eight ASCs and 53 ASVs), where all
+explanatory variables were the same as for the final model but all previously combined
+ASVs were separated again, constructing a complete ASV specification. Koppelman and
+Wen (1998) have established that, in general, the NL model used in commercial software
+packages such as LIMDEP, called the nonnormalized nested logit model (NNNL), needs to
+be corrected to be consistent with utility maximization10. In our case, however, the NL
+models do not need to be corrected for estimation because the NNNL model is equivalent to
+10 The latest version, LIMDEP 8.0/NLOGIT 3.0, permits straightforward estimation of either the
+nonnormalized nested logit model (NNNL) or utility maximizing nested logit (UMNL) models.
+104
+
+the utility maximizing nested logit (UMNL) model when it has a fully alternative-specific
+specification, i.e. all ASVs (Daly, 2001; Koppelman, et al., 2001).
+
+| S  C  | M   | L  X  |     |     |     |     | M   | L X |     |     |
+| ----- | --- | ----- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+|     |     | R   | V  P  | U   | S   | C   |     | R   | V  P  | U   |
+| --- | --- | --- | ----- | --- | --- | --- | --- | --- | ----- | --- |
+
+|     | ALT. 1  |     |     |     |     |     |     | ALT. 2 |     |     |
+| --- | ------- | --- | --- | --- | --- | --- | --- | ------ | --- | --- |
+
+| S   | L   | X   |     |     | S   | C   |     | X   |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+|   C  | M       | R   | V   | P  U |     | M   | L   | R V    | P  U  |     |
+| ---- | ------- | --- | --- | ---- | --- | --- | --- | ------ | ----- | --- |
+|      | ALT. 3  |     |     |      |     |     |     | ALT. 4 |       |     |
+
+M
+|  S  C  | M   |     |     |     |     |     |     |     |     |     |
+| ------ | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+|     |     |       |     |      | S   | C   | L   | X R | V  P  | U   |
+| --- | --- | ----- | --- | ---- | --- | --- | --- | --- | ----- | --- |
+|     | L   | X  R  | V   | P  U |     |     |     |     |       |     |
+
+ALT. 6
+ALT. 5
+
+|     |     | X   |     |     | S   |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+| S   | C  M  | L   | R  V  | P  U |     | C M | L   | X R | V  P  | U   |
+| --- | ----- | --- | ----- | ---- | --- | --- | --- | --- | ----- | --- |
+
+|     | ALT. 7  |     |     |     |     |     |     | ALT. 8 |     |     |
+| --- | ------- | --- | --- | --- | --- | --- | --- | ------ | --- | --- |
+
+Figure 5.2:  Nested Logit Model Alternatives Tested
+Note: S stands for small, C stands for compact, M stands for mid-sized, L stands for large, X stands for luxury,
+R stands for sports, V stands for minivan/van, P stands for pickup, and U stands for SUV.
+|     |     |     |     |     | 105 |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+(Figure 5.2 continued)
+
+|     | S  C  | M  L  X  | R   | V   |     | M   | L   | X R  | V   |     |
+| --- | ----- | -------- | --- | --- | --- | --- | --- | ---- | --- | --- |
+
+|     |     |     |     | P U | S   | C   |     |     |     | P  U |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---- |
+
+|     |     | ALT. 9  |     |     |     |     | ALT. 10  |     |     |     |
+| --- | --- | ------- | --- | --- | --- | --- | -------- | --- | --- | --- |
+
+|     | S   | L  X  R  | V   |     | S   | C   | M L | X   | V   | P   |
+| --- | --- | -------- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+|     | C   | M   |     | P  U |     |     |     |     | R   | U   |
+| --- | --- | --- | --- | ---- | --- | --- | --- | --- | --- | --- |
+
+|     |     | ALT. 11  |     |     |     |     | ALT. 12  |     |     |     |
+| --- | --- | -------- | --- | --- | --- | --- | -------- | --- | --- | --- |
+
+| S   | C   | M  L  | V   | U  P | S   | C   | M L |     | V   | P   |
+| --- | --- | ----- | --- | ---- | --- | --- | --- | --- | --- | --- |
+
+|     |     | X  R  |     |     |     |     |     | X   | R  U  |     |
+| --- | --- | ----- | --- | --- | --- | --- | --- | --- | ----- | --- |
+
+|     |     | ALT. 13  |     |     |     |     | ALT. 14  |     |     |     |
+| --- | --- | -------- | --- | --- | --- | --- | -------- | --- | --- | --- |
+
+| S   | C  M  | L  X  R  | V   | P U | S   | C M | L   | X   | R  V  | P U |
+| --- | ----- | -------- | --- | --- | --- | --- | --- | --- | ----- | --- |
+
+|     |     | ALT. 15  |     |     |     |     | ALT. 16  |     |     |     |
+| --- | --- | -------- | --- | --- | --- | --- | -------- | --- | --- | --- |
+
+|     |     |     | X   | R U | V   | P   |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+|     |     |     |     |     |     | S   | C M | L   |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+ALT. 17
+|     |     |     |     | 106 |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+Table 5.3 presents the test results for the nested structures. For the former (final MNL)
+model specification, all NL models except two have IV parameters statistically equal to one,
+indicating that IIA holds. The remaining two NL models have IV parameters significantly
+greater than one, violating the conditions of utility maximization and requiring that the
+models be discarded. For the latter (complete ASV) specification, eight NL models have IV
+parameters equal to one, and the others have IV parameters greater than one. On the other
+hand, looking at the ρ2 values, some nested logit models have a higher ρ2 value than the
+0.177 of the final model, but they have IV parameters equal to one or greater than one.
+Thus, the IIA test results for the NL models strongly suggest that no NL models are superior
+to the final MNL model. That is, the IIA property of the final model holds. Despite
+conceptual similarities among the nine vehicle types modeled, this is not necessarily
+surprising considering the fact that all of our explanatory variables are ASVs, and allowing
+a variable to be alternative-specific is recommended as one potential solution to IIA
+violations of a multinomial logit model (McFadden, et al., 1977; Ben-Akiva and Lerman,
+1985).
+107
+
+Table 5.3:  Summary of Nested Logit Models (N = 1571)
+|     | Log-likelihood  | ρ2  | Inclusive Value (IV) Test  |
+| --- | --------------- | --- | -------------------------- |
+NL model
+at Convergence
+(Ho : all IV parameters are equal to one)
+| ALT. 1  | -2839    | 0.215    | Accept Ho                          |
+| ------- | -------- | -------- | ---------------------------------- |
+|         | (-2836)  | (0.215)  | (Accept Ho)                        |
+| ALT. 2  | -2838    | 0.237    | Accept Ho                          |
+|         | (-2833)  | (0.238)  | (Reject Ho, but greater than one)  |
+|         | -2839    | 0.235    | Accept Ho                          |
+ALT. 3
+|     | (-2836)  | (0.236)  | (Reject Ho, but greater than one)  |
+| --- | -------- | -------- | ---------------------------------- |
+|     | -2839    | 0.209    | Accept Ho                          |
+ALT. 4
+|     | (-2833)  | (0.211)  | (Reject Ho, but greater than one)  |
+| --- | -------- | -------- | ---------------------------------- |
+|     | -2839    | 0.165    | Accept Ho                          |
+ALT. 5
+|         | (-2834)  | (0.166)  | (Reject Ho, but greater than one)  |
+| ------- | -------- | -------- | ---------------------------------- |
+| ALT. 6  | -2838    | 0.175    | Accept Ho                          |
+|         | (-2831)  | (0.177)  | (Reject Ho, but greater than one)  |
+| ALT. 7  | -2833    | 0.220    | Reject Ho, but greater than one    |
+|         | (-2830)  | (0.220)  | (Reject Ho, but greater than one)  |
+|         | -2839    | 0.172    | Accept Ho                          |
+ALT. 8
+|     | (-2833)  | (0.174)  | (Reject Ho, but greater than one)  |
+| --- | -------- | -------- | ---------------------------------- |
+|     | -2839    | 0.188    | Accept Ho                          |
+ALT. 9
+|          | (-2838)  | (0.189)  | (Accept Ho)  |
+| -------- | -------- | -------- | ------------ |
+| ALT. 10  | -2839    | 0.228    | Accept Ho    |
+|          | (-2835)  | (0.229)  | (Accept Ho)  |
+| ALT. 11  | -2839    | 0.226    | Accept Ho    |
+|          | (-2838)  | (0.227)  | (Accept Ho)  |
+| ALT. 12  | -2839    | 0.186    | Accept Ho    |
+|          | (-2835)  | (0.187)  | (Accept Ho)  |
+|          | -2839    | 0.165    | Accept Ho    |
+ALT. 13
+|     | (-2838)  | (0.165)  | (Accept Ho)  |
+| --- | -------- | -------- | ------------ |
+|     | -2838    | 0.181    | Accept Ho    |
+ALT. 14
+|          | (-2835)  | (0.182)  | (Reject Ho, but greater than one)  |
+| -------- | -------- | -------- | ---------------------------------- |
+| ALT. 15  | -2836    | 0.187    |  Reject Ho, but greater than one   |
+|          | (-2833)  | (0.188)  | (Reject Ho, but greater than one)  |
+| ALT. 16  | -2839    | 0.312    | Accept Ho                          |
+|          | (-2838)  | (0.313)  | (Accept Ho)                        |
+| ALT. 17  | -2839    | 0.311    | Accept Ho                          |
+|          | (-2838)  | (0.311)  | (Accept Ho)                        |
+Notes:
+Numbers in parentheses come from the model having all individual alternative-specific variables.
+When the NL models were estimated, IV parameters of any branches having only one choice were fixed at 1.0
+for identification purposes. In fact, most NL models could not be estimated when IV parameters of those
+branches were not restricted.
+
+|     |     | 108 |     |
+| --- | --- | --- | --- |
+
+CHAPTER 6. CONCLUSIONS
+Differing from the traditional vehicle type choice models previously developed by
+economists and market researchers, this study identified travel attitude, personality, lifestyle,
+and mobility factors that affect individuals’ vehicle type choices (the type the respondent
+drives most often), using data from a 1998 mail-out/mail-back survey of 1,904 residents in
+three neighborhoods in the San Francisco Bay Area. Here, similar to the Consumer Reports
+classification scheme, vehicle type was classified into nine categories based on make,
+model, and vintage of a vehicle: small, compact, mid-sized, large, luxury, sports,
+minivan/van, pickup, and sport utility vehicle (SUV).
+We first conducted ANOVA and chi-squared tests to identify whether the explanatory
+variables, plus two (attitudinal and personality/lifestyle) cluster membership variables
+created in previous work, individually are statistically different among groups classified by
+vehicle type. The Bonferroni multiple comparisons test was additionally conducted for the
+variables that had statistical differences among vehicle type groups based on the ANOVA
+test, to identify which categories are significantly different from other categories. All
+vehicle type groups, except the mid-sized car group, have distinct characteristics with
+respect to travel attitude, personality, lifestyle, mobility, and demographic variables. The
+characteristics of travel attitude, personality, and lifestyle for each vehicle type are
+consistent with those of cluster memberships, showing a higher proportion of a given
+vehicle type in the corresponding cluster. The mid-sized car group tends to be “middle-of-
+the-road” in its characteristics. Also, no significant differences across vehicle types were
+found with respect to the relative desired mobility, commute time, and commute distance
+variables.
+Furthermore, we developed a disaggregate discrete choice model (specifically, a
+multinomial logit model) for vehicle type choice to estimate the joint effect of the key
+variables on the probability of choosing each vehicle type. The final model (with the pickup
+109
+
+vehicle type as base) includes 40 significant alternative-specific variables representing
+travel attitude, personality, lifestyle, mobility factors, and demographic variables together
+with the eight alternative-specific constants. We also examined whether the independence
+from irrelevant alternatives (IIA) assumption of the final model specification is violated or
+not by using two tests for IIA: the Hausman-McFadden and nested logit structure tests. The
+former test could not be completed due to the singularity of the V(r) − V(f) matrix (a
+common occurrence), while the latter test strongly indicates that the IIA property of the
+final model holds. Despite conceptual similarities among the nine vehicle types modeled,
+this is not necessarily surprising considering the fact that alternative-specific variables are
+generally recommended as one solution to IIA violations of a multinomial logit model.
+The key results of the model are as follows:
+• Those who have a stronger pro-high density attitude are more likely to drive small
+cars, while those who are workaholics or do not enjoy personal vehicle travel for
+short distance are less likely to choose small cars. Additionally, those who have a
+stronger pro-high density attitude are more likely to drive compact cars, while those
+who perceive that they have a lot of overall long-distance travel are less likely to do
+so. Interestingly, those who have a stronger pro-high density attitude or tend to be
+organizers are more likely to drive mid-sized cars. Those who have higher
+household incomes are also more likely to choose mid-sized cars, but are even more
+likely to drive luxury cars and SUVs.
+• No travel attitude, personality, lifestyle, mobility, or travel liking characteristics are
+significant to choosing large cars. On the other hand, those who have stronger travel
+dislike and pro-high density attitudes, tend to be status seeking, or not frustrated, are
+more likely to drive luxury cars. With respect to the mobility variables, those who
+travel long-distance by airplane a lot also tend to drive luxury cars.
+110
+
+• For sports cars and SUVs, those who tend to be status seekers, not workaholics, or
+younger are more likely to drive sports cars. Particularly, those who perceive their
+overall short-distance travel to be a lot but their long-distance personal vehicle
+travel to be lower are more likely to drive sports cars. Interestingly, those who have
+a stronger pro-high density attitude are more likely to drive SUVs, whereas those
+who are frustrated are less likely to drive SUVs. On the other hand, those who tend
+to be calm are more likely to drive minivans.
+• Similar to the previous studies on vehicle type choice, demographic characteristics
+are also related to vehicle type choice. The respondent’s age is negatively associated
+with driving small or sports cars and SUVs, and drivers of pickups and large cars
+tend to be less-educated than drivers of the other vehicle types. Household income
+is positively related to expensive cars such as luxury cars and SUVs, while personal
+income is negatively related to small cars. Clearly, the number of people under age
+19 in a household is strongly positively associated with minivans, and the number of
+people age 65 or older in a household is positively related to larger cars such as
+large and luxury cars.
+• Interestingly, females are less likely to drive pickups than any other vehicle type. As
+expected, the urban neighborhood variable has a positive sign for small and luxury
+cars. Unemployed individuals such as homemakers and retired people may tend to
+drive family vehicles or bigger and more comfortable cars such as minivans and
+luxury cars. Being a salesperson is strongly positively related to driving a luxury car,
+suggesting the need to appear successful in such an occupation.
+These results strongly support our hypotheses that travel attitudes, personality, lifestyle, and
+mobility factors affect individuals’ vehicle type choices. There are some limitations in
+analyzing the relationships of those variables to vehicle type choice because (i) the data
+used in this study did not have detailed information on all the vehicles in a household,
+111
+
+including their acquisition history as well as vehicle characteristics (e.g. price, capacity,
+horsepower, etc.), and (ii) vehicle type in our model is focused on only the make, model,
+and year of the single vehicle driven most often by the respondent. Nonetheless, the
+specific relationships identified in this study provide useful insight for vehicle
+manufacturers, as well as for decision makers and transportation planners developing
+transportation policies related to vehicle ownership, traffic congestion, and energy
+consumption. The general conclusion is also important: in addition to traditional
+demographic variables, travel attitude, personality, lifestyle, and mobility factors
+significantly affect an individual’s vehicle type choice. Future models of vehicle type
+choice can be substantially more powerful with the inclusion of such variables.
+112
+
+REFERENCES
+Ben-Akiva, Moshe and Steven R. Lerman (1985) Discrete Choice Analysis: Theory and
+Application to Travel Demand. Cambridge, MA: MIT Press.
+Berkovec, James (1985) Forecasting automobile demand using disaggregate choice
+models. Transportation Research B 19B(4), pp. 315-329.
+Berkovec, James and John Rust (1985) A nested logit model of automobile holdings
+for one vehicle households. Transportation Research B 19B(4), pp. 275-285.
+Bradsher, Keith (2000) Was Freud a minivan or S.U.V. kind of guy? The New York
+Times, July 17, p. A1.
+Bureau of Transportation Statistics (1999) National Transportation Statistics 1999,
+Table 1-16 and 1-17.
+Consumers Union (1956-1998) Consumer Reports, usually the April issue of every year
+(relating to new auto models of that year).
+Cosslett, Stephen R. (1981) Efficient estimation of discrete-choice models. In Charles F.
+Manski and Daniel McFadden, eds., Structural Analysis of Discrete Data with Econometric
+Applications. Cambridge, MA: MIT Press, pp. 51-111.
+Curry, Richard W. (2000) Attitudes toward Travel: The Relationships among Perceived
+Mobility, Travel Liking, and Relative Desired Mobility. Master’s Thesis, University of
+California, Davis, Department of Civil and Environmental Engineering.
+Daly, Andrew (2001) Alternative tree logit models: Comments on a paper of Koppelman
+and Wen. Transportation Research B 35B(8), pp. 717-724.
+Environmental Protection Agency (1996) Model Year 1996 Fuel Economy Guide.
+Available at http://www.epa.gov/oms/mpg.htm
+Federal Highway Administration (1997) 1995 NPTS Early Results Report, Report No.
+FHWA-PL-97-028, p. 35.
+Golob, Thomas F., David S. Bunch and David Brownstone (1997) A vehicle use
+forecasting model based on revealed and stated vehicle type choice and utilization
+data. Journal of Transport Economics and Policy, January 1997, pp. 69-92.
+Hausman, Jerry and Daniel McFadden (1984) Specification tests for the multinomial logit
+model. Econometrica 52(5), pp. 1219-1240.
+113
+
+Hensher, David A. (1985) An econometric model of vehicle use in the household
+sector. Transportation Research B 19B(4), pp. 303-313.
+Hocherman, Irit, Joseph N. Prashker and Moshe Ben-Akiva (1983) Estimation and use
+of dynamic transaction models of automobile ownership. Transportation Research
+Record 944, pp. 134-141.
+Kitamura, Ryuichi, Laura Laidet, Patricia Mokhtarian, Carol Buckinger and Fred Gianelli
+(1994) Land Use and Travel Behavior, Research Report Number UCD-ITS-RR-94-27,
+Institute of Transportation Studies, University of California, Davis.
+Kitamura, Ryuichi, Thomas F. Golob, Toshiyuki Yamamoto and Ge Wu (2000)
+Accessibility and auto use in a motorized metropolis. TRB ID Number 00-2273, Paper
+presented at the 79th Transportation Research Board Annual Meeting, Washington, DC.
+Koppelman, Frank S. and Chieh-Hua Wen (1998) Nested logit models: Which are you
+using? Transportation Research Record 1645, pp. 1-7.
+Koppelman, Frank S., Vaneet Sethi and Chieh-hua Wen (2001) Alternative nested logit
+models: A response to comments by Andrew Daly on an earlier paper of Frank Koppelman
+and Chieh-hua Wen. Transportation Research B 35B(8), pp. 725-729.
+Lave, Charles A. and Kenneth Train (1979) A disaggregate model of auto-type choice.
+Transportation Research A 13A(1), pp. 1-9.
+Mannering, Fred and Clifford Winston (1985) A dynamic empirical analysis of
+household vehicle ownership and utilization. Rand Journal of Economics 16(2),
+pp. 215-236.
+Mannering, Fred, Clifford Winston and William Starkey (2002) An exploratory analysis
+of automobile leasing in the United States. Forthcoming in Journal of Urban Economics.
+Mannering, Fred and Kenneth Train (1985) Recent directions in automobile demand
+modeling. Transportation Research B 19B(4), pp. 265-274.
+Manski, Charles F. and Leonard Sherman (1980) An empirical analysis of household
+choice among motor vehicles. Transportation Research A 14A(5/6), pp. 349-366.
+Manski, Charles F. and Steven R. Lerman (1977) The estimation of choice probabilities
+from choice based samples. Econometrica 45(8), pp. 1977-1988.
+McFadden, Daniel, Kenneth Train and William Tye (1977) An application of diagnostic
+tests for the independence of irrelevant alternatives property of the multinomial logit model.
+Transportation Research Record 637, pp. 39-46.
+114
+
+Mokhtarian, Patricia L. and Ilan Salomon (2001) How derived is the demand for
+travel? Some conceptual and measurement considerations. Transportation Research
+A 35A(8), pp. 695-719.
+Murtaugh, Michael and Hugh Gladwin (1980) A hierarchical decision-process model
+for forecasting automobile type-choice. Transportation Research A 14A(5/6),
+pp. 337-348.
+Redmond, Lothlorien S. (2000) Attitude, Personality and Lifestyle Characteristics as
+Related to Travel: A Survey of Three San Francisco Bay Area Neighborhoods. Master’s
+Thesis, University of California, Davis, Transportation Technology and Policy Graduate
+Group.
+Small, Kenneth A. and Cheng Hsiao (1985) Multinomial logit specification tests.
+International Economic Review 26(3), pp. 619-627.
+Tardiff, Timothy J. (1980) Vehicle choice models: Review of previous studies and
+directions for further research. Transportation Research A 14A(5/6), pp. 327-335.
+Train, Kenneth (1986) Qualitative Choice Analysis: Theory, Econometrics, and an
+Application to Automobile Demand, Cambridge, MA: MIT Press.
+115
+
+APPENDIX 1. REPRESENTATIVE MAKES AND MODELS FOUND
+IN OUR DATA, FOR EACH VEHICLE CLASSIFICATION
+1. Small (89): Honda Civic (50), Toyota Corolla (48), Acura Integra (29) Toyota
+Tercel (27), Volkswagen Jetta (18), Ford Escort (18), Mazda Protege (11), Saturn
+SL2 (10)
+2. Compact (69): Honda Accord (before 1994, 59), Toyota Camry (before 1992, 25),
+Ford Tempo (14)
+3. Mid-size (130): Toyota Camry (since 1992, 41), Ford Taurus (32), Honda Accord
+(since 1994, 26), Acura Legend (13)
+4. Large (26): Buick LeSabre (7), Cadillac DeVille (4), Lincoln Towncar (4), Pontiac
+Bonneville (4)
+5. Luxury (36): Cadillac Seville (5), Lexus LS400 (4), Mercedes 300E (4), Mercedes
+300SD (4), Mercedes 320E (4)
+6. Sports (65): Ford Mustang (16), Honda Civic CRX (11), Honda Prelude (9), Toyota
+Celica (18)
+7. Minivan/Van (35): Dodge Caravan (24), Chevrolet Astro (9), Plymouth Voyager
+(9), Ford Windstar (7), Nissan Quest (5), Ford Aerostar (5)
+8. Pickup (62): Ford Ranger (20), Toyota Pickup (17), Nissan Pickup (8), Ford Pickup
+(7), Ford F150 (7)
+9. SUV (48): Ford Explorer (36), Jeep Cherokee (19), Jeep Grand Cherokee (15),
+Toyota 4Runner (14)
+Note: The number in parentheses is the number of cases. The makes and models listed are representative
+rather than exhaustive.
+116
+
+APPENDIX 2. BONFERRONI MULTIPLE COMPARISONS
+1. Bonferroni Multiple Comparison Tables
+•  Travel Dislike (Travel Attitude Factor)
+Multiple Comparisons
+Dependent Variable: 6 factor solution for A3, Travel dislike factor
+Bonferroni
+|             |             | Mean       |                 | 95% Confidence Interval |
+| ----------- | ----------- | ---------- | --------------- | ----------------------- |
+| (I) Vehicle | (J) Vehicle | Difference |                 | Lower Upper             |
+| Type        | Type        | (I-J)      | Std. Error Sig. | Bound Bound             |
+| small       | compact     | -.1405492  | .072 1.000      | -.3708332 8.973E-02     |
+|             | mid-sized   | -.1072582  | .064 1.000      | -.3131367 9.862E-02     |
+|             | large       | -.2206443  | .127 1.000      | -.6274488 .1861603      |
+|             | luxury      | -.2224541  | .122 1.000      | -.6136097 .1687015      |
+|             | sports      | 8.001E-02  | .083 1.000      | -.1873507 .3473634      |
+|             | minivan/van | 9.437E-03  | .094 1.000      | -.2902318 .3091056      |
+|             | pickup      | -4.11E-02  | .082 1.000      | -.3036377 .2214212      |
+|             | SUV         | 2.306E-02  | .077 1.000      | -.2227408 .2688513      |
+| compact     | small       | .1405492   | .072 1.000      | -8.97E-02 .3708332      |
+|             | mid-sized   | 3.329E-02  | .073 1.000      | -.1993923 .2659743      |
+|             | large       | -8.01E-02  | .131 1.000      | -.5011004 .3409103      |
+|             | luxury      | -8.19E-02  | .127 1.000      | -.4878091 .3239994      |
+|             | sports      | .2205555   | .090 .521       | -6.79E-02 .5090610      |
+|             | minivan/van | .1499861   | .100 1.000      | -.1686939 .4686660      |
+|             | pickup      | 9.944E-02  | .089 1.000      | -.1845965 .3834784      |
+|             | SUV         | .1636044   | .084 1.000      | -.1050427 .4322515      |
+| mid-sized   | small       | .1072582   | .064 1.000      | -9.86E-02 .3131367      |
+compact
+|     |        | -3.33E-02 | .073 1.000 | -.2659743 .1993923 |
+| --- | ------ | --------- | ---------- | ------------------ |
+|     | large  | -.1133861 | .127 1.000 | -.5215537 .2947815 |
+|     | luxury | -.1151959 | .123 1.000 | -.5077688 .2773770 |
+sports
+.1872645 .084 .942 -8.22E-02 .4566909
+|        | minivan/van | .1166950  | .094 1.000 | -.1848213 .4182114 |
+| ------ | ----------- | --------- | ---------- | ------------------ |
+|        | pickup      | 6.615E-02 | .083 1.000 | -.1984866 .3307865 |
+|        | SUV         | .1303134  | .077 1.000 | -.1177319 .3783588 |
+| large  | small       | .2206443  | .127 1.000 | -.1861603 .6274488 |
+|        | compact     | 8.010E-02 | .131 1.000 | -.3409103 .5011004 |
+|        | mid-sized   | .1133861  | .127 1.000 | -.2947815 .5215537 |
+|        | luxury      | -1.81E-03 | .164 1.000 | -.5283243 .5247047 |
+|        | sports      | .3006506  | .138 1.000 | -.1417232 .7430244 |
+|        | minivan/van | .2300811  | .144 1.000 | -.2325376 .6926999 |
+|        | pickup      | .1795360  | .137 1.000 | -.2599370 .6190090 |
+|        | SUV         | .2436995  | .134 1.000 | -.1859870 .6733860 |
+| luxury | small       | .2224541  | .122 1.000 | -.1687015 .6136097 |
+|        | compact     | 8.190E-02 | .127 1.000 | -.3239994 .4878091 |
+|        | mid-sized   | .1151959  | .123 1.000 | -.2773770 .5077688 |
+|        | large       | 1.810E-03 | .164 1.000 | -.5247047 .5283243 |
+|        | sports      | .3024604  | .134 .856  | -.1255668 .7304877 |
+|        | minivan/van | .2318910  | .140 1.000 | -.2170287 .6808106 |
+|        | pickup      | .1813458  | .133 1.000 | -.2436827 .6063743 |
+SUV
+.2455093 .130 1.000 -.1693922 .6604108
+| sports | small   | -8.00E-02 | .083 1.000 | -.3473634 .1873507  |
+| ------ | ------- | --------- | ---------- | ------------------- |
+|        | compact | -.2205555 | .090 .521  | -.5090610 6.795E-02 |
+mid-sized
+|             |             | -.1872645 | .084 .942  | -.4566909 8.216E-02 |
+| ----------- | ----------- | --------- | ---------- | ------------------- |
+|             | large       | -.3006506 | .138 1.000 | -.7430244 .1417232  |
+|             | luxury      | -.3024604 | .134 .856  | -.7304877 .1255668  |
+|             | minivan/van | -7.06E-02 | .108 1.000 | -.4169883 .2758493  |
+|             | pickup      | -.1211146 | .098 1.000 | -.4359580 .1937288  |
+|             | SUV         | -5.70E-02 | .094 1.000 | -.3579832 .2440810  |
+| minivan/van | small       | -9.44E-03 | .094 1.000 | -.3091056 .2902318  |
+|             | compact     | -.1499861 | .100 1.000 | -.4686660 .1686939  |
+|             | mid-sized   | -.1166950 | .094 1.000 | -.4182114 .1848213  |
+|             | large       | -.2300811 | .144 1.000 | -.6926999 .2325376  |
+|             | luxury      | -.2318910 | .140 1.000 | -.6808106 .2170287  |
+|             | sports      | 7.057E-02 | .108 1.000 | -.2758493 .4169883  |
+|             | pickup      | -5.05E-02 | .107 1.000 | -.3932518 .2921616  |
+|             | SUV         | 1.362E-02 | .103 1.000 | -.3164451 .3436818  |
+| pickup      | small       | 4.111E-02 | .082 1.000 | -.2214212 .3036377  |
+|             | compact     | -9.94E-02 | .089 1.000 | -.3834784 .1845965  |
+|             | mid-sized   | -6.61E-02 | .083 1.000 | -.3307865 .1984866  |
+|             | large       | -.1795360 | .137 1.000 | -.6190090 .2599370  |
+|             | luxury      | -.1813458 | .133 1.000 | -.6063743 .2436827  |
+|             | sports      | .1211146  | .098 1.000 | -.1937288 .4359580  |
+|             | minivan/van | 5.055E-02 | .107 1.000 | -.2921616 .3932518  |
+|             | SUV         | 6.416E-02 | .093 1.000 | -.2325893 .3609163  |
+| SUV         | small       |           |            |                     |
+|             |             | -2.31E-02 | .077 1.000 | -.2688513 .2227408  |
+|             | compact     | -.1636044 | .084 1.000 | -.4322515 .1050427  |
+|             | mid-sized   | -.1303134 | .077 1.000 | -.3783588 .1177319  |
+|             | large       | -.2436995 | .134 1.000 | -.6733860 .1859870  |
+|             | luxury      | -.2455093 | .130 1.000 | -.6604108 .1693922  |
+|             | sports      | 5.695E-02 | .094 1.000 | -.2440810 .3579832  |
+|             | minivan/van | -1.36E-02 | .103 1.000 | -.3436818 .3164451  |
+|             | pickup      | -6.42E-02 | .093 1.000 | -.3609163 .2325893  |
+
+|     |     |     | 117 |     |
+| --- | --- | --- | --- | --- |
+
+•  Pro-environmental Solutions (Travel Attitude Factor)
+Multiple Comparisons
+Dependent Variable: 6 factor solution for A3, Pro-environmental solutions
+Bonferroni
+|             |             | Mean       |                 | 95% Confidence Interval |          |
+| ----------- | ----------- | ---------- | --------------- | ----------------------- | -------- |
+| (I) Vehicle | (J) Vehicle | Difference |                 | Lower                   | Upper    |
+| Type        | Type        | (I-J)      | Std. Error Sig. | Bound                   | Bound    |
+| small       | compact     | .1803542   | .067 .263       | -3.47E-02               | .3954306 |
+|             | mid-sized   | .3065150*  | .060 .000       | .1142324                | .4987975 |
+large
+|         |             | .6591290* | .119 .000  | .2791892  | 1.0390688 |
+| ------- | ----------- | --------- | ---------- | --------- | --------- |
+|         | luxury      | .1213979  | .114 1.000 | -.2439263 | .4867222  |
+|         | sports      | .1657355  | .078 1.000 | -8.40E-02 | .4154367  |
+|         | minivan/van | .2804459* | .087 .049  | 5.668E-04 | .5603249  |
+|         | pickup      | .4057431* | .077 .000  | .1605507  | .6509355  |
+|         | SUV         | .3054953* | .072 .001  | 7.593E-02 | .5350594  |
+| compact | small       | -.1803542 | .067 .263  | -.3954306 | 3.472E-02 |
+|         | mid-sized   | .1261608  | .068 1.000 | -9.12E-02 | .3434781  |
+|         | large       | .4787748* | .123 .004  | 8.557E-02 | .8719777  |
+|         | luxury      | -5.90E-02 | .118 1.000 | -.4380552 | .3201427  |
+|         | sports      | -1.46E-02 | .084 1.000 | -.2840717 | .2548343  |
+|         | minivan/van | .1000917  | .093 1.000 | -.1975431 | .3977265  |
+pickup
+.2253889 .083 .237 -3.99E-02 .4906690
+|           | SUV         | .1251412   | .078 1.000 | -.1257649  | .3760472  |
+| --------- | ----------- | ---------- | ---------- | ---------- | --------- |
+| mid-sized | small       | -.3065150* | .060 .000  | -.4987975  | -.1142324 |
+|           | compact     | -.1261608  | .068 1.000 | -.3434781  | 9.116E-02 |
+|           | large       | .3526140   | .119 .112  | -2.86E-02  | .7338268  |
+|           | luxury      | -.1851170  | .114 1.000 | -.5517650  | .1815310  |
+|           | sports      | -.1407795  | .079 1.000 | -.3924134  | .1108544  |
+|           | minivan/van | -2.61E-02  | .088 1.000 | -.3076738  | .2555356  |
+|           | pickup      | 9.923E-02  | .077 1.000 | -.1479323  | .3463885  |
+|           | SUV         | -1.02E-03  | .072 1.000 | -.2326844  | .2306452  |
+| large     | small       | -.6591290* | .119 .000  | -1.0390688 | -.2791892 |
+|           | compact     | -.4787748* | .123 .004  | -.8719777  | -8.56E-02 |
+mid-sized
+|        |             | -.3526140  | .119 .112  | -.7338268  | 2.860E-02 |
+| ------ | ----------- | ---------- | ---------- | ---------- | --------- |
+|        | luxury      | -.5377311* | .154 .017  | -1.0294753 | -4.60E-02 |
+|        | sports      | -.4933935* | .129 .005  | -.9065537  | -8.02E-02 |
+|        | minivan/van | -.3786831  | .135 .182  | -.8107513  | 5.339E-02 |
+|        | pickup      | -.2533859  | .128 1.000 | -.6638368  | .1570649  |
+|        | SUV         | -.3536337  | .125 .174  | -.7549443  | 4.768E-02 |
+| luxury | small       | -.1213979  | .114 1.000 | -.4867222  | .2439263  |
+|        | compact     | 5.896E-02  | .118 1.000 | -.3201427  | .4380552  |
+|        | mid-sized   | .1851170   | .114 1.000 | -.1815310  | .5517650  |
+|        | large       | .5377311*  | .154 .017  | 4.599E-02  | 1.0294753 |
+|        | sports      | 4.434E-02  | .125 1.000 | -.3554235  | .4440985  |
+|        | minivan/van | .1590479   | .131 1.000 | -.2602258  | .5783216  |
+pickup
+.2843451 .124 .789 -.1126152 .6813054
+|             | SUV         | .1840974   | .121 1.000 | -.2034046 | .5715994  |
+| ----------- | ----------- | ---------- | ---------- | --------- | --------- |
+| sports      | small       | -.1657355  | .078 1.000 | -.4154367 | 8.397E-02 |
+|             | compact     | 1.462E-02  | .084 1.000 | -.2548343 | .2840717  |
+|             | mid-sized   | .1407795   | .079 1.000 | -.1108544 | .3924134  |
+|             | large       | .4933935*  | .129 .005  | 8.023E-02 | .9065537  |
+|             | luxury      | -4.43E-02  | .125 1.000 | -.4440985 | .3554235  |
+|             | minivan/van | .1147104   | .101 1.000 | -.2088314 | .4382522  |
+|             | pickup      | .2400076   | .092 .325  | -5.40E-02 | .5340592  |
+|             | SUV         | .1397599   | .088 1.000 | -.1413926 | .4209123  |
+| minivan/van | small       | -.2804459* | .087 .049  | -.5603249 | -5.67E-04 |
+|             | compact     | -.1000917  | .093 1.000 | -.3977265 | .1975431  |
+|             | mid-sized   | 2.607E-02  | .088 1.000 | -.2555356 | .3076738  |
+|             | large       | .3786831   | .135 .182  | -5.34E-02 | .8107513  |
+|             | luxury      | -.1590479  | .131 1.000 | -.5783216 | .2602258  |
+|             | sports      | -.1147104  | .101 1.000 | -.4382522 | .2088314  |
+|             | pickup      | .1252972   | .100 1.000 | -.1947777 | .4453721  |
+|             | SUV         | 2.505E-02  | .096 1.000 | -.2832171 | .3333160  |
+| pickup      | small       | -.4057431* | .077 .000  | -.6509355 | -.1605507 |
+compact
+|     |             | -.2253889  | .083 .237  | -.4906690 | 3.989E-02 |
+| --- | ----------- | ---------- | ---------- | --------- | --------- |
+|     | mid-sized   | -9.92E-02  | .077 1.000 | -.3463885 | .1479323  |
+|     | large       | .2533859   | .128 1.000 | -.1570649 | .6638368  |
+|     | luxury      | -.2843451  | .124 .789  | -.6813054 | .1126152  |
+|     | sports      | -.2400076  | .092 .325  | -.5340592 | 5.404E-02 |
+|     | minivan/van | -.1252972  | .100 1.000 | -.4453721 | .1947777  |
+|     | SUV         | -.1002477  | .087 1.000 | -.3774035 | .1769080  |
+| SUV | small       | -.3054953* | .072 .001  | -.5350594 | -7.59E-02 |
+|     | compact     | -.1251412  | .078 1.000 | -.3760472 | .1257649  |
+|     | mid-sized   | 1.020E-03  | .072 1.000 | -.2306452 | .2326844  |
+|     | large       | .3536337   | .125 .174  | -4.77E-02 | .7549443  |
+|     | luxury      | -.1840974  | .121 1.000 | -.5715994 | .2034046  |
+sports
+|     |             | -.1397599 | .088 1.000 | -.4209123 | .1413926 |
+| --- | ----------- | --------- | ---------- | --------- | -------- |
+|     | minivan/van | -2.50E-02 | .096 1.000 | -.3333160 | .2832171 |
+|     | pickup      | .1002477  | .087 1.000 | -.1769080 | .3774035 |
+*.  The mean difference is significant at the .05 level.
+
+|     |     |     | 118 |     |     |
+| --- | --- | --- | --- | --- | --- |
+
+•  Travel Freedom (Travel Attitude Factor)
+Multiple Comparisons
+Dependent Variable: 6 factor solution for A3, Travel Freedom Factor
+Bonferroni
+|             |             | Mean       |                 | 95% Confidence Interval |           |
+| ----------- | ----------- | ---------- | --------------- | ----------------------- | --------- |
+| (I) Vehicle | (J) Vehicle | Difference |                 | Lower                   | Upper     |
+| Type        | Type        | (I-J)      | Std. Error Sig. | Bound                   | Bound     |
+| small       | compact     | 1.507E-03  | .058 1.000      | -.1849145               | .1879294  |
+|             | mid-sized   | -9.31E-02  | .052 1.000      | -.2597150               | 7.361E-02 |
+large
+|         |             | -4.81E-02  | .103 1.000 | -.3774172 | .2812244  |
+| ------- | ----------- | ---------- | ---------- | --------- | --------- |
+|         | luxury      | -.2781741  | .099 .179  | -.5948265 | 3.848E-02 |
+|         | sports      | -.1833178  | .068 .243  | -.3997516 | 3.312E-02 |
+|         | minivan/van | -.1161655  | .076 1.000 | -.3587565 | .1264255  |
+|         | pickup      | -5.53E-04  | .066 1.000 | -.2130788 | .2119724  |
+|         | SUV         | -.2194455* | .062 .015  | -.4184250 | -2.05E-02 |
+| compact | small       | -1.51E-03  | .058 1.000 | -.1879294 | .1849145  |
+|         | mid-sized   | -9.46E-02  | .059 1.000 | -.2829218 | 9.381E-02 |
+|         | large       | -4.96E-02  | .106 1.000 | -.3904206 | .2912129  |
+|         | luxury      | -.2796815  | .103 .233  | -.6082735 | 4.891E-02 |
+|         | sports      | -.1848253  | .073 .409  | -.4183793 | 4.873E-02 |
+|         | minivan/van | -.1176730  | .081 1.000 | -.3756542 | .1403082  |
+pickup
+|           |             | -2.06E-03  | .072 1.000 | -.2319977 | .2278764  |
+| --------- | ----------- | ---------- | ---------- | --------- | --------- |
+|           | SUV         | -.2209530* | .068 .042  | -.4384310 | -3.47E-03 |
+| mid-sized | small       | 9.305E-02  | .052 1.000 | -7.36E-02 | .2597150  |
+|           | compact     | 9.456E-02  | .059 1.000 | -9.38E-02 | .2829218  |
+|           | large       | 4.495E-02  | .103 1.000 | -.2854705 | .3753778  |
+|           | luxury      | -.1851240  | .099 1.000 | -.5029239 | .1326758  |
+|           | sports      | -9.03E-02  | .068 1.000 | -.3083767 | .1278412  |
+|           | minivan/van | -2.31E-02  | .076 1.000 | -.2672022 | .2209713  |
+|           | pickup      | 9.250E-02  | .067 1.000 | -.1217346 | .3067282  |
+|           | SUV         | -.1263955  | .063 1.000 | -.3271958 | 7.440E-02 |
+| large     | small       | 4.810E-02  | .103 1.000 | -.2812244 | .3774172  |
+|           | compact     | 4.960E-02  | .106 1.000 | -.2912129 | .3904206  |
+mid-sized
+|        |             | -4.50E-02 | .103 1.000 | -.3753778 | .2854705 |
+| ------ | ----------- | --------- | ---------- | --------- | -------- |
+|        | luxury      | -.2300777 | .133 1.000 | -.6563073 | .1961519 |
+|        | sports      | -.1352215 | .112 1.000 | -.4933366 | .2228937 |
+|        | minivan/van | -6.81E-02 | .117 1.000 | -.4425732 | .3064349 |
+|        | pickup      | 4.754E-02 | .111 1.000 | -.3082237 | .4033100 |
+|        | SUV         | -.1713491 | .109 1.000 | -.5191936 | .1764953 |
+| luxury | small       | .2781741  | .099 .179  | -3.85E-02 | .5948265 |
+|        | compact     | .2796815  | .103 .233  | -4.89E-02 | .6082735 |
+|        | mid-sized   | .1851240  | .099 1.000 | -.1326758 | .5029239 |
+|        | large       | .2300777  | .133 1.000 | -.1961519 | .6563073 |
+|        | sports      | 9.486E-02 | .108 1.000 | -.2516449 | .4413575 |
+|        | minivan/van | .1620086  | .113 1.000 | -.2014057 | .5254228 |
+pickup
+.2776209 .107 .355 -6.65E-02 .6216945
+|             | SUV         | 5.873E-02 | .105 1.000 | -.2771469 | .3946040 |
+| ----------- | ----------- | --------- | ---------- | --------- | -------- |
+| sports      | small       | .1833178  | .068 .243  | -3.31E-02 | .3997516 |
+|             | compact     | .1848253  | .073 .409  | -4.87E-02 | .4183793 |
+|             | mid-sized   | 9.027E-02 | .068 1.000 | -.1278412 | .3083767 |
+|             | large       | .1352215  | .112 1.000 | -.2228937 | .4933366 |
+|             | luxury      | -9.49E-02 | .108 1.000 | -.4413575 | .2516449 |
+|             | minivan/van | 6.715E-02 | .088 1.000 | -.2132843 | .3475889 |
+|             | pickup      | .1827646  | .080 .784  | -7.21E-02 | .4376400 |
+|             | SUV         | -3.61E-02 | .076 1.000 | -.2798224 | .2075671 |
+| minivan/van | small       | .1161655  | .076 1.000 | -.1264255 | .3587565 |
+|             | compact     | .1176730  | .081 1.000 | -.1403082 | .3756542 |
+|             | mid-sized   | 2.312E-02 | .076 1.000 | -.2209713 | .2672022 |
+|             | large       | 6.807E-02 | .117 1.000 | -.3064349 | .4425732 |
+|             | luxury      | -.1620086 | .113 1.000 | -.5254228 | .2014057 |
+|             | sports      | -6.72E-02 | .088 1.000 | -.3475889 | .2132843 |
+|             | pickup      | .1156123  | .087 1.000 | -.1618193 | .3930439 |
+|             | SUV         | -.1032800 | .083 1.000 | -.3704765 | .1639165 |
+| pickup      | small       | 5.532E-04 | .066 1.000 | -.2119724 | .2130788 |
+compact
+|     |             | 2.061E-03 | .072 1.000 | -.2278764 | .2319977  |
+| --- | ----------- | --------- | ---------- | --------- | --------- |
+|     | mid-sized   | -9.25E-02 | .067 1.000 | -.3067282 | .1217346  |
+|     | large       | -4.75E-02 | .111 1.000 | -.4033100 | .3082237  |
+|     | luxury      | -.2776209 | .107 .355  | -.6216945 | 6.645E-02 |
+|     | sports      | -.1827646 | .080 .784  | -.4376400 | 7.211E-02 |
+|     | minivan/van | -.1156123 | .087 1.000 | -.3930439 | .1618193  |
+|     | SUV         | -.2188923 | .075 .129  | -.4591228 | 2.134E-02 |
+| SUV | small       | .2194455* | .062 .015  | 2.047E-02 | .4184250  |
+|     | compact     | .2209530* | .068 .042  | 3.475E-03 | .4384310  |
+|     | mid-sized   | .1263955  | .063 1.000 | -7.44E-02 | .3271958  |
+|     | large       | .1713491  | .109 1.000 | -.1764953 | .5191936  |
+|     | luxury      | -5.87E-02 | .105 1.000 | -.3946040 | .2771469  |
+sports
+|     |             | 3.613E-02 | .076 1.000 | -.2075671 | .2798224 |
+| --- | ----------- | --------- | ---------- | --------- | -------- |
+|     | minivan/van | .1032800  | .083 1.000 | -.1639165 | .3704765 |
+|     | pickup      | .2188923  | .075 .129  | -2.13E-02 | .4591228 |
+*.  The mean difference is significant at the .05 level.
+
+|     |     |     | 119 |     |     |
+| --- | --- | --- | --- | --- | --- |
+
+•  Pro-high Density (Travel Attitude Factor)
+Multiple Comparisons
+Dependent Variable: 6 factor solution for A3, Pro-hi density factor
+Bonferroni
+|             |             | Mean       |                 | 95% Confidence Interval |           |
+| ----------- | ----------- | ---------- | --------------- | ----------------------- | --------- |
+| (I) Vehicle | (J) Vehicle | Difference |                 | Lower                   | Upper     |
+| Type        | Type        | (I-J)      | Std. Error Sig. | Bound                   | Bound     |
+| small       | compact     | .1493418   | .065 .809       | -6.00E-02               | .3586826  |
+|             | mid-sized   | .2439196*  | .058 .001       | 5.676E-02               | .4310744  |
+|             | large       | .7211923*  | .115 .000       | .3513847                | 1.0909999 |
+|             | luxury      | 6.590E-02  | .111 1.000      | -.2896810               | .4214827  |
+|             | sports      | 3.001E-02  | .076 1.000      | -.2130291               | .2730553  |
+|             | minivan/van | .5509764*  | .085 .000       | .2785611                | .8233916  |
+|             | pickup      | .6149828*  | .075 .000       | .3763292                | .8536364  |
+|             | SUV         | .2991198*  | .070 .001       | 7.568E-02               | .5225618  |
+| compact     | small       | -.1493418  | .065 .809       | -.3586826               | 6.000E-02 |
+|             | mid-sized   | 9.458E-02  | .066 1.000      | -.1169441               | .3060996  |
+|             | large       | .5718505*  | .120 .000       | .1891335                | .9545674  |
+|             | luxury      | -8.34E-02  | .115 1.000      | -.4524301               | .2855482  |
+|             | sports      | -.1193288  | .082 1.000      | -.3815960               | .1429385  |
+|             | minivan/van | .4016345*  | .090 .000       | .1119370                | .6913320  |
+pickup
+|           |             | .4656410*  | .081 .000  | .2074354   | .7238466  |
+| --------- | ----------- | ---------- | ---------- | ---------- | --------- |
+|           | SUV         | .1497779   | .076 1.000 | -9.44E-02  | .3939929  |
+| mid-sized | small       | -.2439196* | .058 .001  | -.4310744  | -5.68E-02 |
+|           | compact     | -9.46E-02  | .066 1.000 | -.3060996  | .1169441  |
+|           | large       | .4772727*  | .116 .001  | .1062261   | .8483194  |
+|           | luxury      | -.1780187  | .111 1.000 | -.5348889  | .1788516  |
+|           | sports      | -.2139065  | .076 .188  | -.4588298  | 3.102E-02 |
+|           | minivan/van | .3070568*  | .086 .012  | 3.296E-02  | .5811517  |
+|           | pickup      | .3710632*  | .075 .000  | .1304941   | .6116323  |
+|           | SUV         | 5.520E-02  | .070 1.000 | -.1702866  | .2806870  |
+| large     | small       | -.7211923* | .115 .000  | -1.0909999 | -.3513847 |
+|           | compact     | -.5718505* | .120 .000  | -.9545674  | -.1891335 |
+mid-sized
+|        |             | -.4772727* | .116 .001  | -.8483194  | -.1062261 |
+| ------ | ----------- | ---------- | ---------- | ---------- | --------- |
+|        | luxury      | -.6552914* | .149 .000  | -1.1339219 | -.1766610 |
+|        | sports      | -.6911792* | .126 .000  | -1.0933212 | -.2890372 |
+|        | minivan/van | -.1702159  | .131 1.000 | -.5907617  | .2503299  |
+|        | pickup      | -.1062095  | .125 1.000 | -.5057145  | .2932955  |
+|        | SUV         | -.4220725* | .122 .020  | -.8126811  | -3.15E-02 |
+| luxury | small       | -6.59E-02  | .111 1.000 | -.4214827  | .2896810  |
+|        | compact     | 8.344E-02  | .115 1.000 | -.2855482  | .4524301  |
+|        | mid-sized   | .1780187   | .111 1.000 | -.1788516  | .5348889  |
+|        | large       | .6552914*  | .149 .000  | .1766610   | 1.1339219 |
+|        | sports      | -3.59E-02  | .122 1.000 | -.4249880  | .3532124  |
+|        | minivan/van | .4850755*  | .127 .005  | 7.698E-02  | .8931680  |
+pickup
+|             |             | .5490819*  | .121 .000  | .1627078  | .9354561  |
+| ----------- | ----------- | ---------- | ---------- | --------- | --------- |
+|             | SUV         | .2332189   | .118 1.000 | -.1439492 | .6103871  |
+| sports      | small       | -3.00E-02  | .076 1.000 | -.2730553 | .2130291  |
+|             | compact     | .1193288   | .082 1.000 | -.1429385 | .3815960  |
+|             | mid-sized   | .2139065   | .076 .188  | -3.10E-02 | .4588298  |
+|             | large       | .6911792*  | .126 .000  | .2890372  | 1.0933212 |
+|             | luxury      | 3.589E-02  | .122 1.000 | -.3532124 | .4249880  |
+|             | minivan/van | .5209633*  | .098 .000  | .2060497  | .8358769  |
+|             | pickup      | .5849697*  | .089 .000  | .2987599  | .8711796  |
+|             | SUV         | .2691067   | .085 .060  | -4.55E-03 | .5427614  |
+| minivan/van | small       | -.5509764* | .085 .000  | -.8233916 | -.2785611 |
+|             | compact     | -.4016345* | .090 .000  | -.6913320 | -.1119370 |
+mid-sized
+|        |        | -.3070568* | .086 .012  | -.5811517 | -3.30E-02 |
+| ------ | ------ | ---------- | ---------- | --------- | --------- |
+|        | large  | .1702159   | .131 1.000 | -.2503299 | .5907617  |
+|        | luxury | -.4850755* | .127 .005  | -.8931680 | -7.70E-02 |
+|        | sports | -.5209633* | .098 .000  | -.8358769 | -.2060497 |
+|        | pickup | 6.401E-02  | .097 1.000 | -.2475327 | .3755456  |
+|        | SUV    | -.2518566  | .094 .261  | -.5519023 | 4.819E-02 |
+| pickup | small  | -.6149828* | .075 .000  | -.8536364 | -.3763292 |
+compact
+|     |             | -.4656410* | .081 .000  | -.7238466 | -.2074354 |
+| --- | ----------- | ---------- | ---------- | --------- | --------- |
+|     | mid-sized   | -.3710632* | .075 .000  | -.6116323 | -.1304941 |
+|     | large       | .1062095   | .125 1.000 | -.2932955 | .5057145  |
+|     | luxury      | -.5490819* | .121 .000  | -.9354561 | -.1627078 |
+|     | sports      | -.5849697* | .089 .000  | -.8711796 | -.2987599 |
+|     | minivan/van | -6.40E-02  | .097 1.000 | -.3755456 | .2475327  |
+|     | SUV         | -.3158630* | .084 .007  | -.5856276 | -4.61E-02 |
+| SUV | small       | -.2991198* | .070 .001  | -.5225618 | -7.57E-02 |
+|     | compact     | -.1497779  | .076 1.000 | -.3939929 | 9.444E-02 |
+|     | mid-sized   | -5.52E-02  | .070 1.000 | -.2806870 | .1702866  |
+|     | large       | .4220725*  | .122 .020  | 3.146E-02 | .8126811  |
+|     | luxury      | -.2332189  | .118 1.000 | -.6103871 | .1439492  |
+sports
+|     |             | -.2691067 | .085 .060 | -.5427614 | 4.548E-03 |
+| --- | ----------- | --------- | --------- | --------- | --------- |
+|     | minivan/van | .2518566  | .094 .261 | -4.82E-02 | .5519023  |
+|     | pickup      | .3158630* | .084 .007 | 4.610E-02 | .5856276  |
+*. The mean difference is significant at the .05 level.
+
+|     |     |     | 120 |     |     |
+| --- | --- | --- | --- | --- | --- |
+
+•  Adventure Seeker (Personality Factor)
+Multiple Comparisons
+Dependent Variable: 4 factor solution for B1, Adventure seeker (Type T)
+Bonferroni
+|             |             | Mean       |                 | 95% Confidence Interval |       |
+| ----------- | ----------- | ---------- | --------------- | ----------------------- | ----- |
+| (I) Vehicle | (J) Vehicle | Difference |                 | Lower                   | Upper |
+| Type        | Type        | (I-J)      | Std. Error Sig. | Bound                   | Bound |
+| small       | compact     |            |                 |                         |       |
+.1343018 .075 1.000 -.1045047 .3731082
+|     | mid-sized | 7.122E-02  | .067 1.000 | -.1422805 | .2847150  |
+| --- | --------- | ---------- | ---------- | --------- | --------- |
+|     | large     | .1983293   | .132 1.000 | -.2235305 | .6201890  |
+|     | luxury    | -4.66E-02  | .127 1.000 | -.4521916 | .3590716  |
+|     | sports    | -.3244381* | .087 .007  | -.6016896 | -4.72E-02 |
+minivan/van
+.1265965 .097 1.000 -.1841625 .4373554
+|         | pickup    | -2.29E-02 | .085 1.000 | -.2951114 | .2493790 |
+| ------- | --------- | --------- | ---------- | --------- | -------- |
+|         | SUV       | -.1215512 | .080 1.000 | -.3764438 | .1333413 |
+| compact | small     | -.1343018 | .075 1.000 | -.3731082 | .1045047 |
+|         | mid-sized | -6.31E-02 | .075 1.000 | -.3043791 | .1782100 |
+large
+|     |             | 6.403E-02  | .136 1.000 | -.3725587 | .5006136  |
+| --- | ----------- | ---------- | ---------- | --------- | --------- |
+|     | luxury      | -.1808618  | .131 1.000 | -.6017879 | .2400643  |
+|     | sports      | -.4587399* | .093 .000  | -.7579224 | -.1595573 |
+|     | minivan/van | -7.71E-03  | .103 1.000 | -.3381791 | .3227684  |
+|     | pickup      | -.1571680  | .092 1.000 | -.4517172 | .1373812  |
+SUV
+|           |         | -.2558530 | .087 .119  | -.5344423 | 2.274E-02 |
+| --------- | ------- | --------- | ---------- | --------- | --------- |
+| mid-sized | small   | -7.12E-02 | .067 1.000 | -.2847150 | .1422805  |
+|           | compact | 6.308E-02 | .075 1.000 | -.1782100 | .3043791  |
+|           | large   | .1271120  | .132 1.000 | -.2961612 | .5503852  |
+|           | luxury  | -.1177772 | .127 1.000 | -.5248787 | .2893242  |
+sports
+|       |             | -.3956553* | .087 .000  | -.6750528 | -.1162579 |
+| ----- | ----------- | ---------- | ---------- | --------- | --------- |
+|       | minivan/van | 5.538E-02  | .098 1.000 | -.2572958 | .3680542  |
+|       | pickup      | -9.41E-02  | .086 1.000 | -.3685138 | .1803469  |
+|       | SUV         | -.1927685  | .080 .594  | -.4499936 | 6.446E-02 |
+| large | small       | -.1983293  | .132 1.000 | -.6201890 | .2235305  |
+compact
+|     |             | -6.40E-02  | .136 1.000 | -.5006136 | .3725587  |
+| --- | ----------- | ---------- | ---------- | --------- | --------- |
+|     | mid-sized   | -.1271120  | .132 1.000 | -.5503852 | .2961612  |
+|     | luxury      | -.2448892  | .171 1.000 | -.7908892 | .3011107  |
+|     | sports      | -.5227673* | .143 .010  | -.9815127 | -6.40E-02 |
+|     | minivan/van | -7.17E-02  | .150 1.000 | -.5514724 | .4080068  |
+pickup
+|        |           | -.2211955 | .142 1.000 | -.6769327 | .2345417 |
+| ------ | --------- | --------- | ---------- | --------- | -------- |
+|        | SUV       | -.3198805 | .139 .779  | -.7654690 | .1257081 |
+| luxury | small     | 4.656E-02 | .127 1.000 | -.3590716 | .4521916 |
+|        | compact   | .1808618  | .131 1.000 | -.2400643 | .6017879 |
+|        | mid-sized | .1177772  | .127 1.000 | -.2893242 | .5248787 |
+large
+.2448892 .171 1.000 -.3011107 .7908892
+|             | sports      | -.2778781  | .139 1.000 | -.7217460 | .1659898  |
+| ----------- | ----------- | ---------- | ---------- | --------- | --------- |
+|             | minivan/van | .1731565   | .145 1.000 | -.2923770 | .6386899  |
+|             | pickup      | 2.369E-02  | .138 1.000 | -.4170644 | .4644519  |
+|             | SUV         | -7.50E-02  | .134 1.000 | -.5052476 | .3552651  |
+| sports      | small       |            |            |           |           |
+|             |             | .3244381*  | .087 .007  | 4.719E-02 | .6016896  |
+|             | compact     | .4587399*  | .093 .000  | .1595573  | .7579224  |
+|             | mid-sized   | .3956553*  | .087 .000  | .1162579  | .6750528  |
+|             | large       | .5227673*  | .143 .010  | 6.402E-02 | .9815127  |
+|             | luxury      | .2778781   | .139 1.000 | -.1659898 | .7217460  |
+|             | minivan/van | .4510345*  | .112 .002  | 9.180E-02 | .8102738  |
+|             | pickup      | .3015719   | .102 .113  | -2.49E-02 | .6280671  |
+|             | SUV         | .2028869   | .097 1.000 | -.1092860 | .5150597  |
+| minivan/van | small       | -.1265965  | .097 1.000 | -.4373554 | .1841625  |
+|             | compact     | 7.705E-03  | .103 1.000 | -.3227684 | .3381791  |
+|             | mid-sized   | -5.54E-02  | .098 1.000 | -.3680542 | .2572958  |
+|             | large       | 7.173E-02  | .150 1.000 | -.4080068 | .5514724  |
+|             | luxury      | -.1731565  | .145 1.000 | -.6386899 | .2923770  |
+|             | sports      | -.4510345* | .112 .002  | -.8102738 | -9.18E-02 |
+|             | pickup      | -.1494627  | .111 1.000 | -.5048524 | .2059271  |
+|             | SUV         | -.2481477  | .107 .733  | -.5904263 | 9.413E-02 |
+| pickup      | small       | 2.287E-02  | .085 1.000 | -.2493790 | .2951114  |
+|             | compact     | .1571680   | .092 1.000 | -.1373812 | .4517172  |
+|             | mid-sized   | 9.408E-02  | .086 1.000 | -.1803469 | .3685138  |
+|             | large       | .2211955   | .142 1.000 | -.2345417 | .6769327  |
+|             | luxury      | -2.37E-02  | .138 1.000 | -.4644519 | .4170644  |
+|             | sports      | -.3015719  | .102 .113  | -.6280671 | 2.492E-02 |
+|             | minivan/van | .1494627   | .111 1.000 | -.2059271 | .5048524  |
+|             | SUV         | -9.87E-02  | .096 1.000 | -.4064202 | .2090502  |
+| SUV         | small       | .1215512   | .080 1.000 | -.1333413 | .3764438  |
+|             | compact     | .2558530   | .087 .119  | -2.27E-02 | .5344423  |
+|             | mid-sized   | .1927685   | .080 .594  | -6.45E-02 | .4499936  |
+|             | large       | .3198805   | .139 .779  | -.1257081 | .7654690  |
+|             | luxury      | 7.499E-02  | .134 1.000 | -.3552651 | .5052476  |
+|             | sports      | -.2028869  | .097 1.000 | -.5150597 | .1092860  |
+|             | minivan/van | .2481477   | .107 .733  | -9.41E-02 | .5904263  |
+|             | pickup      | 9.869E-02  | .096 1.000 | -.2090502 | .4064202  |
+*. The mean difference is significant at the .05 level.
+
+|     |     |     | 121 |     |     |
+| --- | --- | --- | --- | --- | --- |
+
+•  Loner (Personality Factor)
+Multiple Comparisons
+Dependent Variable: 4 factor solution for B1, Loner
+Bonferroni
+|             |             | Mean       |                 | 95% Confidence Interval |       |
+| ----------- | ----------- | ---------- | --------------- | ----------------------- | ----- |
+| (I) Vehicle | (J) Vehicle | Difference |                 | Lower                   | Upper |
+| Type        | Type        | (I-J)      | Std. Error Sig. | Bound                   | Bound |
+| small       | compact     |            |                 |                         |       |
+.2284574 .075 .088 -1.26E-02 .4695405
+|     | mid-sized | .2244303* | .067 .031  | 8.897E-03 | .4399634 |
+| --- | --------- | --------- | ---------- | --------- | -------- |
+|     | large     | .3659618  | .133 .216  | -5.99E-02 | .7918434 |
+|     | luxury    | .2613374  | .128 1.000 | -.1481614 | .6708361 |
+|     | sports    | 4.006E-03 | .087 1.000 | -.2758888 | .2839006 |
+minivan/van
+|         |           | .3600707* | .098 .009  | 4.635E-02 | .6737923  |
+| ------- | --------- | --------- | ---------- | --------- | --------- |
+|         | pickup    | .1268028  | .086 1.000 | -.1480379 | .4016435  |
+|         | SUV       | -1.81E-02 | .080 1.000 | -.2754663 | .2391788  |
+| compact | small     | -.2284574 | .075 .088  | -.4695405 | 1.263E-02 |
+|         | mid-sized | -4.03E-03 | .076 1.000 | -.2476220 | .2395679  |
+large
+.1375044 .138 1.000 -.3032439 .5782528
+|     | luxury      | 3.288E-02 | .133 1.000 | -.3920591 | .4578190  |
+| --- | ----------- | --------- | ---------- | --------- | --------- |
+|     | sports      | -.2244515 | .094 .628  | -.5264863 | 7.758E-02 |
+|     | minivan/van | .1316133  | .104 1.000 | -.2020110 | .4652377  |
+|     | pickup      | -.1016546 | .093 1.000 | -.3990119 | .1957028  |
+SUV
+|           |         | -.2466011  | .088 .182  | -.5278463 | 3.464E-02 |
+| --------- | ------- | ---------- | ---------- | --------- | --------- |
+| mid-sized | small   | -.2244303* | .067 .031  | -.4399634 | -8.90E-03 |
+|           | compact | 4.027E-03  | .076 1.000 | -.2395679 | .2476220  |
+|           | large   | .1415315   | .133 1.000 | -.2857770 | .5688400  |
+|           | luxury  | 3.691E-02  | .128 1.000 | -.3740755 | .4478896  |
+sports
+|       |             | -.2204244 | .088 .447  | -.5024855 | 6.164E-02 |
+| ----- | ----------- | --------- | ---------- | --------- | --------- |
+|       | minivan/van | .1356404  | .099 1.000 | -.1800155 | .4512963  |
+|       | pickup      | -9.76E-02 | .087 1.000 | -.3746741 | .1794191  |
+|       | SUV         | -.2425740 | .081 .101  | -.5022514 | 1.710E-02 |
+| large | small       | -.3659618 | .133 .216  | -.7918434 | 5.992E-02 |
+compact
+|     |             | -.1375044 | .138 1.000 | -.5782528 | .3032439 |
+| --- | ----------- | --------- | ---------- | --------- | -------- |
+|     | mid-sized   | -.1415315 | .133 1.000 | -.5688400 | .2857770 |
+|     | luxury      | -.1046245 | .172 1.000 | -.6558297 | .4465808 |
+|     | sports      | -.3619559 | .145 .447  | -.8250748 | .1011629 |
+|     | minivan/van | -5.89E-03 | .151 1.000 | -.4902043 | .4784220 |
+pickup
+|        |           | -.2391590 | .144 1.000 | -.6992410 | .2209230  |
+| ------ | --------- | --------- | ---------- | --------- | --------- |
+|        | SUV       | -.3841056 | .140 .227  | -.8339421 | 6.573E-02 |
+| luxury | small     | -.2613374 | .128 1.000 | -.6708361 | .1481614  |
+|        | compact   | -3.29E-02 | .133 1.000 | -.4578190 | .3920591  |
+|        | mid-sized | -3.69E-02 | .128 1.000 | -.4478896 | .3740755  |
+large
+.1046245 .172 1.000 -.4465808 .6558297
+|             | sports      | -.2573315  | .140 1.000 | -.7054309 | .1907680  |
+| ----------- | ----------- | ---------- | ---------- | --------- | --------- |
+|             | minivan/van | 9.873E-02  | .147 1.000 | -.3712383 | .5687050  |
+|             | pickup      | -.1345345  | .139 1.000 | -.5794947 | .3104256  |
+|             | SUV         | -.2794811  | .136 1.000 | -.7138392 | .1548771  |
+| sports      | small       |            |            |           |           |
+|             |             | -4.01E-03  | .087 1.000 | -.2839006 | .2758888  |
+|             | compact     | .2244515   | .094 .628  | -7.76E-02 | .5264863  |
+|             | mid-sized   | .2204244   | .088 .447  | -6.16E-02 | .5024855  |
+|             | large       | .3619559   | .145 .447  | -.1011629 | .8250748  |
+|             | luxury      | .2573315   | .140 1.000 | -.1907680 | .7054309  |
+|             | minivan/van | .3560648   | .113 .061  | -6.60E-03 | .7187288  |
+|             | pickup      | .1227969   | .103 1.000 | -.2068110 | .4524048  |
+|             | SUV         | -2.21E-02  | .098 1.000 | -.3372986 | .2929993  |
+| minivan/van | small       | -.3600707* | .098 .009  | -.6737923 | -4.63E-02 |
+|             | compact     | -.1316133  | .104 1.000 | -.4652377 | .2020110  |
+|             | mid-sized   | -.1356404  | .099 1.000 | -.4512963 | .1800155  |
+|             | large       | 5.891E-03  | .151 1.000 | -.4784220 | .4902043  |
+|             | luxury      | -9.87E-02  | .147 1.000 | -.5687050 | .3712383  |
+|             | sports      | -.3560648  | .113 .061  | -.7187288 | 6.599E-03 |
+|             | pickup      | -.2332679  | .112 1.000 | -.5920457 | .1255100  |
+|             | SUV         | -.3782144* | .108 .017  | -.7237561 | -3.27E-02 |
+| pickup      | small       | -.1268028  | .086 1.000 | -.4016435 | .1480379  |
+|             | compact     | .1016546   | .093 1.000 | -.1957028 | .3990119  |
+|             | mid-sized   | 9.763E-02  | .087 1.000 | -.1794191 | .3746741  |
+|             | large       | .2391590   | .144 1.000 | -.2209230 | .6992410  |
+|             | luxury      | .1345345   | .139 1.000 | -.3104256 | .5794947  |
+|             | sports      | -.1227969  | .103 1.000 | -.4524048 | .2068110  |
+|             | minivan/van | .2332679   | .112 1.000 | -.1255100 | .5920457  |
+|             | SUV         | -.1449465  | .097 1.000 | -.4556155 | .1657224  |
+| SUV         | small       | 1.814E-02  | .080 1.000 | -.2391788 | .2754663  |
+|             | compact     | .2466011   | .088 .182  | -3.46E-02 | .5278463  |
+|             | mid-sized   | .2425740   | .081 .101  | -1.71E-02 | .5022514  |
+|             | large       | .3841056   | .140 .227  | -6.57E-02 | .8339421  |
+|             | luxury      | .2794811   | .136 1.000 | -.1548771 | .7138392  |
+|             | sports      | 2.215E-02  | .098 1.000 | -.2929993 | .3372986  |
+|             | minivan/van | .3782144*  | .108 .017  | 3.267E-02 | .7237561  |
+|             | pickup      | .1449465   | .097 1.000 | -.1657224 | .4556155  |
+*. The mean difference is significant at the .05 level.
+
+|     |     |     | 122 |     |     |
+| --- | --- | --- | --- | --- | --- |
+
+•  Calm (Personality Factor)
+Multiple Comparisons
+Dependent Variable: 4 factor solution for B1, Calm
+Bonferroni
+|             |             | Mean       |                 | 95% Confidence Interval |          |
+| ----------- | ----------- | ---------- | --------------- | ----------------------- | -------- |
+| (I) Vehicle | (J) Vehicle | Difference |                 | Lower                   | Upper    |
+| Type        | Type        | (I-J)      | Std. Error Sig. | Bound                   | Bound    |
+| small       | compact     |            |                 |                         |          |
+|             |             | -1.79E-02  | .067 1.000      | -.2337408               | .1978588 |
+|             | mid-sized   | 6.239E-02  | .060 1.000      | -.1305359               | .2553227 |
+|             | large       | .1847359   | .119 1.000      | -.1964818               | .5659536 |
+|             | luxury      | .2601439   | .114 .834       | -.1064091               | .6266969 |
+|             | sports      | .2825096*  | .078 .011       | 3.197E-02               | .5330507 |
+minivan/van
+|         |           | -.1426014 | .088 1.000 | -.4234218 | .1382190 |
+| ------- | --------- | --------- | ---------- | --------- | -------- |
+|         | pickup    | .1163651  | .077 1.000 | -.1296520 | .3623821 |
+|         | SUV       | .1886110  | .072 .317  | -4.17E-02 | .4189471 |
+| compact | small     | 1.794E-02 | .067 1.000 | -.1978588 | .2337408 |
+|         | mid-sized | 8.033E-02 | .068 1.000 | -.1377138 | .2983826 |
+large
+.2026769 .123 1.000 -.1918485 .5972022
+|     | luxury      | .2780849  | .119 .696  | -.1022891 | .6584590 |
+| --- | ----------- | --------- | ---------- | --------- | -------- |
+|     | sports      | .3004506* | .084 .014  | 3.009E-02 | .5708099 |
+|     | minivan/van | -.1246604 | .093 1.000 | -.4232963 | .1739755 |
+|     | pickup      | .1343060  | .083 1.000 | -.1318663 | .4004784 |
+SUV
+.2065520 .079 .313 -4.52E-02 .4583019
+| mid-sized | small   | -6.24E-02 | .060 1.000 | -.2553227 | .1305359 |
+| --------- | ------- | --------- | ---------- | --------- | -------- |
+|           | compact | -8.03E-02 | .068 1.000 | -.2983826 | .1377138 |
+|           | large   | .1223425  | .119 1.000 | -.2601525 | .5048375 |
+|           | luxury  | .1977506  | .115 1.000 | -.1701306 | .5656318 |
+sports
+.2201163 .079 .191 -3.24E-02 .4725965
+|       | minivan/van | -.2049948 | .088 .730  | -.4875467 | 7.756E-02 |
+| ----- | ----------- | --------- | ---------- | --------- | --------- |
+|       | pickup      | 5.397E-02 | .077 1.000 | -.1940200 | .3019634  |
+|       | SUV         | .1262176  | .073 1.000 | -.1062264 | .3586616  |
+| large | small       | -.1847359 | .119 1.000 | -.5659536 | .1964818  |
+compact
+|     |             | -.2026769 | .123 1.000 | -.5972022 | .1918485 |
+| --- | ----------- | --------- | ---------- | --------- | -------- |
+|     | mid-sized   | -.1223425 | .119 1.000 | -.5048375 | .2601525 |
+|     | luxury      | 7.541E-02 | .154 1.000 | -.4179902 | .5688063 |
+|     | sports      | 9.777E-02 | .129 1.000 | -.3167761 | .5123235 |
+|     | minivan/van | -.3273373 | .135 .566  | -.7608587 | .1061841 |
+pickup
+|        |           | -6.84E-02 | .129 1.000 | -.4802023 | .3434606 |
+| ------ | --------- | --------- | ---------- | --------- | -------- |
+|        | SUV       | 3.875E-03 | .126 1.000 | -.3987854 | .4065355 |
+| luxury | small     | -.2601439 | .114 .834  | -.6266969 | .1064091 |
+|        | compact   | -.2780849 | .119 .696  | -.6584590 | .1022891 |
+|        | mid-sized | -.1977506 | .115 1.000 | -.5656318 | .1701306 |
+large
+|        |             | -7.54E-02  | .154 1.000 | -.5688063 | .4179902  |
+| ------ | ----------- | ---------- | ---------- | --------- | --------- |
+|        | sports      | 2.237E-02  | .125 1.000 | -.3787399 | .4234713  |
+|        | minivan/van | -.4027453  | .131 .079  | -.8234292 | 1.794E-02 |
+|        | pickup      | -.1437789  | .124 1.000 | -.5420743 | .2545166  |
+|        | SUV         | -7.15E-02  | .121 1.000 | -.4603383 | .3172724  |
+| sports | small       |            |            |           |           |
+|        |             | -.2825096* | .078 .011  | -.5330507 | -3.20E-02 |
+|        | compact     | -.3004506* | .084 .014  | -.5708099 | -3.01E-02 |
+|        | mid-sized   | -.2201163  | .079 .191  | -.4725965 | 3.236E-02 |
+|        | large       | -9.78E-02  | .129 1.000 | -.5123235 | .3167761  |
+|        | luxury      | -2.24E-02  | .125 1.000 | -.4234713 | .3787399  |
+minivan/van
+|             |         | -.4251111* | .101 .001  | -.7497411 | -.1004810 |
+| ----------- | ------- | ---------- | ---------- | --------- | --------- |
+|             | pickup  | -.1661446  | .092 1.000 | -.4611852 | .1288961  |
+|             | SUV     | -9.39E-02  | .088 1.000 | -.3759967 | .1881994  |
+| minivan/van | small   | .1426014   | .088 1.000 | -.1382190 | .4234218  |
+|             | compact | .1246604   | .093 1.000 | -.1739755 | .4232963  |
+mid-sized
+.2049948 .088 .730 -7.76E-02 .4875467
+|     | large  | .3273373  | .135 .566 | -.1061841 | .7608587 |
+| --- | ------ | --------- | --------- | --------- | -------- |
+|     | luxury | .4027453  | .131 .079 | -1.79E-02 | .8234292 |
+|     | sports | .4251111* | .101 .001 | .1004810  | .7497411 |
+|     | pickup | .2589665  | .100 .356 | -6.22E-02 | .5801179 |
+SUV
+|        |             | .3312124*  | .097 .022  | 2.191E-02 | .6405158  |
+| ------ | ----------- | ---------- | ---------- | --------- | --------- |
+| pickup | small       | -.1163651  | .077 1.000 | -.3623821 | .1296520  |
+|        | compact     | -.1343060  | .083 1.000 | -.4004784 | .1318663  |
+|        | mid-sized   | -5.40E-02  | .077 1.000 | -.3019634 | .1940200  |
+|        | large       | 6.837E-02  | .129 1.000 | -.3434606 | .4802023  |
+|        | luxury      | .1437789   | .124 1.000 | -.2545166 | .5420743  |
+|        | sports      | .1661446   | .092 1.000 | -.1288961 | .4611852  |
+|        | minivan/van | -.2589665  | .100 .356  | -.5801179 | 6.218E-02 |
+|        | SUV         | 7.225E-02  | .087 1.000 | -.2058420 | .3503339  |
+| SUV    | small       | -.1886110  | .072 .317  | -.4189471 | 4.173E-02 |
+|        | compact     | -.2065520  | .079 .313  | -.4583019 | 4.520E-02 |
+|        | mid-sized   | -.1262176  | .073 1.000 | -.3586616 | .1062264  |
+|        | large       | -3.88E-03  | .126 1.000 | -.4065355 | .3987854  |
+|        | luxury      | 7.153E-02  | .121 1.000 | -.3172724 | .4603383  |
+|        | sports      | 9.390E-02  | .088 1.000 | -.1881994 | .3759967  |
+|        | minivan/van | -.3312124* | .097 .022  | -.6405158 | -2.19E-02 |
+|        | pickup      | -7.22E-02  | .087 1.000 | -.3503339 | .2058420  |
+*. The mean difference is significant at the .05 level.
+
+|     |     |     | 123 |     |     |
+| --- | --- | --- | --- | --- | --- |
+
+•  Frustrated (Lifestyle Factor)
+Multiple Comparisons
+Dependent Variable: 4 factor solution for B2, Frustration
+Bonferroni
+|             |             | Mean       |                 | 95% Confidence Interval |          |
+| ----------- | ----------- | ---------- | --------------- | ----------------------- | -------- |
+| (I) Vehicle | (J) Vehicle | Difference |                 | Lower                   | Upper    |
+| Type        | Type        | (I-J)      | Std. Error Sig. | Bound                   | Bound    |
+| small       | compact     | -3.89E-02  | .067 1.000      | -.2546437               | .1769040 |
+|             | mid-sized   | 8.905E-03  | .060 1.000      | -.1840009               | .2018113 |
+large
+|         |             | 9.432E-03 | .119 1.000 | -.3717396 | .3906042  |
+| ------- | ----------- | --------- | ---------- | --------- | --------- |
+|         | luxury      | .1807058  | .114 1.000 | -.1858031 | .5472148  |
+|         | sports      | 6.983E-02 | .078 1.000 | -.1806783 | .3203436  |
+|         | minivan/van | 3.426E-02 | .088 1.000 | -.2465292 | .3150441  |
+|         | pickup      | -.1921000 | .077 .450  | -.4380875 | 5.389E-02 |
+|         | SUV         | 9.598E-02 | .072 1.000 | -.1343284 | .3262886  |
+| compact | small       | 3.887E-02 | .067 1.000 | -.1769040 | .2546437  |
+|         | mid-sized   | 4.778E-02 | .068 1.000 | -.1702469 | .2657971  |
+|         | large       | 4.830E-02 | .123 1.000 | -.3461758 | .4427801  |
+|         | luxury      | .2195757  | .119 1.000 | -.1607526 | .5999041  |
+|         | sports      | .1087025  | .084 1.000 | -.1616243 | .3790293  |
+|         | minivan/van | 7.313E-02 | .093 1.000 | -.2254727 | .3717273  |
+pickup
+|           |             | -.1532301 | .083 1.000 | -.4193705 | .1129102  |
+| --------- | ----------- | --------- | ---------- | --------- | --------- |
+|           | SUV         | .1348500  | .079 1.000 | -.1168697 | .3865697  |
+| mid-sized | small       | -8.91E-03 | .060 1.000 | -.2018113 | .1840009  |
+|           | compact     | -4.78E-02 | .068 1.000 | -.2657971 | .1702469  |
+|           | large       | 5.271E-04 | .119 1.000 | -.3819220 | .3829761  |
+|           | luxury      | .1718006  | .115 1.000 | -.1960364 | .5396376  |
+|           | sports      | 6.093E-02 | .079 1.000 | -.1915225 | .3133774  |
+|           | minivan/van | 2.535E-02 | .088 1.000 | -.2571657 | .3078701  |
+|           | pickup      | -.2010052 | .077 .343  | -.4489671 | 4.696E-02 |
+|           | SUV         | 8.707E-02 | .073 1.000 | -.1453412 | .3194910  |
+| large     | small       | -9.43E-03 | .119 1.000 | -.3906042 | .3717396  |
+|           | compact     | -4.83E-02 | .123 1.000 | -.4427801 | .3461758  |
+mid-sized
+|        |             | -5.27E-04 | .119 1.000 | -.3829761 | .3819220 |
+| ------ | ----------- | --------- | ---------- | --------- | -------- |
+|        | luxury      | .1712735  | .154 1.000 | -.3220654 | .6646125 |
+|        | sports      | 6.040E-02 | .129 1.000 | -.3540997 | .4749003 |
+|        | minivan/van | 2.483E-02 | .135 1.000 | -.4086442 | .4582944 |
+|        | pickup      | -.2015323 | .129 1.000 | -.6133142 | .2102496 |
+|        | SUV         | 8.655E-02 | .126 1.000 | -.3160643 | .4891599 |
+| luxury | small       | -.1807058 | .114 1.000 | -.5472148 | .1858031 |
+|        | compact     | -.2195757 | .119 1.000 | -.5999041 | .1607526 |
+|        | mid-sized   | -.1718006 | .115 1.000 | -.5396376 | .1960364 |
+|        | large       | -.1712735 | .154 1.000 | -.6646125 | .3220654 |
+|        | sports      | -.1108732 | .125 1.000 | -.5119306 | .2901842 |
+|        | minivan/van | -.1464484 | .131 1.000 | -.5670818 | .2741849 |
+pickup
+|             |             | -.3728058 | .124 .099  | -.7710534 | 2.544E-02 |
+| ----------- | ----------- | --------- | ---------- | --------- | --------- |
+|             | SUV         | -8.47E-02 | .121 1.000 | -.4734844 | .3040329  |
+| sports      | small       | -6.98E-02 | .078 1.000 | -.3203436 | .1806783  |
+|             | compact     | -.1087025 | .084 1.000 | -.3790293 | .1616243  |
+|             | mid-sized   | -6.09E-02 | .079 1.000 | -.3133774 | .1915225  |
+|             | large       | -6.04E-02 | .129 1.000 | -.4749003 | .3540997  |
+|             | luxury      | .1108732  | .125 1.000 | -.2901842 | .5119306  |
+|             | minivan/van | -3.56E-02 | .101 1.000 | -.3601663 | .2890158  |
+|             | pickup      | -.2619326 | .092 .163  | -.5569378 | 3.307E-02 |
+|             | SUV         | 2.615E-02 | .088 1.000 | -.2559167 | .3082117  |
+| minivan/van | small       | -3.43E-02 | .088 1.000 | -.3150441 | .2465292  |
+|             | compact     | -7.31E-02 | .093 1.000 | -.3717273 | .2254727  |
+|             | mid-sized   | -2.54E-02 | .088 1.000 | -.3078701 | .2571657  |
+|             | large       | -2.48E-02 | .135 1.000 | -.4582944 | .4086442  |
+|             | luxury      | .1464484  | .131 1.000 | -.2741849 | .5670818  |
+|             | sports      | 3.558E-02 | .101 1.000 | -.2890158 | .3601663  |
+|             | pickup      | -.2263574 | .100 .868  | -.5474703 | 9.476E-02 |
+|             | SUV         | 6.172E-02 | .097 1.000 | -.2475435 | .3709890  |
+| pickup      | small       | .1921000  | .077 .450  | -5.39E-02 | .4380875  |
+compact
+.1532301 .083 1.000 -.1129102 .4193705
+|     | mid-sized   | .2010052  | .077 .343  | -4.70E-02 | .4489671 |
+| --- | ----------- | --------- | ---------- | --------- | -------- |
+|     | large       | .2015323  | .129 1.000 | -.2102496 | .6133142 |
+|     | luxury      | .3728058  | .124 .099  | -2.54E-02 | .7710534 |
+|     | sports      | .2619326  | .092 .163  | -3.31E-02 | .5569378 |
+|     | minivan/van | .2263574  | .100 .868  | -9.48E-02 | .5474703 |
+|     | SUV         | .2880801* | .087 .033  | 1.003E-02 | .5661347 |
+| SUV | small       | -9.60E-02 | .072 1.000 | -.3262886 | .1343284 |
+|     | compact     | -.1348500 | .079 1.000 | -.3865697 | .1168697 |
+|     | mid-sized   | -8.71E-02 | .073 1.000 | -.3194910 | .1453412 |
+|     | large       | -8.65E-02 | .126 1.000 | -.4891599 | .3160643 |
+|     | luxury      | 8.473E-02 | .121 1.000 | -.3040329 | .4734844 |
+sports
+|     |             | -2.61E-02  | .088 1.000 | -.3082117 | .2559167  |
+| --- | ----------- | ---------- | ---------- | --------- | --------- |
+|     | minivan/van | -6.17E-02  | .097 1.000 | -.3709890 | .2475435  |
+|     | pickup      | -.2880801* | .087 .033  | -.5661347 | -1.00E-02 |
+*.  The mean difference is significant at the .05 level.
+
+|     |     |     | 124 |     |     |
+| --- | --- | --- | --- | --- | --- |
+
+•  Family/Community Oriented (Lifestyle Factor)
+Multiple Comparisons
+Dependent Variable: 4 factor solution for B2, Family/communtiy related
+Bonferroni
+|             |             | Mean       |                 | 95% Confidence Interval |          |
+| ----------- | ----------- | ---------- | --------------- | ----------------------- | -------- |
+| (I) Vehicle | (J) Vehicle | Difference |                 | Lower                   | Upper    |
+| Type        | Type        | (I-J)      | Std. Error Sig. | Bound                   | Bound    |
+| small       | compact     | .1180386   | .063 1.000      | -8.46E-02               | .3207027 |
+|             | mid-sized   | .1292770   | .057 .808       | -5.19E-02               | .3104628 |
+|             | large       | .3019623   | .112 .251       | -5.61E-02               | .6599754 |
+|             | luxury      | .1724486   | .107 1.000      | -.1717925               | .5166896 |
+|             | sports      | 2.519E-02  | .073 1.000      | -.2101009               | .2604805 |
+|             | minivan/van | .1003034   | .082 1.000      | -.1634235               | .3640304 |
+pickup
+.1763305 .072 .527 -5.47E-02 .4073726
+|           | SUV         | 2.125E-02 | .068 1.000 | -.1950655 | .2375658  |
+| --------- | ----------- | --------- | ---------- | --------- | --------- |
+| compact   | small       | -.1180386 | .063 1.000 | -.3207027 | 8.463E-02 |
+|           | mid-sized   | 1.124E-02 | .064 1.000 | -.1935372 | .2160141  |
+|           | large       | .1839237  | .116 1.000 | -.1865870 | .5544344  |
+|           | luxury      | 5.441E-02 | .112 1.000 | -.3028108 | .4116308  |
+|           | sports      | -9.28E-02 | .079 1.000 | -.3467514 | .1610538  |
+|           | minivan/van | -1.77E-02 | .088 1.000 | -.2981932 | .2627229  |
+|           | pickup      | 5.829E-02 | .078 1.000 | -.1916786 | .3082624  |
+|           | SUV         | -9.68E-02 | .074 1.000 | -.3332145 | .1396376  |
+| mid-sized | small       | -.1292770 | .057 .808  | -.3104628 | 5.191E-02 |
+|           | compact     | -1.12E-02 | .064 1.000 | -.2160141 | .1935372  |
+|           | large       | .1726853  | .112 1.000 | -.1865274 | .5318979  |
+|           | luxury      | 4.317E-02 | .108 1.000 | -.3023168 | .3886600  |
+|           | sports      | -.1040872 | .074 1.000 | -.3411991 | .1330247  |
+|           | minivan/van | -2.90E-02 | .083 1.000 | -.2943266 | .2363794  |
+pickup
+|       |             | 4.705E-02 | .073 1.000 | -.1858430 | .2799500  |
+| ----- | ----------- | --------- | ---------- | --------- | --------- |
+|       | SUV         | -.1080269 | .068 1.000 | -.3263221 | .1102684  |
+| large | small       | -.3019623 | .112 .251  | -.6599754 | 5.605E-02 |
+|       | compact     | -.1839237 | .116 1.000 | -.5544344 | .1865870  |
+|       | mid-sized   | -.1726853 | .112 1.000 | -.5318979 | .1865274  |
+|       | luxury      | -.1295137 | .145 1.000 | -.5928789 | .3338515  |
+|       | sports      | -.2767725 | .122 .826  | -.6660888 | .1125438  |
+|       | minivan/van | -.2016588 | .127 1.000 | -.6087919 | .2054742  |
+|       | pickup      | -.1256318 | .121 1.000 | -.5123951 | .2611316  |
+SUV
+|             |             | -.2807121 | .118 .632  | -.6588628 | 9.744E-02 |
+| ----------- | ----------- | --------- | ---------- | --------- | --------- |
+| luxury      | small       | -.1724486 | .107 1.000 | -.5166896 | .1717925  |
+|             | compact     | -5.44E-02 | .112 1.000 | -.4116308 | .3028108  |
+|             | mid-sized   | -4.32E-02 | .108 1.000 | -.3886600 | .3023168  |
+|             | large       | .1295137  | .145 1.000 | -.3338515 | .5928789  |
+|             | sports      | -.1472588 | .118 1.000 | -.5239492 | .2294316  |
+|             | minivan/van | -7.21E-02 | .123 1.000 | -.4672222 | .3229318  |
+|             | pickup      | 3.882E-03 | .117 1.000 | -.3701694 | .3779332  |
+|             | SUV         | -.1511984 | .114 1.000 | -.5163373 | .2139405  |
+| sports      | small       | -2.52E-02 | .073 1.000 | -.2604805 | .2101009  |
+|             | compact     | 9.285E-02 | .079 1.000 | -.1610538 | .3467514  |
+|             | mid-sized   | .1040872  | .074 1.000 | -.1330247 | .3411991  |
+|             | large       | .2767725  | .122 .826  | -.1125438 | .6660888  |
+|             | luxury      | .1472588  | .118 1.000 | -.2294316 | .5239492  |
+|             | minivan/van | 7.511E-02 | .095 1.000 | -.2297563 | .3799836  |
+|             | pickup      | .1511407  | .087 1.000 | -.1259409 | .4282223  |
+|             | SUV         | -3.94E-03 | .083 1.000 | -.2688665 | .2609872  |
+| minivan/van | small       | -.1003034 | .082 1.000 | -.3640304 | .1634235  |
+|             | compact     | 1.774E-02 | .088 1.000 | -.2627229 | .2981932  |
+|             | mid-sized   | 2.897E-02 | .083 1.000 | -.2363794 | .2943266  |
+|             | large       | .2016588  | .127 1.000 | -.2054742 | .6087919  |
+|             | luxury      | 7.215E-02 | .123 1.000 | -.3229318 | .4672222  |
+|             | sports      | -7.51E-02 | .095 1.000 | -.3799836 | .2297563  |
+|             | pickup      | 7.603E-02 | .094 1.000 | -.2255760 | .3776301  |
+|             | SUV         | -7.91E-02 | .091 1.000 | -.3695295 | .2114229  |
+| pickup      | small       |           |            |           |           |
+|             |             | -.1763305 | .072 .527  | -.4073726 | 5.471E-02 |
+|             | compact     | -5.83E-02 | .078 1.000 | -.3082624 | .1916786  |
+|             | mid-sized   | -4.71E-02 | .073 1.000 | -.2799500 | .1858430  |
+|             | large       | .1256318  | .121 1.000 | -.2611316 | .5123951  |
+|             | luxury      | -3.88E-03 | .117 1.000 | -.3779332 | .3701694  |
+|             | sports      | -.1511407 | .087 1.000 | -.4282223 | .1259409  |
+|             | minivan/van | -7.60E-02 | .094 1.000 | -.3776301 | .2255760  |
+|             | SUV         | -.1550804 | .082 1.000 | -.4162412 | .1060804  |
+| SUV         | small       | -2.13E-02 | .068 1.000 | -.2375658 | .1950655  |
+compact
+|     |             | 9.679E-02 | .074 1.000 | -.1396376 | .3332145 |
+| --- | ----------- | --------- | ---------- | --------- | -------- |
+|     | mid-sized   | .1080269  | .068 1.000 | -.1102684 | .3263221 |
+|     | large       | .2807121  | .118 .632  | -9.74E-02 | .6588628 |
+|     | luxury      | .1511984  | .114 1.000 | -.2139405 | .5163373 |
+|     | sports      | 3.940E-03 | .083 1.000 | -.2609872 | .2688665 |
+|     | minivan/van | 7.905E-02 | .091 1.000 | -.2114229 | .3695295 |
+|     | pickup      | .1550804  | .082 1.000 | -.1060804 | .4162412 |
+
+|     |     |     | 125 |     |     |
+| --- | --- | --- | --- | --- | --- |
+
+•  Workaholic (Lifestyle Factor)
+Multiple Comparisons
+Dependent Variable: 4 factor solution for B2, Workaholic
+Bonferroni
+|             |             | Mean       |                 | 95% Confidence Interval |           |
+| ----------- | ----------- | ---------- | --------------- | ----------------------- | --------- |
+| (I) Vehicle | (J) Vehicle | Difference |                 | Lower                   | Upper     |
+| Type        | Type        | (I-J)      | Std. Error Sig. | Bound                   | Bound     |
+| small       | compact     | -.1569693  | .062 .398       | -.3545501               | 4.061E-02 |
+|             | mid-sized   | -.1182903  | .055 1.000      | -.2949315               | 5.835E-02 |
+|             | large       | -.2273405  | .109 1.000      | -.5763739               | .1216928  |
+|             | luxury      | -.3297393  | .105 .061       | -.6653460               | 5.867E-03 |
+|             | sports      | -1.62E-02  | .072 1.000      | -.2456378               | .2131405  |
+|             | minivan/van | -.1192674  | .080 1.000      | -.3763795               | .1378447  |
+|             | pickup      | -.2644831* | .070 .006       | -.4897302               | -3.92E-02 |
+|             | SUV         | -.1411242  | .066 1.000      | -.3520142               | 6.977E-02 |
+| compact     | small       | .1569693   | .062 .398       | -4.06E-02               | .3545501  |
+|             | mid-sized   | 3.868E-02  | .062 1.000      | -.1609605               | .2383184  |
+|             | large       | -7.04E-02  | .113 1.000      | -.4315888               | .2908462  |
+|             | luxury      | -.1727700  | .109 1.000      | -.5210310               | .1754909  |
+|             | sports      | .1407206   | .077 1.000      | -.1068135               | .3882548  |
+|             | minivan/van | 3.770E-02  | .085 1.000      | -.2357216               | .3111254  |
+pickup
+|           |             | -.1075139 | .076 1.000 | -.3512146 | .1361868  |
+| --------- | ----------- | --------- | ---------- | --------- | --------- |
+|           | SUV         | 1.585E-02 | .072 1.000 | -.2146509 | .2463410  |
+| mid-sized | small       | .1182903  | .055 1.000 | -5.84E-02 | .2949315  |
+|           | compact     | -3.87E-02 | .062 1.000 | -.2383184 | .1609605  |
+|           | large       | -.1090503 | .109 1.000 | -.4592531 | .2411525  |
+|           | luxury      | -.2114490 | .105 1.000 | -.5482718 | .1253737  |
+|           | sports      | .1020416  | .072 1.000 | -.1291230 | .3332062  |
+|           | minivan/van | -9.77E-04 | .081 1.000 | -.2596745 | .2577203  |
+|           | pickup      | -.1461929 | .071 1.000 | -.3732478 | 8.086E-02 |
+|           | SUV         | -2.28E-02 | .066 1.000 | -.2356538 | .1899859  |
+| large     | small       | .2273405  | .109 1.000 | -.1216928 | .5763739  |
+|           | compact     | 7.037E-02 | .113 1.000 | -.2908462 | .4315888  |
+mid-sized
+.1090503 .109 1.000 -.2411525 .4592531
+|        | luxury      | -.1023988 | .141 1.000 | -.5541418 | .3493443 |
+| ------ | ----------- | --------- | ---------- | --------- | -------- |
+|        | sports      | .2110919  | .119 1.000 | -.1684595 | .5906433 |
+|        | minivan/van | .1080732  | .124 1.000 | -.2888481 | .5049945 |
+|        | pickup      | -3.71E-02 | .118 1.000 | -.4142051 | .3399199 |
+|        | SUV         | 8.622E-02 | .115 1.000 | -.2824495 | .4548821 |
+| luxury | small       | .3297393  | .105 .061  | -5.87E-03 | .6653460 |
+|        | compact     | .1727700  | .109 1.000 | -.1754909 | .5210310 |
+|        | mid-sized   | .2114490  | .105 1.000 | -.1253737 | .5482718 |
+|        | large       | .1023988  | .141 1.000 | -.3493443 | .5541418 |
+|        | sports      | .3134907  | .115 .228  | -5.38E-02 | .6807329 |
+|        | minivan/van | .2104719  | .120 1.000 | -.1746957 | .5956396 |
+pickup
+|             |             | 6.526E-02 | .114 1.000 | -.2994131 | .4299255  |
+| ----------- | ----------- | --------- | ---------- | --------- | --------- |
+|             | SUV         | .1886151  | .111 1.000 | -.1673653 | .5445955  |
+| sports      | small       | 1.625E-02 | .072 1.000 | -.2131405 | .2456378  |
+|             | compact     | -.1407206 | .077 1.000 | -.3882548 | .1068135  |
+|             | mid-sized   | -.1020416 | .072 1.000 | -.3332062 | .1291230  |
+|             | large       | -.2110919 | .119 1.000 | -.5906433 | .1684595  |
+|             | luxury      | -.3134907 | .115 .228  | -.6807329 | 5.375E-02 |
+|             | minivan/van | -.1030187 | .093 1.000 | -.4002418 | .1942044  |
+|             | pickup      | -.2482345 | .084 .119  | -.5183663 | 2.190E-02 |
+|             | SUV         | -.1248756 | .081 1.000 | -.3831575 | .1334064  |
+| minivan/van | small       | .1192674  | .080 1.000 | -.1378447 | .3763795  |
+|             | compact     | -3.77E-02 | .085 1.000 | -.3111254 | .2357216  |
+mid-sized
+|        |        | 9.771E-04 | .081 1.000 | -.2577203 | .2596745 |
+| ------ | ------ | --------- | ---------- | --------- | -------- |
+|        | large  | -.1080732 | .124 1.000 | -.5049945 | .2888481 |
+|        | luxury | -.2104719 | .120 1.000 | -.5956396 | .1746957 |
+|        | sports | .1030187  | .093 1.000 | -.1942044 | .4002418 |
+|        | pickup | -.1452158 | .092 1.000 | -.4392539 | .1488224 |
+|        | SUV    | -2.19E-02 | .088 1.000 | -.3050473 | .2613336 |
+| pickup | small  | .2644831* | .070 .006  | 3.924E-02 | .4897302 |
+compact
+.1075139 .076 1.000 -.1361868 .3512146
+|     | mid-sized   | .1461929  | .071 1.000 | -8.09E-02 | .3732478 |
+| --- | ----------- | --------- | ---------- | --------- | -------- |
+|     | large       | 3.714E-02 | .118 1.000 | -.3399199 | .4142051 |
+|     | luxury      | -6.53E-02 | .114 1.000 | -.4299255 | .2994131 |
+|     | sports      | .2482345  | .084 .119  | -2.19E-02 | .5183663 |
+|     | minivan/van | .1452158  | .092 1.000 | -.1488224 | .4392539 |
+|     | SUV         | .1233589  | .080 1.000 | -.1312514 | .3779692 |
+| SUV | small       | .1411242  | .066 1.000 | -6.98E-02 | .3520142 |
+|     | compact     | -1.58E-02 | .072 1.000 | -.2463410 | .2146509 |
+|     | mid-sized   | 2.283E-02 | .066 1.000 | -.1899859 | .2356538 |
+|     | large       | -8.62E-02 | .115 1.000 | -.4548821 | .2824495 |
+|     | luxury      | -.1886151 | .111 1.000 | -.5445955 | .1673653 |
+sports
+.1248756 .081 1.000 -.1334064 .3831575
+|     | minivan/van | 2.186E-02 | .088 1.000 | -.2613336 | .3050473 |
+| --- | ----------- | --------- | ---------- | --------- | -------- |
+|     | pickup      | -.1233589 | .080 1.000 | -.3779692 | .1312514 |
+*.  The mean difference is significant at the .05 level.
+
+|     |     |     | 126 |     |     |
+| --- | --- | --- | --- | --- | --- |
+
+•  Status Seeking (Lifestyle Factor)
+Multiple Comparisons
+Dependent Variable: 4 factor solution for B2, Status seeker
+Bonferroni
+|             |             | Mean       |                 | 95% Confidence Interval |           |
+| ----------- | ----------- | ---------- | --------------- | ----------------------- | --------- |
+| (I) Vehicle | (J) Vehicle | Difference |                 | Lower                   | Upper     |
+| Type        | Type        | (I-J)      | Std. Error Sig. | Bound                   | Bound     |
+| small       | compact     | -8.82E-02  | .066 1.000      | -.3005416               | .1240863  |
+|             | mid-sized   | -.1384253  | .059 .707       | -.3282383               | 5.139E-02 |
+large
+|         |             | -.3339809  | .117 .159  | -.7090408  | 4.108E-02 |
+| ------- | ----------- | ---------- | ---------- | ---------- | --------- |
+|         | luxury      | -.6428839* | .113 .000  | -1.0035159 | -.2822518 |
+|         | sports      | -.3479580* | .077 .000  | -.5944521  | -.1014639 |
+|         | minivan/van | -1.40E-02  | .086 1.000 | -.2902727  | .2622958  |
+|         | pickup      | -.2953783* | .076 .003  | -.5374215  | -5.33E-02 |
+|         | SUV         | -.2680501* | .071 .006  | -.4946656  | -4.14E-02 |
+| compact | small       | 8.823E-02  | .066 1.000 | -.1240863  | .3005416  |
+|         | mid-sized   | -5.02E-02  | .067 1.000 | -.2647238  | .1643284  |
+|         | large       | -.2457532  | .121 1.000 | -.6339058  | .1423993  |
+|         | luxury      | -.5546562* | .117 .000  | -.9288861  | -.1804264 |
+|         | sports      | -.2597303  | .083 .065  | -.5257225  | 6.262E-03 |
+|         | minivan/van | 7.424E-02  | .092 1.000 | -.2195728  | .3680512  |
+pickup
+|           |             | -.2071507  | .082 .410  | -.4690235 | 5.472E-02 |
+| --------- | ----------- | ---------- | ---------- | --------- | --------- |
+|           | SUV         | -.1798224  | .077 .727  | -.4275059 | 6.786E-02 |
+| mid-sized | small       | .1384253   | .059 .707  | -5.14E-02 | .3282383  |
+|           | compact     | 5.020E-02  | .067 1.000 | -.1643284 | .2647238  |
+|           | large       | -.1955555  | .118 1.000 | -.5718721 | .1807610  |
+|           | luxury      | -.5044585* | .113 .000  | -.8663973 | -.1425197 |
+|           | sports      | -.2095326  | .078 .251  | -.4579346 | 3.887E-02 |
+|           | minivan/van | .1244369   | .087 1.000 | -.1535509 | .4024247  |
+|           | pickup      | -.1569530  | .076 1.000 | -.4009388 | 8.703E-02 |
+|           | SUV         | -.1296247  | .071 1.000 | -.3583141 | 9.906E-02 |
+| large     | small       | .3339809   | .117 .159  | -4.11E-02 | .7090408  |
+|           | compact     | .2457532   | .121 1.000 | -.1423993 | .6339058  |
+mid-sized
+.1955555 .118 1.000 -.1807610 .5718721
+|        | luxury      | -.3089030 | .152 1.000 | -.7943313 | .1765254  |
+| ------ | ----------- | --------- | ---------- | --------- | --------- |
+|        | sports      | -1.40E-02 | .127 1.000 | -.4218307 | .3938765  |
+|        | minivan/van | .3199924  | .133 .590  | -.1065263 | .7465111  |
+|        | pickup      | 3.860E-02 | .127 1.000 | -.3665765 | .4437816  |
+|        | SUV         | 6.593E-02 | .124 1.000 | -.3302255 | .4620871  |
+| luxury | small       | .6428839* | .113 .000  | .2822518  | 1.0035159 |
+|        | compact     | .5546562* | .117 .000  | .1804264  | .9288861  |
+|        | mid-sized   | .5044585* | .113 .000  | .1425197  | .8663973  |
+|        | large       | .3089030  | .152 1.000 | -.1765254 | .7943313  |
+|        | sports      | .2949259  | .123 .605  | -9.97E-02 | .6895524  |
+|        | minivan/van | .6288954* | .129 .000  | .2150068  | 1.0427840 |
+pickup
+.3475055 .122 .164 -4.44E-02 .7393673
+|             | SUV         | .3748338   | .119 .062  | -7.69E-03  | .7573588  |
+| ----------- | ----------- | ---------- | ---------- | ---------- | --------- |
+| sports      | small       | .3479580*  | .077 .000  | .1014639   | .5944521  |
+|             | compact     | .2597303   | .083 .065  | -6.26E-03  | .5257225  |
+|             | mid-sized   | .2095326   | .078 .251  | -3.89E-02  | .4579346  |
+|             | large       | 1.398E-02  | .127 1.000 | -.3938765  | .4218307  |
+|             | luxury      | -.2949259  | .123 .605  | -.6895524  | 9.970E-02 |
+|             | minivan/van | .3339695*  | .100 .030  | 1.458E-02  | .6533558  |
+|             | pickup      | 5.258E-02  | .091 1.000 | -.2376952  | .3428545  |
+|             | SUV         | 7.991E-02  | .087 1.000 | -.1976334  | .3574492  |
+| minivan/van | small       | 1.399E-02  | .086 1.000 | -.2622958  | .2902727  |
+|             | compact     | -7.42E-02  | .092 1.000 | -.3680512  | .2195728  |
+|             | mid-sized   | -.1244369  | .087 1.000 | -.4024247  | .1535509  |
+|             | large       | -.3199924  | .133 .590  | -.7465111  | .1065263  |
+|             | luxury      | -.6288954* | .129 .000  | -1.0427840 | -.2150068 |
+|             | sports      | -.3339695* | .100 .030  | -.6533558  | -1.46E-02 |
+|             | pickup      | -.2813899  | .099 .158  | -.5973537  | 3.457E-02 |
+|             | SUV         | -.2540616  | .095 .273  | -.5583688  | 5.025E-02 |
+| pickup      | small       | .2953783*  | .076 .003  | 5.334E-02  | .5374215  |
+compact
+.2071507 .082 .410 -5.47E-02 .4690235
+|     | mid-sized   | .1569530  | .076 1.000 | -8.70E-02 | .4009388  |
+| --- | ----------- | --------- | ---------- | --------- | --------- |
+|     | large       | -3.86E-02 | .127 1.000 | -.4437816 | .3665765  |
+|     | luxury      | -.3475055 | .122 .164  | -.7393673 | 4.436E-02 |
+|     | sports      | -5.26E-02 | .091 1.000 | -.3428545 | .2376952  |
+|     | minivan/van | .2813899  | .099 .158  | -3.46E-02 | .5973537  |
+|     | SUV         | 2.733E-02 | .085 1.000 | -.2462677 | .3009242  |
+| SUV | small       | .2680501* | .071 .006  | 4.143E-02 | .4946656  |
+|     | compact     | .1798224  | .077 .727  | -6.79E-02 | .4275059  |
+|     | mid-sized   | .1296247  | .071 1.000 | -9.91E-02 | .3583141  |
+|     | large       | -6.59E-02 | .124 1.000 | -.4620871 | .3302255  |
+|     | luxury      | -.3748338 | .119 .062  | -.7573588 | 7.691E-03 |
+sports
+|     |             | -7.99E-02 | .087 1.000 | -.3574492 | .1976334 |
+| --- | ----------- | --------- | ---------- | --------- | -------- |
+|     | minivan/van | .2540616  | .095 .273  | -5.02E-02 | .5583688 |
+|     | pickup      | -2.73E-02 | .085 1.000 | -.3009242 | .2462677 |
+*.  The mean difference is significant at the .05 level.
+
+|     |     |     | 127 |     |     |
+| --- | --- | --- | --- | --- | --- |
+
+•  Short-Distance Miles Traveled by Personal Vehicle (Objective Mobility)
+Multiple Comparisons
+Dependent Variable: Counting only short-distance trips, what is your total distance driver/passenger in
+any personal vehicle
+Bonferroni
+|             |             | Mean       |            |       | 95% Confidence Interval |       |
+| ----------- | ----------- | ---------- | ---------- | ----- | ----------------------- | ----- |
+| (I) Vehicle | (J) Vehicle | Difference |            |       | Lower                   | Upper |
+| Type        | Type        | (I-J)      | Std. Error | Sig.  | Bound                   | Bound |
+| small       | compact     | -6.84      | 13.948     | 1.000 | -51.50                  | 37.83 |
+|             | mid-sized   | -19.56     | 12.470     | 1.000 | -59.49                  | 20.38 |
+large
+|     |             | -15.72    | 24.640 | 1.000 | -94.62  | 63.19  |
+| --- | ----------- | --------- | ------ | ----- | ------- | ------ |
+|     | luxury      | -7.98E-02 | 23.693 | 1.000 | -75.95  | 75.79  |
+|     | sports      | -26.18    | 16.194 | 1.000 | -78.04  | 25.68  |
+|     | minivan/van | -30.81    | 18.151 | 1.000 | -88.94  | 27.31  |
+|     | pickup      | -73.40*   | 15.902 | .000  | -124.32 | -22.48 |
+SUV
+|           |             | -32.81   | 14.914 | 1.000 | -80.57  | 14.95  |
+| --------- | ----------- | -------- | ------ | ----- | ------- | ------ |
+| compact   | small       | 6.84     | 13.948 | 1.000 | -37.83  | 51.50  |
+|           | mid-sized   | -12.72   | 14.094 | 1.000 | -57.85  | 32.41  |
+|           | large       | -8.88    | 25.501 | 1.000 | -90.54  | 72.78  |
+|           | luxury      | 6.76     | 24.586 | 1.000 | -71.98  | 85.49  |
+|           | sports      | -19.35   | 17.475 | 1.000 | -75.31  | 36.61  |
+|           | minivan/van | -23.98   | 19.303 | 1.000 | -85.79  | 37.84  |
+|           | pickup      | -66.56*  | 17.204 | .004  | -121.65 | -11.47 |
+|           | SUV         | -25.98   | 16.296 | 1.000 | -78.16  | 26.21  |
+| mid-sized | small       | 19.56    | 12.470 | 1.000 | -20.38  | 59.49  |
+|           | compact     | 12.72    | 14.094 | 1.000 | -32.41  | 57.85  |
+|           | large       | 3.84     | 24.723 | 1.000 | -75.33  | 83.01  |
+|           | luxury      | 19.48    | 23.778 | 1.000 | -56.67  | 95.62  |
+|           | sports      | -6.63    | 16.319 | 1.000 | -58.88  | 45.63  |
+|           | minivan/van | -11.26   | 18.263 | 1.000 | -69.74  | 47.23  |
+|           | pickup      | -53.84*  | 16.029 | .029  | -105.17 | -2.51  |
+|           | SUV         | -13.26   | 15.050 | 1.000 | -61.45  | 34.94  |
+| large     | small       | 15.72    | 24.640 | 1.000 | -63.19  | 94.62  |
+|           | compact     | 8.88     | 25.501 | 1.000 | -72.78  | 90.54  |
+|           | mid-sized   | -3.84    | 24.723 | 1.000 | -83.01  | 75.33  |
+|           | luxury      | 15.64    | 31.891 | 1.000 | -86.49  | 117.76 |
+|           | sports      | -10.46   | 26.795 | 1.000 | -96.27  | 75.34  |
+|           | minivan/van | -15.09   | 28.021 | 1.000 | -104.83 | 74.64  |
+|           | pickup      | -57.68   | 26.619 | 1.000 | -142.92 | 27.56  |
+|           | SUV         | -17.09   | 26.041 | 1.000 | -100.49 | 66.30  |
+| luxury    | small       | 7.98E-02 | 23.693 | 1.000 | -75.79  | 75.95  |
+|           | compact     | -6.76    | 24.586 | 1.000 | -85.49  | 71.98  |
+mid-sized
+|     |             | -19.48 | 23.778 | 1.000 | -95.62  | 56.67 |
+| --- | ----------- | ------ | ------ | ----- | ------- | ----- |
+|     | large       | -15.64 | 31.891 | 1.000 | -117.76 | 86.49 |
+|     | sports      | -26.10 | 25.926 | 1.000 | -109.12 | 56.92 |
+|     | minivan/van | -30.73 | 27.191 | 1.000 | -117.81 | 56.34 |
+|     | pickup      | -73.32 | 25.744 | .160  | -155.76 | 9.12  |
+SUV
+|        |           | -32.73 | 25.146 | 1.000 | -113.26 | 47.79 |
+| ------ | --------- | ------ | ------ | ----- | ------- | ----- |
+| sports | small     | 26.18  | 16.194 | 1.000 | -25.68  | 78.04 |
+|        | compact   | 19.35  | 17.475 | 1.000 | -36.61  | 75.31 |
+|        | mid-sized | 6.63   | 16.319 | 1.000 | -45.63  | 58.88 |
+|        | large     | 10.46  | 26.795 | 1.000 | -75.34  | 96.27 |
+luxury
+|             |             | 26.10  | 25.926 | 1.000 | -56.92  | 109.12 |
+| ----------- | ----------- | ------ | ------ | ----- | ------- | ------ |
+|             | minivan/van | -4.63  | 20.983 | 1.000 | -71.82  | 62.56  |
+|             | pickup      | -47.22 | 19.070 | .482  | -108.28 | 13.85  |
+|             | SUV         | -6.63  | 18.255 | 1.000 | -65.09  | 51.83  |
+| minivan/van | small       | 30.81  | 18.151 | 1.000 | -27.31  | 88.94  |
+|             | compact     | 23.98  | 19.303 | 1.000 | -37.84  | 85.79  |
+|             | mid-sized   | 11.26  | 18.263 | 1.000 | -47.23  | 69.74  |
+|             | large       | 15.09  | 28.021 | 1.000 | -74.64  | 104.83 |
+|             | luxury      | 30.73  | 27.191 | 1.000 | -56.34  | 117.81 |
+|             | sports      | 4.63   | 20.983 | 1.000 | -62.56  | 71.82  |
+|             | pickup      | -42.58 | 20.758 | 1.000 | -109.06 | 23.89  |
+|             | SUV         | -2.00  | 20.011 | 1.000 | -66.08  | 62.08  |
+| pickup      | small       | 73.40* | 15.902 | .000  | 22.48   | 124.32 |
+|             | compact     | 66.56* | 17.204 | .004  | 11.47   | 121.65 |
+|             | mid-sized   | 53.84* | 16.029 | .029  | 2.51    | 105.17 |
+|             | large       | 57.68  | 26.619 | 1.000 | -27.56  | 142.92 |
+|             | luxury      | 73.32  | 25.744 | .160  | -9.12   | 155.76 |
+|             | sports      | 47.22  | 19.070 | .482  | -13.85  | 108.28 |
+|             | minivan/van | 42.58  | 20.758 | 1.000 | -23.89  | 109.06 |
+|             | SUV         | 40.59  | 17.996 | .873  | -17.04  | 98.21  |
+| SUV         | small       | 32.81  | 14.914 | 1.000 | -14.95  | 80.57  |
+|             | compact     | 25.98  | 16.296 | 1.000 | -26.21  | 78.16  |
+|             | mid-sized   | 13.26  | 15.050 | 1.000 | -34.94  | 61.45  |
+|             | large       | 17.09  | 26.041 | 1.000 | -66.30  | 100.49 |
+|             | luxury      | 32.73  | 25.146 | 1.000 | -47.79  | 113.26 |
+|             | sports      | 6.63   | 18.255 | 1.000 | -51.83  | 65.09  |
+|             | minivan/van | 2.00   | 20.011 | 1.000 | -62.08  | 66.08  |
+pickup
+|     |     | -40.59 | 17.996 | .873 | -98.21 | 17.04 |
+| --- | --- | ------ | ------ | ---- | ------ | ----- |
+*.  The mean difference is significant at the .05 level.
+
+|     |     |     | 128 |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+
+•  Overall Short-Distance Miles Traveled (Objective Mobility)
+Multiple Comparisons
+Dependent Variable: Total for all short-distance trips - miles/week
+Bonferroni
+|             |             | Mean             |       | 95% Confidence Interval |
+| ----------- | ----------- | ---------------- | ----- | ----------------------- |
+| (I) Vehicle | (J) Vehicle | Difference       |       | Lower Upper             |
+| Type        | Type        | (I-J) Std. Error | Sig.  | Bound Bound             |
+| small       | compact     | -4.33 15.371     | 1.000 | -53.55 44.89            |
+|             | mid-sized   | -22.63 13.742    | 1.000 | -66.64 21.37            |
+large
+|         |             | -12.34 27.154  | 1.000 | -99.29 74.62   |
+| ------- | ----------- | -------------- | ----- | -------------- |
+|         | luxury      | 18.66 26.109   | 1.000 | -64.95 102.27  |
+|         | sports      | -27.90 17.846  | 1.000 | -85.05 29.25   |
+|         | minivan/van | -45.02 20.003  | .884  | -109.07 19.04  |
+|         | pickup      | -81.75* 17.524 | .000  | -137.86 -25.63 |
+|         | SUV         | -30.05 16.435  | 1.000 | -82.68 22.58   |
+| compact | small       | 4.33 15.371    | 1.000 | -44.89 53.55   |
+|         | mid-sized   | -18.30 15.531  | 1.000 | -68.04 31.43   |
+|         | large       | -8.01 28.102   | 1.000 | -98.00 81.98   |
+|         | luxury      | 22.99 27.094   | 1.000 | -63.77 109.75  |
+|         | sports      | -23.57 19.257  | 1.000 | -85.24 38.10   |
+|         | minivan/van | -40.68 21.272  | 1.000 | -108.80 27.43  |
+pickup
+|           |             | -77.41* 18.959 | .002  | -138.13 -16.70 |
+| --------- | ----------- | -------------- | ----- | -------------- |
+|           | SUV         | -25.72 17.958  | 1.000 | -83.22 31.79   |
+| mid-sized | small       | 22.63 13.742   | 1.000 | -21.37 66.64   |
+|           | compact     | 18.30 15.531   | 1.000 | -31.43 68.04   |
+|           | large       | 10.30 27.245   | 1.000 | -76.95 97.54   |
+|           | luxury      | 41.29 26.204   | 1.000 | -42.62 125.21  |
+|           | sports      | -5.26 17.984   | 1.000 | -62.85 52.33   |
+|           | minivan/van | -22.38 20.126  | 1.000 | -86.83 42.07   |
+|           | pickup      | -59.11* 17.664 | .030  | -115.68 -2.54  |
+|           | SUV         | -7.41 16.585   | 1.000 | -60.52 45.70   |
+| large     | small       | 12.34 27.154   | 1.000 | -74.62 99.29   |
+|           | compact     | 8.01 28.102    | 1.000 | -81.98 98.00   |
+mid-sized
+|        |             | -10.30 27.245 | 1.000 | -97.54 76.95  |
+| ------ | ----------- | ------------- | ----- | ------------- |
+|        | luxury      | 30.99 35.144  | 1.000 | -81.55 143.54 |
+|        | sports      | -15.56 29.528 | 1.000 | -110.12 78.99 |
+|        | minivan/van | -32.68 30.879 | 1.000 | -131.56 66.21 |
+|        | pickup      | -69.41 29.334 | .651  | -163.35 24.53 |
+|        | SUV         | -17.71 28.697 | 1.000 | -109.61 74.19 |
+| luxury | small       | -18.66 26.109 | 1.000 | -102.27 64.95 |
+|        | compact     | -22.99 27.094 | 1.000 | -109.75 63.77 |
+|        | mid-sized   | -41.29 26.204 | 1.000 | -125.21 42.62 |
+|        | large       | -30.99 35.144 | 1.000 | -143.54 81.55 |
+|        | sports      | -46.56 28.570 | 1.000 | -138.05 44.93 |
+|        | minivan/van | -63.67 29.965 | 1.000 | -159.63 32.28 |
+pickup
+|             |             | -100.40* 28.370 | .015  | -191.25 -9.55 |
+| ----------- | ----------- | --------------- | ----- | ------------- |
+|             | SUV         | -48.71 27.711   | 1.000 | -137.44 40.03 |
+| sports      | small       | 27.90 17.846    | 1.000 | -29.25 85.05  |
+|             | compact     | 23.57 19.257    | 1.000 | -38.10 85.24  |
+|             | mid-sized   | 5.26 17.984     | 1.000 | -52.33 62.85  |
+|             | large       | 15.56 29.528    | 1.000 | -78.99 110.12 |
+|             | luxury      | 46.56 28.570    | 1.000 | -44.93 138.05 |
+|             | minivan/van | -17.12 23.123   | 1.000 | -91.16 56.93  |
+|             | pickup      | -53.85 21.015   | .378  | -121.14 13.45 |
+|             | SUV         | -2.15 20.117    | 1.000 | -66.57 62.27  |
+| minivan/van | small       | 45.02 20.003    | .884  | -19.04 109.07 |
+|             | compact     | 40.68 21.272    | 1.000 | -27.43 108.80 |
+|             | mid-sized   | 22.38 20.126    | 1.000 | -42.07 86.83  |
+|             | large       | 32.68 30.879    | 1.000 | -66.21 131.56 |
+|             | luxury      | 63.67 29.965    | 1.000 | -32.28 159.63 |
+|             | sports      | 17.12 23.123    | 1.000 | -56.93 91.16  |
+|             | pickup      | -36.73 22.875   | 1.000 | -109.98 36.52 |
+|             | SUV         | 14.97 22.052    | 1.000 | -55.65 85.59  |
+| pickup      | small       | 81.75* 17.524   | .000  | 25.63 137.86  |
+compact
+|     |             | 77.41* 18.959  | .002  | 16.70 138.13  |
+| --- | ----------- | -------------- | ----- | ------------- |
+|     | mid-sized   | 59.11* 17.664  | .030  | 2.54 115.68   |
+|     | large       | 69.41 29.334   | .651  | -24.53 163.35 |
+|     | luxury      | 100.40* 28.370 | .015  | 9.55 191.25   |
+|     | sports      | 53.85 21.015   | .378  | -13.45 121.14 |
+|     | minivan/van | 36.73 22.875   | 1.000 | -36.52 109.98 |
+|     | SUV         | 51.70 19.831   | .332  | -11.81 115.20 |
+| SUV | small       | 30.05 16.435   | 1.000 | -22.58 82.68  |
+|     | compact     | 25.72 17.958   | 1.000 | -31.79 83.22  |
+|     | mid-sized   | 7.41 16.585    | 1.000 | -45.70 60.52  |
+|     | large       | 17.71 28.697   | 1.000 | -74.19 109.61 |
+|     | luxury      | 48.71 27.711   | 1.000 | -40.03 137.44 |
+sports
+|     |             | 2.15 20.117   | 1.000 | -62.27 66.57  |
+| --- | ----------- | ------------- | ----- | ------------- |
+|     | minivan/van | -14.97 22.052 | 1.000 | -85.59 55.65  |
+|     | pickup      | -51.70 19.831 | .332  | -115.20 11.81 |
+*.  The mean difference is significant at the .05 level.
+
+|     |     | 129 |     |     |
+| --- | --- | --- | --- | --- |
+
+•  Long-Distance Miles Traveled by Airplane (Objective Mobility)
+Multiple Comparisons
+Dependent Variable: OM_WE_AR
+Bonferroni
+Mean 95% Confidence Interval
+| (I) Vehicle | (J) Vehicle | Difference       | Lower          | Upper   |
+| ----------- | ----------- | ---------------- | -------------- | ------- |
+| Type        | Type        | (I-J) Std. Error | Sig. Bound     | Bound   |
+| small       | compact     | 408.10 950.364   | 1.000 -2635.29 | 3451.49 |
+|             | mid-sized   | 122.15 850.234   | 1.000 -2600.59 | 2844.89 |
+large
+|         |             | 480.98 1688.303     | 1.000 -4925.55 | 5887.51  |
+| ------- | ----------- | ------------------- | -------------- | -------- |
+|         | luxury      | -9616.39* 1622.125  | .000 -14810.99 | -4421.79 |
+|         | sports      | -2862.98 1106.571   | .351 -6406.60  | 680.64   |
+|         | minivan/van | 1629.18 1234.052    | 1.000 -2322.68 | 5581.04  |
+|         | pickup      | 1883.21 1086.318    | 1.000 -1595.56 | 5361.97  |
+|         | SUV         | -2649.85 1012.815   | .323 -5893.23  | 593.53   |
+| compact | small       | -408.10 950.364     | 1.000 -3451.49 | 2635.29  |
+|         | mid-sized   | -285.95 959.314     | 1.000 -3358.00 | 2786.10  |
+|         | large       | 72.88 1745.781      | 1.000 -5517.71 | 5663.47  |
+|         | luxury      | -10024.49* 1681.867 | .000 -15410.40 | -4638.57 |
+|         | sports      | -3271.08 1192.429   | .221 -7089.65  | 547.49   |
+|         | minivan/van | 1221.08 1311.591    | 1.000 -2979.09 | 5421.25  |
+pickup
+|           |             | 1475.11 1173.658   | 1.000 -2283.35 | 5233.57  |
+| --------- | ----------- | ------------------ | -------------- | -------- |
+|           | SUV         | -3057.95 1105.975  | .207 -6599.66  | 483.76   |
+| mid-sized | small       | -122.15 850.234    | 1.000 -2844.89 | 2600.59  |
+|           | compact     | 285.95 959.314     | 1.000 -2786.10 | 3358.00  |
+|           | large       | 358.83 1693.357    | 1.000 -5063.88 | 5781.54  |
+|           | luxury      | -9738.54* 1627.385 | .000 -14949.98 | -4527.09 |
+|           | sports      | -2985.13 1114.268  | .268 -6553.40  | 583.14   |
+|           | minivan/van | 1507.03 1240.958   | 1.000 -2466.95 | 5481.01  |
+|           | pickup      | 1761.06 1094.157   | 1.000 -1742.81 | 5264.93  |
+|           | SUV         | -2772.00 1021.218  | .241 -6042.29  | 498.30   |
+| large     | small       | -480.98 1688.303   | 1.000 -5887.51 | 4925.55  |
+|           | compact     | -72.88 1745.781    | 1.000 -5663.47 | 5517.71  |
+mid-sized
+|        |             | -358.83 1693.357    | 1.000 -5781.54 | 5063.88  |
+| ------ | ----------- | ------------------- | -------------- | -------- |
+|        | luxury      | -10097.37* 2185.372 | .000 -17095.68 | -3099.05 |
+|        | sports      | -3343.96 1835.500   | 1.000 -9221.86 | 2533.94  |
+|        | minivan/van | 1148.20 1915.058    | 1.000 -4984.48 | 7280.87  |
+|        | pickup      | 1402.23 1823.362    | 1.000 -4436.80 | 7241.26  |
+|        | SUV         | -3130.83 1780.549   | 1.000 -8832.76 | 2571.10  |
+| luxury | small       | 9616.39* 1622.125   | .000 4421.79   | 14810.99 |
+|        | compact     | 10024.49* 1681.867  | .000 4638.57   | 15410.40 |
+|        | mid-sized   | 9738.54* 1627.385   | .000 4527.09   | 14949.98 |
+|        | large       | 10097.37* 2185.372  | .000 3099.05   | 17095.68 |
+|        | sports      | 6753.41* 1774.820   | .005 1069.82   | 12436.99 |
+|        | minivan/van | 11245.57* 1856.979  | .000 5298.88   | 17192.25 |
+pickup
+|             |             | 11499.60* 1762.264  | .000 5856.22   | 17142.97 |
+| ----------- | ----------- | ------------------- | -------------- | -------- |
+|             | SUV         | 6966.54* 1717.929   | .002 1465.14   | 12467.94 |
+| sports      | small       | 2862.98 1106.571    | .351 -680.64   | 6406.60  |
+|             | compact     | 3271.08 1192.429    | .221 -547.49   | 7089.65  |
+|             | mid-sized   | 2985.13 1114.268    | .268 -583.14   | 6553.40  |
+|             | large       | 3343.96 1835.500    | 1.000 -2533.94 | 9221.86  |
+|             | luxury      | -6753.41* 1774.820  | .005 -12436.99 | -1069.82 |
+|             | minivan/van | 4492.16 1428.839    | .061 -83.48    | 9067.79  |
+|             | pickup      | 4746.19* 1303.374   | .010 572.34    | 8920.04  |
+|             | SUV         | 213.13 1242.775     | 1.000 -3766.66 | 4192.92  |
+| minivan/van | small       | -1629.18 1234.052   | 1.000 -5581.04 | 2322.68  |
+|             | compact     | -1221.08 1311.591   | 1.000 -5421.25 | 2979.09  |
+|             | mid-sized   | -1507.03 1240.958   | 1.000 -5481.01 | 2466.95  |
+|             | large       | -1148.20 1915.058   | 1.000 -7280.87 | 4984.48  |
+|             | luxury      | -11245.57* 1856.979 | .000 -17192.25 | -5298.88 |
+|             | sports      | -4492.16 1428.839   | .061 -9067.79  | 83.48    |
+|             | pickup      | 254.03 1413.212     | 1.000 -4271.56 | 4779.62  |
+|             | SUV         | -4279.03 1357.525   | .059 -8626.29  | 68.24    |
+| pickup      | small       | -1883.21 1086.318   | 1.000 -5361.97 | 1595.56  |
+compact
+|     |             | -1475.11 1173.658   | 1.000 -5233.57 | 2283.35  |
+| --- | ----------- | ------------------- | -------------- | -------- |
+|     | mid-sized   | -1761.06 1094.157   | 1.000 -5264.93 | 1742.81  |
+|     | large       | -1402.23 1823.362   | 1.000 -7241.26 | 4436.80  |
+|     | luxury      | -11499.60* 1762.264 | .000 -17142.97 | -5856.22 |
+|     | sports      | -4746.19* 1303.374  | .010 -8920.04  | -572.34  |
+|     | minivan/van | -254.03 1413.212    | 1.000 -4779.62 | 4271.56  |
+|     | SUV         | -4533.06* 1224.776  | .008 -8455.21  | -610.90  |
+| SUV | small       | 2649.85 1012.815    | .323 -593.53   | 5893.23  |
+|     | compact     | 3057.95 1105.975    | .207 -483.76   | 6599.66  |
+|     | mid-sized   | 2772.00 1021.218    | .241 -498.30   | 6042.29  |
+|     | large       | 3130.83 1780.549    | 1.000 -2571.10 | 8832.76  |
+|     | luxury      | -6966.54* 1717.929  | .002 -12467.94 | -1465.14 |
+sports
+|     |             | -213.13 1242.775  | 1.000 -4192.92 | 3766.66 |
+| --- | ----------- | ----------------- | -------------- | ------- |
+|     | minivan/van | 4279.03 1357.525  | .059 -68.24    | 8626.29 |
+|     | pickup      | 4533.06* 1224.776 | .008 610.90    | 8455.21 |
+*.  The mean difference is significant at the .05 level.
+
+|     |     | 130 |     |     |
+| --- | --- | --- | --- | --- |
+
+•  Sum of the Log-Miles for Long-Distance Trips by Airplane (Objective Mobility)
+Multiple Comparisons
+Dependent Variable: LN_WE_AR
+Bonferroni
+|             |             | Mean       |            |       | 95% Confidence Interval |         |
+| ----------- | ----------- | ---------- | ---------- | ----- | ----------------------- | ------- |
+| (I) Vehicle | (J) Vehicle | Difference |            |       | Lower                   | Upper   |
+| Type        | Type        | (I-J)      | Std. Error | Sig.  | Bound                   | Bound   |
+| small       | compact     | -.7089     | 4.735      | 1.000 | -15.8728                | 14.4549 |
+|             | mid-sized   | -4.5355    | 4.236      | 1.000 | -18.1017                | 9.0307  |
+large
+|         |             | -.6935    | 8.412 | 1.000 | -27.6318 | 26.2448  |
+| ------- | ----------- | --------- | ----- | ----- | -------- | -------- |
+|         | luxury      | -43.1368* | 8.082 | .000  | -69.0191 | -17.2544 |
+|         | sports      | -13.6719  | 5.514 | .477  | -31.3282 | 3.9843   |
+|         | minivan/van | 6.1605    | 6.149 | 1.000 | -13.5299 | 25.8508  |
+|         | pickup      | 9.3748    | 5.413 | 1.000 | -7.9583  | 26.7079  |
+|         | SUV         | -15.0728  | 5.046 | .103  | -31.2331 | 1.0875   |
+| compact | small       | .7089     | 4.735 | 1.000 | -14.4549 | 15.8728  |
+|         | mid-sized   | -3.8266   | 4.780 | 1.000 | -19.1332 | 11.4801  |
+|         | large       | 1.545E-02 | 8.698 | 1.000 | -27.8399 | 27.8708  |
+|         | luxury      | -42.4278* | 8.380 | .000  | -69.2634 | -15.5922 |
+|         | sports      | -12.9630  | 5.941 | 1.000 | -31.9892 | 6.0632   |
+|         | minivan/van | 6.8694    | 6.535 | 1.000 | -14.0581 | 27.7969  |
+pickup
+|           |             | 10.0838   | 5.848 | 1.000 | -8.6429  | 28.8105  |
+| --------- | ----------- | --------- | ----- | ----- | -------- | -------- |
+|           | SUV         | -14.3638  | 5.511 | .332  | -32.0106 | 3.2829   |
+| mid-sized | small       | 4.5355    | 4.236 | 1.000 | -9.0307  | 18.1017  |
+|           | compact     | 3.8266    | 4.780 | 1.000 | -11.4801 | 19.1332  |
+|           | large       | 3.8420    | 8.437 | 1.000 | -23.1769 | 30.8609  |
+|           | luxury      | -38.6012* | 8.109 | .000  | -64.5675 | -12.6349 |
+|           | sports      | -9.1364   | 5.552 | 1.000 | -26.9155 | 8.6426   |
+|           | minivan/van | 10.6960   | 6.183 | 1.000 | -9.1045  | 30.4965  |
+|           | pickup      | 13.9103   | 5.452 | .389  | -3.5478  | 31.3685  |
+|           | SUV         | -10.5373  | 5.088 | 1.000 | -26.8317 | 5.7571   |
+| large     | small       | .6935     | 8.412 | 1.000 | -26.2448 | 27.6318  |
+|           | compact     | -1.54E-02 | 8.698 | 1.000 | -27.8708 | 27.8399  |
+mid-sized
+|        |             | -3.8420   | 8.437  | 1.000 | -30.8609 | 23.1769 |
+| ------ | ----------- | --------- | ------ | ----- | -------- | ------- |
+|        | luxury      | -42.4433* | 10.889 | .004  | -77.3127 | -7.5738 |
+|        | sports      | -12.9784  | 9.145  | 1.000 | -42.2654 | 16.3085 |
+|        | minivan/van | 6.8540    | 9.542  | 1.000 | -23.7024 | 37.4103 |
+|        | pickup      | 10.0683   | 9.085  | 1.000 | -19.0249 | 39.1616 |
+|        | SUV         | -14.3793  | 8.872  | 1.000 | -42.7894 | 14.0308 |
+| luxury | small       | 43.1368*  | 8.082  | .000  | 17.2544  | 69.0191 |
+|        | compact     | 42.4278*  | 8.380  | .000  | 15.5922  | 69.2634 |
+|        | mid-sized   | 38.6012*  | 8.109  | .000  | 12.6349  | 64.5675 |
+|        | large       | 42.4433*  | 10.889 | .004  | 7.5738   | 77.3127 |
+|        | sports      | 29.4648*  | 8.843  | .032  | 1.1461   | 57.7835 |
+|        | minivan/van | 49.2972*  | 9.252  | .000  | 19.6676  | 78.9268 |
+pickup
+|             |             | 52.5116*  | 8.781 | .000  | 24.3932  | 80.6300  |
+| ----------- | ----------- | --------- | ----- | ----- | -------- | -------- |
+|             | SUV         | 28.0640*  | 8.560 | .038  | .6530    | 55.4749  |
+| sports      | small       | 13.6719   | 5.514 | .477  | -3.9843  | 31.3282  |
+|             | compact     | 12.9630   | 5.941 | 1.000 | -6.0632  | 31.9892  |
+|             | mid-sized   | 9.1364    | 5.552 | 1.000 | -8.6426  | 26.9155  |
+|             | large       | 12.9784   | 9.145 | 1.000 | -16.3085 | 42.2654  |
+|             | luxury      | -29.4648* | 8.843 | .032  | -57.7835 | -1.1461  |
+|             | minivan/van | 19.8324   | 7.119 | .194  | -2.9659  | 42.6307  |
+|             | pickup      | 23.0468*  | 6.494 | .014  | 2.2504   | 43.8432  |
+|             | SUV         | -1.4008   | 6.192 | 1.000 | -21.2304 | 18.4287  |
+| minivan/van | small       | -6.1605   | 6.149 | 1.000 | -25.8508 | 13.5299  |
+|             | compact     | -6.8694   | 6.535 | 1.000 | -27.7969 | 14.0581  |
+|             | mid-sized   | -10.6960  | 6.183 | 1.000 | -30.4965 | 9.1045   |
+|             | large       | -6.8540   | 9.542 | 1.000 | -37.4103 | 23.7024  |
+|             | luxury      | -49.2972* | 9.252 | .000  | -78.9268 | -19.6676 |
+|             | sports      | -19.8324  | 7.119 | .194  | -42.6307 | 2.9659   |
+|             | pickup      | 3.2144    | 7.041 | 1.000 | -19.3346 | 25.7633  |
+|             | SUV         | -21.2332  | 6.764 | .062  | -42.8937 | .4272    |
+| pickup      | small       | -9.3748   | 5.413 | 1.000 | -26.7079 | 7.9583   |
+compact
+|     |             | -10.0838  | 5.848 | 1.000 | -28.8105 | 8.6429   |
+| --- | ----------- | --------- | ----- | ----- | -------- | -------- |
+|     | mid-sized   | -13.9103  | 5.452 | .389  | -31.3685 | 3.5478   |
+|     | large       | -10.0683  | 9.085 | 1.000 | -39.1616 | 19.0249  |
+|     | luxury      | -52.5116* | 8.781 | .000  | -80.6300 | -24.3932 |
+|     | sports      | -23.0468* | 6.494 | .014  | -43.8432 | -2.2504  |
+|     | minivan/van | -3.2144   | 7.041 | 1.000 | -25.7633 | 19.3346  |
+|     | SUV         | -24.4476* | 6.103 | .002  | -43.9899 | -4.9053  |
+| SUV | small       | 15.0728   | 5.046 | .103  | -1.0875  | 31.2331  |
+|     | compact     | 14.3638   | 5.511 | .332  | -3.2829  | 32.0106  |
+|     | mid-sized   | 10.5373   | 5.088 | 1.000 | -5.7571  | 26.8317  |
+|     | large       | 14.3793   | 8.872 | 1.000 | -14.0308 | 42.7894  |
+|     | luxury      | -28.0640* | 8.560 | .038  | -55.4749 | -.6530   |
+sports
+|     |             | 1.4008   | 6.192 | 1.000 | -18.4287 | 21.2304 |
+| --- | ----------- | -------- | ----- | ----- | -------- | ------- |
+|     | minivan/van | 21.2332  | 6.764 | .062  | -.4272   | 42.8937 |
+|     | pickup      | 24.4476* | 6.103 | .002  | 4.9053   | 43.9899 |
+*.  The mean difference is significant at the .05 level.
+
+|     |     |     | 131 |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+
+•  Short-Distance Trips by Personal Vehicle (Perceived Mobility)
+Multiple Comparisons
+Dependent Variable: For short-distance trips, I think that I travel... as a driver/passenger in any personal
+vehicle
+Bonferroni
+|             |             | Mean       |            |       | 95% Confidence Interval |           |
+| ----------- | ----------- | ---------- | ---------- | ----- | ----------------------- | --------- |
+| (I) Vehicle | (J) Vehicle | Difference |            |       | Lower                   | Upper     |
+| Type        | Type        | (I-J)      | Std. Error | Sig.  | Bound                   | Bound     |
+| small       | compact     |            |            |       |                         |           |
+|             |             | 3.13E-02   | .094       | 1.000 | -.27                    | .33       |
+|             | mid-sized   | -.20       | .084       | .692  | -.47                    | 7.22E-02  |
+|             | large       | -.17       | .166       | 1.000 | -.70                    | .37       |
+|             | luxury      | -8.34E-03  | .160       | 1.000 | -.52                    | .50       |
+|             | sports      | -2.31E-02  | .109       | 1.000 | -.37                    | .33       |
+|             | minivan/van | -.40*      | .122       | .040  | -.79                    | -7.42E-03 |
+|             | pickup      | -.19       | .107       | 1.000 | -.53                    | .16       |
+|             | SUV         | -.24       | .100       | .561  | -.56                    | 7.84E-02  |
+| compact     | small       | -3.13E-02  | .094       | 1.000 | -.33                    | .27       |
+|             | mid-sized   | -.23       | .095       | .589  | -.53                    | 7.60E-02  |
+|             | large       | -.20       | .172       | 1.000 | -.75                    | .35       |
+|             | luxury      | -3.96E-02  | .166       | 1.000 | -.57                    | .49       |
+|             | sports      | -5.44E-02  | .118       | 1.000 | -.43                    | .32       |
+minivan/van
+|           |         | -.43* | .130 | .034  | -.85      | -1.39E-02 |
+| --------- | ------- | ----- | ---- | ----- | --------- | --------- |
+|           | pickup  | -.22  | .116 | 1.000 | -.59      | .15       |
+|           | SUV     | -.27  | .110 | .450  | -.63      | 7.70E-02  |
+| mid-sized | small   | .20   | .084 | .692  | -7.22E-02 | .47       |
+|           | compact | .23   | .095 | .589  | -7.60E-02 | .53       |
+large
+|       |             | 3.03E-02  | .167 | 1.000 | -.50 | .56 |
+| ----- | ----------- | --------- | ---- | ----- | ---- | --- |
+|       | luxury      | .19       | .160 | 1.000 | -.32 | .70 |
+|       | sports      | .17       | .110 | 1.000 | -.18 | .53 |
+|       | minivan/van | -.20      | .123 | 1.000 | -.60 | .19 |
+|       | pickup      | 1.14E-02  | .108 | 1.000 | -.33 | .36 |
+|       | SUV         | -4.60E-02 | .101 | 1.000 | -.37 | .28 |
+| large | small       | .17       | .166 | 1.000 | -.37 | .70 |
+|       | compact     | .20       | .172 | 1.000 | -.35 | .75 |
+|       | mid-sized   | -3.03E-02 | .167 | 1.000 | -.56 | .50 |
+|       | luxury      | .16       | .215 | 1.000 | -.53 | .85 |
+|       | sports      | .14       | .181 | 1.000 | -.43 | .72 |
+|       | minivan/van | -.23      | .189 | 1.000 | -.84 | .37 |
+|       | pickup      | -1.89E-02 | .179 | 1.000 | -.59 | .56 |
+SUV
+|             |             | -7.63E-02 | .175 | 1.000 | -.64     | .49      |
+| ----------- | ----------- | --------- | ---- | ----- | -------- | -------- |
+| luxury      | small       | 8.34E-03  | .160 | 1.000 | -.50     | .52      |
+|             | compact     | 3.96E-02  | .166 | 1.000 | -.49     | .57      |
+|             | mid-sized   | -.19      | .160 | 1.000 | -.70     | .32      |
+|             | large       | -.16      | .215 | 1.000 | -.85     | .53      |
+|             | sports      | -1.47E-02 | .175 | 1.000 | -.57     | .55      |
+|             | minivan/van | -.39      | .183 | 1.000 | -.98     | .20      |
+|             | pickup      | -.18      | .174 | 1.000 | -.73     | .38      |
+|             | SUV         | -.23      | .169 | 1.000 | -.78     | .31      |
+| sports      | small       | 2.31E-02  | .109 | 1.000 | -.33     | .37      |
+|             | compact     | 5.44E-02  | .118 | 1.000 | -.32     | .43      |
+|             | mid-sized   | -.17      | .110 | 1.000 | -.53     | .18      |
+|             | large       | -.14      | .181 | 1.000 | -.72     | .43      |
+|             | luxury      | 1.47E-02  | .175 | 1.000 | -.55     | .57      |
+|             | minivan/van | -.38      | .141 | .284  | -.83     | 7.68E-02 |
+|             | pickup      | -.16      | .129 | 1.000 | -.57     | .25      |
+|             | SUV         | -.22      | .123 | 1.000 | -.61     | .17      |
+| minivan/van | small       | .40*      | .122 | .040  | 7.42E-03 | .79      |
+compact
+|        |           | .43*      | .130 | .034  | 1.39E-02  | .85 |
+| ------ | --------- | --------- | ---- | ----- | --------- | --- |
+|        | mid-sized | .20       | .123 | 1.000 | -.19      | .60 |
+|        | large     | .23       | .189 | 1.000 | -.37      | .84 |
+|        | luxury    | .39       | .183 | 1.000 | -.20      | .98 |
+|        | sports    | .38       | .141 | .284  | -7.68E-02 | .83 |
+|        | pickup    | .21       | .140 | 1.000 | -.23      | .66 |
+|        | SUV       | .16       | .135 | 1.000 | -.28      | .59 |
+| pickup | small     | .19       | .107 | 1.000 | -.16      | .53 |
+|        | compact   | .22       | .116 | 1.000 | -.15      | .59 |
+|        | mid-sized | -1.14E-02 | .108 | 1.000 | -.36      | .33 |
+|        | large     | 1.89E-02  | .179 | 1.000 | -.56      | .59 |
+|        | luxury    | .18       | .174 | 1.000 | -.38      | .73 |
+|        | sports    | .16       | .129 | 1.000 | -.25      | .57 |
+minivan/van
+|     |             | -.21      | .140 | 1.000 | -.66      | .23 |
+| --- | ----------- | --------- | ---- | ----- | --------- | --- |
+|     | SUV         | -5.74E-02 | .121 | 1.000 | -.45      | .33 |
+| SUV | small       | .24       | .100 | .561  | -7.84E-02 | .56 |
+|     | compact     | .27       | .110 | .450  | -7.70E-02 | .63 |
+|     | mid-sized   | 4.60E-02  | .101 | 1.000 | -.28      | .37 |
+|     | large       | 7.63E-02  | .175 | 1.000 | -.49      | .64 |
+|     | luxury      | .23       | .169 | 1.000 | -.31      | .78 |
+|     | sports      | .22       | .123 | 1.000 | -.17      | .61 |
+|     | minivan/van | -.16      | .135 | 1.000 | -.59      | .28 |
+|     | pickup      | 5.74E-02  | .121 | 1.000 | -.33      | .45 |
+*.  The mean difference is significant at the .05 level.
+
+|     |     |     | 132 |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+
+•  Overall Short-Distance Trips (Perceived Mobility)
+Multiple Comparisons
+Dependent Variable: For short-distance trips, OVERALL I think that I travel...
+Bonferroni
+|             |             | Mean       |            |       | 95% Confidence Interval |       |
+| ----------- | ----------- | ---------- | ---------- | ----- | ----------------------- | ----- |
+| (I) Vehicle | (J) Vehicle | Difference |            |       | Lower                   | Upper |
+| Type        | Type        | (I-J)      | Std. Error | Sig.  | Bound                   | Bound |
+| small       | compact     | .14        | .085       | 1.000 | -.13                    | .41   |
+|             | mid-sized   | 4.56E-02   | .076       | 1.000 | -.20                    | .29   |
+|             | large       | -.15       | .150       | 1.000 | -.63                    | .32   |
+|             | luxury      | .11        | .144       | 1.000 | -.36                    | .57   |
+|             | sports      | -.13       | .098       | 1.000 | -.45                    | .18   |
+minivan/van
+|         |           | -.30      | .110 | .251  | -.65 | 5.53E-02 |
+| ------- | --------- | --------- | ---- | ----- | ---- | -------- |
+|         | pickup    | -2.91E-02 | .097 | 1.000 | -.34 | .28      |
+|         | SUV       | -.11      | .090 | 1.000 | -.40 | .18      |
+| compact | small     | -.14      | .085 | 1.000 | -.41 | .13      |
+|         | mid-sized | -9.30E-02 | .086 | 1.000 | -.37 | .18      |
+large
+|     |             | -.29      | .155 | 1.000 | -.79 | .20       |
+| --- | ----------- | --------- | ---- | ----- | ---- | --------- |
+|     | luxury      | -3.30E-02 | .149 | 1.000 | -.51 | .45       |
+|     | sports      | -.27      | .106 | .363  | -.61 | 6.66E-02  |
+|     | minivan/van | -.44*     | .117 | .007  | -.81 | -6.10E-02 |
+|     | pickup      | -.17      | .105 | 1.000 | -.50 | .17       |
+SUV
+|           |         | -.25      | .099 | .467  | -.56 | 7.07E-02 |
+| --------- | ------- | --------- | ---- | ----- | ---- | -------- |
+| mid-sized | small   | -4.56E-02 | .076 | 1.000 | -.29 | .20      |
+|           | compact | 9.30E-02  | .086 | 1.000 | -.18 | .37      |
+|           | large   | -.20      | .150 | 1.000 | -.68 | .28      |
+|           | luxury  | 6.00E-02  | .145 | 1.000 | -.40 | .52      |
+sports
+|       |             | -.18      | .099 | 1.000 | -.50 | .14      |
+| ----- | ----------- | --------- | ---- | ----- | ---- | -------- |
+|       | minivan/van | -.34      | .111 | .072  | -.70 | 1.18E-02 |
+|       | pickup      | -7.48E-02 | .097 | 1.000 | -.39 | .24      |
+|       | SUV         | -.15      | .091 | 1.000 | -.45 | .14      |
+| large | small       | .15       | .150 | 1.000 | -.32 | .63      |
+compact
+.29 .155 1.000 -.20 .79
+|     | mid-sized   | .20      | .150 | 1.000 | -.28 | .68 |
+| --- | ----------- | -------- | ---- | ----- | ---- | --- |
+|     | luxury      | .26      | .194 | 1.000 | -.36 | .88 |
+|     | sports      | 2.00E-02 | .163 | 1.000 | -.50 | .54 |
+|     | minivan/van | -.14     | .170 | 1.000 | -.69 | .40 |
+pickup
+.13 .162 1.000 -.39 .64
+|        | SUV       | 4.75E-02  | .158 | 1.000 | -.46 | .55 |
+| ------ | --------- | --------- | ---- | ----- | ---- | --- |
+| luxury | small     | -.11      | .144 | 1.000 | -.57 | .36 |
+|        | compact   | 3.30E-02  | .149 | 1.000 | -.45 | .51 |
+|        | mid-sized | -6.00E-02 | .145 | 1.000 | -.52 | .40 |
+large
+|        |             | -.26 | .194 | 1.000 | -.88 | .36 |
+| ------ | ----------- | ---- | ---- | ----- | ---- | --- |
+|        | sports      | -.24 | .158 | 1.000 | -.75 | .26 |
+|        | minivan/van | -.40 | .165 | .528  | -.93 | .13 |
+|        | pickup      | -.13 | .156 | 1.000 | -.64 | .37 |
+|        | SUV         | -.21 | .153 | 1.000 | -.70 | .28 |
+| sports | small       |      |      |       |      |     |
+.13 .098 1.000 -.18 .45
+|     | compact   | .27       | .106 | .363  | -6.66E-02 | .61 |
+| --- | --------- | --------- | ---- | ----- | --------- | --- |
+|     | mid-sized | .18       | .099 | 1.000 | -.14      | .50 |
+|     | large     | -2.00E-02 | .163 | 1.000 | -.54      | .50 |
+|     | luxury    | .24       | .158 | 1.000 | -.26      | .75 |
+minivan/van
+|             |             | -.16      | .128 | 1.000 | -.57      | .25 |
+| ----------- | ----------- | --------- | ---- | ----- | --------- | --- |
+|             | pickup      | .11       | .116 | 1.000 | -.27      | .48 |
+|             | SUV         | 2.75E-02  | .111 | 1.000 | -.33      | .38 |
+| minivan/van | small       | .30       | .110 | .251  | -5.53E-02 | .65 |
+|             | compact     | .44*      | .117 | .007  | 6.10E-02  | .81 |
+|             | mid-sized   | .34       | .111 | .072  | -1.18E-02 | .70 |
+|             | large       | .14       | .170 | 1.000 | -.40      | .69 |
+|             | luxury      | .40       | .165 | .528  | -.13      | .93 |
+|             | sports      | .16       | .128 | 1.000 | -.25      | .57 |
+|             | pickup      | .27       | .126 | 1.000 | -.14      | .67 |
+|             | SUV         | .19       | .122 | 1.000 | -.20      | .58 |
+| pickup      | small       | 2.91E-02  | .097 | 1.000 | -.28      | .34 |
+|             | compact     | .17       | .105 | 1.000 | -.17      | .50 |
+|             | mid-sized   | 7.48E-02  | .097 | 1.000 | -.24      | .39 |
+|             | large       | -.13      | .162 | 1.000 | -.64      | .39 |
+|             | luxury      | .13       | .156 | 1.000 | -.37      | .64 |
+|             | sports      | -.11      | .116 | 1.000 | -.48      | .27 |
+|             | minivan/van | -.27      | .126 | 1.000 | -.67      | .14 |
+|             | SUV         | -7.83E-02 | .109 | 1.000 | -.43      | .27 |
+| SUV         | small       | .11       | .090 | 1.000 | -.18      | .40 |
+|             | compact     | .25       | .099 | .467  | -7.07E-02 | .56 |
+|             | mid-sized   | .15       | .091 | 1.000 | -.14      | .45 |
+|             | large       | -4.75E-02 | .158 | 1.000 | -.55      | .46 |
+|             | luxury      | .21       | .153 | 1.000 | -.28      | .70 |
+|             | sports      | -2.75E-02 | .111 | 1.000 | -.38      | .33 |
+|             | minivan/van | -.19      | .122 | 1.000 | -.58      | .20 |
+|             | pickup      | 7.83E-02  | .109 | 1.000 | -.27      | .43 |
+*. The mean difference is significant at the .05 level.
+
+|     |     |     | 133 |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+
+•  Long-Distance Trips by Personal Vehicle (Perceived Mobility)
+Multiple Comparisons
+Dependent Variable: For long-distance trips, I think that I travel... as a driver/passenger in any personal
+vehicle
+Bonferroni
+|             |             | Mean       |            |      | 95% Confidence Interval |       |
+| ----------- | ----------- | ---------- | ---------- | ---- | ----------------------- | ----- |
+| (I) Vehicle | (J) Vehicle | Difference |            |      | Lower                   | Upper |
+| Type        | Type        | (I-J)      | Std. Error | Sig. | Bound                   | Bound |
+| small       | compact     |            |            |      |                         |       |
+.13 .104 1.000 -.21 .46
+|         | mid-sized   | -.20      | .093 | 1.000 | -.49  | .10      |
+| ------- | ----------- | --------- | ---- | ----- | ----- | -------- |
+|         | large       | -.24      | .184 | 1.000 | -.83  | .35      |
+|         | luxury      | .14       | .177 | 1.000 | -.43  | .70      |
+|         | sports      | .11       | .121 | 1.000 | -.28  | .50      |
+|         | minivan/van | -.67*     | .136 | .000  | -1.10 | -.23     |
+|         | pickup      | -.32      | .119 | .231  | -.70  | 5.63E-02 |
+|         | SUV         | -.28      | .111 | .411  | -.64  | 7.45E-02 |
+| compact | small       | -.13      | .104 | 1.000 | -.46  | .21      |
+|         | mid-sized   | -.32      | .105 | .079  | -.66  | 1.41E-02 |
+|         | large       | -.37      | .191 | 1.000 | -.98  | .24      |
+|         | luxury      | 8.22E-03  | .184 | 1.000 | -.58  | .60      |
+|         | sports      | -1.59E-02 | .131 | 1.000 | -.43  | .40      |
+minivan/van
+|           |         | -.79* | .144 | .000  | -1.26     | -.33      |
+| --------- | ------- | ----- | ---- | ----- | --------- | --------- |
+|           | pickup  | -.45* | .129 | .016  | -.86      | -4.02E-02 |
+|           | SUV     | -.41* | .122 | .028  | -.80      | -2.01E-02 |
+| mid-sized | small   | .20   | .093 | 1.000 | -.10      | .49       |
+|           | compact | .32   | .105 | .079  | -1.41E-02 | .66       |
+large
+|       |             | -4.70E-02 | .185 | 1.000 | -.64      | .54       |
+| ----- | ----------- | --------- | ---- | ----- | --------- | --------- |
+|       | luxury      | .33       | .178 | 1.000 | -.24      | .90       |
+|       | sports      | .31       | .122 | .427  | -8.33E-02 | .70       |
+|       | minivan/van | -.47*     | .136 | .021  | -.91      | -3.40E-02 |
+|       | pickup      | -.13      | .120 | 1.000 | -.51      | .25       |
+|       | SUV         | -8.63E-02 | .112 | 1.000 | -.45      | .27       |
+| large | small       | .24       | .184 | 1.000 | -.35      | .83       |
+|       | compact     | .37       | .191 | 1.000 | -.24      | .98       |
+|       | mid-sized   | 4.70E-02  | .185 | 1.000 | -.54      | .64       |
+|       | luxury      | .38       | .238 | 1.000 | -.38      | 1.14      |
+|       | sports      | .35       | .200 | 1.000 | -.29      | 1.00      |
+|       | minivan/van | -.42      | .209 | 1.000 | -1.09     | .25       |
+|       | pickup      | -8.18E-02 | .199 | 1.000 | -.72      | .56       |
+SUV
+|             |             | -3.93E-02 | .194 | 1.000 | -.66  | .58      |
+| ----------- | ----------- | --------- | ---- | ----- | ----- | -------- |
+| luxury      | small       | -.14      | .177 | 1.000 | -.70  | .43      |
+|             | compact     | -8.22E-03 | .184 | 1.000 | -.60  | .58      |
+|             | mid-sized   | -.33      | .178 | 1.000 | -.90  | .24      |
+|             | large       | -.38      | .238 | 1.000 | -1.14 | .38      |
+|             | sports      | -2.41E-02 | .194 | 1.000 | -.64  | .60      |
+|             | minivan/van | -.80*     | .203 | .003  | -1.45 | -.15     |
+|             | pickup      | -.46      | .192 | .607  | -1.08 | .16      |
+|             | SUV         | -.42      | .188 | .946  | -1.02 | .18      |
+| sports      | small       | -.11      | .121 | 1.000 | -.50  | .28      |
+|             | compact     | 1.59E-02  | .131 | 1.000 | -.40  | .43      |
+|             | mid-sized   | -.31      | .122 | .427  | -.70  | 8.33E-02 |
+|             | large       | -.35      | .200 | 1.000 | -1.00 | .29      |
+|             | luxury      | 2.41E-02  | .194 | 1.000 | -.60  | .64      |
+|             | minivan/van | -.78*     | .157 | .000  | -1.28 | -.28     |
+|             | pickup      | -.44      | .142 | .081  | -.89  | 2.03E-02 |
+|             | SUV         | -.39      | .136 | .141  | -.83  | 4.27E-02 |
+| minivan/van | small       | .67*      | .136 | .000  | .23   | 1.10     |
+compact
+|        |           | .79*     | .144 | .000  | .33       | 1.26 |
+| ------ | --------- | -------- | ---- | ----- | --------- | ---- |
+|        | mid-sized | .47*     | .136 | .021  | 3.40E-02  | .91  |
+|        | large     | .42      | .209 | 1.000 | -.25      | 1.09 |
+|        | luxury    | .80*     | .203 | .003  | .15       | 1.45 |
+|        | sports    | .78*     | .157 | .000  | .28       | 1.28 |
+|        | pickup    | .34      | .155 | .990  | -.15      | .84  |
+|        | SUV       | .38      | .149 | .364  | -9.37E-02 | .86  |
+| pickup | small     | .32      | .119 | .231  | -5.63E-02 | .70  |
+|        | compact   | .45*     | .129 | .016  | 4.02E-02  | .86  |
+|        | mid-sized | .13      | .120 | 1.000 | -.25      | .51  |
+|        | large     | 8.18E-02 | .199 | 1.000 | -.56      | .72  |
+|        | luxury    | .46      | .192 | .607  | -.16      | 1.08 |
+|        | sports    | .44      | .142 | .081  | -2.03E-02 | .89  |
+minivan/van
+|     |             | -.34      | .155 | .990  | -.84      | .15      |
+| --- | ----------- | --------- | ---- | ----- | --------- | -------- |
+|     | SUV         | 4.25E-02  | .134 | 1.000 | -.39      | .47      |
+| SUV | small       | .28       | .111 | .411  | -7.45E-02 | .64      |
+|     | compact     | .41*      | .122 | .028  | 2.01E-02  | .80      |
+|     | mid-sized   | 8.63E-02  | .112 | 1.000 | -.27      | .45      |
+|     | large       | 3.93E-02  | .194 | 1.000 | -.58      | .66      |
+|     | luxury      | .42       | .188 | .946  | -.18      | 1.02     |
+|     | sports      | .39       | .136 | .141  | -4.27E-02 | .83      |
+|     | minivan/van | -.38      | .149 | .364  | -.86      | 9.37E-02 |
+|     | pickup      | -4.25E-02 | .134 | 1.000 | -.47      | .39      |
+*.  The mean difference is significant at the .05 level.
+
+|     |     |     | 134 |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+
+•  Long-Distance Trips by Airplane (Perceived Mobility)
+Multiple Comparisons
+Dependent Variable: For long-distance trips, I think that I travel... in an airplane
+Bonferroni
+|             |             | Mean       |            |       | 95% Confidence Interval |       |
+| ----------- | ----------- | ---------- | ---------- | ----- | ----------------------- | ----- |
+| (I) Vehicle | (J) Vehicle | Difference |            |       | Lower                   | Upper |
+| Type        | Type        | (I-J)      | Std. Error | Sig.  | Bound                   | Bound |
+| small       | compact     | 8.52E-02   | .096       | 1.000 | -.22                    | .39   |
+|             | mid-sized   | 9.90E-02   | .086       | 1.000 | -.18                    | .37   |
+|             | large       | .17        | .170       | 1.000 | -.37                    | .72   |
+|             | luxury      | -.31       | .163       | 1.000 | -.83                    | .21   |
+|             | sports      | -.14       | .111       | 1.000 | -.50                    | .22   |
+minivan/van
+.23 .125 1.000 -.17 .63
+|         | pickup    | .51*      | .109 | .000  | .16  | .86 |
+| ------- | --------- | --------- | ---- | ----- | ---- | --- |
+|         | SUV       | -3.28E-02 | .102 | 1.000 | -.36 | .30 |
+| compact | small     | -8.52E-02 | .096 | 1.000 | -.39 | .22 |
+|         | mid-sized | 1.38E-02  | .097 | 1.000 | -.30 | .32 |
+large
+|     |             | 8.80E-02 | .175 | 1.000 | -.47     | .65 |
+| --- | ----------- | -------- | ---- | ----- | -------- | --- |
+|     | luxury      | -.40     | .169 | .678  | -.94     | .14 |
+|     | sports      | -.23     | .120 | 1.000 | -.61     | .16 |
+|     | minivan/van | .15      | .133 | 1.000 | -.28     | .57 |
+|     | pickup      | .43*     | .118 | .011  | 4.85E-02 | .81 |
+SUV
+|           |         | -.12      | .112 | 1.000 | -.48 | .24 |
+| --------- | ------- | --------- | ---- | ----- | ---- | --- |
+| mid-sized | small   | -9.90E-02 | .086 | 1.000 | -.37 | .18 |
+|           | compact | -1.38E-02 | .097 | 1.000 | -.32 | .30 |
+|           | large   | 7.42E-02  | .170 | 1.000 | -.47 | .62 |
+|           | luxury  | -.41      | .164 | .432  | -.94 | .11 |
+sports
+|       |             | -.24 | .112 | 1.000 | -.60     | .12 |
+| ----- | ----------- | ---- | ---- | ----- | -------- | --- |
+|       | minivan/van | .14  | .126 | 1.000 | -.27     | .54 |
+|       | pickup      | .41* | .110 | .007  | 6.06E-02 | .77 |
+|       | SUV         | -.13 | .103 | 1.000 | -.46     | .20 |
+| large | small       | -.17 | .170 | 1.000 | -.72     | .37 |
+compact
+|     |             | -8.80E-02 | .175 | 1.000 | -.65  | .47 |
+| --- | ----------- | --------- | ---- | ----- | ----- | --- |
+|     | mid-sized   | -7.42E-02 | .170 | 1.000 | -.62  | .47 |
+|     | luxury      | -.49      | .219 | .973  | -1.19 | .22 |
+|     | sports      | -.31      | .184 | 1.000 | -.91  | .28 |
+|     | minivan/van | 6.15E-02  | .193 | 1.000 | -.56  | .68 |
+pickup
+.34 .183 1.000 -.25 .93
+|        | SUV       | -.21 | .179 | 1.000 | -.78 | .37 |
+| ------ | --------- | ---- | ---- | ----- | ---- | --- |
+| luxury | small     | .31  | .163 | 1.000 | -.21 | .83 |
+|        | compact   | .40  | .169 | .678  | -.14 | .94 |
+|        | mid-sized | .41  | .164 | .432  | -.11 | .94 |
+large
+.49 .219 .973 -.22 1.19
+|        | sports      | .17  | .178 | 1.000 | -.40      | .74  |
+| ------ | ----------- | ---- | ---- | ----- | --------- | ---- |
+|        | minivan/van | .55  | .187 | .126  | -5.20E-02 | 1.15 |
+|        | pickup      | .83* | .177 | .000  | .26       | 1.39 |
+|        | SUV         | .28  | .173 | 1.000 | -.27      | .83  |
+| sports | small       |      |      |       |           |      |
+.14 .111 1.000 -.22 .50
+|     | compact   | .23  | .120 | 1.000 | -.16 | .61 |
+| --- | --------- | ---- | ---- | ----- | ---- | --- |
+|     | mid-sized | .24  | .112 | 1.000 | -.12 | .60 |
+|     | large     | .31  | .184 | 1.000 | -.28 | .91 |
+|     | luxury    | -.17 | .178 | 1.000 | -.74 | .40 |
+minivan/van
+.38 .144 .333 -8.61E-02 .84
+|             | pickup      | .65*      | .131 | .000  | .23   | 1.07      |
+| ----------- | ----------- | --------- | ---- | ----- | ----- | --------- |
+|             | SUV         | .11       | .125 | 1.000 | -.29  | .51       |
+| minivan/van | small       | -.23      | .125 | 1.000 | -.63  | .17       |
+|             | compact     | -.15      | .133 | 1.000 | -.57  | .28       |
+|             | mid-sized   | -.14      | .126 | 1.000 | -.54  | .27       |
+|             | large       | -6.15E-02 | .193 | 1.000 | -.68  | .56       |
+|             | luxury      | -.55      | .187 | .126  | -1.15 | 5.20E-02  |
+|             | sports      | -.38      | .144 | .333  | -.84  | 8.61E-02  |
+|             | pickup      | .28       | .143 | 1.000 | -.18  | .74       |
+|             | SUV         | -.27      | .138 | 1.000 | -.71  | .17       |
+| pickup      | small       | -.51*     | .109 | .000  | -.86  | -.16      |
+|             | compact     | -.43*     | .118 | .011  | -.81  | -4.85E-02 |
+|             | mid-sized   | -.41*     | .110 | .007  | -.77  | -6.06E-02 |
+|             | large       | -.34      | .183 | 1.000 | -.93  | .25       |
+|             | luxury      | -.83*     | .177 | .000  | -1.39 | -.26      |
+|             | sports      | -.65*     | .131 | .000  | -1.07 | -.23      |
+|             | minivan/van | -.28      | .143 | 1.000 | -.74  | .18       |
+|             | SUV         | -.55*     | .124 | .000  | -.94  | -.15      |
+| SUV         | small       | 3.28E-02  | .102 | 1.000 | -.30  | .36       |
+|             | compact     | .12       | .112 | 1.000 | -.24  | .48       |
+|             | mid-sized   | .13       | .103 | 1.000 | -.20  | .46       |
+|             | large       | .21       | .179 | 1.000 | -.37  | .78       |
+|             | luxury      | -.28      | .173 | 1.000 | -.83  | .27       |
+|             | sports      | -.11      | .125 | 1.000 | -.51  | .29       |
+|             | minivan/van | .27       | .138 | 1.000 | -.17  | .71       |
+|             | pickup      | .55*      | .124 | .000  | .15   | .94       |
+*. The mean difference is significant at the .05 level.
+
+|     |     |     | 135 |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+
+•  Overall Long-Distance Trips (Perceived Mobility)
+Multiple Comparisons
+Dependent Variable: For long-distance trips, OVERALL I think that I travel...
+Bonferroni
+|             |             | Mean       |            |       | 95% Confidence Interval |       |
+| ----------- | ----------- | ---------- | ---------- | ----- | ----------------------- | ----- |
+| (I) Vehicle | (J) Vehicle | Difference |            |       | Lower                   | Upper |
+| Type        | Type        | (I-J)      | Std. Error | Sig.  | Bound                   | Bound |
+| small       | compact     | 6.68E-02   | .082       | 1.000 | -.20                    | .33   |
+|             | mid-sized   | -4.40E-02  | .073       | 1.000 | -.28                    | .19   |
+large
+|           |             | -.29      | .145 | 1.000 | -.75 | .18      |
+| --------- | ----------- | --------- | ---- | ----- | ---- | -------- |
+|           | luxury      | -.34      | .140 | .545  | -.79 | .11      |
+|           | sports      | -.14      | .095 | 1.000 | -.45 | .16      |
+|           | minivan/van | -.28      | .107 | .333  | -.62 | 6.38E-02 |
+|           | pickup      | -2.35E-02 | .094 | 1.000 | -.32 | .28      |
+|           | SUV         | -.16      | .088 | 1.000 | -.44 | .12      |
+| compact   | small       | -6.68E-02 | .082 | 1.000 | -.33 | .20      |
+|           | mid-sized   | -.11      | .083 | 1.000 | -.38 | .16      |
+|           | large       | -.35      | .150 | .663  | -.84 | .13      |
+|           | luxury      | -.41      | .145 | .184  | -.87 | 5.76E-02 |
+|           | sports      | -.21      | .103 | 1.000 | -.54 | .12      |
+|           | minivan/van | -.35      | .114 | .087  | -.71 | 1.87E-02 |
+|           | pickup      | -9.03E-02 | .101 | 1.000 | -.41 | .23      |
+|           | SUV         | -.23      | .096 | .594  | -.54 | 7.69E-02 |
+| mid-sized | small       | 4.40E-02  | .073 | 1.000 | -.19 | .28      |
+|           | compact     | .11       | .083 | 1.000 | -.16 | .38      |
+|           | large       | -.24      | .146 | 1.000 | -.71 | .22      |
+|           | luxury      | -.30      | .140 | 1.000 | -.74 | .15      |
+|           | sports      | -9.79E-02 | .096 | 1.000 | -.41 | .21      |
+minivan/van
+|       |           | -.23      | .108 | 1.000 | -.58 | .11 |
+| ----- | --------- | --------- | ---- | ----- | ---- | --- |
+|       | pickup    | 2.05E-02  | .094 | 1.000 | -.28 | .32 |
+|       | SUV       | -.12      | .089 | 1.000 | -.40 | .16 |
+| large | small     | .29       | .145 | 1.000 | -.18 | .75 |
+|       | compact   | .35       | .150 | .663  | -.13 | .84 |
+|       | mid-sized | .24       | .146 | 1.000 | -.22 | .71 |
+|       | luxury    | -5.17E-02 | .188 | 1.000 | -.65 | .55 |
+sports
+.15 .158 1.000 -.36 .65
+|        | minivan/van | 9.01E-03 | .165 | 1.000 | -.52      | .54 |
+| ------ | ----------- | -------- | ---- | ----- | --------- | --- |
+|        | pickup      | .26      | .157 | 1.000 | -.24      | .77 |
+|        | SUV         | .12      | .153 | 1.000 | -.37      | .62 |
+| luxury | small       | .34      | .140 | .545  | -.11      | .79 |
+|        | compact     | .41      | .145 | .184  | -5.76E-02 | .87 |
+|        | mid-sized   | .30      | .140 | 1.000 | -.15      | .74 |
+|        | large       | 5.17E-02 | .188 | 1.000 | -.55      | .65 |
+|        | sports      | .20      | .153 | 1.000 | -.29      | .69 |
+|        | minivan/van | 6.07E-02 | .160 | 1.000 | -.45      | .57 |
+|        | pickup      | .32      | .152 | 1.000 | -.17      | .80 |
+|        | SUV         | .18      | .148 | 1.000 | -.30      | .65 |
+| sports | small       | .14      | .095 | 1.000 | -.16      | .45 |
+|        | compact     | .21      | .103 | 1.000 | -.12      | .54 |
+|        | mid-sized   | 9.79E-02 | .096 | 1.000 | -.21      | .41 |
+|        | large       | -.15     | .158 | 1.000 | -.65      | .36 |
+|        | luxury      | -.20     | .153 | 1.000 | -.69      | .29 |
+|        | minivan/van | -.14     | .124 | 1.000 | -.53      | .26 |
+|        | pickup      | .12      | .112 | 1.000 | -.24      | .48 |
+SUV
+|             |           | -2.13E-02 | .107 | 1.000 | -.37      | .32 |
+| ----------- | --------- | --------- | ---- | ----- | --------- | --- |
+| minivan/van | small     | .28       | .107 | .333  | -6.38E-02 | .62 |
+|             | compact   | .35       | .114 | .087  | -1.87E-02 | .71 |
+|             | mid-sized | .23       | .108 | 1.000 | -.11      | .58 |
+|             | large     | -9.01E-03 | .165 | 1.000 | -.54      | .52 |
+|             | luxury    | -6.07E-02 | .160 | 1.000 | -.57      | .45 |
+|             | sports    | .14       | .124 | 1.000 | -.26      | .53 |
+pickup
+.26 .122 1.000 -.14 .65
+|        | SUV         | .12       | .118 | 1.000 | -.26      | .49 |
+| ------ | ----------- | --------- | ---- | ----- | --------- | --- |
+| pickup | small       | 2.35E-02  | .094 | 1.000 | -.28      | .32 |
+|        | compact     | 9.03E-02  | .101 | 1.000 | -.23      | .41 |
+|        | mid-sized   | -2.05E-02 | .094 | 1.000 | -.32      | .28 |
+|        | large       | -.26      | .157 | 1.000 | -.77      | .24 |
+|        | luxury      | -.32      | .152 | 1.000 | -.80      | .17 |
+|        | sports      | -.12      | .112 | 1.000 | -.48      | .24 |
+|        | minivan/van | -.26      | .122 | 1.000 | -.65      | .14 |
+|        | SUV         | -.14      | .106 | 1.000 | -.48      | .20 |
+| SUV    | small       | .16       | .088 | 1.000 | -.12      | .44 |
+|        | compact     | .23       | .096 | .594  | -7.69E-02 | .54 |
+mid-sized
+.12 .089 1.000 -.16 .40
+|     | large       | -.12     | .153 | 1.000 | -.62 | .37 |
+| --- | ----------- | -------- | ---- | ----- | ---- | --- |
+|     | luxury      | -.18     | .148 | 1.000 | -.65 | .30 |
+|     | sports      | 2.13E-02 | .107 | 1.000 | -.32 | .37 |
+|     | minivan/van | -.12     | .118 | 1.000 | -.49 | .26 |
+|     | pickup      | .14      | .106 | 1.000 | -.20 | .48 |
+
+|     |     |     | 136 |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+
+•  Short-Distance Trips by Personal Vehicle (Travel Liking)
+Multiple Comparisons
+Dependent Variable: Liking for short-distance trips, in a personal vehicle
+Bonferroni
+|             |             | Mean       |            |       | 95% Confidence Interval |          |
+| ----------- | ----------- | ---------- | ---------- | ----- | ----------------------- | -------- |
+| (I) Vehicle | (J) Vehicle | Difference |            |       | Lower                   | Upper    |
+| Type        | Type        | (I-J)      | Std. Error | Sig.  | Bound                   | Bound    |
+| small       | compact     | -6.82E-02  | .071       | 1.000 | -.30                    | .16      |
+|             | mid-sized   | -.16       | .064       | .498  | -.36                    | 4.69E-02 |
+|             | large       | -.30       | .126       | .647  | -.70                    | .10      |
+|             | luxury      | -.22       | .121       | 1.000 | -.60                    | .17      |
+|             | sports      | -.16       | .083       | 1.000 | -.43                    | 1.00E-01 |
+minivan/van
+|         |           | -.35*     | .093 | .005  | -.65 | -5.82E-02 |
+| ------- | --------- | --------- | ---- | ----- | ---- | --------- |
+|         | pickup    | -.25      | .081 | .084  | -.51 | 1.23E-02  |
+|         | SUV       | -.28*     | .076 | .010  | -.52 | -3.37E-02 |
+| compact | small     | 6.82E-02  | .071 | 1.000 | -.16 | .30       |
+|         | mid-sized | -8.86E-02 | .072 | 1.000 | -.32 | .14       |
+large
+|     |             | -.23      | .130 | 1.000 | -.65 | .19      |
+| --- | ----------- | --------- | ---- | ----- | ---- | -------- |
+|     | luxury      | -.15      | .125 | 1.000 | -.55 | .25      |
+|     | sports      | -9.63E-02 | .089 | 1.000 | -.38 | .19      |
+|     | minivan/van | -.29      | .098 | .132  | -.60 | 2.88E-02 |
+|     | pickup      | -.18      | .088 | 1.000 | -.46 | .10      |
+SUV
+|           |         | -.21      | .083 | .432  | -.47      | 5.71E-02 |
+| --------- | ------- | --------- | ---- | ----- | --------- | -------- |
+| mid-sized | small   | .16       | .064 | .498  | -4.69E-02 | .36      |
+|           | compact | 8.86E-02  | .072 | 1.000 | -.14      | .32      |
+|           | large   | -.14      | .126 | 1.000 | -.54      | .26      |
+|           | luxury  | -6.03E-02 | .121 | 1.000 | -.45      | .33      |
+sports
+|       |             | -7.75E-03 | .083 | 1.000 | -.27 | .26 |
+| ----- | ----------- | --------- | ---- | ----- | ---- | --- |
+|       | minivan/van | -.20      | .093 | 1.000 | -.50 | .10 |
+|       | pickup      | -9.06E-02 | .082 | 1.000 | -.35 | .17 |
+|       | SUV         | -.12      | .077 | 1.000 | -.37 | .13 |
+| large | small       | .30       | .126 | .647  | -.10 | .70 |
+compact
+.23 .130 1.000 -.19 .65
+|     | mid-sized   | .14       | .126 | 1.000 | -.26 | .54 |
+| --- | ----------- | --------- | ---- | ----- | ---- | --- |
+|     | luxury      | 8.07E-02  | .163 | 1.000 | -.44 | .60 |
+|     | sports      | .13       | .137 | 1.000 | -.30 | .57 |
+|     | minivan/van | -5.69E-02 | .143 | 1.000 | -.51 | .40 |
+pickup
+|        |           | 5.03E-02 | .136 | 1.000 | -.38 | .49 |
+| ------ | --------- | -------- | ---- | ----- | ---- | --- |
+|        | SUV       | 2.08E-02 | .133 | 1.000 | -.40 | .45 |
+| luxury | small     | .22      | .121 | 1.000 | -.17 | .60 |
+|        | compact   | .15      | .125 | 1.000 | -.25 | .55 |
+|        | mid-sized | 6.03E-02 | .121 | 1.000 | -.33 | .45 |
+large
+|        |             | -8.07E-02 | .163 | 1.000 | -.60 | .44 |
+| ------ | ----------- | --------- | ---- | ----- | ---- | --- |
+|        | sports      | 5.25E-02  | .132 | 1.000 | -.37 | .48 |
+|        | minivan/van | -.14      | .139 | 1.000 | -.58 | .31 |
+|        | pickup      | -3.04E-02 | .131 | 1.000 | -.45 | .39 |
+|        | SUV         | -5.99E-02 | .128 | 1.000 | -.47 | .35 |
+| sports | small       |           |      |       |      |     |
+.16 .083 1.000 -1.00E-01 .43
+|     | compact   | 9.63E-02  | .089 | 1.000 | -.19 | .38 |
+| --- | --------- | --------- | ---- | ----- | ---- | --- |
+|     | mid-sized | 7.75E-03  | .083 | 1.000 | -.26 | .27 |
+|     | large     | -.13      | .137 | 1.000 | -.57 | .30 |
+|     | luxury    | -5.25E-02 | .132 | 1.000 | -.48 | .37 |
+minivan/van
+|             |             | -.19      | .107 | 1.000 | -.53      | .15 |
+| ----------- | ----------- | --------- | ---- | ----- | --------- | --- |
+|             | pickup      | -8.29E-02 | .097 | 1.000 | -.39      | .23 |
+|             | SUV         | -.11      | .093 | 1.000 | -.41      | .19 |
+| minivan/van | small       | .35*      | .093 | .005  | 5.82E-02  | .65 |
+|             | compact     | .29       | .098 | .132  | -2.88E-02 | .60 |
+|             | mid-sized   | .20       | .093 | 1.000 | -.10      | .50 |
+|             | large       | 5.69E-02  | .143 | 1.000 | -.40      | .51 |
+|             | luxury      | .14       | .139 | 1.000 | -.31      | .58 |
+|             | sports      | .19       | .107 | 1.000 | -.15      | .53 |
+|             | pickup      | .11       | .106 | 1.000 | -.23      | .45 |
+|             | SUV         | 7.78E-02  | .102 | 1.000 | -.25      | .40 |
+| pickup      | small       | .25       | .081 | .084  | -1.23E-02 | .51 |
+|             | compact     | .18       | .088 | 1.000 | -.10      | .46 |
+|             | mid-sized   | 9.06E-02  | .082 | 1.000 | -.17      | .35 |
+|             | large       | -5.03E-02 | .136 | 1.000 | -.49      | .38 |
+|             | luxury      | 3.04E-02  | .131 | 1.000 | -.39      | .45 |
+|             | sports      | 8.29E-02  | .097 | 1.000 | -.23      | .39 |
+|             | minivan/van | -.11      | .106 | 1.000 | -.45      | .23 |
+|             | SUV         | -2.95E-02 | .092 | 1.000 | -.32      | .26 |
+| SUV         | small       | .28*      | .076 | .010  | 3.37E-02  | .52 |
+|             | compact     | .21       | .083 | .432  | -5.71E-02 | .47 |
+|             | mid-sized   | .12       | .077 | 1.000 | -.13      | .37 |
+|             | large       | -2.08E-02 | .133 | 1.000 | -.45      | .40 |
+|             | luxury      | 5.99E-02  | .128 | 1.000 | -.35      | .47 |
+|             | sports      | .11       | .093 | 1.000 | -.19      | .41 |
+|             | minivan/van | -7.78E-02 | .102 | 1.000 | -.40      | .25 |
+|             | pickup      | 2.95E-02  | .092 | 1.000 | -.26      | .32 |
+*. The mean difference is significant at the .05 level.
+
+|     |     |     | 137 |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+
+•  Long-Distance Trips by Personal Vehicle (Travel Liking)
+Multiple Comparisons
+Dependent Variable: Liking for long-distance trips, in a personal vehicle
+Bonferroni
+|             |             | Mean       |            |       | 95% Confidence Interval |       |
+| ----------- | ----------- | ---------- | ---------- | ----- | ----------------------- | ----- |
+| (I) Vehicle | (J) Vehicle | Difference |            |       | Lower                   | Upper |
+| Type        | Type        | (I-J)      | Std. Error | Sig.  | Bound                   | Bound |
+| small       | compact     | -5.41E-02  | .079       | 1.000 | -.31                    | .20   |
+|             | mid-sized   | -9.64E-02  | .071       | 1.000 | -.32                    | .13   |
+large
+|     |        | -.25      | .140 | 1.000 | -.70 | .20 |
+| --- | ------ | --------- | ---- | ----- | ---- | --- |
+|     | luxury | 6.86E-03  | .134 | 1.000 | -.42 | .44 |
+|     | sports | -8.01E-02 | .092 | 1.000 | -.37 | .21 |
+minivan/van
+|         |           | -.37*     | .103 | .013  | -.70 | -3.82E-02 |
+| ------- | --------- | --------- | ---- | ----- | ---- | --------- |
+|         | pickup    | -.17      | .090 | 1.000 | -.46 | .12       |
+|         | SUV       | -.23      | .084 | .216  | -.50 | 3.80E-02  |
+| compact | small     |           |      |       |      |           |
+|         |           | 5.41E-02  | .079 | 1.000 | -.20 | .31       |
+|         | mid-sized | -4.23E-02 | .080 | 1.000 | -.30 | .21       |
+|         | large     | -.19      | .144 | 1.000 | -.66 | .27       |
+luxury
+|     |             | 6.10E-02  | .139 | 1.000 | -.39 | .51      |
+| --- | ----------- | --------- | ---- | ----- | ---- | -------- |
+|     | sports      | -2.60E-02 | .099 | 1.000 | -.34 | .29      |
+|     | minivan/van | -.31      | .109 | .152  | -.66 | 3.68E-02 |
+pickup
+|           |       | -.11     | .097 | 1.000 | -.43 | .20 |
+| --------- | ----- | -------- | ---- | ----- | ---- | --- |
+|           | SUV   | -.18     | .092 | 1.000 | -.47 | .12 |
+| mid-sized | small | 9.64E-02 | .071 | 1.000 | -.13 | .32 |
+compact
+|     |        | 4.23E-02 | .080 | 1.000 | -.21 | .30 |
+| --- | ------ | -------- | ---- | ----- | ---- | --- |
+|     | large  | -.15     | .140 | 1.000 | -.60 | .30 |
+|     | luxury | .10      | .135 | 1.000 | -.33 | .53 |
+sports
+|     |             | 1.62E-02  | .092 | 1.000 | -.28 | .31      |
+| --- | ----------- | --------- | ---- | ----- | ---- | -------- |
+|     | minivan/van | -.27      | .103 | .319  | -.60 | 6.02E-02 |
+|     | pickup      | -7.07E-02 | .091 | 1.000 | -.36 | .22      |
+SUV
+|       |         | -.14 | .085 | 1.000 | -.41 | .14 |
+| ----- | ------- | ---- | ---- | ----- | ---- | --- |
+| large | small   | .25  | .140 | 1.000 | -.20 | .70 |
+|       | compact | .19  | .144 | 1.000 | -.27 | .66 |
+mid-sized
+.15 .140 1.000 -.30 .60
+|     | luxury | .26 | .181 | 1.000 | -.32 | .83 |
+| --- | ------ | --- | ---- | ----- | ---- | --- |
+|     | sports | .17 | .152 | 1.000 | -.32 | .65 |
+minivan/van
+|        |           | -.12      | .159 | 1.000 | -.63 | .39 |
+| ------ | --------- | --------- | ---- | ----- | ---- | --- |
+|        | pickup    | 8.18E-02  | .151 | 1.000 | -.40 | .56 |
+|        | SUV       | 1.68E-02  | .147 | 1.000 | -.46 | .49 |
+| luxury | small     |           |      |       |      |     |
+|        |           | -6.86E-03 | .134 | 1.000 | -.44 | .42 |
+|        | compact   | -6.10E-02 | .139 | 1.000 | -.51 | .39 |
+|        | mid-sized | -.10      | .135 | 1.000 | -.53 | .33 |
+large
+|     |             | -.26      | .181 | 1.000 | -.83 | .32 |
+| --- | ----------- | --------- | ---- | ----- | ---- | --- |
+|     | sports      | -8.70E-02 | .147 | 1.000 | -.56 | .38 |
+|     | minivan/van | -.37      | .154 | .547  | -.87 | .12 |
+pickup
+|        |       | -.17     | .146 | 1.000 | -.64 | .29 |
+| ------ | ----- | -------- | ---- | ----- | ---- | --- |
+|        | SUV   | -.24     | .142 | 1.000 | -.69 | .22 |
+| sports | small | 8.01E-02 | .092 | 1.000 | -.21 | .37 |
+compact
+|     |           | 2.60E-02  | .099 | 1.000 | -.29 | .34 |
+| --- | --------- | --------- | ---- | ----- | ---- | --- |
+|     | mid-sized | -1.62E-02 | .092 | 1.000 | -.31 | .28 |
+|     | large     | -.17      | .152 | 1.000 | -.65 | .32 |
+luxury
+|     |             | 8.70E-02  | .147 | 1.000 | -.38 | .56      |
+| --- | ----------- | --------- | ---- | ----- | ---- | -------- |
+|     | minivan/van | -.29      | .119 | .567  | -.67 | 9.33E-02 |
+|     | pickup      | -8.69E-02 | .108 | 1.000 | -.43 | .26      |
+SUV
+|             |         | -.15 | .103 | 1.000 | -.48      | .18 |
+| ----------- | ------- | ---- | ---- | ----- | --------- | --- |
+| minivan/van | small   | .37* | .103 | .013  | 3.82E-02  | .70 |
+|             | compact | .31  | .109 | .152  | -3.68E-02 | .66 |
+mid-sized
+.27 .103 .319 -6.02E-02 .60
+|     | large  | .12 | .159 | 1.000 | -.39 | .63 |
+| --- | ------ | --- | ---- | ----- | ---- | --- |
+|     | luxury | .37 | .154 | .547  | -.12 | .87 |
+sports
+.29 .119 .567 -9.33E-02 .67
+|        | pickup | .20 | .118 | 1.000 | -.18 | .58 |
+| ------ | ------ | --- | ---- | ----- | ---- | --- |
+|        | SUV    | .14 | .113 | 1.000 | -.23 | .50 |
+| pickup | small  |     |      |       |      |     |
+.17 .090 1.000 -.12 .46
+|     | compact   | .11      | .097 | 1.000 | -.20 | .43 |
+| --- | --------- | -------- | ---- | ----- | ---- | --- |
+|     | mid-sized | 7.07E-02 | .091 | 1.000 | -.22 | .36 |
+large
+|     |        | -8.18E-02 | .151 | 1.000 | -.56 | .40 |
+| --- | ------ | --------- | ---- | ----- | ---- | --- |
+|     | luxury | .17       | .146 | 1.000 | -.29 | .64 |
+|     | sports | 8.69E-02  | .108 | 1.000 | -.26 | .43 |
+minivan/van
+|     |       | -.20      | .118 | 1.000 | -.58      | .18 |
+| --- | ----- | --------- | ---- | ----- | --------- | --- |
+|     | SUV   | -6.49E-02 | .102 | 1.000 | -.39      | .26 |
+| SUV | small | .23       | .084 | .216  | -3.80E-02 | .50 |
+compact
+.18 .092 1.000 -.12 .47
+|     | mid-sized | .14       | .085 | 1.000 | -.14 | .41 |
+| --- | --------- | --------- | ---- | ----- | ---- | --- |
+|     | large     | -1.68E-02 | .147 | 1.000 | -.49 | .46 |
+luxury
+.24 .142 1.000 -.22 .69
+|     | sports      | .15  | .103 | 1.000 | -.18 | .48 |
+| --- | ----------- | ---- | ---- | ----- | ---- | --- |
+|     | minivan/van | -.14 | .113 | 1.000 | -.50 | .23 |
+pickup
+|     |     | 6.49E-02 | .102 | 1.000 | -.26 | .39 |
+| --- | --- | -------- | ---- | ----- | ---- | --- |
+*. The mean difference is significant at the .05 level.
+
+|     |     |     | 138 |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+
+2. Bar Charts
+
+We present bar charts to illustrate the significant differences among vehicle type groups. On
+the  bar  charts  that  follow,  each  horizontal  bar  (between  x  and  x)  indicates  a  pair  of
+categories whose means are significantly different at a level of α = 0.05, according to the
+Bonferroni tests reported in Part 1 of this Appendix. The bar charts are not to scale, but the
+mean values for each category are shown, with negative means appearing in red. “Average”
+is the sample mean for that variable.
+
+-  Travel Dislike (Travel Attitude Factor)
+Note: This variable has no pairs of vehicle type categories whose means are significantly
+different at a level of α = 0.05.
+
+-  Pro-environmental Solutions (Travel Attitude Factor)
+|     |     |     |      |     |
+| --- | --- | --- | ---- | --- |
+Large  Pickup  Mid-sized  SUV  Minivan  Average  Compact  Sports  Luxury  Small
+| X    |      |      |      |   X   |
+| ---- | ---- | ---- | ---- | ----- |
+|   X  |      |      |      |   X   |
+|      | X    |      |      |   X   |
+|      |   X  |      |      |   X   |
+|      |      | X    |      |   X   |
+|      |      |      |   X  |   X   |
+|      |      |      |      | X  X  |
+| X    |      |      | X    |       |
+| X    |      |      |   X  |       |
+| X    |      |      |      | X     |
+Large  Pickup  Mid-sized  SUV  Minivan  Average  Compact  Sports  Luxury  Small
+-0.519  -0.266  -0.167  -0.166  -0.141  -0.081  -0.041  -0.026  0.018  0.140
+
+-  Travel Freedom (Travel Attitude Factor)
+|     |      |     |     |     |
+| --- | ---- | --- | --- | --- |
+Compact  Small  Pickup  Large  Average  Mid-sized Minivan  Sports  SUV  Luxury
+|   X  |     |     |     | X    |
+| ---- | --- | --- | --- | ---- |
+|      |     |     |     |      |
+| X    |     |     |     | X    |
+Compact  Small  Pickup  Large  Average  Mid-sized Minivan  Sports  SUV  Luxury
+-0.070  -0.068  -0.067  -0.020  0.012  0.025  0.048  0.115  0.151  0.210
+
+|     |     | 139 |     |     |
+| --- | --- | --- | --- | --- |
+
+-  Pro-high Density (Travel Attitude Factor)
+|     |     |     |      |     |
+| --- | --- | --- | ---- | --- |
+Large  Pickup  Minivan  SUV  Mid-sized Average  Compact  Luxury  Sports  Small
+| X    |      |      |      |   X  |
+| ---- | ---- | ---- | ---- | ---- |
+|   X  |      |      |      |   X  |
+|      | X    |      |      |   X  |
+|      |   X  |      |      |   X  |
+|      |      | X    |      |   X  |
+| X    |      |      | X    |      |
+|   X  |      |      | X    |      |
+|      | X    |      | X    |      |
+| X    |      | X    |      |      |
+|   X  |      | X    |      |      |
+|      | X    | X    |      |      |
+| X    |      |      |   X  |      |
+|   X  |      |      |   X  |      |
+|      | X    |      |   X  |      |
+| X    |      |      |      | X    |
+|   X  |      |      |      | X    |
+|      | X    |      |      | X    |
+| X    |   X  |      |      |      |
+|   X  |   X  |      |      |      |
+Large  Pickup  Minivan  SUV  Mid-sized Average  Compact  Luxury  Sports  Small
+-0.607  -0.500  -0.436  -0.185  -0.129  -0.114  -0.035  0.049  0.084  0.114
+
+-  Adventure Seeker (Personality Factor)
+|     |      |     |     |     |
+| --- | ---- | --- | --- | --- |
+Large  Compact  Minivan  Mid-sized Average  Small  Pickup  Luxury  SUV  Sports
+| X    |      |      |     |   X  |
+| ---- | ---- | ---- | --- | ---- |
+|   X  |      |      |     |   X  |
+|      | X    |      |     |   X  |
+|      |   X  |      |     |   X  |
+|      |      |   X  |     |   X  |
+Large  Compact  Minivan  Mid-sized Average  Small  Pickup  Luxury  SUV  Sports
+-0.186  -0.122  -0.114  -0.059  0.011  0.013  0.035  0.059  0.134  0.337
+
+-  Loner (Personality Factor)
+|     |     |     |      |     |
+| --- | --- | --- | ---- | --- |
+Large  Minivan  Luxury  Compact  Mid-sized Average  Pickup  Sports  Small  SUV
+|   X  |     |      |     | X    |
+| ---- | --- | ---- | --- | ---- |
+|      |     | X    |     | X    |
+|   X  |     |      |     |   X  |
+Large  Minivan  Luxury  Compact  Mid-sized Average  Pickup  Sports  Small  SUV
+-0.244  -0.238  -0.139  -0.106  -0.102  -0.011  -0.005  0.118  0.122  0.140
+
+|     |     | 140 |     |     |
+| --- | --- | --- | --- | --- |
+
+-  Calm (Personality Factor)
+|     |     |     |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+Sports  Luxury  SUV  Large  Pickup  Average  Mid-sized Small  Compact  Minivan
+| X   |     |     |     |     |     |     |     |     | X   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| X   |     |     |     |     |     |     |     | X   |     |
+| X   |     |     |     |     |     |     | X   |     |     |
+|     |     | X   |     |     |     |     |     |     | X   |
+Sports  Luxury  SUV  Large  Pickup  Average  Mid-sized Small  Compact  Minivan
+-0.214  -0.192  -0.120  -0.116  -0.048  -0.005  0.006  0.068  0.086  0.211
+
+-  Frustrated (Lifestyle Factor)
+|     |     |     |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+Luxury  SUV  Sports  Minivan  Mid-sized Large  Average  Small  Compact  Pickup
+|     | X   |     |     |     |     |     |     |     | X   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+Luxury  SUV  Sports  Minivan  Mid-sized Large  Average  Small  Compact  Pickup
+-0.181  -0.096  -0.070  -0.034  -0.009  -0.009  -0.004  0.000  0.039  0.192
+
+-  Family/Community Oriented (Lifestyle Factor)
+Note: This variable has no pairs of vehicle type categories whose means are significantly
+different at a level of α = 0.05.
+
+-  Workaholic (Lifestyle Factor)
+|     |     |     |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+Small  Sports  Average  Mid-sized Minivan  SUV  Compact  Large  Pickup  Luxury
+| X   |     |     |     |     |     |     |     | X   |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+Small  Sports  Average  Mid-sized Minivan  SUV  Compact  Large  Pickup  Luxury
+-0.115  -0.099  0.000  0.003  0.004  0.026  0.042  0.112  0.149  0.214
+
+-  Status Seeker (Lifestyle Factor)
+|     |     |     |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+Small  Minivan  Compact  Mid-sized Average  SUV  Pickup  Large  Sports  Luxury
+| X   |     |     |     |     |     |     |     |     | X   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| X   |     |     |     |     |     |     |     | X   |     |
+| X   |     |     |     |     |     | X   |     |     |     |
+| X   |     |     |     |     | X   |     |     |     |     |
+|     | X   |     |     |     |     |     |     | X   |     |
+|     | X   |     |     |     |     |     |     |     | X   |
+|     |     | X   |     |     |     |     |     |     | X   |
+|     |     |     | X   |     |     |     |     |     | X   |
+Small  Minivan  Compact  Mid-sized Average  SUV  Pickup  Large  Sports  Luxury
+-0.162  -0.148  -0.074  -0.023  0.003  0.106  0.134  0.172  0.186  0.481
+
+|     |     |     |     | 141 |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+-  Short-Distance Miles Traveled by Personal Vehicle (Objective Mobility)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+Small  Luxury  Compact  Large  Mid-sized Average  Sports  Minivan  SUV  Pickup
+| X    |      |      |     |   X  |
+| ---- | ---- | ---- | --- | ---- |
+|      | X    |      |     |   X  |
+|      |      | X    |     |   X  |
+Small  Luxury  Compact  Large  Mid-sized Average  Sports  Minivan  SUV  Pickup
+| 149  149  | 156  165  | 169  170  | 175  180  | 182  223  |
+| --------- | --------- | --------- | --------- | --------- |
+
+-  Overall Short-Distance Miles Traveled (Objective Mobility)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+Luxury  Small  Compact  Large  Average  Mid-sized Sports  SUV  Minivan  Pickup
+| X    |      |      |     |   X  |
+| ---- | ---- | ---- | --- | ---- |
+|   X  |      |      |     |   X  |
+|      | X    |      |     |   X  |
+|      |      |   X  |     |   X  |
+Luxury  Small  Compact  Large  Average  Mid-sized Sports  SUV  Minivan  Pickup
+| 165  184  | 188  196  | 205  206  | 212  214  | 229  266  |
+| --------- | --------- | --------- | --------- | --------- |
+
+-  Long-Distance Miles Traveled by Airplane (Objective Mobility)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+Pickup  Minivan  Large  Compact  Mid-sized Small  Average  SUV  Sports  Luxury
+| X    |      |      |      |   X   |
+| ---- | ---- | ---- | ---- | ----- |
+|   X  |      |      |      |   X   |
+|      | X    |      |      |   X   |
+|      |   X  |      |      |   X   |
+|      |      | X    |      |   X   |
+|      |      |   X  |      |   X   |
+|      |      |      |   X  |   X   |
+|      |      |      |      | X  X  |
+| X    |      |      |      | X     |
+| X    |      |      |   X  |       |
+Pickup  Minivan  Large  Compact  Mid-sized Small  Average  SUV  Sports  Luxury
+3,048  3,302  4,450  4,523  4,809  4,931  5,436  7,581  7,794  14,547
+
+-  Sum of the Log-Miles for Long-Distance Trips by Airplane (Objective Mobility)
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+Pickup  Minivan  Small  Large  Compact  Average  Mid-sized Sports  SUV  Luxury
+| X    |      |      |      |   X   |
+| ---- | ---- | ---- | ---- | ----- |
+|   X  |      |      |      |   X   |
+|      | X    |      |      |   X   |
+|      |   X  |      |      |   X   |
+|      |      | X    |      |   X   |
+|      |      |      | X    |   X   |
+|      |      |      |   X  |   X   |
+|      |      |      |      | X  X  |
+| X    |      |      |      | X     |
+| X    |      |      |   X  |       |
+Pickup  Minivan  Small  Large  Compact  Average  Mid-sized Sports  SUV  Luxury
+| 17.2  20.4  | 26.5  27.2  | 27.2  30.7  | 31.1  40.2  | 41.6  69.7  |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+|             |             | 142         |             |             |
+
+-  Short-Distance Trips by Personal Vehicle (Perceived Mobility)
+|     |     |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+Compact  Small  Luxury  Sports  Average  Large  Pickup  Mid-sized SUV  Minivan
+| X   |     |     |     |     |     |     |     | X   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|     | X   |     |     |     |     |     |     | X   |
+Compact  Small  Luxury  Sports  Average  Large  Pickup  Mid-sized SUV  Minivan
+| 3.84  | 3.87  | 3.88  | 3.89  | 3.99  | 4.04  | 4.06  4.07  | 4.11  | 4.27  |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----------- | ----- | ----- |
+
+-  Overall Short-Distance Trips (Perceived Mobility)
+|     |     |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+Compact  Luxury  Mid-sized  Small  Average  Pickup  SUV  Sports  Large  Minivan
+| X   |     |     |     |     |     |     |     | X   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+Compact  Luxury  Mid-sized  Small  Average  Pickup  SUV  Sports  Large  Minivan
+| 3.33  | 3.36  | 3.42  | 3.47  | 3.49  | 3.50  | 3.58  3.60  | 3.62  | 3.77  |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----------- | ----- | ----- |
+
+-  Long-Distance Trips by Personal Vehicle (Perceived Mobility)
+|     |     |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+Luxury  Compact  Sports  Small  Average  Mid-sized Large  SUV  Pickup  Minivan
+| X   |     |     |     |     |     |      |     | X   |
+| --- | --- | --- | --- | --- | --- | ---- | --- | --- |
+|     | X   |     |     |     |     |      |     | X   |
+|     |     | X   |     |     |     |      |     | X   |
+|     |     |     | X   |     |     |      |     | X   |
+|     |     |     |     |     | X   |      |     | X   |
+|     | X   |     |     |     |     |      | X   |     |
+|     | X   |     |     |     |     |   X  |     |     |
+Luxury  Compact  Sports  Small  Average  Mid-sized Large  SUV  Pickup  Minivan
+| 2.81  | 2.82  | 2.83  | 2.95  | 3.07  | 3.14  | 3.19  3.23  | 3.27  | 3.61  |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----------- | ----- | ----- |
+
+-  Long-Distance Trips by Airplane (Perceived Mobility)
+|     |     |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+Pickup  Minivan  Large  Mid-sized Compact  Average  Small  SUV  Sports  Luxury
+| X   |     |     |     |     |     |      |     | X   |
+| --- | --- | --- | --- | --- | --- | ---- | --- | --- |
+| X   |     |     |     |     |     |      | X   |     |
+| X   |     |     |     |     |     |   X  |     |     |
+| X   |     |     |     |     |     | X    |     |     |
+| X   |     |     |     | X   |     |      |     |     |
+| X   |     |     | X   |     |     |      |     |     |
+Pickup  Minivan  Large  Mid-sized Compact  Average  Small  SUV  Sports  Luxury
+| 2.23  | 2.50  | 2.57  | 2.64  | 2.65  | 2.66  | 2.74  2.77  | 2.88  | 3.05  |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----------- | ----- | ----- |
+
+|     |     |     |     |     | 143 |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+-  Overall Long-Distance Trips (Perceived Mobility)
+Note: This variable has no pairs of vehicle type categories whose means are significantly
+different at a level of α = 0.05.
+
+-  Short-Distance Trips by Personal Vehicle (Travel Liking)
+|     |     |     |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+Small  Compact  Mid-sized  Average  Sports  Luxury  Pickup  SUV  Large  Minivan
+| X   |     |     |     |     |     |     |     |     | X   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| X   |     |     |     |     |     |     | X   |     |     |
+Small  Compact  Mid-sized  Average  Sports  Luxury  Pickup  SUV  Large  Minivan
+| 3.44  | 3.51  | 3.59  | 3.59  | 3.60  | 3.66  | 3.69  | 3.72  | 3.74  | 3.79  |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+
+-  Long-Distance Trips by Personal Vehicle (Travel Liking)
+|     |     |     |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+Luxury  Small  Compact  Sports  Mid-sized Average  Pickup  SUV  Large  Minivan
+|     | X   |     |     |     |     |     |     |     | X   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+Luxury  Small  Compact  Sports  Mid-sized Average  Pickup  SUV  Large  Minivan
+| 3.31  | 3.32  | 3.37  | 3.40  | 3.41  | 3.43  | 3.48  | 3.55  | 3.57  | 3.68  |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+
+|     |     |     |     | 144 |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+APPENDIX 3.  CROSS-TABULATIONS INVOLVING DEMOGRAPHIC
+VARIABLES
+
+1. Neighborhood by Vehicle Type
+NEWTYPE1 * CITYCODE Crosstabulation
+CITYCODE
+North San
+|          |       |                   | Concord | Pleasant Hill | Francisco Total |
+| -------- | ----- | ----------------- | ------- | ------------- | --------------- |
+| NEWTYPE1 | small | Count             | 68      | 83            | 221 372         |
+|          |       | % within NEWTYPE1 | 18.3%   | 22.3%         | 59.4% 100.0%    |
+% within CITYCODE
+|     |             |                   | 15.7% | 16.1% | 29.9% 22.1%  |
+| --- | ----------- | ----------------- | ----- | ----- | ------------ |
+|     |             | % of Total        | 4.0%  | 4.9%  | 13.1% 22.1%  |
+|     | compact     | Count             | 63    | 68    | 106 237      |
+|     |             | % within NEWTYPE1 | 26.6% | 28.7% | 44.7% 100.0% |
+|     |             | % within CITYCODE | 14.5% | 13.2% | 14.3% 14.0%  |
+|     |             | % of Total        | 3.7%  | 4.0%  | 6.3% 14.0%   |
+|     | mid-sized   | Count             | 88    | 123   | 142 353      |
+|     |             | % within NEWTYPE1 | 24.9% | 34.8% | 40.2% 100.0% |
+|     |             | % within CITYCODE | 20.3% | 23.9% | 19.2% 20.9%  |
+|     |             | % of Total        | 5.2%  | 7.3%  | 8.4% 20.9%   |
+|     | large       | Count             | 24    | 18    | 11 53        |
+|     |             | % within NEWTYPE1 | 45.3% | 34.0% | 20.8% 100.0% |
+|     |             | % within CITYCODE | 5.5%  | 3.5%  | 1.5% 3.1%    |
+|     |             | % of Total        | 1.4%  | 1.1%  | .7% 3.1%     |
+|     | luxury      | Count             | 11    | 11    | 36 58        |
+|     |             | % within NEWTYPE1 | 19.0% | 19.0% | 62.1% 100.0% |
+|     |             | % within CITYCODE | 2.5%  | 2.1%  | 4.9% 3.4%    |
+|     |             | % of Total        | .7%   | .7%   | 2.1% 3.4%    |
+|     | sports      | Count             | 30    | 41    | 80 151       |
+|     |             | % within NEWTYPE1 | 19.9% | 27.2% | 53.0% 100.0% |
+|     |             | % within CITYCODE | 6.9%  | 8.0%  | 10.8% 9.0%   |
+|     |             | % of Total        | 1.8%  | 2.4%  | 4.7% 9.0%    |
+|     | minivan/van | Count             | 50    | 34    | 27 111       |
+% within NEWTYPE1
+|     |        |                   | 45.0% | 30.6% | 24.3% 100.0% |
+| --- | ------ | ----------------- | ----- | ----- | ------------ |
+|     |        | % within CITYCODE | 11.5% | 6.6%  | 3.6% 6.6%    |
+|     |        | % of Total        | 3.0%  | 2.0%  | 1.6% 6.6%    |
+|     | pickup | Count             | 58    | 65    | 36 159       |
+|     |        | % within NEWTYPE1 | 36.5% | 40.9% | 22.6% 100.0% |
+|     |        | % within CITYCODE | 13.4% | 12.6% | 4.9% 9.4%    |
+|     |        | % of Total        | 3.4%  | 3.9%  | 2.1% 9.4%    |
+|     | SUV    | Count             | 41    | 71    | 81 193       |
+% within NEWTYPE1
+|       |     |                   | 21.2%  | 36.8%  | 42.0% 100.0%  |
+| ----- | --- | ----------------- | ------ | ------ | ------------- |
+|       |     | % within CITYCODE | 9.5%   | 13.8%  | 10.9% 11.4%   |
+|       |     | % of Total        | 2.4%   | 4.2%   | 4.8% 11.4%    |
+| Total |     | Count             | 433    | 514    | 740 1687      |
+|       |     | % within NEWTYPE1 | 25.7%  | 30.5%  | 43.9% 100.0%  |
+|       |     | % within CITYCODE | 100.0% | 100.0% | 100.0% 100.0% |
+|       |     | % of Total        | 25.7%  | 30.5%  | 43.9% 100.0%  |
+
+Chi-Square Tests
+Asymp. Sig.
+|     |     | Value | df (2-sided) |     |     |
+| --- | --- | ----- | ------------ | --- | --- |
+127.440a
+| Pearson Chi-Square |     |         | 16  | .000 |     |
+| ------------------ | --- | ------- | --- | ---- | --- |
+| Likelihood Ratio   |     | 128.080 | 16  | .000 |     |
+Linear-by-Linear
+|     |     | 27.165 | 1   | .000 |     |
+| --- | --- | ------ | --- | ---- | --- |
+Association
+| N of Valid Cases |     | 1687 |     |     |     |
+| ---------------- | --- | ---- | --- | --- | --- |
+a. 0 cells (.0%) have expected count less than 5. The
+minimum expected count is 13.60.
+
+|     |     |     |     | 145 |     |
+| --- | --- | --- | --- | --- | --- |
+
+2. Gender by Vehicle Type
+Car Type (new) * Are you male or female? Crosstabulation
+Are you male or
+female?
+|           |                         | Female Male | Total  |
+| --------- | ----------------------- | ----------- | ------ |
+| Car small | Count                   | 227 143     | 370    |
+| Type      | % within Car Type (new) | 61.4% 38.6% | 100.0% |
+(new)
+% within Are you male
+|     |     | 26.0% 17.7% | 22.0% |
+| --- | --- | ----------- | ----- |
+or female?
+|         | % of Total              | 13.5% 8.5%  | 22.0%  |
+| ------- | ----------------------- | ----------- | ------ |
+| compact | Count                   | 129 108     | 237    |
+|         | % within Car Type (new) | 54.4% 45.6% | 100.0% |
+% within Are you male
+|           | or female?              | 14.8% 13.4% | 14.1%  |
+| --------- | ----------------------- | ----------- | ------ |
+|           | % of Total              | 7.7% 6.4%   | 14.1%  |
+| mid-sized | Count                   | 202 148     | 350    |
+|           | % within Car Type (new) | 57.7% 42.3% | 100.0% |
+% within Are you male
+|       | or female?              | 23.2% 18.3% | 20.8%  |
+| ----- | ----------------------- | ----------- | ------ |
+|       | % of Total              | 12.0% 8.8%  | 20.8%  |
+| large | Count                   | 25 27       | 52     |
+|       | % within Car Type (new) | 48.1% 51.9% | 100.0% |
+% within Are you male
+|        | or female?              | 2.9% 3.3%   | 3.1%   |
+| ------ | ----------------------- | ----------- | ------ |
+|        | % of Total              | 1.5% 1.6%   | 3.1%   |
+| luxury | Count                   | 28 30       | 58     |
+|        | % within Car Type (new) | 48.3% 51.7% | 100.0% |
+|        | % within Are you male   | 3.2% 3.7%   | 3.5%   |
+or female?
+|        | % of Total              | 1.7% 1.8%   | 3.5%   |
+| ------ | ----------------------- | ----------- | ------ |
+| sports | Count                   | 78 73       | 151    |
+|        | % within Car Type (new) | 51.7% 48.3% | 100.0% |
+|        | % within Are you male   | 8.9% 9.0%   | 9.0%   |
+or female?
+|             | % of Total              | 4.6% 4.3%   | 9.0%   |
+| ----------- | ----------------------- | ----------- | ------ |
+| minivan/van | Count                   | 62 49       | 111    |
+|             | % within Car Type (new) | 55.9% 44.1% | 100.0% |
+|             | % within Are you male   | 7.1% 6.1%   | 6.6%   |
+or female?
+|        | % of Total              | 3.7% 2.9%   | 6.6%   |
+| ------ | ----------------------- | ----------- | ------ |
+| pickup | Count                   | 21 137      | 158    |
+|        | % within Car Type (new) | 13.3% 86.7% | 100.0% |
+% within Are you male
+|     |     | 2.4% 17.0% | 9.4% |
+| --- | --- | ---------- | ---- |
+or female?
+|     | % of Total | 1.3% 8.2% | 9.4% |
+| --- | ---------- | --------- | ---- |
+| SUV | Count      | 100 93    | 193  |
+% within Car Type (new)
+|     |     | 51.8% 48.2% | 100.0% |
+| --- | --- | ----------- | ------ |
+% within Are you male
+|     |     | 11.5% 11.5% | 11.5% |
+| --- | --- | ----------- | ----- |
+or female?
+|       | % of Total | 6.0% 5.5% | 11.5% |
+| ----- | ---------- | --------- | ----- |
+| Total | Count      | 872 808   | 1680  |
+% within Car Type (new)
+|     |     | 51.9% 48.1% | 100.0% |
+| --- | --- | ----------- | ------ |
+% within Are you male
+|     |     | 100.0% 100.0% | 100.0% |
+| --- | --- | ------------- | ------ |
+or female?
+|     | % of Total | 51.9% 48.1% | 100.0% |
+| --- | ---------- | ----------- | ------ |
+
+Chi-Square Tests
+Asymp. Sig.
+|     | Value | df (2-sided) |     |
+| --- | ----- | ------------ | --- |
+114.243a
+| Pearson Chi-Square |         | 8 .000 |     |
+| ------------------ | ------- | ------ | --- |
+| Likelihood Ratio   | 124.318 | 8 .000 |     |
+Linear-by-Linear
+|     | 40.788 | 1 .000 |     |
+| --- | ------ | ------ | --- |
+Association
+| N of Valid Cases | 1680 |     |     |
+| ---------------- | ---- | --- | --- |
+a. 0 cells (.0%) have expected count less than 5. The
+minimum expected count is 25.01.
+
+|     |     | 146 |     |
+| --- | --- | --- | --- |
+
+3. Age by Vehicle Type
+Car Type (new) * Age (combined -23 with 24-40, 65-74 with 75-) Crosstabulation
+Age (combined -23 with 24-40, 65-74
+with 75-)
+|           |       | 40 or younger 41-64 | 65 or older Total |
+| --------- | ----- | ------------------- | ----------------- |
+| Car small | Count | 199 142             | 31 372            |
+Type
+|       | % within Car Type (new) | 53.5% 38.2% | 8.3% 100.0% |
+| ----- | ----------------------- | ----------- | ----------- |
+| (new) | % within Age (combined  |             |             |
+|       | -23 with 24-40, 65-74   | 30.5% 17.3% | 14.4% 22.1% |
+with 75-)
+|         | % of Total              | 11.8% 8.4%  | 1.8% 22.1%   |
+| ------- | ----------------------- | ----------- | ------------ |
+| compact | Count                   | 87 115      | 35 237       |
+|         | % within Car Type (new) | 36.7% 48.5% | 14.8% 100.0% |
+% within Age (combined
+|     | -23 with 24-40, 65-74 | 13.3% 14.0% | 16.2% 14.0% |
+| --- | --------------------- | ----------- | ----------- |
+with 75-)
+|           | % of Total              | 5.2% 6.8%   | 2.1% 14.0%   |
+| --------- | ----------------------- | ----------- | ------------ |
+| mid-sized | Count                   | 98 188      | 67 353       |
+|           | % within Car Type (new) | 27.8% 53.3% | 19.0% 100.0% |
+% within Age (combined
+|     | -23 with 24-40, 65-74 | 15.0% 23.0% | 31.0% 20.9% |
+| --- | --------------------- | ----------- | ----------- |
+with 75-)
+|       | % of Total              | 5.8% 11.1%  | 4.0% 20.9%   |
+| ----- | ----------------------- | ----------- | ------------ |
+| large | Count                   | 9 24        | 20 53        |
+|       | % within Car Type (new) | 17.0% 45.3% | 37.7% 100.0% |
+% within Age (combined
+|     | -23 with 24-40, 65-74 | 1.4% 2.9% | 9.3% 3.1% |
+| --- | --------------------- | --------- | --------- |
+with 75-)
+|        | % of Total              | .5% 1.4%    | 1.2% 3.1%    |
+| ------ | ----------------------- | ----------- | ------------ |
+| luxury | Count                   | 11 32       | 15 58        |
+|        | % within Car Type (new) | 19.0% 55.2% | 25.9% 100.0% |
+% within Age (combined
+|     | -23 with 24-40, 65-74 | 1.7% 3.9% | 6.9% 3.4% |
+| --- | --------------------- | --------- | --------- |
+with 75-)
+|        | % of Total              | .7% 1.9%    | .9% 3.4%    |
+| ------ | ----------------------- | ----------- | ----------- |
+| sports | Count                   |             |             |
+|        |                         | 72 71       | 8 151       |
+|        | % within Car Type (new) | 47.7% 47.0% | 5.3% 100.0% |
+% within Age (combined
+|     | -23 with 24-40, 65-74 | 11.0% 8.7% | 3.7% 9.0% |
+| --- | --------------------- | ---------- | --------- |
+with 75-)
+|             | % of Total              | 4.3% 4.2%   | .5% 9.0%     |
+| ----------- | ----------------------- | ----------- | ------------ |
+| minivan/van | Count                   | 29 63       | 19 111       |
+|             | % within Car Type (new) | 26.1% 56.8% | 17.1% 100.0% |
+% within Age (combined
+|     | -23 with 24-40, 65-74 | 4.4% 7.7% | 8.8% 6.6% |
+| --- | --------------------- | --------- | --------- |
+with 75-)
+|        | % of Total              | 1.7% 3.7%   | 1.1% 6.6%   |
+| ------ | ----------------------- | ----------- | ----------- |
+| pickup | Count                   | 53 95       | 11 159      |
+|        | % within Car Type (new) | 33.3% 59.7% | 6.9% 100.0% |
+% within Age (combined
+|     | -23 with 24-40, 65-74 | 8.1% 11.6% | 5.1% 9.4% |
+| --- | --------------------- | ---------- | --------- |
+with 75-)
+|     | % of Total              | 3.1% 5.6%   | .7% 9.4%    |
+| --- | ----------------------- | ----------- | ----------- |
+| SUV | Count                   | 94 89       | 10 193      |
+|     | % within Car Type (new) | 48.7% 46.1% | 5.2% 100.0% |
+% within Age (combined
+|     | -23 with 24-40, 65-74 | 14.4% 10.9% | 4.6% 11.4% |
+| --- | --------------------- | ----------- | ---------- |
+with 75-)
+|       | % of Total              | 5.6% 5.3%   | .6% 11.4%    |
+| ----- | ----------------------- | ----------- | ------------ |
+| Total | Count                   | 652 819     | 216 1687     |
+|       | % within Car Type (new) | 38.6% 48.5% | 12.8% 100.0% |
+% within Age (combined
+|     | -23 with 24-40, 65-74 | 100.0% 100.0% | 100.0% 100.0% |
+| --- | --------------------- | ------------- | ------------- |
+with 75-)
+|     | % of Total | 38.6% 48.5% | 12.8% 100.0% |
+| --- | ---------- | ----------- | ------------ |
+
+Chi-Square Tests
+Asymp. Sig.
+|                    | Value    | df (2-sided) |      |
+| ------------------ | -------- | ------------ | ---- |
+| Pearson Chi-Square | 146.697a | 16           | .000 |
+| Likelihood Ratio   | 142.850  | 16           | .000 |
+Linear-by-Linear
+.025 1 .875
+Association
+| N of Valid Cases | 1687 |     |     |
+| ---------------- | ---- | --- | --- |
+a. 0 cells (.0%) have expected count less than 5. The
+minimum expected count is 6.79.
+
+|     |     |     | 147 |
+| --- | --- | --- | --- |
+
+4. Education by Vehicle Type
+Car Type (new) * Education (combined some high school with high school diploma) Crosstabulation
+Education (combined some high school with high school diploma)
+4-year
+|           |                         |     | some or some college     | college/tech some     | completed    |
+| --------- | ----------------------- | --- | ------------------------ | --------------------- | ------------ |
+|           |                         |     | high school or technical | nical school graduate | graduate     |
+|           |                         |     | diploma school           | degree school         | degree Total |
+| Car small | Count                   |     | 20                       | 88 136                | 42 85 371    |
+| Type      | % within Car Type (new) |     | 5.4% 23.7%               | 36.7% 11.3%           | 22.9% 100.0% |
+| (new)     | % within Education      |     |                          |                       |              |
+(combined some high
+|     | school with high school |     | 16.3% 19.6% | 25.9% 22.1% | 21.3% 22.0% |
+| --- | ----------------------- | --- | ----------- | ----------- | ----------- |
+diploma)
+|         | % of Total              |     | 1.2%       | 5.2% 8.1% 2.5% | 5.0% 22.0%   |
+| ------- | ----------------------- | --- | ---------- | -------------- | ------------ |
+| compact | Count                   |     | 14         | 62 68          | 26 67 237    |
+|         | % within Car Type (new) |     | 5.9% 26.2% | 28.7% 11.0%    | 28.3% 100.0% |
+% within Education
+(combined some high
+|     | school with high school |     | 11.4% 13.8% | 13.0% 13.7% | 16.8% 14.1% |
+| --- | ----------------------- | --- | ----------- | ----------- | ----------- |
+diploma)
+|           | % of Total              |     | .8%        | 3.7% 4.0% 1.5% | 4.0% 14.1%   |
+| --------- | ----------------------- | --- | ---------- | -------------- | ------------ |
+| mid-sized | Count                   |     | 26         | 92 115         | 39 81 353    |
+|           | % within Car Type (new) |     | 7.4% 26.1% | 32.6% 11.0%    | 22.9% 100.0% |
+% within Education
+(combined some high
+|     | school with high school |     | 21.1% 20.5% | 21.9% 20.5% | 20.3% 20.9% |
+| --- | ----------------------- | --- | ----------- | ----------- | ----------- |
+diploma)
+|       | % of Total              |     | 1.5%        | 5.5% 6.8% 2.3% | 4.8% 20.9%   |
+| ----- | ----------------------- | --- | ----------- | -------------- | ------------ |
+| large | Count                   |     | 10          | 17 12          | 3 11 53      |
+|       | % within Car Type (new) |     | 18.9% 32.1% | 22.6% 5.7%     | 20.8% 100.0% |
+% within Education
+(combined some high
+|     | school with high school |     | 8.1% | 3.8% 2.3% 1.6% | 2.8% 3.1% |
+| --- | ----------------------- | --- | ---- | -------------- | --------- |
+diploma)
+|        | % of Total              |     | .6%        | 1.0% .7%    | .2% .7% 3.1% |
+| ------ | ----------------------- | --- | ---------- | ----------- | ------------ |
+| luxury | Count                   |     | 1          | 13 16       | 11 17 58     |
+|        | % within Car Type (new) |     | 1.7% 22.4% | 27.6% 19.0% | 29.3% 100.0% |
+% within Education
+(combined some high
+|     |     |     | .8% | 2.9% 3.0% 5.8% | 4.3% 3.4% |
+| --- | --- | --- | --- | -------------- | --------- |
+school with high school
+diploma)
+|        | % of Total              |     | .1%        | .8% .9%     | .7% 1.0% 3.4% |
+| ------ | ----------------------- | --- | ---------- | ----------- | ------------- |
+| sports | Count                   |     | 7          | 32 53       | 22 37 151     |
+|        | % within Car Type (new) |     | 4.6% 21.2% | 35.1% 14.6% | 24.5% 100.0%  |
+% within Education
+(combined some high
+|     |     |     | 5.7% | 7.1% 10.1% 11.6% | 9.3% 9.0% |
+| --- | --- | --- | ---- | ---------------- | --------- |
+school with high school
+diploma)
+|             | % of Total              |     | .4%        | 1.9% 3.1% 1.3% | 2.2% 9.0%    |
+| ----------- | ----------------------- | --- | ---------- | -------------- | ------------ |
+| minivan/van | Count                   |     |            |                |              |
+|             |                         |     | 10         | 42 20          | 16 23 111    |
+|             | % within Car Type (new) |     | 9.0% 37.8% | 18.0% 14.4%    | 20.7% 100.0% |
+% within Education
+(combined some high
+|     |     |     | 8.1% | 9.4% 3.8% 8.4% | 5.8% 6.6% |
+| --- | --- | --- | ---- | -------------- | --------- |
+school with high school
+diploma)
+|        | % of Total              |     | .6%         | 2.5% 1.2%  | .9% 1.4% 6.6% |
+| ------ | ----------------------- | --- | ----------- | ---------- | ------------- |
+| pickup | Count                   |     |             |            |               |
+|        |                         |     | 20          | 68 37      | 10 24 159     |
+|        | % within Car Type (new) |     | 12.6% 42.8% | 23.3% 6.3% | 15.1% 100.0%  |
+% within Education
+(combined some high
+|     |     |     | 16.3% 15.2% | 7.0% 5.3% | 6.0% 9.4% |
+| --- | --- | --- | ----------- | --------- | --------- |
+school with high school
+diploma)
+|     | % of Total              |     | 1.2%       | 4.0% 2.2%   | .6% 1.4% 9.4% |
+| --- | ----------------------- | --- | ---------- | ----------- | ------------- |
+| SUV | Count                   |     |            |             |               |
+|     |                         |     | 15         | 34 68       | 21 55 193     |
+|     | % within Car Type (new) |     | 7.8% 17.6% | 35.2% 10.9% | 28.5% 100.0%  |
+% within Education
+(combined some high
+|     |     |     | 12.2% | 7.6% 13.0% 11.1% | 13.8% 11.4% |
+| --- | --- | --- | ----- | ---------------- | ----------- |
+school with high school
+diploma)
+|       | % of Total              |     | .9%        | 2.0% 4.0% 1.2% | 3.3% 11.4%   |
+| ----- | ----------------------- | --- | ---------- | -------------- | ------------ |
+| Total | Count                   |     |            |                |              |
+|       |                         |     | 123        | 448 525        | 190 400 1686 |
+|       | % within Car Type (new) |     | 7.3% 26.6% | 31.1% 11.3%    | 23.7% 100.0% |
+% within Education
+(combined some high
+|     |     |     | 100.0% 100.0% | 100.0% 100.0% | 100.0% 100.0% |
+| --- | --- | --- | ------------- | ------------- | ------------- |
+school with high school
+diploma)
+|     | % of Total |     | 7.3% 26.6% | 31.1% 11.3% | 23.7% 100.0% |
+| --- | ---------- | --- | ---------- | ----------- | ------------ |
+
+Chi-Square Tests
+Asymp. Sig.
+|                    |     | Value   | df  | (2-sided) |     |
+| ------------------ | --- | ------- | --- | --------- | --- |
+| Pearson Chi-Square |     | 91.284a |     |           |     |
+|                    |     |         | 32  | .000      |     |
+| Likelihood Ratio   |     | 88.636  | 32  | .000      |     |
+Linear-by-Linear
+| Association      |     | 2.804 | 1   | .094 |     |
+| ---------------- | --- | ----- | --- | ---- | --- |
+| N of Valid Cases |     | 1686  |     |      |     |
+a. 2 cells (4.4%) have expected count less than 5. The
+minimum expected count is 3.87.
+
+|     |     |     |     | 148 |     |
+| --- | --- | --- | --- | --- | --- |
+
+5. Employment Status by Vehicle Type
+Car Type (new) * Employment status (combined unemployed with homemaker and non-employed student
+Crosstabulation
+Employment status (combined unemployed with
+homemaker and non-employed student
+|           |                         | full-time part-time | unemployed | retired | Total  |
+| --------- | ----------------------- | ------------------- | ---------- | ------- | ------ |
+| Car small | Count                   | 272                 | 50 18      | 32      | 372    |
+| Type      | % within Car Type (new) | 73.1% 13.4%         | 4.8%       | 8.6%    | 100.0% |
+| (new)     | % within Employment     |                     |            |         |        |
+status (combined
+|     | unemployed with | 24.1% 22.0% | 17.1% | 14.1% | 22.1% |
+| --- | --------------- | ----------- | ----- | ----- | ----- |
+homemaker and
+non-employed student
+|         | % of Total              | 16.1% 3.0%  | 1.1%  | 1.9%  | 22.1%  |
+| ------- | ----------------------- | ----------- | ----- | ----- | ------ |
+| compact | Count                   | 151         | 37 21 | 28    | 237    |
+|         | % within Car Type (new) | 63.7% 15.6% | 8.9%  | 11.8% | 100.0% |
+% within Employment
+status (combined
+|     | unemployed with | 13.4% 16.3% | 20.0% | 12.3% | 14.1% |
+| --- | --------------- | ----------- | ----- | ----- | ----- |
+homemaker and
+non-employed student
+|           | % of Total              | 9.0% 2.2%   | 1.2%  | 1.7%  | 14.1%  |
+| --------- | ----------------------- | ----------- | ----- | ----- | ------ |
+| mid-sized | Count                   | 217         | 44 21 | 71    | 353    |
+|           | % within Car Type (new) | 61.5% 12.5% | 5.9%  | 20.1% | 100.0% |
+% within Employment
+status (combined
+|     | unemployed with | 19.3% 19.4% | 20.0% | 31.3% | 20.9% |
+| --- | --------------- | ----------- | ----- | ----- | ----- |
+homemaker and
+non-employed student
+|       | % of Total              | 12.9% 2.6%  | 1.2% | 4.2%  | 20.9%  |
+| ----- | ----------------------- | ----------- | ---- | ----- | ------ |
+| large | Count                   |             |      |       |        |
+|       |                         | 20          | 11   | 22    | 53     |
+|       | % within Car Type (new) | 37.7% 20.8% |      | 41.5% | 100.0% |
+% within Employment
+status (combined
+|     | unemployed with | 1.8% 4.8% |     | 9.7% | 3.1% |
+| --- | --------------- | --------- | --- | ---- | ---- |
+homemaker and
+non-employed student
+% of Total
+|        |                         | 1.2%        | .7%  | 1.3%  | 3.1%   |
+| ------ | ----------------------- | ----------- | ---- | ----- | ------ |
+| luxury | Count                   | 28          | 11 5 | 13    | 57     |
+|        | % within Car Type (new) | 49.1% 19.3% | 8.8% | 22.8% | 100.0% |
+% within Employment
+status (combined
+|     | unemployed with | 2.5% 4.8% | 4.8% | 5.7% | 3.4% |
+| --- | --------------- | --------- | ---- | ---- | ---- |
+homemaker and
+non-employed student
+|        | % of Total              | 1.7%        | .7% .3% | .8%  | 3.4%   |
+| ------ | ----------------------- | ----------- | ------- | ---- | ------ |
+| sports | Count                   | 105         | 27 6    | 13   | 151    |
+|        | % within Car Type (new) | 69.5% 17.9% | 4.0%    | 8.6% | 100.0% |
+% within Employment
+status (combined
+|     | unemployed with | 9.3% 11.9% | 5.7% | 5.7% | 9.0% |
+| --- | --------------- | ---------- | ---- | ---- | ---- |
+homemaker and
+non-employed student
+|             | % of Total              | 6.2% 1.6%   | .4%   | .8%   | 9.0%   |
+| ----------- | ----------------------- | ----------- | ----- | ----- | ------ |
+| minivan/van | Count                   | 59          | 19 14 | 19    | 111    |
+|             | % within Car Type (new) | 53.2% 17.1% | 12.6% | 17.1% | 100.0% |
+% within Employment
+status (combined
+|     | unemployed with | 5.2% 8.4% | 13.3% | 8.4% | 6.6% |
+| --- | --------------- | --------- | ----- | ---- | ---- |
+homemaker and
+non-employed student
+|        | % of Total              | 3.5% 1.1%  | .8%  | 1.1%  | 6.6%   |
+| ------ | ----------------------- | ---------- | ---- | ----- | ------ |
+| pickup | Count                   | 124        | 11 7 | 17    | 159    |
+|        | % within Car Type (new) | 78.0% 6.9% | 4.4% | 10.7% | 100.0% |
+% within Employment
+status (combined
+|     | unemployed with | 11.0% 4.8% | 6.7% | 7.5% | 9.4% |
+| --- | --------------- | ---------- | ---- | ---- | ---- |
+homemaker and
+non-employed student
+|     | % of Total              | 7.4%       | .7% .4% | 1.0% | 9.4%   |
+| --- | ----------------------- | ---------- | ------- | ---- | ------ |
+| SUV | Count                   | 151        | 17 13   | 12   | 193    |
+|     | % within Car Type (new) | 78.2% 8.8% | 6.7%    | 6.2% | 100.0% |
+% within Employment
+status (combined
+|     | unemployed with | 13.4% 7.5% | 12.4% | 5.3% | 11.4% |
+| --- | --------------- | ---------- | ----- | ---- | ----- |
+homemaker and
+non-employed student
+|       | % of Total | 9.0% 1.0% | .8%     | .7% | 11.4% |
+| ----- | ---------- | --------- | ------- | --- | ----- |
+| Total | Count      | 1127      | 227 105 | 227 | 1686  |
+% within Car Type (new)
+|     |     | 66.8% 13.5% | 6.2% | 13.5% | 100.0% |
+| --- | --- | ----------- | ---- | ----- | ------ |
+% within Employment
+status (combined
+|     | unemployed with | 100.0% 100.0% | 100.0% | 100.0% | 100.0% |
+| --- | --------------- | ------------- | ------ | ------ | ------ |
+homemaker and
+non-employed student
+|     | % of Total | 66.8% 13.5% | 6.2% | 13.5% | 100.0%   |
+| --- | ---------- | ----------- | ---- | ----- | -------- |
+Chi-Square Tests
+Asymp. Sig.
+|                    | Value    | df (2-sided) |      |     |     |
+| ------------------ | -------- | ------------ | ---- | --- | --- |
+| Pearson Chi-Square | 122.094a | 24           | .000 |     |     |
+| Likelihood Ratio   | 115.794  | 24           | .000 |     |     |
+Linear-by-Linear
+|     | 1.272 | 1   | .259 |     |     |
+| --- | ----- | --- | ---- | --- | --- |
+Association
+| N of Valid Cases | 1686 |     |     |     |     |
+| ---------------- | ---- | --- | --- | --- | --- |
+a. 2 cells (5.6%) have expected count less than 5. The
+minimum expected count is 3.30.
+
+|     |     |     | 149 |     |     |
+| --- | --- | --- | --- | --- | --- |
+
+6. Occupation by Vehicle Type
+Car Type (new) * Occupation (combined service/repair with production/construction, and discard other) Crosstabulation
+Occupation (combined service/repair with production/construction, and discard other)
+|           |       |     |           |       | production/c  |              | clerical/ad |             |       |
+| --------- | ----- | --- | --------- | ----- | ------------- | ------------ | ----------- | ----------- | ----- |
+|           |       |     |           |       | onstruction/s | manager/a    | ministrativ | professiona |       |
+|           |       |     | homemaker | sales | ervice/repair | dministrator | e support   | l/technical | Total |
+| Car small | Count |     | 10        | 30    | 27            | 60           | 51          | 185         | 363   |
+Type
+(new) % within Car Type (new) 2.8% 8.3% 7.4% 16.5% 14.0% 51.0% 100.0%
+% within Occupation
+(combined service/repair
+|     | with |     | 12.7% | 20.4% | 18.2% | 17.1% | 30.9% | 24.3% | 22.0% |
+| --- | ---- | --- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+production/construction,
+and discard other)
+|         | % of Total              |     | .6%  | 1.8% | 1.6% | 3.6%  | 3.1% | 11.2% | 22.0%  |
+| ------- | ----------------------- | --- | ---- | ---- | ---- | ----- | ---- | ----- | ------ |
+| compact | Count                   |     | 12   | 19   | 14   | 46    | 20   | 118   | 229    |
+|         | % within Car Type (new) |     | 5.2% | 8.3% | 6.1% | 20.1% | 8.7% | 51.5% | 100.0% |
+% within Occupation
+(combined service/repair
+|     | with |     | 15.2% | 12.9% | 9.5% | 13.1% | 12.1% | 15.5% | 13.9% |
+| --- | ---- | --- | ----- | ----- | ---- | ----- | ----- | ----- | ----- |
+production/construction,
+and discard other)
+|           | % of Total              |     | .7%  | 1.2%  | .8%  | 2.8%  | 1.2% | 7.2%  | 13.9%  |
+| --------- | ----------------------- | --- | ---- | ----- | ---- | ----- | ---- | ----- | ------ |
+| mid-sized | Count                   |     | 24   | 41    | 24   | 68    | 34   | 156   | 347    |
+|           | % within Car Type (new) |     | 6.9% | 11.8% | 6.9% | 19.6% | 9.8% | 45.0% | 100.0% |
+% within Occupation
+(combined service/repair
+|     | with |     | 30.4% | 27.9% | 16.2% | 19.4% | 20.6% | 20.5% | 21.0% |
+| --- | ---- | --- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+production/construction,
+and discard other)
+|       | % of Total              |     | 1.5% | 2.5%  | 1.5% | 4.1%  | 2.1%  | 9.5%  | 21.0%  |
+| ----- | ----------------------- | --- | ---- | ----- | ---- | ----- | ----- | ----- | ------ |
+| large | Count                   |     | 2    | 8     | 5    | 16    | 6     |       | 15 52  |
+|       | % within Car Type (new) |     | 3.8% | 15.4% | 9.6% | 30.8% | 11.5% | 28.8% | 100.0% |
+% within Occupation
+(combined service/repair
+|     | with |     | 2.5% | 5.4% | 3.4% | 4.6% | 3.6% | 2.0% | 3.2% |
+| --- | ---- | --- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+production/construction,
+and discard other)
+|        | % of Total              |     | .1%  | .5%   | .3%  | 1.0%  | .4%  | .9%   | 3.2%   |
+| ------ | ----------------------- | --- | ---- | ----- | ---- | ----- | ---- | ----- | ------ |
+| luxury | Count                   |     | 2    | 8     | 1    | 16    | 4    |       | 25 56  |
+|        | % within Car Type (new) |     | 3.6% | 14.3% | 1.8% | 28.6% | 7.1% | 44.6% | 100.0% |
+% within Occupation
+(combined service/repair
+|     | with |     | 2.5% | 5.4% | .7% | 4.6% | 2.4% | 3.3% | 3.4% |
+| --- | ---- | --- | ---- | ---- | --- | ---- | ---- | ---- | ---- |
+production/construction,
+and discard other)
+|        | % of Total              |     | .1%  | .5%  | .1%  | 1.0%  | .2%   | 1.5%  | 3.4%   |
+| ------ | ----------------------- | --- | ---- | ---- | ---- | ----- | ----- | ----- | ------ |
+| sports | Count                   |     |      |      |      |       |       |       |        |
+|        |                         |     | 6    | 11   | 11   | 34    | 16    |       | 72 150 |
+|        | % within Car Type (new) |     | 4.0% | 7.3% | 7.3% | 22.7% | 10.7% | 48.0% | 100.0% |
+% within Occupation
+(combined service/repair
+|     | with |     | 7.6% | 7.5% | 7.4% | 9.7% | 9.7% | 9.5% | 9.1% |
+| --- | ---- | --- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+production/construction,
+and discard other)
+|             | % of Total              |     | .4%   | .7%  | .7%   | 2.1%  | 1.0% | 4.4%  | 9.1%   |
+| ----------- | ----------------------- | --- | ----- | ---- | ----- | ----- | ---- | ----- | ------ |
+| minivan/van | Count                   |     |       |      |       |       |      |       |        |
+|             |                         |     | 13    | 9    | 16    | 19    | 10   |       | 42 109 |
+|             | % within Car Type (new) |     | 11.9% | 8.3% | 14.7% | 17.4% | 9.2% | 38.5% | 100.0% |
+% within Occupation
+(combined service/repair
+|     | with |     | 16.5% | 6.1% | 10.8% | 5.4% | 6.1% | 5.5% | 6.6% |
+| --- | ---- | --- | ----- | ---- | ----- | ---- | ---- | ---- | ---- |
+production/construction,
+and discard other)
+|        | % of Total              |     | .8% | .5%  | 1.0%  | 1.2%  | .6%  | 2.5%  | 6.6%   |
+| ------ | ----------------------- | --- | --- | ---- | ----- | ----- | ---- | ----- | ------ |
+| pickup | Count                   |     |     | 9    | 35    | 42    | 12   |       | 55 153 |
+|        | % within Car Type (new) |     |     | 5.9% | 22.9% | 27.5% | 7.8% | 35.9% | 100.0% |
+% within Occupation
+(combined service/repair
+|     | with |     |     | 6.1% | 23.6% | 12.0% | 7.3% | 7.2% | 9.3% |
+| --- | ---- | --- | --- | ---- | ----- | ----- | ---- | ---- | ---- |
+production/construction,
+and discard other)
+|     | % of Total              |     |      | .5%  | 2.1% | 2.5%  | .7%  | 3.3%  | 9.3%   |
+| --- | ----------------------- | --- | ---- | ---- | ---- | ----- | ---- | ----- | ------ |
+| SUV | Count                   |     | 10   | 12   | 15   | 49    | 12   |       | 92 190 |
+|     | % within Car Type (new) |     | 5.3% | 6.3% | 7.9% | 25.8% | 6.3% | 48.4% | 100.0% |
+% within Occupation
+(combined service/repair
+|     | with |     | 12.7% | 8.2% | 10.1% | 14.0% | 7.3% | 12.1% | 11.5% |
+| --- | ---- | --- | ----- | ---- | ----- | ----- | ---- | ----- | ----- |
+production/construction,
+and discard other)
+|       | % of Total              |     | .6%  | .7%  | .9%  | 3.0%  | .7%   | 5.6%  | 11.5%  |
+| ----- | ----------------------- | --- | ---- | ---- | ---- | ----- | ----- | ----- | ------ |
+| Total | Count                   |     | 79   | 147  | 148  | 350   | 165   | 760   | 1649   |
+|       | % within Car Type (new) |     | 4.8% | 8.9% | 9.0% | 21.2% | 10.0% | 46.1% | 100.0% |
+% within Occupation
+(combined service/repair
+|     | with |     | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% |
+| --- | ---- | --- | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+production/construction,
+and discard other)
+|     | % of Total |     | 4.8% | 8.9% | 9.0% | 21.2% | 10.0% | 46.1% | 100.0% |
+| --- | ---------- | --- | ---- | ---- | ---- | ----- | ----- | ----- | ------ |
+
+Chi-Square Tests
+Asymp. Sig.
+|                    |     | Value    | df  | (2-sided) |      |     |     |     |     |
+| ------------------ | --- | -------- | --- | --------- | ---- | --- | --- | --- | --- |
+| Pearson Chi-Square |     | 118.604a | 40  |           | .000 |     |     |     |     |
+| Likelihood Ratio   |     | 113.786  | 40  |           | .000 |     |     |     |     |
+Linear-by-Linear
+|     |     | 4.566 |     | 1   | .033 |     |     |     |     |
+| --- | --- | ----- | --- | --- | ---- | --- | --- | --- | --- |
+Association
+| N of Valid Cases |     | 1649 |     |     |     |     |     |     |     |
+| ---------------- | --- | ---- | --- | --- | --- | --- | --- | --- | --- |
+a. 5 cells (9.3%) have expected count less than 5. The
+minimum expected count is 2.49.
+
+|     |     |     |     |     | 150 |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+7. Personal Income by Vehicle Type
+
+Car Type (new) * Approximate PERSONAL income Crosstabulation
+Approximate PERSONAL income
+|           |       | Less than $15,00 - | $35,000 - $55,000 - | $75,000 - $95,000 |       |
+| --------- | ----- | ------------------ | ------------------- | ----------------- | ----- |
+|           |       | $15,000 $34,999    | $54,999 $74,999     | $94,999 or more   | Total |
+| Car small | Count | 39 103             | 120                 | 48 19 24          | 353   |
+Type
+|       | % within Car Type (new) | 11.0% 29.2% | 34.0% 13.6% | 5.4% 6.8%   | 100.0% |
+| ----- | ----------------------- | ----------- | ----------- | ----------- | ------ |
+| (new) | % within Approximate    |             |             |             |        |
+|       |                         | 24.8% 29.6% | 26.4% 16.4% | 12.3% 11.5% | 21.9%  |
+PERSONAL income
+|         | % of Total              | 2.4% 6.4%   | 7.4% 3.0%   | 1.2% 1.5%  | 21.9%  |
+| ------- | ----------------------- | ----------- | ----------- | ---------- | ------ |
+| compact | Count                   | 23          | 48 67       | 48 24 18   | 228    |
+|         | % within Car Type (new) | 10.1% 21.1% | 29.4% 21.1% | 10.5% 7.9% | 100.0% |
+|         | % within Approximate    | 14.6% 13.8% | 14.7% 16.4% | 15.6% 8.6% | 14.1%  |
+PERSONAL income
+|           | % of Total              | 1.4% 3.0%  | 4.1% 3.0%   | 1.5% 1.1%   | 14.1%  |
+| --------- | ----------------------- | ---------- | ----------- | ----------- | ------ |
+| mid-sized | Count                   | 29         | 66 80       | 64 39 59    | 337    |
+|           | % within Car Type (new) | 8.6% 19.6% | 23.7% 19.0% | 11.6% 17.5% | 100.0% |
+% within Approximate
+|     |     | 18.5% 19.0% | 17.6% 21.9% | 25.3% 28.2% | 20.9% |
+| --- | --- | ----------- | ----------- | ----------- | ----- |
+PERSONAL income
+|       | % of Total              | 1.8% 4.1%   | 5.0% 4.0%   | 2.4% 3.7%  | 20.9%  |
+| ----- | ----------------------- | ----------- | ----------- | ---------- | ------ |
+| large | Count                   | 8           | 9 13        | 9 3        | 7 49   |
+|       | % within Car Type (new) | 16.3% 18.4% | 26.5% 18.4% | 6.1% 14.3% | 100.0% |
+% within Approximate
+|     |     | 5.1% 2.6% | 2.9% 3.1% | 1.9% 3.3% | 3.0% |
+| --- | --- | --------- | --------- | --------- | ---- |
+PERSONAL income
+|        | % of Total              | .5% .6%   | .8% .6%     | .2% .4%    | 3.0%   |
+| ------ | ----------------------- | --------- | ----------- | ---------- | ------ |
+| luxury | Count                   | 4         | 5 10        | 13 5 20    | 57     |
+|        | % within Car Type (new) | 7.0% 8.8% | 17.5% 22.8% | 8.8% 35.1% | 100.0% |
+% within Approximate
+|        | PERSONAL income | 2.5% 1.4% | 2.2% 4.5% | 3.2% 9.6% | 3.5% |
+| ------ | --------------- | --------- | --------- | --------- | ---- |
+|        | % of Total      | .2% .3%   | .6% .8%   | .3% 1.2%  | 3.5% |
+| sports | Count           | 7         | 35 41     | 22 16 24  | 145  |
+% within Car Type (new)
+|     |     | 4.8% 24.1% | 28.3% 15.2% | 11.0% 16.6% | 100.0% |
+| --- | --- | ---------- | ----------- | ----------- | ------ |
+% within Approximate
+|     |     | 4.5% 10.1% | 9.0% 7.5% | 10.4% 11.5% | 9.0% |
+| --- | --- | ---------- | --------- | ----------- | ---- |
+PERSONAL income
+|             | % of Total              | .4% 2.2%    | 2.5% 1.4%   | 1.0% 1.5%  | 9.0%   |
+| ----------- | ----------------------- | ----------- | ----------- | ---------- | ------ |
+| minivan/van | Count                   | 21          | 18 31       | 18 9 11    | 108    |
+|             | % within Car Type (new) | 19.4% 16.7% | 28.7% 16.7% | 8.3% 10.2% | 100.0% |
+|             | % within Approximate    | 13.4% 5.2%  | 6.8% 6.2%   | 5.8% 5.3%  | 6.7%   |
+PERSONAL income
+|        | % of Total              | 1.3% 1.1%  | 1.9% 1.1%   | .6% .7%    | 6.7%   |
+| ------ | ----------------------- | ---------- | ----------- | ---------- | ------ |
+| pickup | Count                   | 8          | 37 50       | 32 16 12   | 155    |
+|        | % within Car Type (new) | 5.2% 23.9% | 32.3% 20.6% | 10.3% 7.7% | 100.0% |
+% within Approximate
+|     | PERSONAL income | 5.1% 10.6% | 11.0% 11.0% | 10.4% 5.7% | 9.6% |
+| --- | --------------- | ---------- | ----------- | ---------- | ---- |
+|     | % of Total      | .5% 2.3%   | 3.1% 2.0%   | 1.0% .7%   | 9.6% |
+| SUV | Count           | 18         | 27 43       | 38 23 34   | 183  |
+% within Car Type (new)
+|     |     | 9.8% 14.8% | 23.5% 20.8% | 12.6% 18.6% | 100.0% |
+| --- | --- | ---------- | ----------- | ----------- | ------ |
+% within Approximate
+|     |     | 11.5% 7.8% | 9.5% 13.0% | 14.9% 16.3% | 11.3% |
+| --- | --- | ---------- | ---------- | ----------- | ----- |
+PERSONAL income
+|       | % of Total              | 1.1% 1.7%     | 2.7% 2.4%     | 1.4% 2.1%     | 11.3%  |
+| ----- | ----------------------- | ------------- | ------------- | ------------- | ------ |
+| Total | Count                   | 157 348       | 455 292       | 154 209       | 1615   |
+|       | % within Car Type (new) | 9.7% 21.5%    | 28.2% 18.1%   | 9.5% 12.9%    | 100.0% |
+|       | % within Approximate    | 100.0% 100.0% | 100.0% 100.0% | 100.0% 100.0% | 100.0% |
+PERSONAL income
+|     | % of Total | 9.7% 21.5% | 28.2% 18.1% | 9.5% 12.9% | 100.0% |
+| --- | ---------- | ---------- | ----------- | ---------- | ------ |
+
+Chi-Square Tests
+Asymp. Sig.
+|                    | Value    | df (2-sided) |      |     |     |
+| ------------------ | -------- | ------------ | ---- | --- | --- |
+| Pearson Chi-Square | 123.978a | 40           | .000 |     |     |
+| Likelihood Ratio   | 120.536  | 40           | .000 |     |     |
+Linear-by-Linear
+|     | 16.657 | 1   | .000 |     |     |
+| --- | ------ | --- | ---- | --- | --- |
+Association
+| N of Valid Cases | 1615 |     |     |     |     |
+| ---------------- | ---- | --- | --- | --- | --- |
+a. 2 cells (3.7%) have expected count less than 5. The
+minimum expected count is 4.67.
+
+|     |     |     | 151 |     |     |
+| --- | --- | --- | --- | --- | --- |
+
+8. Household Income by Vehicle Type
+Car Type (new) * Household income (combined less than 15,000 with 15,000-34,999) Crosstabulation
+Household income (combined less than 15,000 with
+15,000-34,999)
+|           |                         | less than $35,000- | $55,000- $75,000- | $95,000       |
+| --------- | ----------------------- | ------------------ | ----------------- | ------------- |
+|           |                         | $35,000 $54,999    | $74,999 $94,999   | or more Total |
+| Car small | Count                   | 71                 | 98 66             | 57 66 358     |
+| Type      | % within Car Type (new) | 19.8% 27.4%        | 18.4% 15.9%       | 18.4% 100.0%  |
+| (new)     | % within Household      |                    |                   |               |
+income (combined less
+|     |     | 31.7% 28.8% | 22.5% 20.7% | 13.7% 22.2% |
+| --- | --- | ----------- | ----------- | ----------- |
+than 15,000 with
+15,000-34,999)
+|         | % of Total              | 4.4%        | 6.1% 4.1% 3.5% | 4.1% 22.2%   |
+| ------- | ----------------------- | ----------- | -------------- | ------------ |
+| compact | Count                   | 37          | 51 47          | 33 58 226    |
+|         | % within Car Type (new) | 16.4% 22.6% | 20.8% 14.6%    | 25.7% 100.0% |
+% within Household
+|     | income (combined less | 16.5% 15.0% | 16.0% 12.0% | 12.0% 14.0% |
+| --- | --------------------- | ----------- | ----------- | ----------- |
+than 15,000 with
+15,000-34,999)
+|           | % of Total              | 2.3%        | 3.2% 2.9% 2.0% | 3.6% 14.0%   |
+| --------- | ----------------------- | ----------- | -------------- | ------------ |
+| mid-sized | Count                   | 41          | 49 68          | 64 115 337   |
+|           | % within Car Type (new) | 12.2% 14.5% | 20.2% 19.0%    | 34.1% 100.0% |
+% within Household
+|     | income (combined less | 18.3% 14.4% | 23.2% 23.2% | 23.8% 20.9% |
+| --- | --------------------- | ----------- | ----------- | ----------- |
+than 15,000 with
+15,000-34,999)
+|       | % of Total | 2.5% | 3.0% 4.2% 4.0% | 7.1% 20.9% |
+| ----- | ---------- | ---- | -------------- | ---------- |
+| large | Count      | 9    | 11 10          | 9 10 49    |
+% within Car Type (new)
+|     |     | 18.4% 22.4% | 20.4% 18.4% | 20.4% 100.0% |
+| --- | --- | ----------- | ----------- | ------------ |
+% within Household
+income (combined less
+|     | than 15,000 with | 4.0% | 3.2% 3.4% 3.3% | 2.1% 3.0% |
+| --- | ---------------- | ---- | -------------- | --------- |
+15,000-34,999)
+|        | % of Total              | .6%        | .7% .6%     | .6% .6% 3.0% |
+| ------ | ----------------------- | ---------- | ----------- | ------------ |
+| luxury | Count                   | 3          | 6 8         | 7 33 57      |
+|        | % within Car Type (new) | 5.3% 10.5% | 14.0% 12.3% | 57.9% 100.0% |
+% within Household
+income (combined less
+|     | than 15,000 with | 1.3% | 1.8% 2.7% 2.5% | 6.8% 3.5% |
+| --- | ---------------- | ---- | -------------- | --------- |
+15,000-34,999)
+|        | % of Total              | .2%         | .4% .5%     | .4% 2.0% 3.5% |
+| ------ | ----------------------- | ----------- | ----------- | ------------- |
+| sports | Count                   |             |             |               |
+|        |                         | 17          | 31 20       | 24 52 144     |
+|        | % within Car Type (new) | 11.8% 21.5% | 13.9% 16.7% | 36.1% 100.0%  |
+% within Household
+|     | income (combined less | 7.6% | 9.1% 6.8% 8.7% | 10.8% 8.9% |
+| --- | --------------------- | ---- | -------------- | ---------- |
+than 15,000 with
+15,000-34,999)
+|             | % of Total              | 1.1%       | 1.9% 1.2% 1.5% | 3.2% 8.9%    |
+| ----------- | ----------------------- | ---------- | -------------- | ------------ |
+| minivan/van | Count                   | 10         | 24 22          | 25 28 109    |
+|             | % within Car Type (new) | 9.2% 22.0% | 20.2% 22.9%    | 25.7% 100.0% |
+% within Household
+|     | income (combined less | 4.5% | 7.1% 7.5% 9.1% | 5.8% 6.7% |
+| --- | --------------------- | ---- | -------------- | --------- |
+than 15,000 with
+15,000-34,999)
+|        | % of Total              | .6%         | 1.5% 1.4% 1.5% | 1.7% 6.7%    |
+| ------ | ----------------------- | ----------- | -------------- | ------------ |
+| pickup | Count                   | 20          | 44 31          | 21 38 154    |
+|        | % within Car Type (new) | 13.0% 28.6% | 20.1% 13.6%    | 24.7% 100.0% |
+% within Household
+income (combined less
+|     | than 15,000 with | 8.9% 12.9% | 10.6% 7.6% | 7.9% 9.5% |
+| --- | ---------------- | ---------- | ---------- | --------- |
+15,000-34,999)
+|     | % of Total              | 1.2%       | 2.7% 1.9% 1.3% | 2.4% 9.5%    |
+| --- | ----------------------- | ---------- | -------------- | ------------ |
+| SUV | Count                   | 16         | 26 21          | 36 83 182    |
+|     | % within Car Type (new) | 8.8% 14.3% | 11.5% 19.8%    | 45.6% 100.0% |
+% within Household
+income (combined less
+|     | than 15,000 with | 7.1% | 7.6% 7.2% 13.0% | 17.2% 11.3% |
+| --- | ---------------- | ---- | --------------- | ----------- |
+15,000-34,999)
+|       | % of Total              | 1.0%        | 1.6% 1.3% 2.2% | 5.1% 11.3%   |
+| ----- | ----------------------- | ----------- | -------------- | ------------ |
+| Total | Count                   | 224         | 340 293        | 276 483 1616 |
+|       | % within Car Type (new) | 13.9% 21.0% | 18.1% 17.1%    | 29.9% 100.0% |
+% within Household
+income (combined less
+|     |     | 100.0% 100.0% | 100.0% 100.0% | 100.0% 100.0% |
+| --- | --- | ------------- | ------------- | ------------- |
+than 15,000 with
+15,000-34,999)
+|     | % of Total | 13.9% 21.0% | 18.1% 17.1% | 29.9% 100.0% |
+| --- | ---------- | ----------- | ----------- | ------------ |
+
+Chi-Square Tests
+Asymp. Sig.
+|                    | Value    | df  | (2-sided) |     |
+| ------------------ | -------- | --- | --------- | --- |
+| Pearson Chi-Square | 115.248a | 32  | .000      |     |
+| Likelihood Ratio   | 114.760  | 32  | .000      |     |
+Linear-by-Linear
+|     | 31.507 | 1   | .000 |     |
+| --- | ------ | --- | ---- | --- |
+Association
+| N of Valid Cases | 1616 |     |     |     |
+| ---------------- | ---- | --- | --- | --- |
+a. 0 cells (.0%) have expected count less than 5. The
+minimum expected count is 6.79.
+
+|     |     |     | 152 |     |
+| --- | --- | --- | --- | --- |
+
+9. Number of Vehicles by Vehicle Type
+NEWTYPE1 * F6_ALT1 Crosstabulation
+F6_ALT1
+|          |                   |     | 1 2         | 3 4 or more | Total  |
+| -------- | ----------------- | --- | ----------- | ----------- | ------ |
+| NEWTYPE1 | small Count       |     | 174 145     | 31 16       | 366    |
+|          | % within NEWTYPE1 |     | 47.5% 39.6% | 8.5% 4.4%   | 100.0% |
+|          | % within F6_ALT1  |     | 29.0% 20.2% | 13.2% 13.3% | 21.9%  |
+|          | % of Total        |     | 10.4% 8.7%  | 1.9% 1.0%   | 21.9%  |
+|          | compact Count     |     | 117 83      | 24 12       | 236    |
+|          | % within NEWTYPE1 |     | 49.6% 35.2% | 10.2% 5.1%  | 100.0% |
+|          | % within F6_ALT1  |     | 19.5% 11.5% | 10.3% 10.0% | 14.1%  |
+|          | % of Total        |     | 7.0% 5.0%   | 1.4% .7%    | 14.1%  |
+|          | mid-sized Count   |     | 117 154     | 57 23       | 351    |
+|          | % within NEWTYPE1 |     | 33.3% 43.9% | 16.2% 6.6%  | 100.0% |
+|          | % within F6_ALT1  |     | 19.5% 21.4% | 24.4% 19.2% | 21.0%  |
+|          | % of Total        |     | 7.0% 9.2%   | 3.4% 1.4%   | 21.0%  |
+large Count
+|     |     |     | 17 19 | 10 6 | 52  |
+| --- | --- | --- | ----- | ---- | --- |
+% within NEWTYPE1
+|     |                   |     | 32.7% 36.5% | 19.2% 11.5% | 100.0% |
+| --- | ----------------- | --- | ----------- | ----------- | ------ |
+|     | % within F6_ALT1  |     | 2.8% 2.6%   | 4.3% 5.0%   | 3.1%   |
+|     | % of Total        |     | 1.0% 1.1%   | .6% .4%     | 3.1%   |
+|     | luxury Count      |     | 16 23       | 11 8        | 58     |
+|     | % within NEWTYPE1 |     | 27.6% 39.7% | 19.0% 13.8% | 100.0% |
+|     | % within F6_ALT1  |     | 2.7% 3.2%   | 4.7% 6.7%   | 3.5%   |
+|     | % of Total        |     | 1.0% 1.4%   | .7% .5%     | 3.5%   |
+|     | sports Count      |     | 53 64       | 20 12       | 149    |
+|     | % within NEWTYPE1 |     | 35.6% 43.0% | 13.4% 8.1%  | 100.0% |
+|     | % within F6_ALT1  |     | 8.8% 8.9%   | 8.5% 10.0%  | 8.9%   |
+|     | % of Total        |     | 3.2% 3.8%   | 1.2% .7%    | 8.9%   |
+|     | minivan/van Count |     | 18 59       | 21 13       | 111    |
+|     | % within NEWTYPE1 |     | 16.2% 53.2% | 18.9% 11.7% | 100.0% |
+|     | % within F6_ALT1  |     | 3.0% 8.2%   | 9.0% 10.8%  | 6.6%   |
+|     | % of Total        |     | 1.1% 3.5%   | 1.3% .8%    | 6.6%   |
+pickup Count
+|     |     |     | 30 80 | 30 16 | 156 |
+| --- | --- | --- | ----- | ----- | --- |
+% within NEWTYPE1
+|       |                   |        | 19.2% 51.3% | 19.2% 10.3%   | 100.0% |
+| ----- | ----------------- | ------ | ----------- | ------------- | ------ |
+|       | % within F6_ALT1  |        | 5.0% 11.1%  | 12.8% 13.3%   | 9.3%   |
+|       | % of Total        |        | 1.8% 4.8%   | 1.8% 1.0%     | 9.3%   |
+|       | SUV Count         |        | 57 92       | 30 14         | 193    |
+|       | % within NEWTYPE1 |        | 29.5% 47.7% | 15.5% 7.3%    | 100.0% |
+|       | % within F6_ALT1  |        | 9.5% 12.8%  | 12.8% 11.7%   | 11.5%  |
+|       | % of Total        |        | 3.4% 5.5%   | 1.8% .8%      | 11.5%  |
+| Total | Count             |        | 599 719     | 234 120       | 1672   |
+|       | % within NEWTYPE1 |        | 35.8% 43.0% | 14.0% 7.2%    | 100.0% |
+|       | % within F6_ALT1  | 100.0% | 100.0%      | 100.0% 100.0% | 100.0% |
+|       | % of Total        |        | 35.8% 43.0% | 14.0% 7.2%    | 100.0% |
+
+Chi-Square Tests
+Asymp. Sig.
+Value df (2-sided)
+Pearson Chi-Square 100.616a
+|                  |         | 24  | .000 |     |     |
+| ---------------- | ------- | --- | ---- | --- | --- |
+| Likelihood Ratio | 103.534 | 24  | .000 |     |     |
+Linear-by-Linear
+|     | 49.913 | 1   | .000 |     |     |
+| --- | ------ | --- | ---- | --- | --- |
+Association
+N of Valid Cases 1672
+a. 2 cells (5.6%) have expected count less than 5. The
+minimum expected count is 3.73.
+
+|     |     |     | 153 |     |     |
+| --- | --- | --- | --- | --- | --- |
+
+10. Number of Driver’s Licenses by Vehicle Type
+Car Type (new) * number of driver licenses in a household (created 4 or more, 4-6) Crosstabulation
+number of driver licenses in a household (created
+4 or more, 4-6)
+|           |       | 1 2     | 3 4 or more | Total  |
+| --------- | ----- | ------- | ----------- | ------ |
+| Car small | Count | 137 180 | 38          | 16 371 |
+Type
+|       | % within Car Type (new)   | 36.9% 48.5% | 10.2% 4.3% | 100.0% |
+| ----- | ------------------------- | ----------- | ---------- | ------ |
+| (new) | % within number of driver |             |            |        |
+licenses in a household
+|     |     | 27.6% 20.5% | 17.2% 18.0% | 22.0% |
+| --- | --- | ----------- | ----------- | ----- |
+(created 4 or more, 4-6)
+|         | % of Total              | 8.1% 10.7%  | 2.3% .9%   | 22.0%  |
+| ------- | ----------------------- | ----------- | ---------- | ------ |
+| compact | Count                   | 89 102      | 29         | 17 237 |
+|         | % within Car Type (new) | 37.6% 43.0% | 12.2% 7.2% | 100.0% |
+% within number of driver
+|     | licenses in a household | 17.9% 11.6% | 13.1% 19.1% | 14.1% |
+| --- | ----------------------- | ----------- | ----------- | ----- |
+(created 4 or more, 4-6)
+|           | % of Total | 5.3% 6.1% | 1.7% 1.0% | 14.1%  |
+| --------- | ---------- | --------- | --------- | ------ |
+| mid-sized | Count      | 95 194    | 50        | 13 352 |
+% within Car Type (new)
+|     |     | 27.0% 55.1% | 14.2% 3.7% | 100.0% |
+| --- | --- | ----------- | ---------- | ------ |
+% within number of driver
+|     | licenses in a household | 19.2% 22.1% | 22.6% 14.6% | 20.9% |
+| --- | ----------------------- | ----------- | ----------- | ----- |
+(created 4 or more, 4-6)
+|       | % of Total              | 5.6% 11.5%  | 3.0% .8%  | 20.9%  |
+| ----- | ----------------------- | ----------- | --------- | ------ |
+| large | Count                   | 16          | 31 5      | 1 53   |
+|       | % within Car Type (new) | 30.2% 58.5% | 9.4% 1.9% | 100.0% |
+% within number of driver
+|     | licenses in a household | 3.2% 3.5% | 2.3% 1.1% | 3.1% |
+| --- | ----------------------- | --------- | --------- | ---- |
+(created 4 or more, 4-6)
+|        | % of Total              | .9% 1.8%    | .3% .1%    | 3.1%   |
+| ------ | ----------------------- | ----------- | ---------- | ------ |
+| luxury | Count                   | 18          | 24 14      | 2 58   |
+|        | % within Car Type (new) | 31.0% 41.4% | 24.1% 3.4% | 100.0% |
+% within number of driver
+|     | licenses in a household | 3.6% 2.7% | 6.3% 2.2% | 3.4% |
+| --- | ----------------------- | --------- | --------- | ---- |
+(created 4 or more, 4-6)
+|        | % of Total              | 1.1% 1.4%   | .8% .1%    | 3.4%   |
+| ------ | ----------------------- | ----------- | ---------- | ------ |
+| sports | Count                   | 46          | 80 20      | 5 151  |
+|        | % within Car Type (new) | 30.5% 53.0% | 13.2% 3.3% | 100.0% |
+% within number of driver
+|     | licenses in a household | 9.3% 9.1% | 9.0% 5.6% | 9.0% |
+| --- | ----------------------- | --------- | --------- | ---- |
+(created 4 or more, 4-6)
+|             | % of Total              | 2.7% 4.7%   | 1.2% .3%    | 9.0%   |
+| ----------- | ----------------------- | ----------- | ----------- | ------ |
+| minivan/van | Count                   | 18          | 64 17       | 12 111 |
+|             | % within Car Type (new) | 16.2% 57.7% | 15.3% 10.8% | 100.0% |
+% within number of driver
+|     | licenses in a household | 3.6% 7.3% | 7.7% 13.5% | 6.6% |
+| --- | ----------------------- | --------- | ---------- | ---- |
+(created 4 or more, 4-6)
+|        | % of Total              | 1.1% 3.8%   | 1.0% .7%   | 6.6%   |
+| ------ | ----------------------- | ----------- | ---------- | ------ |
+| pickup | Count                   | 41          | 85 22      | 11 159 |
+|        | % within Car Type (new) | 25.8% 53.5% | 13.8% 6.9% | 100.0% |
+% within number of driver
+|     | licenses in a household | 8.3% 9.7% | 10.0% 12.4% | 9.4% |
+| --- | ----------------------- | --------- | ----------- | ---- |
+(created 4 or more, 4-6)
+|     | % of Total              | 2.4% 5.0%   | 1.3% .7%   | 9.4%   |
+| --- | ----------------------- | ----------- | ---------- | ------ |
+| SUV | Count                   | 36 119      | 26         | 12 193 |
+|     | % within Car Type (new) | 18.7% 61.7% | 13.5% 6.2% | 100.0% |
+% within number of driver
+|     | licenses in a household | 7.3% 13.5% | 11.8% 13.5% | 11.5% |
+| --- | ----------------------- | ---------- | ----------- | ----- |
+(created 4 or more, 4-6)
+|       | % of Total              | 2.1% 7.1%   | 1.5% .7%   | 11.5%   |
+| ----- | ----------------------- | ----------- | ---------- | ------- |
+| Total | Count                   |             |            |         |
+|       |                         | 496 879     | 221        | 89 1685 |
+|       | % within Car Type (new) | 29.4% 52.2% | 13.1% 5.3% | 100.0%  |
+% within number of driver
+|     | licenses in a household | 100.0% 100.0% | 100.0% 100.0% | 100.0% |
+| --- | ----------------------- | ------------- | ------------- | ------ |
+(created 4 or more, 4-6)
+|     | % of Total | 29.4% 52.2% | 13.1% 5.3% | 100.0% |
+| --- | ---------- | ----------- | ---------- | ------ |
+
+Chi-Square Tests
+Asymp. Sig.
+|     | Value | df (2-sided) |     |     |
+| --- | ----- | ------------ | --- | --- |
+62.544a
+| Pearson Chi-Square |        | 24  | .000 |     |
+| ------------------ | ------ | --- | ---- | --- |
+| Likelihood Ratio   | 62.445 | 24  | .000 |     |
+Linear-by-Linear
+|     | 19.645 | 1   | .000 |     |
+| --- | ------ | --- | ---- | --- |
+Association
+| N of Valid Cases | 1685 |     |     |     |
+| ---------------- | ---- | --- | --- | --- |
+a. 2 cells (5.6%) have expected count less than 5. The
+minimum expected count is 2.80.
+
+|     |     |     | 154 |     |
+| --- | --- | --- | --- | --- |
+
+11. Number of Workers by Vehicle Type
+Car Type (new) * number of workers in a household (created 3 or more, 3-7) Crosstabulation
+number of workers in a household (created 3 or
+more, 3-7)
+|           |                         |     | 0 1        | 2 3 or more | Total  |
+| --------- | ----------------------- | --- | ---------- | ----------- | ------ |
+| Car small | Count                   |     | 24 146     | 168         | 30 368 |
+| Type      | % within Car Type (new) |     | 6.5% 39.7% | 45.7% 8.2%  | 100.0% |
+(new)
+% within number of
+|     | workers in a household |     | 14.5% 24.3% | 23.0% 18.2% | 22.1% |
+| --- | ---------------------- | --- | ----------- | ----------- | ----- |
+(created 3 or more, 3-7)
+|         | % of Total              |     | 1.4% 8.8%  | 10.1% 1.8%  | 22.1%  |
+| ------- | ----------------------- | --- | ---------- | ----------- | ------ |
+| compact | Count                   |     |            |             |        |
+|         |                         |     | 22         | 89 87       | 32 230 |
+|         | % within Car Type (new) |     | 9.6% 38.7% | 37.8% 13.9% | 100.0% |
+% within number of
+|     | workers in a household |     | 13.3% 14.8% | 11.9% 19.4% | 13.8% |
+| --- | ---------------------- | --- | ----------- | ----------- | ----- |
+(created 3 or more, 3-7)
+|           | % of Total              |     | 1.3% 5.4%   | 5.2% 1.9%  | 13.8%  |
+| --------- | ----------------------- | --- | ----------- | ---------- | ------ |
+| mid-sized | Count                   |     | 46 117      | 153        | 26 342 |
+|           | % within Car Type (new) |     | 13.5% 34.2% | 44.7% 7.6% | 100.0% |
+% within number of
+workers in a household
+|     |     |     | 27.9% 19.5% | 20.9% 15.8% | 20.6% |
+| --- | --- | --- | ----------- | ----------- | ----- |
+(created 3 or more, 3-7)
+|       | % of Total              |     | 2.8% 7.0%   | 9.2% 1.6%  | 20.6%  |
+| ----- | ----------------------- | --- | ----------- | ---------- | ------ |
+| large | Count                   |     | 15          | 17 18      | 3 53   |
+|       | % within Car Type (new) |     | 28.3% 32.1% | 34.0% 5.7% | 100.0% |
+% within number of
+|     | workers in a household |     | 9.1% 2.8% | 2.5% 1.8% | 3.2% |
+| --- | ---------------------- | --- | --------- | --------- | ---- |
+(created 3 or more, 3-7)
+|        | % of Total              |     | .9% 1.0%    | 1.1% .2%   | 3.2%   |
+| ------ | ----------------------- | --- | ----------- | ---------- | ------ |
+| luxury | Count                   |     | 9           | 21 24      | 4 58   |
+|        | % within Car Type (new) |     | 15.5% 36.2% | 41.4% 6.9% | 100.0% |
+% within number of
+|     | workers in a household |     | 5.5% 3.5% | 3.3% 2.4% | 3.5% |
+| --- | ---------------------- | --- | --------- | --------- | ---- |
+(created 3 or more, 3-7)
+|        | % of Total              |     | .5% 1.3%   | 1.4% .2%   | 3.5%   |
+| ------ | ----------------------- | --- | ---------- | ---------- | ------ |
+| sports | Count                   |     | 7          | 58 71      | 15 151 |
+|        | % within Car Type (new) |     | 4.6% 38.4% | 47.0% 9.9% | 100.0% |
+% within number of
+|     | workers in a household |     | 4.2% 9.7% | 9.7% 9.1% | 9.1% |
+| --- | ---------------------- | --- | --------- | --------- | ---- |
+(created 3 or more, 3-7)
+|             | % of Total              |     | .4% 3.5%    | 4.3% .9%    | 9.1%   |
+| ----------- | ----------------------- | --- | ----------- | ----------- | ------ |
+| minivan/van | Count                   |     | 15          | 29 46       | 20 110 |
+|             | % within Car Type (new) |     | 13.6% 26.4% | 41.8% 18.2% | 100.0% |
+% within number of
+|     | workers in a household |     | 9.1% 4.8% | 6.3% 12.1% | 6.6% |
+| --- | ---------------------- | --- | --------- | ---------- | ---- |
+(created 3 or more, 3-7)
+|        | % of Total              |     | .9% 1.7%   | 2.8% 1.2%  | 6.6%   |
+| ------ | ----------------------- | --- | ---------- | ---------- | ------ |
+| pickup | Count                   |     | 14         | 59 72      | 14 159 |
+|        | % within Car Type (new) |     | 8.8% 37.1% | 45.3% 8.8% | 100.0% |
+% within number of
+|     | workers in a household |     | 8.5% 9.8% | 9.8% 8.5% | 9.6% |
+| --- | ---------------------- | --- | --------- | --------- | ---- |
+(created 3 or more, 3-7)
+|     | % of Total              |     | .8% 3.5%   | 4.3% .8%    | 9.6%   |
+| --- | ----------------------- | --- | ---------- | ----------- | ------ |
+| SUV | Count                   |     | 13         | 64 93       | 21 191 |
+|     | % within Car Type (new) |     | 6.8% 33.5% | 48.7% 11.0% | 100.0% |
+% within number of
+|     | workers in a household |     | 7.9% 10.7% | 12.7% 12.7% | 11.5% |
+| --- | ---------------------- | --- | ---------- | ----------- | ----- |
+(created 3 or more, 3-7)
+|       | % of Total |     | .8% 3.9% | 5.6% 1.3% | 11.5% |
+| ----- | ---------- | --- | -------- | --------- | ----- |
+| Total | Count      |     | 165 600  | 732 165   | 1662  |
+% within Car Type (new)
+|     |     |     | 9.9% 36.1% | 44.0% 9.9% | 100.0% |
+| --- | --- | --- | ---------- | ---------- | ------ |
+% within number of
+|     | workers in a household |     | 100.0% 100.0% | 100.0% 100.0% | 100.0% |
+| --- | ---------------------- | --- | ------------- | ------------- | ------ |
+(created 3 or more, 3-7)
+|     | % of Total |     | 9.9% 36.1% | 44.0% 9.9% | 100.0% |
+| --- | ---------- | --- | ---------- | ---------- | ------ |
+
+Chi-Square Tests
+Asymp. Sig.
+|                    |     | Value   | df  | (2-sided) |     |
+| ------------------ | --- | ------- | --- | --------- | --- |
+| Pearson Chi-Square |     | 63.331a | 24  | .000      |     |
+| Likelihood Ratio   |     | 57.312  | 24  | .000      |     |
+Linear-by-Linear
+|     |     | 2.472 | 1   | .116 |     |
+| --- | --- | ----- | --- | ---- | --- |
+Association
+N of Valid Cases
+1662
+a. 0 cells (.0%) have expected count less than 5. The
+minimum expected count is 5.26.
+
+|     |     |     |     | 155 |     |
+| --- | --- | --- | --- | --- | --- |
+
+12. Number of Household Members by Vehicle Type
+Car Type (new) * number of persons in a household (created 5 or more, 5-9) Crosstabulation
+number of persons in a household (created 5 or more, 5-9)
+|           |                         |     | 1 2         | 3 4        | 5 or more Total |
+| --------- | ----------------------- | --- | ----------- | ---------- | --------------- |
+| Car small | Count                   |     | 122 142     | 70         | 29 9 372        |
+| Type      | % within Car Type (new) |     | 32.8% 38.2% | 18.8% 7.8% | 2.4% 100.0%     |
+(new)
+% within number of
+|     | persons in a household |     | 30.0% 20.9% | 23.4% 13.6% | 10.1% 22.1% |
+| --- | ---------------------- | --- | ----------- | ----------- | ----------- |
+(created 5 or more, 5-9)
+|         | % of Total              |     | 7.2% 8.4%   | 4.1% 1.7%   | .5% 22.1%   |
+| ------- | ----------------------- | --- | ----------- | ----------- | ----------- |
+| compact | Count                   |     | 72          | 82 44       | 25 14 237   |
+|         | % within Car Type (new) |     | 30.4% 34.6% | 18.6% 10.5% | 5.9% 100.0% |
+% within number of
+|     | persons in a household |     | 17.7% 12.1% | 14.7% 11.7% | 15.7% 14.0% |
+| --- | ---------------------- | --- | ----------- | ----------- | ----------- |
+(created 5 or more, 5-9)
+|           | % of Total              |     | 4.3% 4.9%   | 2.6% 1.5%   | .8% 14.0%   |
+| --------- | ----------------------- | --- | ----------- | ----------- | ----------- |
+| mid-sized | Count                   |     | 76 140      | 61          | 65 11 353   |
+|           | % within Car Type (new) |     | 21.5% 39.7% | 17.3% 18.4% | 3.1% 100.0% |
+% within number of
+|     | persons in a household |     | 18.7% 20.6% | 20.4% 30.4% | 12.4% 20.9% |
+| --- | ---------------------- | --- | ----------- | ----------- | ----------- |
+(created 5 or more, 5-9)
+|       | % of Total              |     | 4.5% 8.3%   | 3.6% 3.9%  | .7% 20.9%   |
+| ----- | ----------------------- | --- | ----------- | ---------- | ----------- |
+| large | Count                   |     | 9           | 33 8       | 1 2 53      |
+|       | % within Car Type (new) |     | 17.0% 62.3% | 15.1% 1.9% | 3.8% 100.0% |
+% within number of
+|     | persons in a household |     | 2.2% 4.9% | 2.7% | .5% 2.2% 3.1% |
+| --- | ---------------------- | --- | --------- | ---- | ------------- |
+(created 5 or more, 5-9)
+|        | % of Total              |     | .5% 2.0%    | .5%         | .1% .1% 3.1% |
+| ------ | ----------------------- | --- | ----------- | ----------- | ------------ |
+| luxury | Count                   |     | 10          | 24 15       | 6 3 58       |
+|        | % within Car Type (new) |     | 17.2% 41.4% | 25.9% 10.3% | 5.2% 100.0%  |
+% within number of
+|     | persons in a household |     | 2.5% 3.5% | 5.0% 2.8% | 3.4% 3.4% |
+| --- | ---------------------- | --- | --------- | --------- | --------- |
+(created 5 or more, 5-9)
+|        | % of Total              |     | .6% 1.4%    | .9%        | .4% .2% 3.4% |
+| ------ | ----------------------- | --- | ----------- | ---------- | ------------ |
+| sports | Count                   |     | 38          | 77 23      | 8 5 151      |
+|        | % within Car Type (new) |     | 25.2% 51.0% | 15.2% 5.3% | 3.3% 100.0%  |
+% within number of
+|     | persons in a household |     | 9.4% 11.3% | 7.7% 3.7% | 5.6% 9.0% |
+| --- | ---------------------- | --- | ---------- | --------- | --------- |
+(created 5 or more, 5-9)
+|             | % of Total              |     | 2.3% 4.6%  | 1.4%        | .5% .3% 9.0% |
+| ----------- | ----------------------- | --- | ---------- | ----------- | ------------ |
+| minivan/van | Count                   |     | 10         | 32 13       | 31 25 111    |
+|             | % within Car Type (new) |     | 9.0% 28.8% | 11.7% 27.9% | 22.5% 100.0% |
+% within number of
+|     | persons in a household |     | 2.5% 4.7% | 4.3% 14.5% | 28.1% 6.6% |
+| --- | ---------------------- | --- | --------- | ---------- | ---------- |
+(created 5 or more, 5-9)
+|        | % of Total              |     | .6% 1.9%    | .8% 1.8%    | 1.5% 6.6%   |
+| ------ | ----------------------- | --- | ----------- | ----------- | ----------- |
+| pickup | Count                   |     | 38          | 63 31       | 20 7 159    |
+|        | % within Car Type (new) |     | 23.9% 39.6% | 19.5% 12.6% | 4.4% 100.0% |
+% within number of
+|     | persons in a household |     | 9.4% 9.3% | 10.4% 9.3% | 7.9% 9.4% |
+| --- | ---------------------- | --- | --------- | ---------- | --------- |
+(created 5 or more, 5-9)
+|     | % of Total |     | 2.3% 3.7% | 1.8% 1.2% | .4% 9.4%  |
+| --- | ---------- | --- | --------- | --------- | --------- |
+| SUV | Count      |     | 31        | 86 34     | 29 13 193 |
+% within Car Type (new)
+|     |     |     | 16.1% 44.6% | 17.6% 15.0% | 6.7% 100.0% |
+| --- | --- | --- | ----------- | ----------- | ----------- |
+% within number of
+|     | persons in a household |     | 7.6% 12.7% | 11.4% 13.6% | 14.6% 11.4% |
+| --- | ---------------------- | --- | ---------- | ----------- | ----------- |
+(created 5 or more, 5-9)
+|       | % of Total              |     | 1.8% 5.1%   | 2.0% 1.7%   | .8% 11.4%   |
+| ----- | ----------------------- | --- | ----------- | ----------- | ----------- |
+| Total | Count                   |     | 406 679     | 299         | 214 89 1687 |
+|       | % within Car Type (new) |     | 24.1% 40.2% | 17.7% 12.7% | 5.3% 100.0% |
+% within number of
+|     | persons in a household |     | 100.0% 100.0% | 100.0% 100.0% | 100.0% 100.0% |
+| --- | ---------------------- | --- | ------------- | ------------- | ------------- |
+(created 5 or more, 5-9)
+|     | % of Total |     | 24.1% 40.2% | 17.7% 12.7% | 5.3% 100.0% |
+| --- | ---------- | --- | ----------- | ----------- | ----------- |
+
+Chi-Square Tests
+Asymp. Sig.
+|                    |     | Value    | df  | (2-sided) |     |
+| ------------------ | --- | -------- | --- | --------- | --- |
+| Pearson Chi-Square |     | 181.685a | 32  | .000      |     |
+| Likelihood Ratio   |     | 156.966  | 32  | .000      |     |
+Linear-by-Linear
+|     |     | 27.881 | 1   | .000 |     |
+| --- | --- | ------ | --- | ---- | --- |
+Association
+| N of Valid Cases |     | 1687 |     |     |     |
+| ---------------- | --- | ---- | --- | --- | --- |
+a. 2 cells (4.4%) have expected count less than 5. The
+minimum expected count is 2.80.
+
+|     |     |     |     | 156 |     |
+| --- | --- | --- | --- | --- | --- |
+
+13. Number of Household Members under 19 by Vehicle Type
+NEWTYPE1 * AGE18ALT Crosstabulation
+AGE18ALT
+|          |       |                   |     | 0 1         | 2 or more | Total  |
+| -------- | ----- | ----------------- | --- | ----------- | --------- | ------ |
+| NEWTYPE1 | small | Count             |     | 298         | 43 28     | 369    |
+|          |       | % within NEWTYPE1 |     | 80.8% 11.7% | 7.6%      | 100.0% |
+|          |       | % within AGE18ALT |     | 24.1% 20.4% | 12.1%     | 22.0%  |
+% of Total
+|     |           |                   |     | 17.7% 2.6%  | 1.7%  | 22.0%  |
+| --- | --------- | ----------------- | --- | ----------- | ----- | ------ |
+|     | compact   | Count             |     | 178         | 28 30 | 236    |
+|     |           | % within NEWTYPE1 |     | 75.4% 11.9% | 12.7% | 100.0% |
+|     |           | % within AGE18ALT |     | 14.4% 13.3% | 13.0% | 14.0%  |
+|     |           | % of Total        |     | 10.6% 1.7%  | 1.8%  | 14.0%  |
+|     | mid-sized | Count             |     | 248         | 47 58 | 353    |
+|     |           | % within NEWTYPE1 |     | 70.3% 13.3% | 16.4% | 100.0% |
+% within AGE18ALT
+|     |        |                   |     | 20.0% 22.3% | 25.1% | 21.0%  |
+| --- | ------ | ----------------- | --- | ----------- | ----- | ------ |
+|     |        | % of Total        |     | 14.8% 2.8%  | 3.5%  | 21.0%  |
+|     | large  | Count             |     | 48          | 2 3   | 53     |
+|     |        | % within NEWTYPE1 |     | 90.6% 3.8%  | 5.7%  | 100.0% |
+|     |        | % within AGE18ALT |     | 3.9% .9%    | 1.3%  | 3.2%   |
+|     |        | % of Total        |     | 2.9% .1%    | .2%   | 3.2%   |
+|     | luxury | Count             |     | 42          | 9 7   | 58     |
+% within NEWTYPE1
+|     |             |                   |     | 72.4% 15.5% | 12.1% | 100.0% |
+| --- | ----------- | ----------------- | --- | ----------- | ----- | ------ |
+|     |             | % within AGE18ALT |     | 3.4% 4.3%   | 3.0%  | 3.5%   |
+|     |             | % of Total        |     | 2.5% .5%    | .4%   | 3.5%   |
+|     | sports      | Count             |     | 124         | 17 8  | 149    |
+|     |             | % within NEWTYPE1 |     | 83.2% 11.4% | 5.4%  | 100.0% |
+|     |             | % within AGE18ALT |     | 10.0% 8.1%  | 3.5%  | 8.9%   |
+|     |             | % of Total        |     | 7.4% 1.0%   | .5%   | 8.9%   |
+|     | minivan/van | Count             |     |             |       |        |
+|     |             |                   |     | 45          | 19 47 | 111    |
+|     |             | % within NEWTYPE1 |     | 40.5% 17.1% | 42.3% | 100.0% |
+|     |             | % within AGE18ALT |     | 3.6% 9.0%   | 20.3% | 6.6%   |
+|     |             | % of Total        |     | 2.7% 1.1%   | 2.8%  | 6.6%   |
+|     | pickup      | Count             |     | 122         | 19 18 | 159    |
+|     |             | % within NEWTYPE1 |     | 76.7% 11.9% | 11.3% | 100.0% |
+|     |             | % within AGE18ALT |     | 9.8% 9.0%   | 7.8%  | 9.5%   |
+% of Total
+|       |     |                   |     | 7.3% 1.1%   | 1.1%  | 9.5%   |
+| ----- | --- | ----------------- | --- | ----------- | ----- | ------ |
+|       | SUV | Count             |     | 134         | 27 32 | 193    |
+|       |     | % within NEWTYPE1 |     | 69.4% 14.0% | 16.6% | 100.0% |
+|       |     | % within AGE18ALT |     | 10.8% 12.8% | 13.9% | 11.5%  |
+|       |     | % of Total        |     | 8.0% 1.6%   | 1.9%  | 11.5%  |
+| Total |     | Count             |     | 1239 211    | 231   | 1681   |
+|       |     | % within NEWTYPE1 |     | 73.7% 12.6% | 13.7% | 100.0% |
+% within AGE18ALT
+|     |     |            | 100.0% | 100.0%      | 100.0% | 100.0% |
+| --- | --- | ---------- | ------ | ----------- | ------ | ------ |
+|     |     | % of Total |        | 73.7% 12.6% | 13.7%  | 100.0% |
+
+Chi-Square Tests
+Asymp. Sig.
+|                    |     | Value    | df (2-sided) |      |     |     |
+| ------------------ | --- | -------- | ------------ | ---- | --- | --- |
+| Pearson Chi-Square |     | 121.124a | 16           | .000 |     |     |
+Likelihood Ratio
+|     |     | 106.252 | 16  | .000 |     |     |
+| --- | --- | ------- | --- | ---- | --- | --- |
+Linear-by-Linear
+|     |     | 14.991 | 1   | .000 |     |     |
+| --- | --- | ------ | --- | ---- | --- | --- |
+Association
+| N of Valid Cases |     | 1681 |     |     |     |     |
+| ---------------- | --- | ---- | --- | --- | --- | --- |
+a. 0 cells (.0%) have expected count less than 5. The
+minimum expected count is 6.65.
+
+|     |     |     |     | 157 |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+
+14. Number of Household Members Age 19-40 by Vehicle Type
+NEWTYPE1 * AL19_40 Crosstabulation
+AL19_40
+|          |         |                   | 0     | 1     | 2 3 or more | Total  |
+| -------- | ------- | ----------------- | ----- | ----- | ----------- | ------ |
+| NEWTYPE1 | small   | Count             | 135   | 115   | 102 17      | 369    |
+|          |         | % within NEWTYPE1 | 36.6% | 31.2% | 27.6% 4.6%  | 100.0% |
+|          |         | % within AL19_40  | 16.6% | 27.3% | 26.7% 27.4% | 22.0%  |
+|          |         | % of Total        | 8.0%  | 6.8%  | 6.1% 1.0%   | 22.0%  |
+|          | compact | Count             | 116   | 65    | 41 14       | 236    |
+|          |         | % within NEWTYPE1 | 49.2% | 27.5% | 17.4% 5.9%  | 100.0% |
+|          |         | % within AL19_40  | 14.2% | 15.4% | 10.7% 22.6% | 14.0%  |
+% of Total
+|     |           |                   | 6.9%  | 3.9%  | 2.4% .8%   | 14.0%  |
+| --- | --------- | ----------------- | ----- | ----- | ---------- | ------ |
+|     | mid-sized | Count             | 207   | 75    | 66 5       | 353    |
+|     |           | % within NEWTYPE1 | 58.6% | 21.2% | 18.7% 1.4% | 100.0% |
+|     |           | % within AL19_40  | 25.4% | 17.8% | 17.3% 8.1% | 21.0%  |
+|     |           | % of Total        | 12.3% | 4.5%  | 3.9% .3%   | 21.0%  |
+|     | large     | Count             |       | 39 8  | 4 2        | 53     |
+|     |           | % within NEWTYPE1 | 73.6% | 15.1% | 7.5% 3.8%  | 100.0% |
+|     |           | % within AL19_40  | 4.8%  | 1.9%  | 1.0% 3.2%  | 3.2%   |
+|     |           | % of Total        | 2.3%  | .5%   | .2% .1%    | 3.2%   |
+|     | luxury    | Count             |       | 40 11 | 6 1        | 58     |
+|     |           | % within NEWTYPE1 | 69.0% | 19.0% | 10.3% 1.7% | 100.0% |
+% within AL19_40
+|     |     |     | 4.9% | 2.6% | 1.6% 1.6% | 3.5% |
+| --- | --- | --- | ---- | ---- | --------- | ---- |
+% of Total
+|     |             |                   | 2.4%  | .7%   | .4% .1%     | 3.5%   |
+| --- | ----------- | ----------------- | ----- | ----- | ----------- | ------ |
+|     | sports      | Count             |       | 65 37 | 39 8        | 149    |
+|     |             | % within NEWTYPE1 | 43.6% | 24.8% | 26.2% 5.4%  | 100.0% |
+|     |             | % within AL19_40  | 8.0%  | 8.8%  | 10.2% 12.9% | 8.9%   |
+|     |             | % of Total        | 3.9%  | 2.2%  | 2.3% .5%    | 8.9%   |
+|     | minivan/van | Count             |       | 60 23 | 26 2        | 111    |
+|     |             | % within NEWTYPE1 | 54.1% | 20.7% | 23.4% 1.8%  | 100.0% |
+|     |             | % within AL19_40  | 7.4%  | 5.5%  | 6.8% 3.2%   | 6.6%   |
+|     |             | % of Total        | 3.6%  | 1.4%  | 1.5% .1%    | 6.6%   |
+|     | pickup      | Count             |       | 79 38 | 35 7        | 159    |
+|     |             | % within NEWTYPE1 | 49.7% | 23.9% | 22.0% 4.4%  | 100.0% |
+% within AL19_40
+|       |     |                   | 9.7%   | 9.0%   | 9.2% 11.3%    | 9.5%   |
+| ----- | --- | ----------------- | ------ | ------ | ------------- | ------ |
+|       |     | % of Total        | 4.7%   | 2.3%   | 2.1% .4%      | 9.5%   |
+|       | SUV | Count             |        | 74 50  | 63 6          | 193    |
+|       |     | % within NEWTYPE1 | 38.3%  | 25.9%  | 32.6% 3.1%    | 100.0% |
+|       |     | % within AL19_40  | 9.1%   | 11.8%  | 16.5% 9.7%    | 11.5%  |
+|       |     | % of Total        | 4.4%   | 3.0%   | 3.7% .4%      | 11.5%  |
+| Total |     | Count             | 815    | 422    | 382 62        | 1681   |
+|       |     | % within NEWTYPE1 | 48.5%  | 25.1%  | 22.7% 3.7%    | 100.0% |
+|       |     | % within AL19_40  | 100.0% | 100.0% | 100.0% 100.0% | 100.0% |
+|       |     | % of Total        | 48.5%  | 25.1%  | 22.7% 3.7%    | 100.0% |
+
+Chi-Square Tests
+Asymp. Sig.
+|                    |     | Value   | df (2-sided) |      |     |     |
+| ------------------ | --- | ------- | ------------ | ---- | --- | --- |
+| Pearson Chi-Square |     | 87.945a | 24           | .000 |     |     |
+| Likelihood Ratio   |     | 90.712  | 24           | .000 |     |     |
+Linear-by-Linear
+.085 1 .771
+Association
+| N of Valid Cases |     | 1681 |     |     |     |     |
+| ---------------- | --- | ---- | --- | --- | --- | --- |
+a. 3 cells (8.3%) have expected count less than 5. The
+minimum expected count is 1.95.
+
+|     |     |     | 158 |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+
+15. Number of Household Members Age 41-64 by Vehicle Type
+NEWTYPE1 * AL41_64 Crosstabulation
+AL41_64
+|          |         |                   |     | 0 1         | 2 or more | Total  |
+| -------- | ------- | ----------------- | --- | ----------- | --------- | ------ |
+| NEWTYPE1 | small   | Count             |     | 199 103     | 67        | 369    |
+|          |         | % within NEWTYPE1 |     | 53.9% 27.9% | 18.2%     | 100.0% |
+|          |         | % within AL41_64  |     | 27.0% 22.3% | 13.9%     | 22.0%  |
+|          |         | % of Total        |     | 11.8% 6.1%  | 4.0%      | 22.0%  |
+|          | compact | Count             |     | 99          | 80 57     | 236    |
+|          |         | % within NEWTYPE1 |     | 41.9% 33.9% | 24.2%     | 100.0% |
+|          |         | % within AL41_64  |     | 13.4% 17.4% | 11.8%     | 14.0%  |
+% of Total
+|     |           |                   |     | 5.9% 4.8%   | 3.4%   | 14.0%  |
+| --- | --------- | ----------------- | --- | ----------- | ------ | ------ |
+|     | mid-sized | Count             |     | 141         | 90 122 | 353    |
+|     |           | % within NEWTYPE1 |     | 39.9% 25.5% | 34.6%  | 100.0% |
+|     |           | % within AL41_64  |     | 19.1% 19.5% | 25.3%  | 21.0%  |
+|     |           | % of Total        |     | 8.4% 5.4%   | 7.3%   | 21.0%  |
+|     | large     | Count             |     | 26          | 13 14  | 53     |
+|     |           | % within NEWTYPE1 |     | 49.1% 24.5% | 26.4%  | 100.0% |
+|     |           | % within AL41_64  |     | 3.5% 2.8%   | 2.9%   | 3.2%   |
+|     |           | % of Total        |     | 1.5% .8%    | .8%    | 3.2%   |
+|     | luxury    | Count             |     | 21          | 16 21  | 58     |
+|     |           | % within NEWTYPE1 |     | 36.2% 27.6% | 36.2%  | 100.0% |
+% within AL41_64
+|     |             |                   |     | 2.8% 3.5%   | 4.3%  | 3.5%   |
+| --- | ----------- | ----------------- | --- | ----------- | ----- | ------ |
+|     |             | % of Total        |     | 1.2% 1.0%   | 1.2%  | 3.5%   |
+|     | sports      | Count             |     | 67          | 45 37 | 149    |
+|     |             | % within NEWTYPE1 |     | 45.0% 30.2% | 24.8% | 100.0% |
+|     |             | % within AL41_64  |     | 9.1% 9.8%   | 7.7%  | 8.9%   |
+|     |             | % of Total        |     | 4.0% 2.7%   | 2.2%  | 8.9%   |
+|     | minivan/van | Count             |     | 41          | 19 51 | 111    |
+|     |             | % within NEWTYPE1 |     | 36.9% 17.1% | 45.9% | 100.0% |
+|     |             | % within AL41_64  |     | 5.6% 4.1%   | 10.6% | 6.6%   |
+|     |             | % of Total        |     | 2.4% 1.1%   | 3.0%  | 6.6%   |
+|     | pickup      | Count             |     | 55          | 54 50 | 159    |
+% within NEWTYPE1
+|       |     |                   |     | 34.6% 34.0%   | 31.4%  | 100.0% |
+| ----- | --- | ----------------- | --- | ------------- | ------ | ------ |
+|       |     | % within AL41_64  |     | 7.5% 11.7%    | 10.4%  | 9.5%   |
+|       |     | % of Total        |     | 3.3% 3.2%     | 3.0%   | 9.5%   |
+|       | SUV | Count             |     | 88            | 41 64  | 193    |
+|       |     | % within NEWTYPE1 |     | 45.6% 21.2%   | 33.2%  | 100.0% |
+|       |     | % within AL41_64  |     | 11.9% 8.9%    | 13.3%  | 11.5%  |
+|       |     | % of Total        |     | 5.2% 2.4%     | 3.8%   | 11.5%  |
+| Total |     | Count             |     | 737 461       | 483    | 1681   |
+|       |     | % within NEWTYPE1 |     | 43.8% 27.4%   | 28.7%  | 100.0% |
+|       |     | % within AL41_64  |     | 100.0% 100.0% | 100.0% | 100.0% |
+|       |     | % of Total        |     | 43.8% 27.4%   | 28.7%  | 100.0% |
+
+Chi-Square Tests
+Asymp. Sig.
+|                    |     | Value   | df (2-sided) |      |     |     |
+| ------------------ | --- | ------- | ------------ | ---- | --- | --- |
+| Pearson Chi-Square |     | 65.182a | 16           | .000 |     |     |
+| Likelihood Ratio   |     | 65.580  | 16           | .000 |     |     |
+Linear-by-Linear
+|     |     | 15.384 | 1   | .000 |     |     |
+| --- | --- | ------ | --- | ---- | --- | --- |
+Association
+| N of Valid Cases |     | 1681 |     |     |     |     |
+| ---------------- | --- | ---- | --- | --- | --- | --- |
+a. 0 cells (.0%) have expected count less than 5. The
+minimum expected count is 14.53.
+
+|     |     |     |     | 159 |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+
+16. Number of Household Members Age 65 or Older by Vehicle Type
+NEWTYPE1 * ALT65TO Crosstabulation
+ALT65TO
+|          |           |                   |     | 0     | 1     | 2 or more | Total  |
+| -------- | --------- | ----------------- | --- | ----- | ----- | --------- | ------ |
+| NEWTYPE1 | small     | Count             |     | 323   | 31    | 15        | 369    |
+|          |           | % within NEWTYPE1 |     | 87.5% | 8.4%  | 4.1%      | 100.0% |
+|          |           | % within ALT65TO  |     | 23.1% | 19.7% | 11.7%     | 22.0%  |
+|          |           | % of Total        |     | 19.2% | 1.8%  | .9%       | 22.0%  |
+|          | compact   | Count             |     | 194   | 30    | 12        | 236    |
+|          |           | % within NEWTYPE1 |     | 82.2% | 12.7% | 5.1%      | 100.0% |
+|          |           | % within ALT65TO  |     | 13.9% | 19.1% | 9.4%      | 14.0%  |
+|          |           | % of Total        |     | 11.5% | 1.8%  | .7%       | 14.0%  |
+|          | mid-sized | Count             |     | 271   | 43    | 39        | 353    |
+|          |           | % within NEWTYPE1 |     | 76.8% | 12.2% | 11.0%     | 100.0% |
+|          |           | % within ALT65TO  |     | 19.4% | 27.4% | 30.5%     | 21.0%  |
+|          |           | % of Total        |     | 16.1% | 2.6%  | 2.3%      | 21.0%  |
+|          | large     | Count             |     | 27    | 11    | 15        | 53     |
+% within NEWTYPE1
+|     |     |     |     | 50.9% | 20.8% | 28.3% | 100.0% |
+| --- | --- | --- | --- | ----- | ----- | ----- | ------ |
+% within ALT65TO
+|     |             |                   |     | 1.9%  | 7.0%  | 11.7% | 3.2%   |
+| --- | ----------- | ----------------- | --- | ----- | ----- | ----- | ------ |
+|     |             | % of Total        |     | 1.6%  | .7%   | .9%   | 3.2%   |
+|     | luxury      | Count             |     | 35    | 13    | 10    | 58     |
+|     |             | % within NEWTYPE1 |     | 60.3% | 22.4% | 17.2% | 100.0% |
+|     |             | % within ALT65TO  |     | 2.5%  | 8.3%  | 7.8%  | 3.5%   |
+|     |             | % of Total        |     | 2.1%  | .8%   | .6%   | 3.5%   |
+|     | sports      | Count             |     | 135   | 8     | 6     | 149    |
+|     |             | % within NEWTYPE1 |     | 90.6% | 5.4%  | 4.0%  | 100.0% |
+|     |             | % within ALT65TO  |     | 9.7%  | 5.1%  | 4.7%  | 8.9%   |
+|     |             | % of Total        |     | 8.0%  | .5%   | .4%   | 8.9%   |
+|     | minivan/van | Count             |     | 91    | 8     | 12    | 111    |
+|     |             | % within NEWTYPE1 |     | 82.0% | 7.2%  | 10.8% | 100.0% |
+|     |             | % within ALT65TO  |     | 6.5%  | 5.1%  | 9.4%  | 6.6%   |
+|     |             | % of Total        |     | 5.4%  | .5%   | .7%   | 6.6%   |
+|     | pickup      | Count             |     | 141   | 7     | 11    | 159    |
+|     |             | % within NEWTYPE1 |     | 88.7% | 4.4%  | 6.9%  | 100.0% |
+|     |             | % within ALT65TO  |     | 10.1% | 4.5%  | 8.6%  | 9.5%   |
+% of Total
+|       |     |                   |     | 8.4%   | .4%    | .7%    | 9.5%   |
+| ----- | --- | ----------------- | --- | ------ | ------ | ------ | ------ |
+|       | SUV | Count             |     |        |        |        |        |
+|       |     |                   |     | 179    | 6      | 8      | 193    |
+|       |     | % within NEWTYPE1 |     | 92.7%  | 3.1%   | 4.1%   | 100.0% |
+|       |     | % within ALT65TO  |     | 12.8%  | 3.8%   | 6.3%   | 11.5%  |
+|       |     | % of Total        |     | 10.6%  | .4%    | .5%    | 11.5%  |
+| Total |     | Count             |     | 1396   | 157    | 128    | 1681   |
+|       |     | % within NEWTYPE1 |     | 83.0%  | 9.3%   | 7.6%   | 100.0% |
+|       |     | % within ALT65TO  |     | 100.0% | 100.0% | 100.0% | 100.0% |
+|       |     | % of Total        |     | 83.0%  | 9.3%   | 7.6%   | 100.0% |
+
+Chi-Square Tests
+Asymp. Sig.
+|                    |     | Value    | df  | (2-sided) |     |     |     |
+| ------------------ | --- | -------- | --- | --------- | --- | --- | --- |
+| Pearson Chi-Square |     | 113.673a |     |           |     |     |     |
+|                    |     |          | 16  | .000      |     |     |     |
+| Likelihood Ratio   |     | 101.486  | 16  | .000      |     |     |     |
+Linear-by-Linear
+|     |     | 2.404 | 1   | .121 |     |     |     |
+| --- | --- | ----- | --- | ---- | --- | --- | --- |
+Association
+| N of Valid Cases |     | 1681 |     |     |     |     |     |
+| ---------------- | --- | ---- | --- | --- | --- | --- | --- |
+a. 3 cells (11.1%) have expected count less than 5. The
+minimum expected count is 4.04.
+
+|     |     |     |     | 160 |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
+APPENDIX 4. CROSS-TABULATIONS INVOLVING ATTITUDINAL,
+AND PERSONALITY AND LIFESTYLE CLUSTERS
+
+1. Six Attitudinal Clusters by Vehicle Type
+Vehicle Type * Cluster Number of Case Crosstabulation
+Cluster Number of Case
+|         |       |                       |              |       |               |       | Homemakers |              | Adventurous, |              |        |
+| ------- | ----- | --------------------- | ------------ | ----- | ------------- | ----- | ---------- | ------------ | ------------ | ------------ | ------ |
+|         |       |                       | Affluent     |       | Transit Using |       | and Older  |              | Excess       | Car-oriented |        |
+|         |       |                       | Professional |       | Urbanite      |       | Worker     | Travel Hater | Traveler     | Suburbanite  | Total  |
+| Vehicle | small | Count                 |              | 62    |               | 75    | 68         |              | 37 97        | 33           | 372    |
+| Type    |       | % within Vehicle Type |              |       |               |       |            |              |              |              |        |
+|         |       |                       |              | 16.7% |               | 20.2% | 18.3%      | 9.9%         | 26.1%        | 8.9%         | 100.0% |
+% within Cluster
+|     |     |     |     | 19.9% |     | 34.1% | 19.4% | 18.0% | 29.8% | 12.1% | 22.1% |
+| --- | --- | --- | --- | ----- | --- | ----- | ----- | ----- | ----- | ----- | ----- |
+Number of Case
+|     | compact | Count |     |     |     |     |     |     |       |     |     |
+| --- | ------- | ----- | --- | --- | --- | --- | --- | --- | ----- | --- | --- |
+|     |         |       |     | 49  |     | 32  | 56  |     | 31 43 | 26  | 237 |
+% within Vehicle Type 20.7% 13.5% 23.6% 13.1% 18.1% 11.0% 100.0%
+% within Cluster
+|     |           | Number of Case |     | 15.8% |     | 14.5% | 16.0% | 15.0% | 13.2% | 9.5% | 14.0% |
+| --- | --------- | -------------- | --- | ----- | --- | ----- | ----- | ----- | ----- | ---- | ----- |
+|     | mid-sized | Count          |     | 82    |     | 30    | 84    |       | 50 59 | 48   | 353   |
+% within Vehicle Type 23.2% 8.5% 23.8% 14.2% 16.7% 13.6% 100.0%
+% within Cluster
+|     |       | Number of Case |     | 26.4% |     | 13.6% | 23.9% | 24.3% | 18.1% | 17.6% | 20.9% |
+| --- | ----- | -------------- | --- | ----- | --- | ----- | ----- | ----- | ----- | ----- | ----- |
+|     | large | Count          |     | 7     |     | 5     | 15    |       | 8 4   | 14    | 53    |
+% within Vehicle Type 13.2% 9.4% 28.3% 15.1% 7.5% 26.4% 100.0%
+|     |     | % within Cluster |     | 2.3% |     | 2.3% | 4.3% | 3.9% | 1.2% | 5.1% | 3.1% |
+| --- | --- | ---------------- | --- | ---- | --- | ---- | ---- | ---- | ---- | ---- | ---- |
+Number of Case
+|     | luxury | Count |     | 10  |     | 7   | 6   |     | 9 16 | 10  | 58  |
+| --- | ------ | ----- | --- | --- | --- | --- | --- | --- | ---- | --- | --- |
+% within Vehicle Type 17.2% 12.1% 10.3% 15.5% 27.6% 17.2% 100.0%
+% within Cluster
+|     |     |     |     | 3.2% |     | 3.2% | 1.7% | 4.4% | 4.9% | 3.7% | 3.4% |
+| --- | --- | --- | --- | ---- | --- | ---- | ---- | ---- | ---- | ---- | ---- |
+Number of Case
+|     | sports | Count |     | 30  |     | 21  | 23  |     | 14 38 | 25  | 151 |
+| --- | ------ | ----- | --- | --- | --- | --- | --- | --- | ----- | --- | --- |
+% within Vehicle Type
+|     |     |     |     | 19.9% |     | 13.9% | 15.2% | 9.3% | 25.2% | 16.6% | 100.0% |
+| --- | --- | --- | --- | ----- | --- | ----- | ----- | ---- | ----- | ----- | ------ |
+% within Cluster
+|     |     |     |     | 9.6% |     | 9.5% | 6.6% | 6.8% | 11.7% | 9.2% | 9.0% |
+| --- | --- | --- | --- | ---- | --- | ---- | ---- | ---- | ----- | ---- | ---- |
+Number of Case
+|     | minivan/van | Count |     |     |     |     |     |     |       |     |     |
+| --- | ----------- | ----- | --- | --- | --- | --- | --- | --- | ----- | --- | --- |
+|     |             |       |     | 15  |     | 14  | 27  |     | 13 15 | 27  | 111 |
+% within Vehicle Type 13.5% 12.6% 24.3% 11.7% 13.5% 24.3% 100.0%
+% within Cluster
+|     |        | Number of Case |     | 4.8% |     | 6.4% | 7.7% | 6.3% | 4.6%  | 9.9% | 6.6% |
+| --- | ------ | -------------- | --- | ---- | --- | ---- | ---- | ---- | ----- | ---- | ---- |
+|     | pickup | Count          |     | 19   |     | 21   | 42   |      | 19 17 | 41   | 159  |
+% within Vehicle Type 11.9% 13.2% 26.4% 11.9% 10.7% 25.8% 100.0%
+% within Cluster
+|     |     | Number of Case |     | 6.1% |     | 9.5% | 12.0% | 9.2% | 5.2%  | 15.0% | 9.4% |
+| --- | --- | -------------- | --- | ---- | --- | ---- | ----- | ---- | ----- | ----- | ---- |
+|     | SUV | Count          |     | 37   |     | 15   | 30    |      | 25 37 | 49    | 193  |
+% within Vehicle Type 19.2% 7.8% 15.5% 13.0% 19.2% 25.4% 100.0%
+|     |     | % within Cluster |     | 11.9% |     | 6.8% | 8.5% | 12.1% | 11.3% | 17.9% | 11.4% |
+| --- | --- | ---------------- | --- | ----- | --- | ---- | ---- | ----- | ----- | ----- | ----- |
+Number of Case
+| Total |     | Count |     | 311 |     | 220 | 351 | 206 | 326 | 273 | 1687 |
+| ----- | --- | ----- | --- | --- | --- | --- | --- | --- | --- | --- | ---- |
+% within Vehicle Type 18.4% 13.0% 20.8% 12.2% 19.3% 16.2% 100.0%
+% within Cluster
+|     |     |     |     | 100.0% |     | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% |
+| --- | --- | --- | --- | ------ | --- | ------ | ------ | ------ | ------ | ------ | ------ |
+Number of Case
+
+Chi-Square Tests
+Asymp. Sig.
+|                    |     | Value    | df  |     | (2-sided) |      |     |     |     |     |     |
+| ------------------ | --- | -------- | --- | --- | --------- | ---- | --- | --- | --- | --- | --- |
+| Pearson Chi-Square |     | 129.211a |     |     |           |      |     |     |     |     |     |
+|                    |     |          |     | 40  |           | .000 |     |     |     |     |     |
+| Likelihood Ratio   |     | 130.172  |     | 40  |           | .000 |     |     |     |     |     |
+Linear-by-Linear
+|     |     | 19.573 |     | 1   |     | .000 |     |     |     |     |     |
+| --- | --- | ------ | --- | --- | --- | ---- | --- | --- | --- | --- | --- |
+Association
+| N of Valid Cases |     | 1687 |     |     |     |     |     |     |     |     |     |
+| ---------------- | --- | ---- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+a. 0 cells (.0%) have expected count less than 5. The
+minimum expected count is 6.47.
+
+|     |     |     |     |     | 161 |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+2. Eleven Personality and Lifestyle Clusters by Vehicle Type
+Vehicle Type * Cluster Number of Case Crosstabulation
+Cluster Number of Case
+|     |     |     |     |     |     | Status |     |     | The |     |     |     |
+| --- | --- | --- | --- | --- | --- | ------ | --- | --- | --- | --- | --- | --- |
+New Family Mobile Transit Assistant Seeking Suburban and Older and Middle-of-th Travel Lovin' Frustrated
+Model Homebodies Yuppies Advocates V.P.s Workaholics Stationary Independent e-roaders Transit User Loner Total
+| Vehicle small | Count | 34 29 | 30  | 46  | 31  | 21  | 37  | 31  | 29  | 46  | 38  | 372 |
+| ------------- | ----- | ----- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+Type
+% within Vehicle Typ 9.1% 7.8% 8.1% 12.4% 8.3% 5.6% 9.9% 8.3% 7.8% 12.4% 10.2% 100.0%
+% within Cluster
+18.2% 21.5% 25.4% 27.9% 17.0% 13.8% 19.8% 19.5% 19.3% 39.7% 27.9% 22.1%
+Number of Case
+| compact | Count | 22 21 | 13  | 29  | 24  | 19  | 38  | 21  | 19  | 12  | 19  | 237 |
+| ------- | ----- | ----- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+% within Vehicle Typ 9.3% 8.9% 5.5% 12.2% 10.1% 8.0% 16.0% 8.9% 8.0% 5.1% 8.0% 100.0%
+% within Cluster 11.8% 15.6% 11.0% 17.6% 13.2% 12.5% 20.3% 13.2% 12.7% 10.3% 14.0% 14.0%
+Number of Case
+| mid-sized | Count | 33 27 | 16  | 31  | 49  | 38  | 40  | 34  | 46  | 17  | 22  | 353 |
+| --------- | ----- | ----- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+% within Vehicle Typ 9.3% 7.6% 4.5% 8.8% 13.9% 10.8% 11.3% 9.6% 13.0% 4.8% 6.2% 100.0%
+% within Cluster
+Number of Case 17.6% 20.0% 13.6% 18.8% 26.9% 25.0% 21.4% 21.4% 30.7% 14.7% 16.2% 20.9%
+| large | Count | 7 7 |     | 2   | 8   | 4   | 7   | 4   | 7   | 1   | 6   | 53  |
+| ----- | ----- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+% within Vehicle Typ 13.2% 13.2% 3.8% 15.1% 7.5% 13.2% 7.5% 13.2% 1.9% 11.3% 100.0%
+% within Cluster
+|     |     | 3.7% 5.2% |     | 1.2% | 4.4% | 2.6% | 3.7% | 2.5% | 4.7% | .9% | 4.4% | 3.1% |
+| --- | --- | --------- | --- | ---- | ---- | ---- | ---- | ---- | ---- | --- | ---- | ---- |
+Number of Case
+| luxury | Count | 9 2 | 2   | 6   | 7   | 13  | 6   | 8   | 2   | 1   | 2   | 58  |
+| ------ | ----- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+% within Vehicle Typ
+15.5% 3.4% 3.4% 10.3% 12.1% 22.4% 10.3% 13.8% 3.4% 1.7% 3.4% 100.0%
+% within Cluster
+|     |     | 4.8% 1.5% | 1.7% | 3.6% | 3.8% | 8.6% | 3.2% | 5.0% | 1.3% | .9% | 1.5% | 3.4% |
+| --- | --- | --------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | --- | ---- | ---- |
+Number of Case
+| sports | Count | 21 11 | 19  | 15  | 14  | 18  | 9   | 11  | 6   | 12  | 15  | 151 |
+| ------ | ----- | ----- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+% within Vehicle Typ 13.9% 7.3% 12.6% 9.9% 9.3% 11.9% 6.0% 7.3% 4.0% 7.9% 9.9% 100.0%
+% within Cluster 11.2% 8.1% 16.1% 9.1% 7.7% 11.8% 4.8% 6.9% 4.0% 10.3% 11.0% 9.0%
+Number of Case
+| minivan/vanCount |     | 10 11 | 7   | 9   | 13  | 8   | 16  | 9   | 13  | 10  | 5   | 111 |
+| ---------------- | --- | ----- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+% within Vehicle Typ 9.0% 9.9% 6.3% 8.1% 11.7% 7.2% 14.4% 8.1% 11.7% 9.0% 4.5% 100.0%
+% within Cluster
+Number of Case 5.3% 8.1% 5.9% 5.5% 7.1% 5.3% 8.6% 5.7% 8.7% 8.6% 3.7% 6.6%
+| pickup | Count | 22 9 | 11  | 11  | 23  | 18  | 17  | 15  | 11  | 7   | 15  | 159 |
+| ------ | ----- | ---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+% within Vehicle Typ 13.8% 5.7% 6.9% 6.9% 14.5% 11.3% 10.7% 9.4% 6.9% 4.4% 9.4% 100.0%
+% within Cluster
+11.8% 6.7% 9.3% 6.7% 12.6% 11.8% 9.1% 9.4% 7.3% 6.0% 11.0% 9.4%
+Number of Case
+| SUV | Count |       |     |     |     |     |     |     |     |     |     |     |
+| --- | ----- | ----- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|     |       | 29 18 | 20  | 16  | 13  | 13  | 17  | 26  | 17  | 10  | 14  | 193 |
+% within Vehicle Typ 15.0% 9.3% 10.4% 8.3% 6.7% 6.7% 8.8% 13.5% 8.8% 5.2% 7.3% 100.0%
+% within Cluster
+15.5% 13.3% 16.9% 9.7% 7.1% 8.6% 9.1% 16.4% 11.3% 8.6% 10.3% 11.4%
+Number of Case
+| Total | Count | 187 135 | 118 | 165 | 182 | 152 | 187 | 159 | 150 | 116 | 136 | 1687 |
+| ----- | ----- | ------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---- |
+% within Vehicle Typ 11.1% 8.0% 7.0% 9.8% 10.8% 9.0% 11.1% 9.4% 8.9% 6.9% 8.1% 100.0%
+% within Cluster
+100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+Number of Case
+
+|     |     |     |     |     | 162 |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+* Chi-squared Tests Before and After Excluding Large Car Category
+Chi-Square Tests Chi-Square Tests
+Asymp. Sig. Asymp. Sig.
+Value df (2-sided) Value df (2-sided)
+Pearson Chi-Square 145.961a 80 .000 Pearson Chi-Square 132.063a 70 .000
+Likelihood Ratio 146.321 80 .000 Likelihood Ratio 128.588 70 .000
+Linear-by-Linear Linear-by-Linear
+6.148 1 .013 6.160 1 .013
+Association Association
+N of Valid Cases 1687 N of Valid Cases 1634
+a. 11 cells (11.1%) have expected count less than 5. The a. 4 cells (4.5%) have expected count less than 5. The
+minimum expected count is 3.64. minimum expected count is 4.08.
+Before (Nine Vehicle Categories) After (Eight Vehicle Categories)
+163
+
+3. Summaries of Cross-tabulation Analyses
+
+Table A1:  Six Attitudinal Clusters by Vehicle Type
+Average
+Six Attitudinal Clusters  Small  Compact  Mid-sized  Large  Luxury  Sports  Minivan/Van Pickup  SUV
+(%)
+| Affluent Professionals        |     | H   | H   | L   |     |     | L   | L   |     | 18.4  |
+| ----------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ----- |
+| Transit-using Urbanites       | H   |     | L   | L   |     |     |     |     | L   | 13.0  |
+| Homemakers and Older Workers  |     |     |     | H   | L   | L   | H   | H   |     | 20.8  |
+| Travel Haters                 | L   |     |     | H   | H   | L   |     |     |     | 12.2  |
+| Excess Travelers              | H   |     |     | L   | H   | H   | L   | L   |     | 19.3  |
+Adventurous, Car-oriented Suburbanites  L  L    H      H  H  H  16.2
+Notes:
+The ‘L’ and ‘H’ in cells refer to proportions that are substantially lower or higher, respectively, than the average sample proportion of that cluster.
+A cell with a bold letter has a standard residual (difference between observed and expected frequencies) of greater than 2 in absolute value.
+
+Table A2:  Eleven Personality and Lifestyle Clusters by Vehicle Type
+11 Personality and Lifestyle Clusters  Small  Compact  Mid-sized  Large  Luxury  Sports  Minivan/Van Pickup  SUV  Average (%)
+|  New Family Model             |     |     |     |     | H   | H   |     | H   | H   | 11.1  |
+| ----------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ----- |
+|  Homebodies                   |     |     |     | H*  | L*  |     | H   |     |     | 8.0   |
+|  Mobile Yuppies               |     |     |     | L*  | L*  | H   |     |     | H   | 7.0   |
+|  Transit Advocates            | H   | H   |     | L   |     |     |     | L   |     | 9.8   |
+|  Assistant V.P.s              |     |     | H   | H   |     |     |     | H   | L   | 10.8  |
+|  Status Seeking Workaholics   | L   |     |     | *   | H   | H   |     |     |     | 9.0   |
+|  Suburban and Stationary      |     | H   |     |     |     | L   | H   |     |     | 11.1  |
+|  Older and Independent        |     |     |     | *   | H   | L   |     |     | H   | 9.4   |
+|  Middle-of-the-roaders        |     |     | H   | H*  | L   | L   | H   |     |     | 8.9   |
+|  Travel Lovin' Transit Users  | H   |     |     | L*  | L*  |     | H   |     |     | 6.9   |
+|  Frustrated Loners            | H   |     |     | H*  | L*  | H   | L   |     |     | 8.1   |
+Notes:
+| * Expected cell count less than 5.0; these results are less reliable.  |     |     |     |     |     |     |     |     |     |     |
+| ---------------------------------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+The ‘L’ and ‘H’ in cells refer to proportions that are substantially lower or higher, respectively, than the average sample proportion of that cluster.
+A cell with a bold letter has a standard residual (difference between observed and expected frequencies) of greater than 2 in absolute value.
+|     |     |     |     | 164 |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
