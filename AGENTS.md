@@ -1,5 +1,7 @@
 # Knowledge Base Rules
 
+Ocoopa 操作任务入口在 `/Users/mingjunliu/Documents/助手Agent/AGENTS.md`。如果是跑社媒日历、社媒帖文、GTM、报告、投流分析等 Ocoopa 工作任务，先读那份操作层规则；本文件只负责 vault 知识库维护规则。
+
 When maintaining this repo:
 
 1. Do not rewrite or delete files in `raw/`.
