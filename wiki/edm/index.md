@@ -14,13 +14,18 @@
 - 考核维度：订阅增长率、退订率、打开率、CTR、Revenue per Email、品牌搜索/社媒互动。
 - 风格方向：弱化电商卖货感,走 Ins 风/杂志化/生活化拼贴,文案从"品牌讲产品"→"用户分享体验"。
 
+## 已确认 / 进行中
+
+- **EDM 平台 = Shopify**(独立站亦在 Shopify);Klaviyo/Mailchimp 等第三方暂不假设。
+- **历史 EDM 内容清点 + 复盘**:由 Tina 导出,后续补入 vault(本轮缺,Missing Context)。
+
 ## 待补研究（to-source / 下一步）
 
-- Rhode 邮件具体做法（本轮未找到邮件层面一手拆解,暂缺）。
-- EDM 平台选型与数据口径（章程数据来源写"EDM平台",具体是哪个平台待确认 → Missing Context）。
-- B2B 端 EDM 与 DTC 端的差异化（章程提到服务 B2B,本轮未展开）。
-- Ocoopa/Diveblues 自身历史 EDM 数据基线（vault 暂无,需 Tina 侧导出）。
+- B2B 端 EDM 与 DTC 端的差异化(章程提到服务 B2B,本轮未展开)。
+- Shopify Email 原生能力 vs 接 Klaviyo/Omnisend 等的取舍(选型决策点)。
 
 ## Related
 
-- [[../brands/ocoopa|Ocoopa]] · [[../content/ocoopa-social-content-strategy|社媒内容策略]]（EDM 要与社媒联动）
+- [[../brands/ocoopa|Ocoopa 基础]] · [[../brands/ocoopa-2026-brand-reshape|Ocoopa 2026 重塑]]
+- [[../brands/diveblues-2026-brand-reshape|Diveblues 2026 重塑]]
+- [[../content/ocoopa-social-content-strategy|社媒内容策略]](EDM 要与社媒联动)

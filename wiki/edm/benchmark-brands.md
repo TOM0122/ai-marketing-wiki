@@ -17,8 +17,8 @@
 - **Owala**：功能 + 颜值 + 可达性;UGC 主导(大量增量声量来自从未合作过的创作者)、color drops。→ EDM 借"真实用户场景 + 颜色上新"。
 - **Poppi**：品牌先于功能(brand before benefits),用风格/玩味/人格去掉"健康饮料"的刻板;在 GRWM/haul 里"自然饱和式"出现。→ EDM 借"先立人格、产品自然融入生活内容"。
 - **Sol de Janeiro**：aspirational 生活方式叙事 + 巴西文化、感官氛围。→ EDM 借"情绪/氛围/身份认同"叙事。
-- **Rhode**：以极简米色/克制美学著称,但本轮**未找到邮件层面一手拆解 → to-source**(下次专门查 Rhode newsletter teardown)。
-- **Rare Beauty**：本轮未单独检索 → to-source。
+- **Rhode**：极简是 Rhode 营销的"心脏"——拒绝花哨,统一柔和中性色(米/奶油/粉彩),大量**留白**让产品自然聚焦,所有数字资产(网站/社媒/邮件)视觉口径一致,**抬高溢价感知**。owned media(邮件 + 自有社媒 + 红人合作)**先于付费**投入。内容像 Hailey 日常 GRWM/晨间护肤,而非高制作 campaign。→ EDM 借:极简留白 + 中性色统一系统 + "日常感"内容(非促销腔)。**邮件层面一手 teardown 仍较少,设计/调性方向可信,具体邮件结构 to-source。**
+- **Rare Beauty**：**EDM 升级的最强参考**。把 newsletter 搬到 **Substack** 做长文编辑化空间——**亲密语气**、非实时卖货、由 **Rare 内部人撰写**(不用代理),像日记不像新闻稿。CMO Katie Welch 的设计思路:不是"品牌对消费者讲话",而是**像创作者一样和社区站在一起**。早期由 UN/COMMON 协助做了邮件+SMS 同步、订阅捕获的 GTM。社区维度有 `#WeAreRare`、Mental Health 101 让用户"有归属",把消费者变倡导者。→ EDM 借:**邮件可以是长文/编辑化阵地,不是 banner**;由内部人写、亲密语气;邮件 + SMS 同步;围绕"使命/社区"建立归属。**这条对章程"从短期转化工具→长期品牌内容资产"的呼应最直接。**
 
 ## 共同启示（→ 直接喂给 EDM 专项）
 
@@ -40,6 +40,11 @@
 - Owala Marketing Strategy — https://www.latterly.org/owala-marketing-strategy/
 - Poppi 2025 Marketing — https://www.brandvm.com/post/poppis-2025-marketing-soda-lifestyle
 - Sol de Janeiro Marketing Strategy — https://www.latterly.org/sol-de-janeiro-marketing-strategy/
+- Rhode Marketing Breakdown — https://www.optimonk.com/rhode-marketing-breakdown
+- Marketing Strategy of Rhode — https://www.havstrategy.com/marketing-strategy-of-rhode-skin/
+- Rare Beauty on Substack — https://www.nssgclub.com/en/beauty/41809/rare-beauty-substack-strategy-selena-gomez
+- Rare Beauty CMO on community-oriented marketing — https://www.marketingdive.com/news/rare-beauty-cmo-winning-gen-z-community-marketing/742067/
+- Rare Beauty by UN/COMMON (GTM 邮件+SMS) — https://uncommonagency.co/pages/rare-beauty-by-selena-gomez
 
 ## Related
 
