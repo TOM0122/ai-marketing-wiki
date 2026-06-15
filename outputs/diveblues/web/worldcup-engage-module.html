@@ -1,0 +1,394 @@
+<!--
+Diveblues #CrazyFan Custom Liquid module
+
+使用说明:
+1. 修改参与人数: 找到下方 "运营在此修改参与人数" 注释, 只改可见数字 "20+", 保留 + 表示约数。
+2. 填 PDF URL: 找到下方 "运营在此替换规则 PDF URL" 注释, 将 href="{{PDF_URL}}" 替换为 Shopify Content -> Files 得到的 PDF 链接。
+3. 粘贴方式: 在 Shopify 页面中添加 Custom Liquid 区块, 粘贴整段代码。
+4. Section 设置: 建议关闭 "Show space above/below section"; Full page width 保持默认关闭, 让模块跟随周边页面宽度。
+5. 注意: 这不是实时统计模块。参与人数是运营手动维护的约数。
+-->
+
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+
+<section class="db-cf-engage" aria-labelledby="db-cf-engage-title">
+  <div class="db-cf-engage__inner">
+    <div class="db-cf-engage__eyebrow">
+      <span class="db-cf-engage__eyebrow-line" aria-hidden="true"></span>
+      <span>#CRAZYFAN MATCH-DAY HUB</span>
+      <span class="db-cf-engage__eyebrow-line" aria-hidden="true"></span>
+    </div>
+
+    <div class="db-cf-engage__grid">
+      <div class="db-cf-engage__panel db-cf-engage__panel--status">
+        <p class="db-cf-engage__kicker">Fan count</p>
+        <h2 class="db-cf-engage__title" id="db-cf-engage-title">The #CrazyFan game is on.</h2>
+
+        <!-- ====== 运营在此修改参与人数 ====== -->
+        <!-- 只改下面这个可见数字, 保留 +。例: 12000+。不要写成实时人数。 -->
+        <div class="db-cf-engage__stat">
+          <span class="db-cf-engage__number" data-db-cf-count>20+</span>
+          <span class="db-cf-engage__label">fans already in the game</span>
+        </div>
+
+        <p class="db-cf-engage__copy">Show up with your colors, back your pick, and catch the breeze with Diveblues.</p>
+      </div>
+
+      <div class="db-cf-engage__panel db-cf-engage__panel--rules">
+        <p class="db-cf-engage__kicker">Official rules</p>
+        <h3 class="db-cf-engage__rules-title">Play it clear.</h3>
+        <p class="db-cf-engage__rules-copy">Check the full challenge terms before you jump into the match-day action.</p>
+
+        <!-- ====== 运营在此替换规则 PDF URL ====== -->
+        <!-- 将 {{PDF_URL}} 替换为 Shopify Content -> Files 上传后得到的 PDF 链接。 -->
+        <a class="db-cf-engage__button" href="{{PDF_URL}}" target="_blank" rel="noopener">
+          <span>Download Full Rules</span>
+          <span class="db-cf-engage__button-arrow" aria-hidden="true">-&gt;</span>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  .db-cf-engage {
+    --db-cf-green: #27AE60;
+    --db-cf-mint: #A8E6CF;
+    --db-cf-ink: #161A17;
+    --db-cf-soft: #F5FFF9;
+    --db-cf-border: rgba(39, 174, 96, 0.22);
+    --db-cf-orange: #F26B2F;
+    width: 100%;
+    padding: 38px 0;
+    color: var(--db-cf-ink);
+    font-family: inherit;
+  }
+
+  .db-cf-engage * {
+    box-sizing: border-box;
+  }
+
+  .db-cf-engage__inner {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    margin: 0 auto;
+    padding: 30px;
+    border: 1px solid var(--db-cf-border);
+    border-radius: 8px;
+    background:
+      linear-gradient(135deg, rgba(168, 230, 207, 0.46) 0%, rgba(255, 255, 255, 0) 44%),
+      repeating-linear-gradient(90deg, rgba(39, 174, 96, 0.05) 0, rgba(39, 174, 96, 0.05) 1px, transparent 1px, transparent 22px),
+      #FFFFFF;
+    box-shadow: 0 18px 44px rgba(22, 26, 23, 0.08);
+  }
+
+  .db-cf-engage__eyebrow {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 14px;
+    margin: 0 0 22px;
+    color: #376F4C;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: 0;
+    text-align: center;
+    text-transform: uppercase;
+  }
+
+  .db-cf-engage__eyebrow-line {
+    display: inline-block;
+    width: 46px;
+    height: 2px;
+    background: var(--db-cf-green);
+  }
+
+  .db-cf-engage__grid {
+    position: relative;
+    z-index: 1;
+    display: grid;
+    grid-template-columns: minmax(0, 1.35fr) minmax(280px, 0.65fr);
+    gap: 18px;
+    align-items: stretch;
+  }
+
+  .db-cf-engage__panel {
+    min-width: 0;
+    border-radius: 8px;
+    padding: 28px;
+  }
+
+  .db-cf-engage__panel--status {
+    border: 1px solid rgba(39, 174, 96, 0.2);
+    background: rgba(255, 255, 255, 0.82);
+  }
+
+  .db-cf-engage__panel--rules {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 1px solid rgba(22, 26, 23, 0.16);
+    background: #171A18;
+    color: #FFFFFF;
+  }
+
+  .db-cf-engage__kicker {
+    margin: 0 0 10px;
+    color: var(--db-cf-green);
+    font-size: 12px;
+    font-weight: 800;
+    line-height: 1.2;
+    letter-spacing: 0;
+    text-transform: uppercase;
+  }
+
+  .db-cf-engage__panel--rules .db-cf-engage__kicker {
+    color: var(--db-cf-mint);
+  }
+
+  .db-cf-engage__title {
+    max-width: 620px;
+    margin: 0;
+    color: var(--db-cf-ink);
+    font-family: 'Bebas Neue', Impact, sans-serif;
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 0.95;
+    letter-spacing: 0;
+    text-transform: uppercase;
+  }
+
+  .db-cf-engage__stat {
+    display: flex;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    gap: 8px 14px;
+    margin: 22px 0 14px;
+  }
+
+  .db-cf-engage__number {
+    display: inline-block;
+    color: var(--db-cf-green);
+    font-family: 'Bebas Neue', Impact, sans-serif;
+    font-size: 112px;
+    font-weight: 400;
+    line-height: 0.82;
+    letter-spacing: 0;
+    text-transform: uppercase;
+  }
+
+  .db-cf-engage__label {
+    max-width: 260px;
+    padding-bottom: 8px;
+    color: var(--db-cf-ink);
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 1.1;
+    letter-spacing: 0;
+    text-transform: uppercase;
+  }
+
+  .db-cf-engage__copy {
+    max-width: 620px;
+    margin: 0;
+    color: #425046;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.55;
+    letter-spacing: 0;
+  }
+
+  .db-cf-engage__rules-title {
+    margin: 0 0 12px;
+    color: #FFFFFF;
+    font-family: 'Bebas Neue', Impact, sans-serif;
+    font-size: 44px;
+    font-weight: 400;
+    line-height: 0.95;
+    letter-spacing: 0;
+    text-transform: uppercase;
+  }
+
+  .db-cf-engage__rules-copy {
+    margin: 0 0 24px;
+    color: rgba(255, 255, 255, 0.78);
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0;
+  }
+
+  .db-cf-engage__button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    width: fit-content;
+    max-width: 100%;
+    min-height: 48px;
+    padding: 15px 28px;
+    border: 0;
+    border-radius: 999px;
+    background: var(--db-cf-green);
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: 800;
+    line-height: 1;
+    letter-spacing: 0;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    box-shadow: 0 10px 22px rgba(39, 174, 96, 0.28);
+    transition: transform 0.24s ease, box-shadow 0.24s ease, background-color 0.24s ease;
+  }
+
+  .db-cf-engage__button:hover,
+  .db-cf-engage__button:focus-visible {
+    background: #1F984F;
+    color: #FFFFFF;
+    transform: translateY(-2px);
+    box-shadow: 0 14px 28px rgba(39, 174, 96, 0.36);
+  }
+
+  .db-cf-engage__button-arrow {
+    display: inline-block;
+    transition: transform 0.24s ease;
+  }
+
+  .db-cf-engage__button:hover .db-cf-engage__button-arrow,
+  .db-cf-engage__button:focus-visible .db-cf-engage__button-arrow {
+    transform: translateX(3px);
+  }
+
+  @media (max-width: 749px) {
+    .db-cf-engage {
+      padding: 28px 0;
+    }
+
+    .db-cf-engage__inner {
+      padding: 20px 16px;
+    }
+
+    .db-cf-engage__eyebrow {
+      gap: 10px;
+      margin-bottom: 16px;
+      font-size: 11px;
+    }
+
+    .db-cf-engage__eyebrow-line {
+      width: 24px;
+    }
+
+    .db-cf-engage__grid {
+      grid-template-columns: 1fr;
+      gap: 14px;
+    }
+
+    .db-cf-engage__panel {
+      padding: 22px 18px;
+    }
+
+    .db-cf-engage__title {
+      font-size: 46px;
+      line-height: 0.98;
+    }
+
+    .db-cf-engage__number {
+      font-size: 82px;
+    }
+
+    .db-cf-engage__label {
+      max-width: 190px;
+      padding-bottom: 6px;
+      font-size: 15px;
+    }
+
+    .db-cf-engage__copy,
+    .db-cf-engage__rules-copy {
+      font-size: 14px;
+    }
+
+    .db-cf-engage__rules-title {
+      font-size: 36px;
+    }
+
+    .db-cf-engage__button {
+      width: 100%;
+      padding: 15px 20px;
+      font-size: 13px;
+    }
+  }
+</style>
+
+<script>
+  (function() {
+    var root = document.querySelector('.db-cf-engage');
+    if (!root) return;
+
+    var countEl = root.querySelector('[data-db-cf-count]');
+    if (!countEl) return;
+
+    var finalText = countEl.textContent || '';
+    var target = parseInt(finalText.replace(/[^\d]/g, ''), 10);
+    if (!target || target < 1) return;
+
+    var reduceMotion = false;
+    if (window.matchMedia) {
+      reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    }
+    if (reduceMotion) return;
+
+    var hasAnimated = false;
+
+    function formatNumber(value) {
+      try {
+        return new Intl.NumberFormat('en-US').format(value);
+      } catch (error) {
+        return String(value);
+      }
+    }
+
+    function runCount() {
+      if (hasAnimated) return;
+      hasAnimated = true;
+
+      var start = target > 200 ? Math.floor(target * 0.72) : 0;
+      var duration = 950;
+      var startTime = null;
+
+      function frame(timestamp) {
+        if (!startTime) startTime = timestamp;
+        var progress = Math.min((timestamp - startTime) / duration, 1);
+        var eased = 1 - Math.pow(1 - progress, 3);
+        var value = Math.round(start + (target - start) * eased);
+
+        countEl.textContent = formatNumber(value) + '+';
+
+        if (progress < 1) {
+          window.requestAnimationFrame(frame);
+        } else {
+          countEl.textContent = formatNumber(target) + '+';
+        }
+      }
+
+      window.requestAnimationFrame(frame);
+    }
+
+    if ('IntersectionObserver' in window) {
+      var observer = new IntersectionObserver(function(entries) {
+        if (entries[0] && entries[0].isIntersecting) {
+          runCount();
+          observer.disconnect();
+        }
+      }, { threshold: 0.35 });
+
+      observer.observe(root);
+    } else {
+      window.setTimeout(runCount, 150);
+    }
+  })();
+</script>

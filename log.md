@@ -63,3 +63,78 @@ Append-only record of knowledge base updates.
 
 - Added `outputs/monthly-reports/2026-05-月度总结.md`.
 - Cross-brand internal monthly summary covering May 2026 social data, Diveblues World Cup work, Ocoopa winter project support, TikTok recovery testing, and June plan.
+
+## [2026-06-08] weekly-report | 2026-06-01 to 2026-06-07
+
+- Added `outputs/weekly-reports/周报6.1-6.7.md`.
+- Internal weekly report covering IG / FB social data, World Cup project progress, Ocoopa winter project support, risk points, and next-week plan.
+
+## [2026-06-08] gtm | Ocoopa 2026 winter GTM revision
+
+- Updated `outputs/ocoopa/gtm/2026-06-02-ocoopa-gtm-2026-winter-sense-go.md`.
+- Added the `Carry warmth, Shared warmth` umbrella campaign theme, clarified social actions/purpose, and strengthened the Christmas limited print gifting expression under “老树开花”.
+
+## [2026-06-09] visual-request | Diveblues #CrazyFan IG guessing
+
+- Added `outputs/diveblues/visual-requests/2026-06-09-crazyfan-ig-guessing.md`.
+- Created a designer-facing visual request table and reference-image generation prompts for the #CrazyFan IG teaser and official guessing activity visuals.
+
+## [2026-06-10] visual-request | Diveblues competitor thermal test
+
+- Added `outputs/diveblues/visual-requests/2026-06-10-competitor-thermal-test.md`.
+- Created a designer-facing visual request table and reference-image generation prompt for a #CrazyFan thermal comparison visual test.
+
+## [2026-06-10] edm | Ocoopa / Diveblues EDM v1 standards
+
+- Added `outputs/edm/standards/2026-06-10-edm-copy-standards-v1.md` and `outputs/edm/standards/2026-06-10-edm-visual-brief-v1.md`.
+- Created cross-brand DTC-first EDM copy and visual standards, including B2B ownership boundary, weekly content mix, KPI stance, and Ocoopa / Diveblues brand differentiation.
+
+## [2026-06-10] raw-source | Tina EDM report ingest
+
+- Added `raw/files/2026-06-10-tina-edm-content-review-data-analysis.md` and `raw/files/2026-06-10-tina-edm-data-table.png`.
+- Converted Tina's EDM review text with markitdown and transcribed the table screenshot into a searchable Markdown data table.
+
+## [2026-06-11] edm | Case study and automation research
+
+- Added `outputs/edm/research/2026-06-11-edm-case-study-and-automation-research.md` and screenshot assets under `outputs/edm/research/assets/2026-06-11-edm-case-research/`.
+- Created an EDM case research dossier with user-observed welcome email screenshots, brand teardown notes, automation rationale, and Ocoopa / Diveblues flow recommendations.
+
+## [2026-06-11] edm | Kickoff meeting script
+
+- Added `outputs/edm/meetings/2026-06-11-edm-kickoff-meeting-script.md`.
+- Created a concise EDM project kickoff meeting script that connects Tina's data review, Rosie's case section, external EDM cases, automation gaps, and the first-stage action plan.
+
+## [2026-06-11] edm | Kickoff meeting HTML PPT
+
+- Added `outputs/edm/meetings/2026-06-11-edm-kickoff-ppt/index.html`.
+- Converted the EDM kickoff meeting script into a 13-slide guizang-ppt-skill Swiss-style HTML presentation covering data takeaways, external EDM case bridge, automation gaps, brand flow directions, weekly mix, KPI stance, workstreams, and first-stage deliverables.
+
+## [2026-06-11] edm | Kickoff meeting editorial HTML PPT
+
+- Added `outputs/edm/meetings/2026-06-11-edm-kickoff-ppt-magazine/index.html`.
+- Re-generated the EDM kickoff meeting deck in guizang-ppt-skill Style A editorial magazine style, preserving the 13-page project logic while shifting the visual language toward serif headlines, magazine chrome, editorial callouts, and dark/light narrative pacing.
+
+## [2026-06-11] edm | Kickoff meeting XHS white editorial HTML PPT
+
+- Added `outputs/edm/meetings/2026-06-11-edm-kickoff-ppt-xhs-white/index.html`, `style.css`, and PNG previews under `outputs/edm/meetings/2026-06-11-edm-kickoff-ppt-xhs-white/png/`.
+- Generated a new 13-slide EDM kickoff meeting deck using `lewislulu/html-ppt-skill` and the `xhs-white-editorial` template, based on the modified meeting script and including hidden speaker notes for presenter mode.
+
+## [2026-06-12] weekly-report | 2026-06-08 to 2026-06-11
+
+- Added `outputs/weekly-reports/周报6.8-6.11.md`.
+- Internal short-week report covering IG / FB social data, World Cup project transition into formal activity phase, Ocoopa winter project support, risk status, and next-week plan including EDM project intake.
+
+## [2026-06-12] gtm | Nice to Hold You #2 revision
+
+- Updated `outputs/ocoopa/gtm/2026-06-02-ocoopa-gtm-2026-winter-sense-go.md`.
+- Added `Nice to Hold You #2` as the 2026 winter umbrella campaign theme, clarified social actions/purpose, and stored two 2025 `Nice to Hold You` planning files under `raw/files/` as low-priority auxiliary references.
+
+## [2026-06-12] web | Diveblues #CrazyFan Shopify module
+
+- Added `outputs/diveblues/web/worldcup-engage-module.html` and `wiki/web/diveblues-shopify-conventions.md`.
+- Created a paste-ready Custom Liquid module for the #CrazyFan page and documented reusable Diveblues Shopify conventions.
+
+## [2026-06-12] promotion-rules | Diveblues #Crazyfan rules draft
+
+- Added `outputs/diveblues/promotions/crazyfan/ig-copy.md` and `outputs/diveblues/promotions/crazyfan/official-rules.md`.
+- Created draft IG post copy and Official Rules for the #Crazyfan promotion, with No Purchase Necessary / AMOE placeholders, ARV calculation, platform releases, Washington governing law, and legal-review blockers.
