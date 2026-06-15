@@ -2,7 +2,7 @@
 
 > ⚠️ **DRAFT — PRE-PUBLICATION CHECKLIST (REMOVE THIS BLOCK BEFORE PUBLISHING).** 非法律意见,发布前须经合格 sweepstakes 法务复核。
 >
-> 1. **🔴 州注册(最高优先级)**:奖品**总 ARV = $6,598.30,已超过 $5,000 阈值**。依美国规则,**FL 与 NY 需注册并提交等额保证金(bond)、RI 需注册**,且通常须在活动开始**(6/12)前数十天**完成 → 与当前开始日存在时间冲突。**二选一**:(a) 走 FL/NY/RI 注册+bond(找法务,留足前置时间);或 **(b) 把奖品总 ARV 压到 $5,000 以下**(如减少 flight/fan 数量)以豁免注册。
+> 1. **✅ 州注册已规避**:奖品**总 ARV 已下调至 $4,798.50(< $5,000)**(150 fan + 9 flight),FL/NY/RI 注册 + bond **不再触发**。仍建议法务最终确认未引入其它州/平台特殊要求。
 > 2. **🔴 AMOE 自由参与方式**:Prediction(评论预测)与 UGC 都属"社媒动作";按 Meta 自愿参与 + sweepstakes 法,**必须并行提供一个无购买、无社媒动作的免费参与方式**(邮寄卡片 / 网页表单),且其抽奖权重不低于对应渠道。§6 已补占位,**务必填真实方式**。
 > 3. **🟠 折扣码叠加口径**:§7 写"cannot be combined with other offers",但既往 #Crazyfan 文案宣传过"20% 码可叠加 Amazon 优惠"。**两者矛盾,需与运营/法务统一**(rules 为准更稳)。
 > 4. **🟠 Sponsor 主体**:确认 "Ocoopa Innovation Corp." 是**实际拥有 Diveblues 的合法主体**,并核对法律全称拼写。
@@ -64,17 +64,17 @@ Discount code value, expiration, and additional restrictions are Missing Context
 
 ## 8. Prizes and ARV
 
-The maximum prize pool consists of up to one hundred seventy (170) Diveblues D6036 fan units and up to sixteen (16) flight reimbursement prizes.
+The maximum prize pool consists of up to one hundred fifty (150) Diveblues D6036 fan units and up to nine (9) flight reimbursement prizes.
 
 Product ARV is based on Sponsor-provided retail price of $19.99 per Diveblues D6036 fan.
 
 | Prize type | Quantity cap | ARV per unit/prize | Maximum ARV |
 |---|---:|---:|---:|
-| Diveblues D6036 fan unit | 170 | $19.99 | $3,398.30 |
-| Flight reimbursement prize | 16 | up to $200.00 | $3,200.00 |
-| Total |  |  | $6,598.30 |
+| Diveblues D6036 fan unit | 150 | $19.99 | $2,998.50 |
+| Flight reimbursement prize | 9 | up to $200.00 | $1,800.00 |
+| Total |  |  | $4,798.50 |
 
-A single-fan product prize has an ARV of $19.99. A double-fan set has an ARV of $39.98 and counts as two (2) D6036 fan units against the 170-unit product cap.
+A single-fan product prize has an ARV of $19.99. A double-fan set has an ARV of $39.98 and counts as two (2) D6036 fan units against the 150-unit product cap.
 
 ## 9. Prize Schedule
 
@@ -84,11 +84,11 @@ Current campaign prize plan:
 
 | Stage | Current plan | Product cap | Flight cap |
 |---|---|---:|---:|
-| Group Stage / Round of 32 selected matches | For selected high-interest matches, draw three (3) winners per applicable prize pool to receive one (1) D6036 fan each. | Up to 60 fan units | 0 |
-| Round of 16 through Semifinals | For applicable knockout-stage prize pools, draw product winners and flight reimbursement winners from the weighted eligible pool. Current campaign basis: five (5) product winners and flight prizes as announced, up to the total flight cap. | Up to 70 fan units | Up to 16 flight reimbursement prizes |
+| Group Stage / Round of 32 selected matches | For selected high-interest matches, draw three (3) winners per applicable prize pool to receive one (1) D6036 fan each. | Up to 50 fan units | 0 |
+| Round of 16 through Semifinals | For applicable knockout-stage prize pools, draw product winners and flight reimbursement winners from the weighted eligible pool. Current campaign basis: five (5) product winners and flight prizes as announced, up to the total flight cap. | Up to 60 fan units | Up to 9 flight reimbursement prizes |
 | Final-stage draws | Draw winners for double-fan sets from the weighted eligible pool. A double-fan set is intended as one fan for the winner and one for a soccer friend. | Up to 40 fan units | 0 unless Sponsor/legal revises |
 
-If a posted draw schedule conflicts with the 170-product / 16-flight cap, the cap controls unless Sponsor/legal publishes revised Official Rules before the Promotion begins.
+If a posted draw schedule conflicts with the 150-product / 9-flight cap, the cap controls unless Sponsor/legal publishes revised Official Rules before the Promotion begins.
 
 ## 10. Flight Reimbursement Prize Conditions
 

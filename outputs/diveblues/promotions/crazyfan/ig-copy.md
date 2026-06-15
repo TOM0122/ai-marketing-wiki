@@ -1,35 +1,35 @@
 # Diveblues #Crazyfan — IG Post Copy Draft
 
-> Operator note: This caption is a legal-sensitive draft. Do not publish until qualified legal counsel reviews it and an AMOE / no-purchase entry path is inserted.
+> Operator note: 法律敏感草稿。发布前须经合格法务复核;确保 [OFFICIAL ENTRY / AMOE LINK] 已上线、且与 Official Rules 中的免费替代参与方式(AMOE)一致。参与一律走链接/AMOE,**不要把 关注/点赞/评论 设为强制参与条件**。
 
 ```text
-#CRAZYFAN IS ON.
+⚽️🔥 #CRAZYFAN IS ON.
 
-Game-day energy. Team colors. A breeze in your hand.
+Game-day energy. Team colors. A breeze in your hand. 🌬️
 
-Think you know who is taking the match? Make your pick for [MATCH NAME] before [MATCH ENTRY DEADLINE, ET] and you could enter the #Crazyfan prize pool.
+Think you've got this match called? 🏆 Make your pick for [MATCH NAME] before [MATCH ENTRY DEADLINE, ET] for your shot at the #Crazyfan prize pool. 👇
 
-HOW TO PLAY
-1. Submit your match pick through [OFFICIAL ENTRY / AMOE LINK - REQUIRED BEFORE POSTING].
-2. Use the full national team name or an accepted abbreviation.
-3. Emoji-only, unrelated, duplicate, late, or unclear entries will not count.
+HOW TO PLAY 🎯
+1️⃣ Drop your prediction via [OFFICIAL ENTRY / AMOE LINK]
+2️⃣ Use the full national team name (or an accepted abbreviation)
+3️⃣ Emoji-only, unclear, duplicate, or late picks won't count
 
-UGC BONUS PATH
-Got game-day content? Submit your soccer-related #Crazyfan content through [UGC SUBMISSION METHOD - REQUIRED BEFORE POSTING]. Diveblues product moments are welcome, but no purchase is required to enter.
+📸 BONUS — UGC PATH
+Got game-day content? Share your #Crazyfan moment via [UGC SUBMISSION METHOD]. Product cameos welcome — no purchase needed to enter!
 
-PRIZES
-Diveblues D6036 fans, double-fan sets, and flight reimbursement prizes up to $200 each are available during the promotion, subject to the Official Rules.
+🎁 THE PRIZES
+Diveblues D6036 fans, double-fan sets & flight reimbursements (up to $200) — full breakdown in the Official Rules.
 
-Correct prediction participants may receive a Diveblues discount code and official-site shopping link by DM. The discount code does not increase your odds and cannot be combined with other offers.
+💬 Correct picks may get a Diveblues code + shop link by DM (doesn't boost your odds; can't be combined with other offers).
 
-Promotion Period: June 12, 2026 at [START TIME] ET through July 20, 2026 at [END TIME] ET.
-Open to legal U.S. residents, 18+, void where prohibited.
-No purchase necessary. A purchase will not increase your chances of winning. Winners are selected by weighted random drawing from eligible entries. Odds depend on the number and weight of eligible entries received.
+Ready? Make your call 👉 [OFFICIAL ENTRY / AMOE LINK]
+📜 Official Rules: [OFFICIAL RULES URL]
 
-CTA: Enter here: [OFFICIAL ENTRY / AMOE LINK]
-Full Official Rules: [OFFICIAL RULES URL]
-
+— The fine print —
+No purchase necessary; a purchase will not increase your chances of winning. Open to legal U.S. residents 18+. Void where prohibited. 📅 June 12, 2026 [START TIME] ET – July 20, 2026 [END TIME] ET. Winners selected by weighted random drawing from eligible entries; odds depend on the number and weight of eligible entries received.
 This promotion is in no way sponsored, endorsed or administered by, or associated with, Instagram.
+
+#Diveblues #CrazyFan #PortableFan #GameDay #SoccerSeason
 ```
 
 ## Cross-Platform Promo Release Lines
@@ -44,7 +44,7 @@ This promotion is in no way sponsored, endorsed or administered by, or associate
 
 ## Missing Context Before Posting
 
-- Official entry / AMOE link.
+- Official entry / AMOE link（须与 Official Rules 的 AMOE 一致)。
 - UGC submission method.
 - Official Rules URL.
 - Exact start time and end time in Eastern Time.
