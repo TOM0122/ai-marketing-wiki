@@ -1,5 +1,13 @@
 # Diveblues #Crazyfan Promotion — Official TERMS AND CONDITIONS
 
+> ⚠️ **DRAFT — PRE-PUBLICATION CHECKLIST (REMOVE THIS BLOCK BEFORE PUBLISHING).** 非法律意见,发布前须经合格 sweepstakes 法务复核。
+>
+> 1. **🔴 州注册(最高优先级)**:奖品**总 ARV = $6,598.30,已超过 $5,000 阈值**。依美国规则,**FL 与 NY 需注册并提交等额保证金(bond)、RI 需注册**,且通常须在活动开始**(6/12)前数十天**完成 → 与当前开始日存在时间冲突。**二选一**:(a) 走 FL/NY/RI 注册+bond(找法务,留足前置时间);或 **(b) 把奖品总 ARV 压到 $5,000 以下**(如减少 flight/fan 数量)以豁免注册。
+> 2. **🔴 AMOE 自由参与方式**:Prediction(评论预测)与 UGC 都属"社媒动作";按 Meta 自愿参与 + sweepstakes 法,**必须并行提供一个无购买、无社媒动作的免费参与方式**(邮寄卡片 / 网页表单),且其抽奖权重不低于对应渠道。§6 已补占位,**务必填真实方式**。
+> 3. **🟠 折扣码叠加口径**:§7 写"cannot be combined with other offers",但既往 #Crazyfan 文案宣传过"20% 码可叠加 Amazon 优惠"。**两者矛盾,需与运营/法务统一**(rules 为准更稳)。
+> 4. **🟠 Sponsor 主体**:确认 "Ocoopa Innovation Corp." 是**实际拥有 Diveblues 的合法主体**,并核对法律全称拼写。
+> 5. **填全所有 [Missing Context]**:开始/结束时间、entry limits、UGC 提交方式、flight 凭证邮箱、隐私政策 URL、winners-list 联系方式+截止、折扣码面值/有效期、补充通知方式。
+
 ## 1. No Purchase Necessary
 
 NO PURCHASE NECESSARY TO ENTER OR WIN. A PURCHASE WILL NOT INCREASE YOUR CHANCES OF WINNING. Void where prohibited by law.
@@ -10,9 +18,9 @@ The promotion is the "Diveblues #Crazyfan Promotion" (the "Promotion"). The Prom
 
 ## 3. Sponsor
 
-The Sponsor is OCOOPA INNOVATION Crop., REPUBLIC REGISTERED AGENT LLC, 1200 Eton Court NW, Suite 204, Washington, District of Columbia 20007.
+The Sponsor is OCOOPA INNOVATION Corp., c/o REPUBLIC REGISTERED AGENT LLC, 1200 Eton Court NW, Suite 204, Washington, District of Columbia 20007.
 
-Sponsor/legal to confirm the exact legal spelling of "OCOOPA INNOVATION Crop." before publication.
+Sponsor/legal to confirm the exact legal entity name (and that it is the entity that owns the Diveblues brand) before publication.
 
 ## 4. Promotion Period
 
@@ -26,9 +34,11 @@ Employees, officers, directors, representatives, agents, and contractors of Spon
 
 ## 6. How to Enter
 
-There must be a free, no-purchase method of entry that does not require a purchase, product ownership, follow, like, comment, tag, share, Story post, Reel post, or other social platform action.
+No purchase, product ownership, or social platform action (follow, like, comment, tag, share, Story, or Reel) is required to enter or win.
 
-To enter without purchase or social platform action, visit Above rules comment can join.
+### Free Alternate Method of Entry (AMOE)
+
+To enter for free without any purchase or social platform action, during the Promotion Period [AMOE METHOD — Missing Context, e.g.: hand-print your full name, age, email, and U.S. mailing address on a 3" x 5" card and mail it to: [SPONSOR AMOE MAILING ADDRESS]; or complete the free online entry form at [AMOE URL]]. Each valid AMOE entry will be placed in the applicable prize pool with a drawing weight **no less than** the highest-weighted entry channel for that pool, so that no entrant is disadvantaged for choosing the no-purchase, no-social method. Sponsor/legal must finalize the AMOE method, address/URL, and weight before publication.
 
 ### Prediction Channel
 
