@@ -138,3 +138,8 @@ Append-only record of knowledge base updates.
 
 - Added `outputs/diveblues/promotions/crazyfan/ig-copy.md` and `outputs/diveblues/promotions/crazyfan/official-rules.md`.
 - Created draft IG post copy and Official Rules for the #Crazyfan promotion, with No Purchase Necessary / AMOE placeholders, ARV calculation, platform releases, Washington governing law, and legal-review blockers.
+
+## [2026-06-16] visual-request | Diveblues country fan celebration
+
+- Added `outputs/diveblues/visual-requests/2026-06-16-country-fan-celebration.md`.
+- Created a designer-facing visual request table for France, Argentina, and Norway #CrazyFan country-fan celebration visuals.
