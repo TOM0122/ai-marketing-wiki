@@ -15,18 +15,18 @@ HOW TO PLAY 🎯
 3️⃣ Emoji-only, unclear, duplicate, or late picks won't count
 
 📸 BONUS — UGC PATH
-Got game-day content? Share your #Crazyfan moment via [UGC SUBMISSION METHOD]. Product cameos welcome — no purchase needed to enter!
+Got game-day content? Share your #Crazyfan moment — DM us @divebluesofficial or post it on your account and tag @divebluesofficial. Product cameos welcome — no purchase needed to enter!
 
 🎁 THE PRIZES
 Diveblues D6036 fans, double-fan sets & flight reimbursements (up to $200) — full breakdown in the Official Rules.
 
-💬 Correct picks may get a Diveblues code + shop link by DM (doesn't boost your odds; can't be combined with other offers).
+💬 Correct picks may get a Diveblues 20% off code + shop link by DM (doesn't boost your odds; can't be combined with other offers).
 
 Ready? Make your call 👉 [OFFICIAL ENTRY / AMOE LINK]
 📜 Official Rules: [OFFICIAL RULES URL]
 
 — The fine print —
-No purchase necessary; a purchase will not increase your chances of winning. Open to legal U.S. residents 18+. Void where prohibited. 📅 June 12, 2026 [START TIME] ET – July 20, 2026 [END TIME] ET. Winners selected by weighted random drawing from eligible entries; odds depend on the number and weight of eligible entries received.
+No purchase necessary; a purchase will not increase your chances of winning. Open to legal U.S. residents 18+. Void where prohibited. 📅 June 12, 2026 12:00 PM ET – July 20, 2026 12:00 PM ET. Winners selected by weighted random drawing from eligible entries; odds depend on the number and weight of eligible entries received.
 This promotion is in no way sponsored, endorsed or administered by, or associated with, Instagram.
 
 #Diveblues #CrazyFan #PortableFan #GameDay #SoccerSeason
@@ -44,9 +44,6 @@ This promotion is in no way sponsored, endorsed or administered by, or associate
 
 ## Missing Context Before Posting
 
-- Official entry / AMOE link（须与 Official Rules 的 AMOE 一致)。
-- UGC submission method.
+- Official entry / AMOE link（无购买/无社媒的免费入口,须与 Official Rules AMOE 一致)。
 - Official Rules URL.
-- Exact start time and end time in Eastern Time.
-- Match name and per-match deadline.
-- Discount code value, expiration, and restrictions.
+- Match name and per-match deadline（每场不同)。

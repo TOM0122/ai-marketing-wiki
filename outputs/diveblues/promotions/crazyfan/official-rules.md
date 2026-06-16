@@ -3,10 +3,10 @@
 > ⚠️ **DRAFT — PRE-PUBLICATION CHECKLIST (REMOVE THIS BLOCK BEFORE PUBLISHING).** 非法律意见,发布前须经合格 sweepstakes 法务复核。
 >
 > 1. **✅ 州注册已规避**:奖品**总 ARV 已下调至 $4,798.50(< $5,000)**(150 fan + 9 flight),FL/NY/RI 注册 + bond **不再触发**。仍建议法务最终确认未引入其它州/平台特殊要求。
-> 2. **🔴 AMOE 自由参与方式**:Prediction(评论预测)与 UGC 都属"社媒动作";按 Meta 自愿参与 + sweepstakes 法,**必须并行提供一个无购买、无社媒动作的免费参与方式**(邮寄卡片 / 网页表单),且其抽奖权重不低于对应渠道。§6 已补占位,**务必填真实方式**。
-> 3. **🟠 折扣码叠加口径**:§7 写"cannot be combined with other offers",但既往 #Crazyfan 文案宣传过"20% 码可叠加 Amazon 优惠"。**两者矛盾,需与运营/法务统一**(rules 为准更稳)。
+> 2. **🔴 AMOE(仍缺,最高优先级)**:UGC/Prediction 入口已填,但**均为社媒动作**。按 sweepstakes 法 + Meta 自愿参与,仍需一个**无购买、无社媒动作的免费 AMOE**(邮寄卡片 / 网页表单),§6 占位待填;或经法务确认"纯社媒入口"在本活动结构下可接受。
+> 3. **🟠 折扣码叠加口径**:§7 已写"20% off、不可与其它优惠叠加",但既往 #Crazyfan 文案宣传过"可叠加 Amazon 优惠"。**两者矛盾,需与运营/法务统一**(rules 为准更稳)。
 > 4. **🟠 Sponsor 主体**:确认 "Ocoopa Innovation Corp." 是**实际拥有 Diveblues 的合法主体**,并核对法律全称拼写。
-> 5. **填全所有 [Missing Context]**:开始/结束时间、entry limits、UGC 提交方式、flight 凭证邮箱、隐私政策 URL、winners-list 联系方式+截止、折扣码面值/有效期、补充通知方式。
+> 5. **剩余待填**:§6 AMOE 真实方式、§14 隐私政策 URL。其余(起止时间=12:00 PM ET、限次、UGC 方式、flight 凭证、折扣码、winners-list、补充通知)已补全。
 
 ## 1. No Purchase Necessary
 
@@ -24,7 +24,7 @@ Sponsor/legal to confirm the exact legal entity name (and that it is the entity 
 
 ## 4. Promotion Period
 
-The Promotion begins on June 12, 2026 at [START TIME] Eastern Time and ends on July 20, 2026 at [END TIME] Eastern Time (the "Promotion Period"). Sponsor's designated clock is the official timekeeping device for the Promotion.
+The Promotion begins on June 12, 2026 at 12:00 PM Eastern Time and ends on July 20, 2026 at 12:00 PM Eastern Time (the "Promotion Period"). Sponsor's designated clock is the official timekeeping device for the Promotion.
 
 ## 5. Eligibility
 
@@ -48,19 +48,19 @@ Only entrants with correct eligible predictions will enter the applicable prize 
 
 ### UGC Channel
 
-Entrants may submit soccer-related #Crazyfan content through [UGC SUBMISSION METHOD]. Diveblues product-featured content is welcome, but no purchase is required to enter. Sponsor/legal must provide a no-purchase UGC alternative before publication if product use is encouraged or referenced in entry instructions.
+Entrants may submit soccer-related #Crazyfan content by either (a) sending it to Sponsor by Instagram direct message to @divebluesofficial, or (b) posting it on the entrant's own public Instagram account and tagging @divebluesofficial. Diveblues product-featured content is welcome, but no purchase is required to enter. Sponsor/legal must provide a no-purchase UGC alternative before publication if product use is encouraged or referenced in entry instructions.
 
 Eligible UGC Channel entries enter the next not-yet-drawn applicable prize pool. Each eligible UGC Channel entry receives a drawing weight of one hundred (100).
 
 ### Entry Limits
 
-Entry limits are Missing Context and must be inserted before publication. Suggested legal-review placeholder: one (1) Prediction Channel entry per person per match and one (1) UGC Channel entry per person per draw period, unless Sponsor/legal approves a different limit.
+Limit one (1) Prediction Channel entry per person per prediction post/match, and one (1) UGC Channel entry per person, unless Sponsor/legal approves a different limit.
 
 ## 7. Discount Code / Shopping Link
 
 Correct Prediction Channel participants may receive a Diveblues discount code and official-site shopping link by Instagram direct message or another Sponsor-selected communication method. The discount code is not required to enter, is not a prize, does not increase odds, and cannot be combined with other offers.
 
-Discount code value, expiration, and additional restrictions are Missing Context.
+The discount code is 20% off and is valid for the entire Promotion Period. It cannot be combined with other offers.
 
 ## 8. Prizes and ARV
 
@@ -92,7 +92,7 @@ If a posted draw schedule conflicts with the 150-product / 9-flight cap, the cap
 
 ## 10. Flight Reimbursement Prize Conditions
 
-Each flight reimbursement prize has a maximum ARV of $200. The flight winner must first purchase an eligible flight ticket and email proof of completed booking to Sponsor at [FLIGHT PROOF EMAIL - Missing Context]. Sponsor will begin the reimbursement process only after receiving acceptable proof of purchase and completing winner verification.
+Each flight reimbursement prize has a maximum ARV of $200. The flight winner must first purchase an eligible flight ticket and submit proof of completed booking to Sponsor by Instagram direct message to @divebluesofficial. Sponsor will begin the reimbursement process only after receiving acceptable proof of purchase and completing winner verification.
 
 Reimbursement may be issued by PayPal or bank transfer. Sponsor does not cover transaction fees, PayPal fees, bank fees, wire fees, currency-conversion fees, or other costs associated with receiving the reimbursement. No airline or destination restriction is currently imposed, except that reimbursement is capped at $200 and is subject to legal review.
 
@@ -110,7 +110,7 @@ Odds of winning depend on the number of eligible entries received, the number of
 
 ## 12. Winner Notification and Verification
 
-Potential winners will be notified by Instagram direct message and/or [ADDITIONAL NOTIFICATION METHOD - Missing Context]. A potential winner must respond within twenty-four (24) hours after Sponsor sends the notification.
+Potential winners will be notified by Instagram direct message and/or an announcement on Sponsor's official Instagram Story. A potential winner must respond within twenty-four (24) hours after Sponsor sends the notification.
 
 If a potential winner does not respond within the required time, is ineligible, fails to complete verification, refuses the prize, cannot accept the prize, or violates these Official Rules, the prize may be forfeited and Sponsor may select an alternate winner from the applicable prize pool.
 
@@ -158,4 +158,4 @@ The Promotion and these Official Rules are governed by the laws of the State of 
 
 ## 19. Winners List / Official Rules Requests
 
-To request a winners list or a copy of the Official Rules, contact [WINNERS LIST / OFFICIAL RULES REQUEST EMAIL OR ADDRESS - Missing Context] by [REQUEST DEADLINE - Missing Context].
+To request a winners list or a copy of the Official Rules, contact Sponsor by Instagram direct message to @divebluesofficial within ninety (90) days after the end of the Promotion Period (request window suggested; Sponsor/legal to confirm).
