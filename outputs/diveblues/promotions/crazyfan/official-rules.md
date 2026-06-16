@@ -3,10 +3,10 @@
 > ⚠️ **DRAFT — PRE-PUBLICATION CHECKLIST (REMOVE THIS BLOCK BEFORE PUBLISHING).** 非法律意见,发布前须经合格 sweepstakes 法务复核。
 >
 > 1. **✅ 州注册已规避**:奖品**总 ARV 已下调至 $4,798.50(< $5,000)**(150 fan + 9 flight),FL/NY/RI 注册 + bond **不再触发**。仍建议法务最终确认未引入其它州/平台特殊要求。
-> 2. **🔴 AMOE(仍缺,最高优先级)**:UGC/Prediction 入口已填,但**均为社媒动作**。按 sweepstakes 法 + Meta 自愿参与,仍需一个**无购买、无社媒动作的免费 AMOE**(邮寄卡片 / 网页表单),§6 占位待填;或经法务确认"纯社媒入口"在本活动结构下可接受。
+> 2. **✅ AMOE 已补**:免费订阅官网 EDM(https://diveblues.com/pages/be-a-crazyfan)即为无购买、无社媒动作的免费参与方式,权重 100(= 最高渠道)。
 > 3. **🟠 折扣码叠加口径**:§7 已写"20% off、不可与其它优惠叠加",但既往 #Crazyfan 文案宣传过"可叠加 Amazon 优惠"。**两者矛盾,需与运营/法务统一**(rules 为准更稳)。
 > 4. **🟠 Sponsor 主体**:确认 "Ocoopa Innovation Corp." 是**实际拥有 Diveblues 的合法主体**,并核对法律全称拼写。
-> 5. **剩余待填**:§6 AMOE 真实方式、§14 隐私政策 URL。其余(起止时间=12:00 PM ET、限次、UGC 方式、flight 凭证、折扣码、winners-list、补充通知)已补全。
+> 5. **🟠 隐私政策**:已填 Shopify 标准路径 https://diveblues.com/policies/privacy-policy;**发布前确认该页已在 Shopify 后台启用且可访问**。至此内容信息全部补全,剩余仅"确认/复核"项(本条 + 第 3、4 条)。
 
 ## 1. No Purchase Necessary
 
@@ -38,7 +38,7 @@ No purchase, product ownership, or social platform action (follow, like, comment
 
 ### Free Alternate Method of Entry (AMOE)
 
-To enter for free without any purchase or social platform action, during the Promotion Period [AMOE METHOD — Missing Context, e.g.: hand-print your full name, age, email, and U.S. mailing address on a 3" x 5" card and mail it to: [SPONSOR AMOE MAILING ADDRESS]; or complete the free online entry form at [AMOE URL]]. Each valid AMOE entry will be placed in the applicable prize pool with a drawing weight **no less than** the highest-weighted entry channel for that pool, so that no entrant is disadvantaged for choosing the no-purchase, no-social method. Sponsor/legal must finalize the AMOE method, address/URL, and weight before publication.
+To enter for free without any purchase or social platform action, during the Promotion Period subscribe to the free Diveblues newsletter (EDM) at https://diveblues.com/pages/be-a-crazyfan. A free newsletter subscription during the Promotion Period requires no purchase and no social platform action and counts as one (1) AMOE entry. Each valid AMOE entry receives a drawing weight of one hundred (100), equal to the highest-weighted entry channel, so that no entrant is disadvantaged for choosing the no-purchase, no-social method.
 
 ### Prediction Channel
 
@@ -126,7 +126,7 @@ By entering, entrants agree that Sponsor may use submitted information to admini
 
 If an entrant submits UGC, entrant represents that the content is original or that entrant has all rights required to submit it, and that the content does not infringe any third-party rights. Entrant grants Sponsor a non-exclusive, worldwide, royalty-free right to review, display, repost, and otherwise use submitted UGC in connection with Promotion administration, winner announcements, and Diveblues marketing, subject to legal review and any platform-specific requirements.
 
-Privacy policy URL is Missing Context and must be inserted before publication: [PRIVACY POLICY URL].
+Sponsor's privacy policy is available at https://diveblues.com/policies/privacy-policy.
 
 ## 15. General Conditions
 

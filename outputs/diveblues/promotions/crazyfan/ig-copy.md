@@ -1,6 +1,6 @@
 # Diveblues #Crazyfan — IG Post Copy Draft
 
-> Operator note: 法律敏感草稿。发布前须经合格法务复核;确保 [OFFICIAL ENTRY / AMOE LINK] 已上线、且与 Official Rules 中的免费替代参与方式(AMOE)一致。参与一律走链接/AMOE,**不要把 关注/点赞/评论 设为强制参与条件**。
+> Operator note: 法律敏感草稿。发布前须经合格法务复核;确保 https://diveblues.com/pages/be-a-crazyfan 已上线、且与 Official Rules 中的免费替代参与方式(AMOE)一致。参与一律走链接/AMOE,**不要把 关注/点赞/评论 设为强制参与条件**。
 
 ```text
 ⚽️🔥 #CRAZYFAN IS ON.
@@ -10,7 +10,7 @@ Game-day energy. Team colors. A breeze in your hand. 🌬️
 Think you've got this match called? 🏆 Make your pick for [MATCH NAME] before [MATCH ENTRY DEADLINE, ET] for your shot at the #Crazyfan prize pool. 👇
 
 HOW TO PLAY 🎯
-1️⃣ Drop your prediction via [OFFICIAL ENTRY / AMOE LINK]
+1️⃣ Drop your prediction via https://diveblues.com/pages/be-a-crazyfan
 2️⃣ Use the full national team name (or an accepted abbreviation)
 3️⃣ Emoji-only, unclear, duplicate, or late picks won't count
 
@@ -22,7 +22,7 @@ Diveblues D6036 fans, double-fan sets & flight reimbursements (up to $200) — f
 
 💬 Correct picks may get a Diveblues 20% off code + shop link by DM (doesn't boost your odds; can't be combined with other offers).
 
-Ready? Make your call 👉 [OFFICIAL ENTRY / AMOE LINK]
+Ready? Make your call 👉 https://diveblues.com/pages/be-a-crazyfan
 📜 Official Rules: [OFFICIAL RULES URL]
 
 — The fine print —
@@ -44,6 +44,5 @@ This promotion is in no way sponsored, endorsed or administered by, or associate
 
 ## Missing Context Before Posting
 
-- Official entry / AMOE link（无购买/无社媒的免费入口,须与 Official Rules AMOE 一致)。
-- Official Rules URL.
+- Official Rules URL（规则文档发布后的链接)。
 - Match name and per-match deadline（每场不同)。
