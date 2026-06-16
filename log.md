@@ -148,3 +148,8 @@ Append-only record of knowledge base updates.
 
 - Updated `outputs/diveblues/visual-requests/2026-06-16-country-fan-celebration.md`.
 - Added the missing reference-image generation prompts for the Norway, France, and Argentina visual directions.
+
+## [2026-06-16] visual-request | Diveblues 40-year-old goalkeeper hero poster
+
+- Added `outputs/diveblues/visual-requests/2026-06-16-vozinha-hero-poster.md`.
+- Created a designer-facing visual request table and reference-image generation prompt for a symbolic World Cup underdog goalkeeper hero poster.
