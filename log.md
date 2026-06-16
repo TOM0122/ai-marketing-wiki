@@ -143,3 +143,8 @@ Append-only record of knowledge base updates.
 
 - Added `outputs/diveblues/visual-requests/2026-06-16-country-fan-celebration.md`.
 - Created a designer-facing visual request table for France, Argentina, and Norway #CrazyFan country-fan celebration visuals.
+
+## [2026-06-16] visual-request | Diveblues prompt correction
+
+- Updated `outputs/diveblues/visual-requests/2026-06-16-country-fan-celebration.md`.
+- Added the missing reference-image generation prompts for the Norway, France, and Argentina visual directions.

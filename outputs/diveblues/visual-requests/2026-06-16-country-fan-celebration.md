@@ -59,3 +59,29 @@
 - 如果必须出现球衣，请用泛用应援服，不要复刻官方球衣版型和细节。
 - 如果产品素材不足，先用最接近国家色的 Diveblues 产品做替代，并在图内保证产品清晰可见。
 - 三张图建议同一套后期风格：高亮夏日、浅景深、真实汗水与人群动势、产品附近保留清爽风感。
+
+## F. 参考图生成提示词
+
+### 图 1：挪威维京助威参考图提示词
+
+```text
+Create a vertical 4:5 Instagram visual reference, 1080 x 1350 composition, for Diveblues portable neck fan / handheld fan. The scene is an outdoor soccer fan park on a hot summer game day, packed with cheering fans. The main subject is a real-looking Norwegian fan, age 21-35, dressed in a modern Viking-inspired fan outfit: red, white, and blue face paint, braided or messy hair, a faux leather or faux fur shoulder cape, casual fan clothing, and no weapons. The person is shouting with excitement, leaning toward the camera, surrounded by friends cheering, clapping, raising generic flags, and filming with phones. The Diveblues fan is clearly visible around the neck or held near the face, with subtle hair movement and a cool breeze cue. Use shallow depth of field to keep the subject and product sharp while the large crowd, outdoor screen, stadium lights, and summer fan park background are energetic but slightly blurred. Mood: raw, human, loud, sweaty, festive, but still cool and comfortable because of the product. Colors: Norway-inspired red, white, and blue, warm sunlight, high-energy crowd tones, with a clean cool highlight around the product. Leave safe space for English headline text: “VIKING ENERGY. COOL HEAD.” Avoid FIFA logos, official World Cup marks, national team crests, official jerseys, real player faces, player numbers, violent Viking weapons, and copyrighted sports branding.
+```
+
+中文说明：这张用于生成“挪威维京助威”参考图。重点是活人感、红蓝白国家氛围、维京球迷装扮、真实户外人群和 Diveblues 产品自然露出。生图工具文字不稳定时，建议生成无字版本，后期由设计师手动加英文标题。
+
+### 图 2：法国抱胸庆祝参考图提示词
+
+```text
+Create a vertical 4:5 Instagram visual reference, 1080 x 1350 composition, for Diveblues portable neck fan / handheld fan. The scene is just outside a soccer stadium or in a crowded fan plaza after a goal, full of blue, white, and red cheering fans, confetti, smoke, and a blurred big screen in the background. The main subject is a stylish French fan, age 21-35, not a real player, wearing generic blue, white, and red fan clothing with small face paint. The fan stands in the foreground with arms crossed in a confident celebration pose, slightly leaning back, calm and self-assured while the crowd behind them goes wild. A Diveblues neck fan is clearly visible at the chest/neck area under the crossed arms, making the person look cool, composed, and comfortable despite the heat. Use shallow depth of field: sharp face, crossed-arms gesture, and product; background crowd and lights slightly blurred. Mood: cool confidence, victory energy, urban fan culture, not a hard-sell product ad. Colors: deep blue base, white highlights, red accents, warm summer light, crisp product detail. Leave safe space for English headline text: “ARMS CROSSED. HEAT HANDLED.” Avoid depicting Kylian Mbappe or any real player likeness, do not use player names, jersey numbers, official French team crest, FIFA logos, official World Cup marks, broadcast footage, or copyrighted sports branding.
+```
+
+中文说明：这张用于生成“法国抱胸庆祝”参考图。重点是球迷模仿经典抱胸庆祝姿态，但不能画真实球员本人，也不要出现姓名、号码、官方队徽或官方球衣细节。Diveblues 挂脖风扇要和抱胸动作自然结合。
+
+### 图 3：阿根廷二连冠惊叫参考图提示词
+
+```text
+Create a vertical 4:5 Instagram visual reference, 1080 x 1350 composition, for Diveblues portable neck fan / handheld fan. The scene is a crowded street celebration or outdoor fan plaza after a dramatic soccer moment, with Argentina-inspired sky blue and white colors, generic flags, paper confetti, phone flashlights, friends hugging, and fans jumping in the background. The main subject is an Argentine fan, age 21-35, wearing generic sky-blue and white fan clothing and face paint, not an official jersey. The fan is captured in a real candid moment: mouth open in a proud scream, eyes wide, hands raised or holding their head, while friends grab their shoulders and celebrate around them. A Diveblues fan is visible at the neck or in one hand, with subtle breeze movement in hair and clothing. The image should feel alive, crowded, sweaty, emotional, and proud, like a real fan moment rather than a staged studio ad. Use shallow depth of field and slight motion blur on background arms/confetti while keeping the face, expression, and product sharp. Colors: sky blue and white dominant, warm golden celebration light, clean cool accent around the product. Leave safe space for English headline text: “RUN IT BACK. STAY COOL.” Avoid official Argentina team crest, official jerseys, player names, player numbers, star badges, trophy imagery, FIFA logos, official World Cup marks, real player likenesses, real scoreboards, and copyrighted sports branding.
+```
+
+中文说明：这张用于生成“阿根廷二连冠惊叫”参考图。重点是球迷愿望和情绪，不要把“二连冠”写成官方结果事实；可以用蓝白纸屑和抽象星形氛围，但不要复制官方星徽、奖杯或球队标识。
