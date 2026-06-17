@@ -153,3 +153,8 @@ Append-only record of knowledge base updates.
 
 - Added `outputs/diveblues/visual-requests/2026-06-16-vozinha-hero-poster.md`.
 - Created a designer-facing visual request table and reference-image generation prompt for a symbolic World Cup underdog goalkeeper hero poster.
+
+## [2026-06-17] report | Diveblues #crazyfan social stage report
+
+- Added `outputs/diveblues/reports/2026-06-17-crazyfan-social-stage-report.md`.
+- Created a data-first stage report for the #crazyfan World Cup social project, covering IG / FB / TikTok results, official content output, ad structure, plan completion, and projected social traffic.
