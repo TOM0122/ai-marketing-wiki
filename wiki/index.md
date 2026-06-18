@@ -16,7 +16,7 @@
 - [Inbox Triage](inbox-triage/) — 素材分拣记录
 - [Personal Judgment](personal-judgment/) — 用户个人判断
 
-> 预留空目录(暂无笔记):competitors / consumers / methods / reports。
+> 需要新主题时,在 `wiki/` 下新建对应子目录即可。
 
 ## Key Notes
 
