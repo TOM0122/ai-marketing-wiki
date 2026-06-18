@@ -158,3 +158,8 @@ Append-only record of knowledge base updates.
 
 - Added `outputs/diveblues/reports/2026-06-17-crazyfan-social-stage-report.md`.
 - Created a data-first stage report for the #crazyfan World Cup social project, covering IG / FB / TikTok results, official content output, ad structure, plan completion, and projected social traffic.
+
+## [2026-06-18] visual-request | Diveblues USA vs Australia western duel
+
+- Added `outputs/diveblues/visual-requests/2026-06-18-us-australia-western-duel.md`.
+- Created a designer-facing visual request table and reference-image generation prompt for a USA vs Australia Western holster POV pre-match visual.
