@@ -168,3 +168,8 @@ Append-only record of knowledge base updates.
 
 - Added `outputs/diveblues/visual-requests/2026-06-22-cape-verde-travel-guide.md`.
 - Created a designer-facing visual request table and reference-image generation prompt for a Cabo Verde summer travel guide visual, positioned as a lighter football-project interlude with no “World Cup” text in the image.
+
+## [2026-06-22] visual-request | Diveblues Argentina vs Jordan road trip
+
+- Added `outputs/diveblues/visual-requests/2026-06-22-argentina-jordan-road-trip.md`.
+- Created a designer-facing visual request table and reference-image generation prompt for an Argentina vs Jordan pre-match pickup road-trip visual with rear-seat POV and mirror-hung Diveblues product.
