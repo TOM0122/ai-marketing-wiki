@@ -163,3 +163,8 @@ Append-only record of knowledge base updates.
 
 - Added `outputs/diveblues/visual-requests/2026-06-18-us-australia-western-duel.md`.
 - Created a designer-facing visual request table and reference-image generation prompt for a USA vs Australia Western holster POV pre-match visual.
+
+## [2026-06-22] visual-request | Diveblues Cabo Verde travel guide
+
+- Added `outputs/diveblues/visual-requests/2026-06-22-cape-verde-travel-guide.md`.
+- Created a designer-facing visual request table and reference-image generation prompt for a Cabo Verde summer travel guide visual, positioned as a lighter football-project interlude with no “World Cup” text in the image.
