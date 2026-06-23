@@ -164,6 +164,11 @@ Append-only record of knowledge base updates.
 - Added `outputs/diveblues/visual-requests/2026-06-18-us-australia-western-duel.md`.
 - Created a designer-facing visual request table and reference-image generation prompt for a USA vs Australia Western holster POV pre-match visual.
 
+## [2026-06-18] edm | July-August theme brainstorm
+
+- Added `outputs/edm/meetings/2026-06-17-edm-strategy-brand-assets-meeting-notes.md` and `outputs/edm/planning/2026-06-18-july-august-edm-theme-brainstorm.md`.
+- Archived the first EDM strategy meeting notes and created a Tom/Rosie discussion draft for July-August EDM theme direction, including the 7/20 post-World-Cup transition, six World Cup-themed EDM angles, KPI stance, creative principles, and missing context.
+
 ## [2026-06-22] visual-request | Diveblues Cabo Verde travel guide
 
 - Added `outputs/diveblues/visual-requests/2026-06-22-cape-verde-travel-guide.md`.
@@ -173,3 +178,8 @@ Append-only record of knowledge base updates.
 
 - Added `outputs/diveblues/visual-requests/2026-06-22-argentina-jordan-road-trip.md`.
 - Created a designer-facing visual request table and reference-image generation prompt for an Argentina vs Jordan pre-match pickup road-trip visual with rear-seat POV and mirror-hung Diveblues product.
+
+## [2026-06-23] promotion-rules | Diveblues Father's Day x World Cup giveaway IG copy
+
+- Added `outputs/diveblues/promotions/fathers-day-worldcup-giveaway/ig-copy.md`.
+- Created an IG-ready giveaway caption for the Father's Day x World Cup fan giveaway, including 20 winners, U.S. 18+ eligibility, no purchase language, Story/DM winner notice, 48-hour response window, and Instagram release language.
