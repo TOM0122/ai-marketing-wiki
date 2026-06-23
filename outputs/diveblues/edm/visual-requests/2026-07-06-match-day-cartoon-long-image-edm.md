@@ -119,17 +119,29 @@ playful / cool / sporty / bright / clickable / editorial sports illustration / m
 
 ## 6. 模块视觉需求表
 
-### M1. Hero Editorial Sports Illustration
+### 6.0 本次执行统一风格
+
+本次第 6 节和第 8 节为最新执行口径，视觉上优先使用 **Americana Sports Paper-Cut Sticker Collage**：
+
+- 中文执行名：**美国体育文化剪纸贴纸拼贴风**。
+- 主色：**红色 / 米白色 / 海军蓝色（深蓝）**，作为本稿指定的美国世界杯视觉代表色。
+- 撞色方式：红色负责冲击点，米白负责纸张底色和呼吸感，海军蓝负责结构和高级感；可用少量白色和旧纸纹理，但不回到大面积浅蓝 / 草绿。
+- 美国文化元素：stadium lights、ticket stub、tailgate parking lot、folding chair、cooler、varsity number shapes、generic pennants、bumper sticker、sports program paper texture。
+- 视觉密度：少文字、少参数、少堆叠；用剪纸层次、贴纸边缘、图形风线和留白制造美感。
+- 产品呈现：优先真实产品 cutout / 半写实产品渲染，避免产品被画成玩具。
+- 禁止：官方 FIFA / World Cup 资产、官方球队队徽、真实球员肖像、官方球衣、国旗直接复刻、密集电商 banner、红金促销感。
+
+### M1. Hero Americana Sports Collage
 
 | 字段 | 内容 |
 |---|---|
 | 模块 / 邮件位置 | 首屏 Hero。打开邮件第一眼看到的主图。 |
 | 基础信息 | 750px 宽长图顶部；建议占据首屏主体高度。整图可点击，Hero 区域也链接活动页。 |
 | 核心信息 | Diveblues 是 match-day 的“守门员级清凉装备”，能把炎热和混乱挡在外面。 |
-| 设计重点 | 1. 画面必须先有编辑视觉冲击，再讲产品。<br>2. 年轻门将站在球门前或禁区内，手持 / 佩戴 Diveblues 风扇。<br>3. 风扇吹出夸张但干净的图形化气流，把多颗射门足球吹偏、吹停或吹出禁区。<br>4. 产品建议使用真实产品 cutout 或半写实产品渲染，避免玩具感；产品不必巨大，但必须能被识别为风扇。<br>5. 足球、气流和门将动作形成清晰视觉路径，不能乱成一团。 |
-| 视觉主角 | 年轻、积极、有运动感的虚构门将；非真实球星；无国家队球衣；无官方队徽；服装可用泛用蓝白 / 青绿 / 白色运动装。 |
-| 背景环境 | 泛用足球场、球门、禁区线、看台色块、夏日天空或明亮灯光。背景可以有模糊观众和纸屑，但不出现 FIFA / World Cup 官方标识、国家队队徽、真实球队元素。 |
-| 视觉调性 | 明亮、清爽、运动感强；气流可用冰蓝 / 白色线条；草地绿干净饱和，不要泥泞灰暗。 |
+| 设计重点 | 1. Hero 不再做完整插画场景，也不做卡通门将；改成美国体育海报式剪纸拼贴主视觉。<br>2. 门将建议做成剪纸式运动剪影 / 局部身体动作，不强调五官和真实人物，避免廉价卡通感。<br>3. Diveblues 产品用真实 cutout 作为画面主锚点，放在门将手部或气流源头，可比人物更清楚。<br>4. 足球、气流、禁区线用红 / 米白 / 海军蓝图形层叠表达，形成强动势。<br>5. 画面应像美国体育杂志封面或 match-day program，不像电商首图。 |
+| 视觉主角 | 真实产品 cutout + 门将剪影 / 手部动作 + 被吹开的足球剪纸。门将必须是虚构人物，无真实球星、无国家队球衣、无官方队徽。 |
+| 背景环境 | 泛用球门和禁区线可被抽象化为海军蓝底上的米白线条；加入 ticket stub、generic pennants、stadium lights、tailgate parking lot 远景贴纸。不要使用官方赛事标识、真实球队元素或完整国旗。 |
+| 视觉调性 | 美国体育海报感、剪纸贴纸感、红 / 米白 / 海军蓝强对比、旧纸纹理、丝网印刷颗粒、留白充足。Hero 文字可以存在，但不压过画面美感。 |
 | 图片内文案 | `DID SOMEONE SAY GOAL?` |
 | CTA / 点击 | Hero 本身可点击。不要在 Hero 里放多个按钮。 |
 | Prompt 指向 | Prompt 1。 |
@@ -141,10 +153,10 @@ playful / cool / sporty / bright / clickable / editorial sports illustration / m
 | 模块 / 邮件位置 | Hero 下方，作为第一屏后第一个行动提醒。 |
 | 基础信息 | 图片内按钮，不是独立 HTML button；整图热区点击。 |
 | 核心信息 | 告诉用户这封邮件可点击，点击进入 team color / 活动页。 |
-| 设计重点 | 1. 按钮必须清楚可见，但不要像大促销按钮。<br>2. 建议用冰蓝 / 深海军蓝 / 白色描边组合。<br>3. 按钮可做成球票、贴纸、徽章、球场计分牌小卡，但不要像官方赛事徽章。<br>4. 按钮旁可有小箭头、足球贴纸或风线，引导继续往下看。 |
-| 视觉主角 | CTA button + 小型足球贴纸 / 手写箭头 / 图形风线。 |
-| 背景环境 | 承接 Hero，使用浅色留白或清爽浅蓝底。 |
-| 视觉调性 | 点击感、互动感、干净、轻快。 |
+| 设计重点 | 1. 保留用户喜欢的剪纸贴纸风格，按钮做成 ticket stub / bumper sticker / varsity patch，而不是普通圆角按钮。<br>2. 主色使用海军蓝底、米白字、红色边缘或红色小箭头。<br>3. 按钮周围留白，不堆太多小图标。<br>4. 按钮本身像一枚美国运动赛事纪念贴纸，增强点击欲望。 |
+| 视觉主角 | CTA sticker + 红色手写箭头 + 米白纸张阴影 + 少量足球贴纸。 |
+| 背景环境 | 承接 Hero，使用米白纸张底或海军蓝色块；可叠一张泛用球票边角。 |
+| 视觉调性 | 美式贴纸、ticket stub、干净、可点、少文字、有留白。 |
 | 图片内文案 | `CLAIM YOUR TEAM COLOR` |
 | CTA / 点击 | 点击跳转活动页；具体 URL Missing Context，由官网同事补充。 |
 | Prompt 指向 | Prompt 2。 |
@@ -156,10 +168,10 @@ playful / cool / sporty / bright / clickable / editorial sports illustration / m
 | 模块 / 邮件位置 | CTA 下方，进入产品卖点前的过渡段。 |
 | 基础信息 | 短标题 / 过渡文案模块；可与小插画结合。 |
 | 核心信息 | 比赛结果不可控，但体感清凉可以掌控。 |
-| 设计重点 | 1. 不要做成长段正文。<br>2. 文案需要像一句轻松的 match-day 旁白。<br>3. 可以配一个小场景拼贴：观众在沙发、后院、球场边或户外大屏前，手边有真实产品 cutout。<br>4. 过渡模块应把用户从“故事”带到“这些是你的 wins”。 |
-| 视觉主角 | 小型观赛人物插画 / 贴纸式足球 / 真实产品 cutout 在手边或包上。 |
-| 背景环境 | 浅蓝或白底，少量球场线条、风线、贴纸。 |
-| 视觉调性 | 编辑化、轻、留白充足，不要突然变成商品详情页。 |
+| 设计重点 | 1. 作为视觉呼吸段，不要信息密集。<br>2. 用一张米白色 sports program 纸张 / 报纸切片承载文案。<br>3. 可以加入 tailgate parking lot、折叠椅、cooler、手举纸杯、球票碎片等美国观赛氛围贴纸。<br>4. 产品只需作为一个小 cutout 参与场景，不要抢 Hero。 |
+| 视觉主角 | 米白纸张文案块 + tailgate / stadium 小贴纸 + 真实产品 cutout。 |
+| 背景环境 | 海军蓝或米白底，少量红色斜线、球场线和票根纹理。 |
+| 视觉调性 | 美国 match-day program、轻松、留白充足、像翻页进入下一段。 |
 | 图片内文案 | `You can't control the match. You can control the cool.` |
 | CTA / 点击 | 整图点击，不单独新增 CTA。 |
 | Prompt 指向 | Prompt 3。 |
@@ -171,10 +183,10 @@ playful / cool / sporty / bright / clickable / editorial sports illustration / m
 | 模块 / 邮件位置 | 中段第一组左右交错卖点。 |
 | 基础信息 | 两个交错模块：`Clean Sheet Comfort` + `Score 100 Speed`。可参考用户给的纵向拼贴图，但做成无边框 / 贴纸 / 手写箭头的 Diveblues 版本。 |
 | 核心信息 | 先讲“看球时的清凉体验”，再讲已确认产品 claim `100 Speed`。 |
-| 设计重点 | 1. 不要写 `More air / cools faster` 这类未确认功能比较。<br>2. `Clean Sheet Comfort` 用足球术语表达“把闷热挡在外面”，不要做成冷冰冰参数。<br>3. `Score 100 Speed` 可以视觉化为小型速度旋钮、球场计分板、风力档位条。<br>4. 图片与文字左右交错，形成滚动节奏；不要框成传统电商卡片。 |
-| 视觉主角 | 真实产品 cutout 或半写实产品、手持产品的插画观赛者、图形风线、计分板 / 档位条。 |
-| 背景环境 | 可用球场草地纹理、观赛座椅、后院投影、球票贴纸、箭头。 |
-| 视觉调性 | 清爽、俏皮、信息一眼读懂。 |
+| 设计重点 | 1. 保留 M4 这类用户喜欢的剪纸贴纸拼贴感，但减少信息密度。<br>2. 每个卖点像一张美式体育贴纸卡，不要像参数表。<br>3. `Clean Sheet Comfort` 可以用门线 / 禁区线 / 风线构成一块漂亮的防守区域。<br>4. `Score 100 Speed` 用一个大号 varsity number `100` 或计分牌贴纸表达，文字少、图形强。<br>5. 真实产品 cutout 只放 1-2 个清楚位置，不堆产品。 |
+| 视觉主角 | 真实产品 cutout + varsity `100` 贴纸 + 红色图形风线 + 米白球票纸块。 |
+| 背景环境 | 海军蓝底或米白底交替；加入 ticket stub、stadium line、generic pennant、paper tape。 |
+| 视觉调性 | 美式运动贴纸卡、红 / 米白 / 海军蓝撞色、干净留白、图形比文字更重要。 |
 | 图片内文案 | `Clean Sheet Comfort`<br>`A cooler zone for every match-day moment.`<br><br>`Score 100 Speed`<br>`From soft breeze to stadium roar.` |
 | CTA / 点击 | 整图点击；本模块不新增按钮。 |
 | Prompt 指向 | Prompt 4。 |
@@ -186,10 +198,10 @@ playful / cool / sporty / bright / clickable / editorial sports illustration / m
 | 模块 / 邮件位置 | 中后段第二组左右交错卖点。 |
 | 基础信息 | 两个交错模块：`Ultimate Assist` + `Match-Day Gear`。 |
 | 核心信息 | 用 match-day 装备语境表达 `4 in 1`、`Carabiner & Vivid Colors`。 |
-| 设计重点 | 1. `Ultimate Assist` 视觉上可以拆成 4 个小动作：clip / hold / stand / carry。<br>2. `Match-Day Gear` 强调产品可以挂包、随身、进入观赛移动场景。<br>3. 产品颜色由设计师按画面定夺；不强制展示全部 12 色。<br>4. 色彩可以更丰富，但保持 Diveblues 冷感底色，避免热烈到像饮料促销海报。 |
-| 视觉主角 | 产品的 4 in 1 使用方式小插画 + 真实产品 cutout；背包挂扣；不同颜色产品作为点缀。 |
-| 背景环境 | 城市出门、背包、后院观赛、户外大屏、球场周边动线。 |
-| 视觉调性 | 轻快、可移动、年轻、像 match-day checklist 的一部分。 |
+| 设计重点 | 1. `4 in 1` 不要拆成密集说明图，建议做成一张美国运动装备清单式贴纸：clip / hold / stand / carry 只做小图标。<br>2. `Match-Day Gear` 可以用背包、车钥匙、球票、折叠椅、cooler、车尾箱等 tailgate 场景物件暗示美国观赛文化。<br>3. 主画面仍然以产品 cutout 和美式装备拼贴为主，文字作为辅助。<br>4. 色彩必须回到红 / 米白 / 海军蓝，其他产品色只作为小面积点缀。 |
+| 视觉主角 | 真实产品 cutout + backpack clip + tailgate gear stickers + 简洁 4 in 1 icon strip。 |
+| 背景环境 | 米白纸张底、海军蓝大色块、红色贴纸边、parking lot line、generic stadium lights。 |
+| 视觉调性 | 美国 match-day carry kit、轻快、可移动、剪纸贴纸、不像说明书。 |
 | 图片内文案 | `Ultimate Assist`<br>`Clip it. Hold it. Stand it. Carry it.`<br><br>`Match-Day Gear`<br>`Vivid colors. Backpack-ready. Made to move.` |
 | CTA / 点击 | 整图点击；本模块不新增按钮。 |
 | Prompt 指向 | Prompt 5。 |
@@ -201,10 +213,10 @@ playful / cool / sporty / bright / clickable / editorial sports illustration / m
 | 模块 / 邮件位置 | 长图末尾收束区。 |
 | 基础信息 | 颜色选择 / 互动式收尾。可以展示精选颜色圆点、产品小队列、贴纸式色卡，或交给设计师判断是否做 GIF。 |
 | 核心信息 | 选择你的 match-day color，然后点击进入活动页。 |
-| 设计重点 | 1. 不强制展示全部 12 色；以画面好看和点击动机为优先。<br>2. 可用 “team color” 但不要对应真实球队或国家队官方配色。<br>3. CTA 再出现一次即可，不要新增其他同级按钮。<br>4. 收尾要清楚，不要让用户滑到底不知道下一步。 |
-| 视觉主角 | 产品颜色圆点 / 产品小图 / 球衣贴纸 / 足球小图标 / CTA。 |
-| 背景环境 | 清爽浅蓝或白底，少量运动贴纸和风线。 |
-| 视觉调性 | 明亮、互动、收束、点击感强。 |
+| 设计重点 | 1. 不强制展示全部 12 色；优先做成一组红 / 米白 / 海军蓝主色下的精选色卡。<br>2. `team color` 不能对应真实球队或国家队官方配色，只做泛化 match-day color。<br>3. CTA 再出现一次即可，像一张最终入场券 / 纪念贴纸。<br>4. 收尾要有美国体育纪念品感，少文字、强画面。 |
+| 视觉主角 | 精选产品色卡 / 产品小 cutout / ticket stub CTA / generic pennant / 足球贴纸。 |
+| 背景环境 | 米白底或海军蓝底，红色撞色边缘，纸张阴影和丝网印刷颗粒。 |
+| 视觉调性 | 美国体育纪念贴纸、收束、点击感、红 / 米白 / 海军蓝统一。 |
 | 图片内文案 | `Pick Your Match-Day Color`<br>`CLAIM YOUR TEAM COLOR` |
 | CTA / 点击 | 点击跳转活动页；具体 URL Missing Context，由官网同事补充。 |
 | Prompt 指向 | Prompt 6。 |
@@ -250,72 +262,80 @@ playful / cool / sporty / bright / clickable / editorial sports illustration / m
 - 生图工具经常无法稳定生成准确文字，建议生成无字版本或只保留安全留白，由设计师后期手动加英文文案。
 - 不要要求生成 FIFA / World Cup 官方标识、官方球队队徽、真实球员肖像、官方球衣、号码、受保护赛事视觉资产。
 - 推荐优先上传 / 使用真实产品图作为产品 cutout 参考，避免产品被生图工具画成玩具或错误结构。
-- 风格关键词统一使用 `editorial sports illustration`, `mixed-media magazine collage`, `real product cutout`, `graphic airflow`, `hand-drawn annotation`。
+- 风格关键词统一使用 `Americana sports editorial collage`, `American sports paper-cut sticker collage`, `real product cutout`, `red cream navy palette`, `ticket stub`, `tailgate`, `varsity patch`, `screen-print texture`, `graphic airflow`。
+- 颜色统一使用：weathered red, warm cream, deep navy / navy blue。避免大面积青蓝、草绿、清新电商蓝。
+- 提示词要减少文字信息密度，强调构图、美感、留白、剪纸层次和美国体育文化气质。
 
 ### Prompt 1: Whole Long-Image Direction
 
 ```text
-Create a vertical 750px-wide email long-image visual reference for a Diveblues portable fan match-day campaign. Style: editorial sports illustration mixed with magazine collage, premium youth sports editorial, clean bright layout, real product cutout, graphic airflow, hand-drawn annotations, paper cutout texture, not childish, not a mascot style.
+Create a vertical 750px-wide email long-image visual reference for a Diveblues portable fan match-day campaign. Style: Americana sports editorial collage, American sports paper-cut sticker collage, premium match-day program design, real product cutout, tactile paper layers, screen-print texture, hand-drawn annotation, graphic airflow, strong red / warm cream / deep navy palette.
 
-The long image has six stacked sections: 1) a hero editorial sports illustration, 2) a visual CTA button, 3) a short transition hook, 4) two zigzag feature modules, 5) two more zigzag feature modules, and 6) a color-pick final CTA strip.
+The long image has six stacked sections but should not feel dense: 1) a bold Americana sports poster hero, 2) a ticket-stub CTA sticker, 3) a light match-day program transition, 4) two clean feature sticker cards, 5) a tailgate carry-kit collage, and 6) a final color-pick ticket strip.
 
-The hero shows a young fictional goalkeeper, sporty and upbeat, standing in front of a generic soccer goal on a clean bright field. The goalkeeper holds or wears a Diveblues portable fan. Use a real product cutout or semi-realistic product rendering for the fan, integrated into the illustrated scene. Clean icy-blue graphic airflow from the fan pushes several soccer balls away from the goal area. The product is visible but not oversized; the scene should feel clever, energetic, designed, and editorial.
+For the hero, do not create a literal cartoon scene. Build an American match-day poster collage: a paper-cut goalkeeper silhouette, a generic soccer goal line, several soccer balls pushed away by bold graphic airflow, and a clear Diveblues real product cutout as the visual anchor. Add subtle American sports culture cues: ticket stub, varsity number shapes, generic pennants, stadium lights, tailgate parking lot line, bumper sticker edges. Use red for impact, warm cream for paper and negative space, deep navy for structure and background.
 
-Below the hero, build a clean sticker-like CTA area, then zigzag product feature sections inspired by magazine collage: real product cutouts, illustrated hands, backpack clips, paper cutout blocks, speed lines, clean field textures, small soccer stickers, and hand-drawn arrows. Keep the overall tone cool, clean, bright, with Diveblues-friendly blue, white, cyan, grass green, and small yellow accents. Leave clear safe spaces where a designer can add English text later.
+Below the hero, build a clean ticket-stub CTA, then feature modules with real product cutouts, paper stickers, varsity patches, simplified field lines, tailgate gear, and minimal handwritten arrows. Prioritize visual beauty and spacing over information density. Leave clear safe spaces where a designer can add English text later.
 
-Avoid cartoon style, cute mascot style, children’s illustration, funny animated style, clutter, heavy orange/red heat tones, dark dirty backgrounds, official sports marks, real celebrities, jersey numbers, copyrighted team assets, hard-sale discount styling, and any protected animation studio look.
+Avoid cartoon style, cute mascot style, children’s illustration, generic e-commerce banner layout, dense infographic layout, bright cyan/grass-green palette, red-gold retail sale style, official FIFA or World Cup marks, official team badges, real player likenesses, jersey numbers, national-team uniforms, national flag replicas, and hard-sale discount styling.
 ```
 
 ### Prompt 2: Hero Only
 
 ```text
-Create a wide hero scene for a 750px-wide email in an editorial sports illustration and magazine collage style. A young fictional goalkeeper, active and confident, stands in front of a generic soccer goal on a clean bright field. The goalkeeper wears a generic blue-white sporty outfit with no team badge. The Diveblues portable fan should appear as a real product cutout or semi-realistic product rendering, held or worn naturally by the goalkeeper.
+Create a wide hero visual for a 750px-wide email in an Americana sports paper-cut sticker collage style. This should feel like a bold American match-day poster or sports program cover, not a literal cartoon scene.
 
-Clean icy-blue graphic airflow from the fan pushes multiple soccer balls away from the goal. Use bold editorial composition, crisp shadows, paper cutout depth, clean vector-inspired airflow lines, and a premium youth sports poster feel. The scene should be clever and instantly readable, not childish. Bright summer sky, clean green field, simple abstract crowd color shapes in the background. Leave open space near the top for the headline “DID SOMEONE SAY GOAL?” to be added by a designer.
+Composition: deep navy background, warm cream paper goal line, weathered red airflow ribbons, paper-cut goalkeeper silhouette or cropped goalkeeper arm, several soccer balls blown away from the goal area, and a real Diveblues portable fan cutout as the anchor. Add subtle Americana cues: ticket stub corner, generic pennant shapes, varsity number texture, stadium lights, tailgate parking lot stripe. Use strong negative space and fewer elements; the image should be beautiful, graphic, and premium.
 
-Avoid cartoon style, cute mascot style, children’s illustration, official FIFA or World Cup logos, team crests, official jerseys, player numbers, real player likenesses, copyrighted sports branding, violent action, and messy clutter.
+Leave open space for the headline “DID SOMEONE SAY GOAL?” to be added by a designer, but do not let text dominate the composition.
+
+Avoid cartoon style, cute mascot style, children’s illustration, realistic celebrity athlete, official FIFA or World Cup logos, team crests, official jerseys, player numbers, national flag replicas, copyrighted sports branding, clutter, and generic stock soccer field scenes.
 ```
 
 ### Prompt 3: CTA / Transition Area
 
 ```text
-Create a clean email section in an editorial sports magazine collage style. A sticker-like CTA button shape sits under the hero scene, with safe space for the designer to add “CLAIM YOUR TEAM COLOR.” Use icy blue, white, and deep navy, with small soccer stickers, hand-drawn arrows, paper texture, and graphic airflow lines.
+Create a clean email section in an Americana sports paper-cut sticker collage style. A ticket-stub or bumper-sticker CTA shape sits under the hero scene, with safe space for the designer to add “CLAIM YOUR TEAM COLOR.” Use deep navy, warm cream, and weathered red only, with tactile paper texture, small soccer stickers, one hand-drawn red arrow, and a few graphic airflow lines.
 
-Below it, create a light editorial transition area with a small mixed-media watch-party scene: illustrated friends near a screen, a backpack, and a real Diveblues product cutout nearby. Leave room for the copy “You can't control the match. You can control the cool.” The layout should feel like a modern sports editorial spread, not a discount email.
+Below it, create a light match-day program transition area: warm cream paper background, tailgate parking lot cue, folding chair silhouette, cooler sticker, generic ticket stub, and a small real Diveblues product cutout. Leave room for the copy “You can't control the match. You can control the cool.” The section should feel airy and designed, not text-heavy.
 
-Avoid cartoon style, children’s illustration, discount tags, sale badges, official tournament marks, team logos, and cluttered product grids.
+Avoid cartoon style, children’s illustration, discount tags, sale badges, official tournament marks, team logos, cluttered product grids, and dense decorative stickers.
 ```
 
 ### Prompt 4: Feature Zigzag A
 
 ```text
-Create a vertical email feature section in an editorial sports illustration and magazine collage style, inspired by playful product editorial layouts but not copying any brand. Two zigzag modules show Diveblues product benefits.
+Create a vertical email feature section in an Americana sports paper-cut sticker collage style. The section should feel like two beautiful sports sticker cards, not an infographic.
 
-First module: “Clean Sheet Comfort” represented by a cool blue comfort zone around a match-day viewer, with soccer balls and heat chaos staying outside the comfort zone. Use illustrated scene elements plus a real Diveblues product cutout.
+Palette: deep navy, warm cream, weathered red, with subtle paper grain and screen-print texture. Use generous spacing and a strong visual rhythm.
 
-Second module: “Score 100 Speed” represented by a premium graphic speed-control visual: a real product cutout, a clean 100 Speed badge, a simplified speed dial, field lines, and crisp airflow strokes.
+First sticker card: “Clean Sheet Comfort” represented visually by a goalkeeper box line, a clean comfort zone, soccer balls kept outside by red and cream airflow ribbons, and a real Diveblues product cutout. Keep text area minimal.
 
-Use white, cyan, light blue, grass green, paper cutout texture, hand-drawn arrows, and clean editorial spacing. Leave text-safe spaces for the designer to add copy. Avoid cartoon style, unverified performance claims like “cools faster,” official sports logos, hard-sale discount design, and dense technical diagrams.
+Second sticker card: “Score 100 Speed” represented by a large varsity-style “100” patch, a simple speed dial shape, a real product cutout, and stadium-light / ticket-stub details. Make the “100” visually iconic but not cluttered.
+
+Avoid cartoon style, dense text, technical diagrams, bright cyan/grass-green palette, official sports logos, hard-sale discount design, and unverified claims like “cools faster.”
 ```
 
 ### Prompt 5: Feature Zigzag B
 
 ```text
-Create a vertical email feature section in an editorial sports magazine collage style with two zigzag modules.
+Create a vertical email feature section in an Americana sports paper-cut sticker collage style with a match-day carry-kit feeling. Use red, warm cream, and deep navy as the dominant palette.
 
-Module one visualizes “Ultimate Assist” and the confirmed claim “4 in 1” through four small editorial mini-actions: clip it, hold it, stand it, carry it. Use a real Diveblues product cutout as the anchor, with clean line icons or simplified illustrated hands showing each action.
+Module one visualizes “Ultimate Assist” and the confirmed claim “4 in 1” as a simple varsity equipment strip. Use a real Diveblues product cutout as the anchor, with four small icon stickers for clip, hold, stand, carry. Keep this sparse and beautiful, not instructional.
 
-Module two visualizes “Match-Day Gear” with a Diveblues fan clipped to a backpack, vivid product colors, soccer stickers, and friends moving toward a watch party. Use mixed media: real product cutout, illustrated movement, paper strips, hand-drawn annotation arrows, and clean sports poster typography space.
+Module two visualizes “Match-Day Gear” as an American tailgate carry kit: backpack strap with product clipped on, generic game ticket, folding chair silhouette, cooler sticker, car trunk / parking lot line, soccer ball sticker, and one red hand-drawn arrow. The mood should be casual American match day, not a product manual.
 
-Keep the tone cool, clean, bright, mobile-readable, premium youth sports editorial. Avoid cartoon style, official team logos, official jerseys, player names, jersey numbers, discount tags, and clutter.
+Avoid cartoon style, official team logos, official jerseys, player names, jersey numbers, discount tags, clutter, too many product angles, and dense explanatory labels.
 ```
 
 ### Prompt 6: Color / Final CTA Strip
 
 ```text
-Create a final email CTA strip in an editorial sports magazine collage style. Show a clean row of selected Diveblues product colors or color dots, not necessarily all colors, arranged like match-day color picks. Use real product cutouts where possible, paper cutout labels, small soccer stickers, graphic airflow lines, and a clean button-safe area where the designer can add “CLAIM YOUR TEAM COLOR.”
+Create a final email CTA strip in an Americana sports ticket-stub collage style. Use a warm cream paper background, deep navy structure, weathered red accents, and a few selected Diveblues product color cutouts or color dots. Do not show every product color; make it feel curated and visual.
 
-The mood is clickable, bright, cool, and premium but still playful. Use no official team color systems, no national flags, no FIFA or World Cup logos, no real team crests, no hard-sale discount styling, no childish sticker overload.
+Arrange the final CTA like a collectible match-day ticket or souvenir sticker sheet. Include safe space for “Pick Your Match-Day Color” and a ticket-stub button area for “CLAIM YOUR TEAM COLOR.” Add one generic pennant, one soccer sticker, and subtle screen-print grain. Keep it minimal, premium, and clickable.
+
+Avoid official team color systems, national flags, FIFA or World Cup logos, real team crests, hard-sale discount styling, childish sticker overload, dense text, and generic e-commerce button layout.
 ```
 
 ## 9. IP / 合规 / 设计避坑

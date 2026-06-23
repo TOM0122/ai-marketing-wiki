@@ -193,3 +193,8 @@ Append-only record of knowledge base updates.
 
 - Updated `outputs/diveblues/edm/visual-requests/2026-07-06-match-day-cartoon-long-image-edm.md`.
 - Revised the visual direction from cartoon prompts to `Editorial Sports Illustration x Magazine Collage`, emphasizing real product cutouts, graphic airflow, hand-drawn annotations, and premium youth sports editorial layout.
+
+## [2026-06-23] edm | Diveblues match-day Americana style revision
+
+- Updated `outputs/diveblues/edm/visual-requests/2026-07-06-match-day-cartoon-long-image-edm.md`.
+- Revised only sections 6 and 8 to an Americana sports paper-cut sticker collage direction, using red / warm cream / deep navy, stronger U.S. match-day culture cues, lower information density, and refreshed reference-image prompts.
