@@ -21,3 +21,6 @@
 outputs/ocr-pdfs/
 outputs/*.log
 outputs/*failures*.tsv
+
+# Large product decks kept on local disk only (not synced to git — keep the .md conversions instead)
+raw/files/*.pptx
