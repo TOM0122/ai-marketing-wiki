@@ -1,4 +1,4 @@
-# Diveblues EDM 视觉需求：2026-07-06 Match-Day Cartoon Long Image
+# Diveblues EDM 视觉需求：2026-07-06 Match-Day Editorial Sports Collage Long Image
 
 > 内部视觉需求稿。外发图片内文案为英文；中文用于对齐设计意图。  
 > 本稿服务 Diveblues 2026-07-06 暂定发送的 match-day / soccer summer 主题 EDM。内部可称“世界杯主题”；外发视觉与文案默认规避官方赛事资产。
@@ -8,7 +8,7 @@
 | 项目 | 内容 |
 |---|---|
 | Brand | Diveblues |
-| EDM 名称 | Match-Day Cartoon Long Image EDM |
+| EDM 名称 | Match-Day Editorial Sports Collage Long Image EDM |
 | 暂定发送日期 | 2026-07-06 |
 | 设计交付时间 | 2026-07-03 |
 | 邮件类型 | 转化型 EDM，但用品牌内容 / 趣味互动包装 |
@@ -26,18 +26,18 @@
 
 这封邮件不是折扣促销页，而是一次 **“点击 / 互动导向的转化型 EDM”**：
 
-- 第一屏用卡通足球故事吸引用户停留和点击。
+- 第一屏用体育编辑插画主视觉吸引用户停留和点击。
 - 中段用轻松、短句、交错式模块传达产品卖点。
 - 末尾用 team color / match-day color 引导用户进入活动页。
 - 复盘口径应优先看 CTR、活动页点击、转化、RPE、退订；打开率只做辅助信号。
 
 核心创意一句话：
 
-> A goalkeeper keeps the heat out with Diveblues. Match-day cooling becomes playful, visual, and clickable.
+> A goalkeeper keeps the heat out with Diveblues. Match-day cooling becomes editorial, visual, and clickable.
 
 中文理解：
 
-> 门将用 Diveblues 风扇把射门足球吹出禁区，用“零封闷热”的卡通故事包装产品卖点，让用户觉得这是一封有趣、可点、可逛的邮件，而不是参数页。
+> 门将用 Diveblues 风扇把射门足球吹出禁区，用“零封闷热”的体育编辑插画故事包装产品卖点，让用户觉得这是一封有趣、可点、可逛的邮件，而不是参数页。
 
 ## 3. 整体长图结构
 
@@ -45,7 +45,7 @@
 
 | 模块 | 邮件位置 | 模块任务 | 图片内主文案 |
 |---|---|---|---|
-| M1 Hero Cartoon Opener | 首屏 | 用足球卡通故事建立趣味点击动机 | `DID SOMEONE SAY GOAL?` |
+| M1 Hero Editorial Sports Illustration | 首屏 | 用足球插画故事建立趣味点击动机 | `DID SOMEONE SAY GOAL?` |
 | M2 Visual CTA Button | Hero 下方 | 明确“这张图可点击”，但不做硬促销 | `CLAIM YOUR TEAM COLOR` |
 | M3 Transition Hook | CTA 下方 | 从足球故事过渡到产品价值 | `You can't control the match. You can control the cool.` |
 | M4 Feature Zigzag A | 中段 | 讲清凉体验与 `100 Speed` | `Clean Sheet Comfort` / `Score 100 Speed` |
@@ -80,37 +80,59 @@
 ### 本封视觉关键词
 
 ```text
-playful / cool / sporty / bright / clickable / cartoon story / match-day gear / team color
+playful / cool / sporty / bright / clickable / editorial sports illustration / magazine collage / real product cutout / match-day gear / team color
 ```
 
-### 两个可并行探索的参考风格
+### 主推视觉风格
 
-1. `family-friendly cinematic American sports cartoon`
-   - 更圆润、更电影感、表情夸张但不幼稚。
-   - 适合 Hero 大场景和门将动作。
+**Editorial Sports Illustration x Magazine Collage**
 
-2. `modern youth comic sports cartoon`
-   - 更像年轻化运动漫画 / 贴纸 / 速度线 / 手写标注。
-   - 适合下方交错卖点模块、颜色模块、CTA 贴纸感。
+中文执行名：**体育编辑插画拼贴风**。
 
-注意：正式提示词不使用 Disney / DreamWorks 等受保护工作室名称，只用上述泛化风格描述。
+执行重点：
+
+- Hero 不做动画片感，而是做一张有设计感的体育编辑插画主视觉。
+- 产品尽量用真实产品图 / 产品 cutout，或半写实产品渲染，避免被画成玩具。
+- 门将可以是简化插画人物，不追求五官写实，但动作和运动张力要清楚。
+- 足球、气流、禁区线、箭头、贴纸、速度线用平面图形表达。
+- 下方模块延续 Owala 参考图的纵向拼贴和手写标注，但整体更清爽、更 Diveblues。
+- 推荐组合：**真实产品 + 插画场景 + 杂志拼贴排版**。
+
+提示词中避免使用：
+
+- `cartoon`
+- `cute mascot`
+- `children's illustration`
+- `funny animated style`
+- 任何受保护动画工作室名称
+
+可使用：
+
+- `editorial sports illustration`
+- `mixed-media magazine collage`
+- `real product cutout`
+- `graphic airflow`
+- `hand-drawn annotation`
+- `clean vector-inspired illustration`
+- `paper cutout texture`
+- `premium youth sports editorial`
 
 ## 6. 模块视觉需求表
 
-### M1. Hero Cartoon Opener
+### M1. Hero Editorial Sports Illustration
 
 | 字段 | 内容 |
 |---|---|
 | 模块 / 邮件位置 | 首屏 Hero。打开邮件第一眼看到的主图。 |
 | 基础信息 | 750px 宽长图顶部；建议占据首屏主体高度。整图可点击，Hero 区域也链接活动页。 |
 | 核心信息 | Diveblues 是 match-day 的“守门员级清凉装备”，能把炎热和混乱挡在外面。 |
-| 设计重点 | 1. 画面必须先好玩，再讲产品。<br>2. 年轻门将站在球门前或禁区内，手持 / 佩戴 Diveblues 风扇。<br>3. 风扇吹出夸张但干净的气流，把多颗射门足球吹偏、吹停或吹出禁区。<br>4. 产品不必巨大，但必须能被识别为风扇；可以卡通化。<br>5. 足球、气流和门将动作形成清晰视觉路径，不能乱成一团。 |
+| 设计重点 | 1. 画面必须先有编辑视觉冲击，再讲产品。<br>2. 年轻门将站在球门前或禁区内，手持 / 佩戴 Diveblues 风扇。<br>3. 风扇吹出夸张但干净的图形化气流，把多颗射门足球吹偏、吹停或吹出禁区。<br>4. 产品建议使用真实产品 cutout 或半写实产品渲染，避免玩具感；产品不必巨大，但必须能被识别为风扇。<br>5. 足球、气流和门将动作形成清晰视觉路径，不能乱成一团。 |
 | 视觉主角 | 年轻、积极、有运动感的虚构门将；非真实球星；无国家队球衣；无官方队徽；服装可用泛用蓝白 / 青绿 / 白色运动装。 |
 | 背景环境 | 泛用足球场、球门、禁区线、看台色块、夏日天空或明亮灯光。背景可以有模糊观众和纸屑，但不出现 FIFA / World Cup 官方标识、国家队队徽、真实球队元素。 |
 | 视觉调性 | 明亮、清爽、运动感强；气流可用冰蓝 / 白色线条；草地绿干净饱和，不要泥泞灰暗。 |
 | 图片内文案 | `DID SOMEONE SAY GOAL?` |
 | CTA / 点击 | Hero 本身可点击。不要在 Hero 里放多个按钮。 |
-| Prompt 指向 | Prompt A1 / B1。 |
+| Prompt 指向 | Prompt 1。 |
 
 ### M2. Visual CTA Button
 
@@ -120,12 +142,12 @@ playful / cool / sporty / bright / clickable / cartoon story / match-day gear / 
 | 基础信息 | 图片内按钮，不是独立 HTML button；整图热区点击。 |
 | 核心信息 | 告诉用户这封邮件可点击，点击进入 team color / 活动页。 |
 | 设计重点 | 1. 按钮必须清楚可见，但不要像大促销按钮。<br>2. 建议用冰蓝 / 深海军蓝 / 白色描边组合。<br>3. 按钮可做成球票、贴纸、徽章、球场计分牌小卡，但不要像官方赛事徽章。<br>4. 按钮旁可有小箭头、足球贴纸或风线，引导继续往下看。 |
-| 视觉主角 | CTA button + 小型卡通足球 / 箭头 / 风线。 |
+| 视觉主角 | CTA button + 小型足球贴纸 / 手写箭头 / 图形风线。 |
 | 背景环境 | 承接 Hero，使用浅色留白或清爽浅蓝底。 |
 | 视觉调性 | 点击感、互动感、干净、轻快。 |
 | 图片内文案 | `CLAIM YOUR TEAM COLOR` |
 | CTA / 点击 | 点击跳转活动页；具体 URL Missing Context，由官网同事补充。 |
-| Prompt 指向 | Prompt A2 / B2。 |
+| Prompt 指向 | Prompt 2。 |
 
 ### M3. Transition Hook
 
@@ -134,13 +156,13 @@ playful / cool / sporty / bright / clickable / cartoon story / match-day gear / 
 | 模块 / 邮件位置 | CTA 下方，进入产品卖点前的过渡段。 |
 | 基础信息 | 短标题 / 过渡文案模块；可与小插画结合。 |
 | 核心信息 | 比赛结果不可控，但体感清凉可以掌控。 |
-| 设计重点 | 1. 不要做成长段正文。<br>2. 文案需要像一句轻松的 match-day 旁白。<br>3. 可以配一个小场景：观众在沙发、后院、球场边或户外大屏前，手边有 Diveblues。<br>4. 过渡模块应把用户从“故事”带到“这些是你的 wins”。 |
-| 视觉主角 | 小型观赛人物 / 贴纸式足球 / 产品在手边或包上。 |
+| 设计重点 | 1. 不要做成长段正文。<br>2. 文案需要像一句轻松的 match-day 旁白。<br>3. 可以配一个小场景拼贴：观众在沙发、后院、球场边或户外大屏前，手边有真实产品 cutout。<br>4. 过渡模块应把用户从“故事”带到“这些是你的 wins”。 |
+| 视觉主角 | 小型观赛人物插画 / 贴纸式足球 / 真实产品 cutout 在手边或包上。 |
 | 背景环境 | 浅蓝或白底，少量球场线条、风线、贴纸。 |
 | 视觉调性 | 编辑化、轻、留白充足，不要突然变成商品详情页。 |
 | 图片内文案 | `You can't control the match. You can control the cool.` |
 | CTA / 点击 | 整图点击，不单独新增 CTA。 |
-| Prompt 指向 | Prompt A3 / B3。 |
+| Prompt 指向 | Prompt 3。 |
 
 ### M4. Feature Zigzag A
 
@@ -150,12 +172,12 @@ playful / cool / sporty / bright / clickable / cartoon story / match-day gear / 
 | 基础信息 | 两个交错模块：`Clean Sheet Comfort` + `Score 100 Speed`。可参考用户给的纵向拼贴图，但做成无边框 / 贴纸 / 手写箭头的 Diveblues 版本。 |
 | 核心信息 | 先讲“看球时的清凉体验”，再讲已确认产品 claim `100 Speed`。 |
 | 设计重点 | 1. 不要写 `More air / cools faster` 这类未确认功能比较。<br>2. `Clean Sheet Comfort` 用足球术语表达“把闷热挡在外面”，不要做成冷冰冰参数。<br>3. `Score 100 Speed` 可以视觉化为小型速度旋钮、球场计分板、风力档位条。<br>4. 图片与文字左右交错，形成滚动节奏；不要框成传统电商卡片。 |
-| 视觉主角 | 卡通化产品、手持产品的观赛者、风线、计分板 / 档位条。 |
+| 视觉主角 | 真实产品 cutout 或半写实产品、手持产品的插画观赛者、图形风线、计分板 / 档位条。 |
 | 背景环境 | 可用球场草地纹理、观赛座椅、后院投影、球票贴纸、箭头。 |
 | 视觉调性 | 清爽、俏皮、信息一眼读懂。 |
 | 图片内文案 | `Clean Sheet Comfort`<br>`A cooler zone for every match-day moment.`<br><br>`Score 100 Speed`<br>`From soft breeze to stadium roar.` |
 | CTA / 点击 | 整图点击；本模块不新增按钮。 |
-| Prompt 指向 | Prompt A4 / B4。 |
+| Prompt 指向 | Prompt 4。 |
 
 ### M5. Feature Zigzag B
 
@@ -165,12 +187,12 @@ playful / cool / sporty / bright / clickable / cartoon story / match-day gear / 
 | 基础信息 | 两个交错模块：`Ultimate Assist` + `Match-Day Gear`。 |
 | 核心信息 | 用 match-day 装备语境表达 `4 in 1`、`Carabiner & Vivid Colors`。 |
 | 设计重点 | 1. `Ultimate Assist` 视觉上可以拆成 4 个小动作：clip / hold / stand / carry。<br>2. `Match-Day Gear` 强调产品可以挂包、随身、进入观赛移动场景。<br>3. 产品颜色由设计师按画面定夺；不强制展示全部 12 色。<br>4. 色彩可以更丰富，但保持 Diveblues 冷感底色，避免热烈到像饮料促销海报。 |
-| 视觉主角 | 产品的 4 in 1 使用方式小插画；背包挂扣；不同颜色产品作为点缀。 |
+| 视觉主角 | 产品的 4 in 1 使用方式小插画 + 真实产品 cutout；背包挂扣；不同颜色产品作为点缀。 |
 | 背景环境 | 城市出门、背包、后院观赛、户外大屏、球场周边动线。 |
 | 视觉调性 | 轻快、可移动、年轻、像 match-day checklist 的一部分。 |
 | 图片内文案 | `Ultimate Assist`<br>`Clip it. Hold it. Stand it. Carry it.`<br><br>`Match-Day Gear`<br>`Vivid colors. Backpack-ready. Made to move.` |
 | CTA / 点击 | 整图点击；本模块不新增按钮。 |
-| Prompt 指向 | Prompt A5 / B5。 |
+| Prompt 指向 | Prompt 5。 |
 
 ### M6. Color / Final CTA Strip
 
@@ -185,7 +207,7 @@ playful / cool / sporty / bright / clickable / cartoon story / match-day gear / 
 | 视觉调性 | 明亮、互动、收束、点击感强。 |
 | 图片内文案 | `Pick Your Match-Day Color`<br>`CLAIM YOUR TEAM COLOR` |
 | CTA / 点击 | 点击跳转活动页；具体 URL Missing Context，由官网同事补充。 |
-| Prompt 指向 | Prompt A6 / B6。 |
+| Prompt 指向 | Prompt 6。 |
 
 ## 7. 图片内英文文案最终版
 
@@ -227,89 +249,73 @@ playful / cool / sporty / bright / clickable / cartoon story / match-day gear / 
 - 以下提示词用于生成视觉参考图，不要求 AI 直接生成可上线的最终设计。
 - 生图工具经常无法稳定生成准确文字，建议生成无字版本或只保留安全留白，由设计师后期手动加英文文案。
 - 不要要求生成 FIFA / World Cup 官方标识、官方球队队徽、真实球员肖像、官方球衣、号码、受保护赛事视觉资产。
+- 推荐优先上传 / 使用真实产品图作为产品 cutout 参考，避免产品被生图工具画成玩具或错误结构。
+- 风格关键词统一使用 `editorial sports illustration`, `mixed-media magazine collage`, `real product cutout`, `graphic airflow`, `hand-drawn annotation`。
 
-### A. Family-Friendly Cinematic American Sports Cartoon
-
-#### Prompt A1: Whole Long-Image Direction
+### Prompt 1: Whole Long-Image Direction
 
 ```text
-Create a vertical 750px-wide email long-image visual reference for a Diveblues portable fan match-day campaign. Style: family-friendly cinematic American sports cartoon, bright, polished, playful, energetic, not tied to any protected animation studio. The long image has six stacked sections: 1) a hero soccer goalkeeper scene, 2) a visual CTA button, 3) a short transition hook, 4) two zigzag feature modules, 5) two more zigzag feature modules, and 6) a color-pick final CTA strip. 
+Create a vertical 750px-wide email long-image visual reference for a Diveblues portable fan match-day campaign. Style: editorial sports illustration mixed with magazine collage, premium youth sports editorial, clean bright layout, real product cutout, graphic airflow, hand-drawn annotations, paper cutout texture, not childish, not a mascot style.
 
-The hero shows a young fictional goalkeeper, sporty and upbeat, standing in front of a generic soccer goal on a clean bright field. The goalkeeper holds or wears a Diveblues portable fan, and clean icy-blue airflow from the fan blows several soccer balls away from the goal area. The fan is visible but not oversized; the scene should feel funny, coordinated, and visually satisfying. Use no real player likeness, no official team jersey, no national-team badge, no FIFA logo, no World Cup logo, no broadcast graphics.
+The long image has six stacked sections: 1) a hero editorial sports illustration, 2) a visual CTA button, 3) a short transition hook, 4) two zigzag feature modules, 5) two more zigzag feature modules, and 6) a color-pick final CTA strip.
 
-Below the hero, use a clean sticker-like CTA area, then playful zigzag product feature sections with cartoon product illustrations, hands, backpack clips, speed lines, clean field textures, small soccer stickers, and hand-drawn arrows. Keep the overall tone cool, clean, bright, with Diveblues-friendly blue, white, cyan, grass green, and small yellow accents. Leave clear safe spaces where a designer can add English text later. Avoid clutter, heavy orange/red heat tones, dark dirty backgrounds, official sports marks, real celebrities, jersey numbers, copyrighted team assets, and hard-sale discount styling.
+The hero shows a young fictional goalkeeper, sporty and upbeat, standing in front of a generic soccer goal on a clean bright field. The goalkeeper holds or wears a Diveblues portable fan. Use a real product cutout or semi-realistic product rendering for the fan, integrated into the illustrated scene. Clean icy-blue graphic airflow from the fan pushes several soccer balls away from the goal area. The product is visible but not oversized; the scene should feel clever, energetic, designed, and editorial.
+
+Below the hero, build a clean sticker-like CTA area, then zigzag product feature sections inspired by magazine collage: real product cutouts, illustrated hands, backpack clips, paper cutout blocks, speed lines, clean field textures, small soccer stickers, and hand-drawn arrows. Keep the overall tone cool, clean, bright, with Diveblues-friendly blue, white, cyan, grass green, and small yellow accents. Leave clear safe spaces where a designer can add English text later.
+
+Avoid cartoon style, cute mascot style, children’s illustration, funny animated style, clutter, heavy orange/red heat tones, dark dirty backgrounds, official sports marks, real celebrities, jersey numbers, copyrighted team assets, hard-sale discount styling, and any protected animation studio look.
 ```
 
-#### Prompt A2: Hero Only
+### Prompt 2: Hero Only
 
 ```text
-Create a wide hero scene for a 750px-wide email: a family-friendly cinematic American sports cartoon soccer goalkeeper, young and active, not a real athlete, wearing a generic blue-white sporty outfit with no team badge. The goalkeeper stands in front of a generic goal and uses a Diveblues portable fan to blow multiple soccer balls away from the goal. The airflow is clean icy-blue and dynamic, making the scene funny and instantly readable. Bright summer sky, clean green field, simple crowd color shapes in the background, polished cartoon lighting, expressive but not childish. Leave open space near the top for the headline “DID SOMEONE SAY GOAL?” to be added by a designer. Avoid official FIFA or World Cup logos, team crests, official jerseys, player numbers, real player likenesses, copyrighted sports branding, violent action, and messy clutter.
+Create a wide hero scene for a 750px-wide email in an editorial sports illustration and magazine collage style. A young fictional goalkeeper, active and confident, stands in front of a generic soccer goal on a clean bright field. The goalkeeper wears a generic blue-white sporty outfit with no team badge. The Diveblues portable fan should appear as a real product cutout or semi-realistic product rendering, held or worn naturally by the goalkeeper.
+
+Clean icy-blue graphic airflow from the fan pushes multiple soccer balls away from the goal. Use bold editorial composition, crisp shadows, paper cutout depth, clean vector-inspired airflow lines, and a premium youth sports poster feel. The scene should be clever and instantly readable, not childish. Bright summer sky, clean green field, simple abstract crowd color shapes in the background. Leave open space near the top for the headline “DID SOMEONE SAY GOAL?” to be added by a designer.
+
+Avoid cartoon style, cute mascot style, children’s illustration, official FIFA or World Cup logos, team crests, official jerseys, player numbers, real player likenesses, copyrighted sports branding, violent action, and messy clutter.
 ```
 
-#### Prompt A3: CTA / Transition Area
+### Prompt 3: CTA / Transition Area
 
 ```text
-Create a clean email section in a family-friendly cinematic American sports cartoon style. A sticker-like button shape sits under a soccer hero scene, with room for the designer to add “CLAIM YOUR TEAM COLOR.” Use icy blue, white, and deep navy, with small soccer stickers, arrows, and airflow lines. Below it, create a light editorial transition area with a small cartoon watch-party scene: friends near a screen, a backpack, and a Diveblues portable fan nearby. Leave room for the copy “You can't control the match. You can control the cool.” Avoid discount tags, sale badges, official tournament marks, team logos, and cluttered product grids.
+Create a clean email section in an editorial sports magazine collage style. A sticker-like CTA button shape sits under the hero scene, with safe space for the designer to add “CLAIM YOUR TEAM COLOR.” Use icy blue, white, and deep navy, with small soccer stickers, hand-drawn arrows, paper texture, and graphic airflow lines.
+
+Below it, create a light editorial transition area with a small mixed-media watch-party scene: illustrated friends near a screen, a backpack, and a real Diveblues product cutout nearby. Leave room for the copy “You can't control the match. You can control the cool.” The layout should feel like a modern sports editorial spread, not a discount email.
+
+Avoid cartoon style, children’s illustration, discount tags, sale badges, official tournament marks, team logos, and cluttered product grids.
 ```
 
-#### Prompt A4: Feature Zigzag A
+### Prompt 4: Feature Zigzag A
 
 ```text
-Create a vertical email feature section in a family-friendly cinematic American sports cartoon style, inspired by playful editorial collage but not copying any brand. Two zigzag modules show Diveblues product benefits: first, “Clean Sheet Comfort” as a cool zone around a watch-party viewer with soccer balls and airflow kept outside the comfort zone; second, “Score 100 Speed” as a fun speed-control visual with a portable fan, a scoreboard-like 100 Speed badge, and clean airflow lines. Use white, cyan, light blue, grass green, and small hand-drawn arrows. Leave text-safe spaces for the designer to add copy. Avoid unverified performance claims like “cools faster,” avoid official sports logos, hard-sale discount design, and dense technical diagrams.
+Create a vertical email feature section in an editorial sports illustration and magazine collage style, inspired by playful product editorial layouts but not copying any brand. Two zigzag modules show Diveblues product benefits.
+
+First module: “Clean Sheet Comfort” represented by a cool blue comfort zone around a match-day viewer, with soccer balls and heat chaos staying outside the comfort zone. Use illustrated scene elements plus a real Diveblues product cutout.
+
+Second module: “Score 100 Speed” represented by a premium graphic speed-control visual: a real product cutout, a clean 100 Speed badge, a simplified speed dial, field lines, and crisp airflow strokes.
+
+Use white, cyan, light blue, grass green, paper cutout texture, hand-drawn arrows, and clean editorial spacing. Leave text-safe spaces for the designer to add copy. Avoid cartoon style, unverified performance claims like “cools faster,” official sports logos, hard-sale discount design, and dense technical diagrams.
 ```
 
-#### Prompt A5: Feature Zigzag B
+### Prompt 5: Feature Zigzag B
 
 ```text
-Create a vertical email feature section in a family-friendly cinematic American sports cartoon style with two playful zigzag modules. Module one visualizes “Ultimate Assist” and the confirmed claim “4 in 1” through four small cartoon actions: clip it, hold it, stand it, carry it, using a Diveblues portable fan. Module two visualizes “Match-Day Gear” with a Diveblues fan clipped to a backpack, vivid product colors, soccer stickers, and friends heading to a watch party. Keep the tone cool, clean, bright, mobile-readable, and playful. Avoid official team logos, official jerseys, player names, jersey numbers, discount tags, and clutter.
+Create a vertical email feature section in an editorial sports magazine collage style with two zigzag modules.
+
+Module one visualizes “Ultimate Assist” and the confirmed claim “4 in 1” through four small editorial mini-actions: clip it, hold it, stand it, carry it. Use a real Diveblues product cutout as the anchor, with clean line icons or simplified illustrated hands showing each action.
+
+Module two visualizes “Match-Day Gear” with a Diveblues fan clipped to a backpack, vivid product colors, soccer stickers, and friends moving toward a watch party. Use mixed media: real product cutout, illustrated movement, paper strips, hand-drawn annotation arrows, and clean sports poster typography space.
+
+Keep the tone cool, clean, bright, mobile-readable, premium youth sports editorial. Avoid cartoon style, official team logos, official jerseys, player names, jersey numbers, discount tags, and clutter.
 ```
 
-#### Prompt A6: Color / Final CTA Strip
+### Prompt 6: Color / Final CTA Strip
 
 ```text
-Create a final email CTA strip in a family-friendly cinematic American sports cartoon style. Show a clean row of selected Diveblues product colors or color dots, not necessarily all colors, arranged like match-day team color picks. Add small soccer stickers, airflow lines, and a clean button area where the designer can add “CLAIM YOUR TEAM COLOR.” The mood is clickable, bright, cool, and playful. Use no official team color systems, no national flags, no FIFA or World Cup logos, no real team crests, no hard-sale discount styling.
-```
+Create a final email CTA strip in an editorial sports magazine collage style. Show a clean row of selected Diveblues product colors or color dots, not necessarily all colors, arranged like match-day color picks. Use real product cutouts where possible, paper cutout labels, small soccer stickers, graphic airflow lines, and a clean button-safe area where the designer can add “CLAIM YOUR TEAM COLOR.”
 
-### B. Modern Youth Comic Sports Cartoon
-
-#### Prompt B1: Whole Long-Image Direction
-
-```text
-Create a vertical 750px-wide email long-image visual reference for a Diveblues portable fan campaign in a modern youth comic sports cartoon style. Use bold comic composition, energetic motion lines, playful sticker collage, clean bright colors, hand-drawn arrows, and mobile-first layout. The long image has six stacked sections: hero goalkeeper scene, visual CTA button, transition hook, two zigzag feature sections, and final color CTA strip.
-
-The top hero shows a fictional young goalkeeper in a generic sporty outfit, no team badge, no official jersey, using a Diveblues portable fan as a playful “secret weapon.” Icy-blue airflow pushes multiple soccer balls away from the goal area. The product is visible but integrated naturally. The scene should feel fun, clickable, and graphic, with a clean soccer field, generic crowd, bright blue sky, and comic speed lines.
-
-Below the hero, create sticker-like editorial modules with a hand-made feel: arrows, taped-paper shapes, product cutouts, comic bursts, clean airflow, backpack clip detail, 100 Speed badge, 4 in 1 mini actions, and vivid color dots. Leave clear blank areas for designers to add final English copy. Avoid official FIFA or World Cup logos, official team badges, real player likenesses, jersey numbers, national-team uniforms, copyrighted sports branding, discount banners, and overly chaotic comic panels.
-```
-
-#### Prompt B2: Hero Only
-
-```text
-Create a modern youth comic sports cartoon hero for a 750px-wide email. A fictional young goalkeeper, active and expressive, blocks the goal in a generic soccer field. They use a Diveblues portable fan, and exaggerated icy-blue airflow blasts several soccer balls away from the penalty area. Use comic speed lines, clean color blocks, bright sky blue, white, cyan, grass green, and energetic but readable composition. The goalkeeper should not look like a real celebrity or player, and should wear a generic outfit with no team crest. Leave headline-safe space for “DID SOMEONE SAY GOAL?” Avoid FIFA logos, World Cup marks, official jerseys, player numbers, team crests, national flags as official assets, and protected sports branding.
-```
-
-#### Prompt B3: CTA / Transition Area
-
-```text
-Create a modern youth comic email section with a bold sticker CTA area under a soccer hero. Use a clean button shape with arrows, airflow lines, and small soccer doodles; leave room for “CLAIM YOUR TEAM COLOR.” Below it, create a short transition scene with a comic panel of match-day viewers, a backpack, a portable fan, and cool breeze lines. Use light blue, white, cyan, and subtle paper texture. Avoid discount labels, sales badges, official sports marks, and cluttered technical text.
-```
-
-#### Prompt B4: Feature Zigzag A
-
-```text
-Create a modern youth comic sports cartoon zigzag feature section for an email. Show two playful feature blocks with no rigid card borders. First block: “Clean Sheet Comfort” represented by a cool blue comfort zone around a fan and viewer while heat or soccer chaos stays outside. Second block: “Score 100 Speed” represented by a comic-style 100 Speed badge, speed dial, airflow strokes, and a Diveblues portable fan. Use hand-drawn arrows, sticker labels, paper cutout texture, and bright clean color. Leave blank copy areas. Avoid unverified claims like “cools faster,” official tournament logos, team crests, jersey numbers, and dense product-spec tables.
-```
-
-#### Prompt B5: Feature Zigzag B
-
-```text
-Create a modern youth comic sports cartoon zigzag feature section for a Diveblues email. Show “Ultimate Assist” with four small comic mini-actions around one portable fan: clip it, hold it, stand it, carry it. Show “Match-Day Gear” with a fan clipped to a backpack, vivid color options, soccer doodles, and friends moving toward a watch party. Use dynamic arrows, sticker bursts, clean light-blue and white backgrounds, and mobile-readable composition. Avoid official team logos, national-team kits, real players, hard-sale product grid layout, and heavy warm colors.
-```
-
-#### Prompt B6: Color / Final CTA Strip
-
-```text
-Create a modern youth comic sports cartoon final CTA strip for a Diveblues email. Use a bright clean background with selected product color dots or small product cutouts arranged like playful match-day color picks. Add comic arrows, small soccer stickers, cool airflow lines, and a bold button-safe area for “CLAIM YOUR TEAM COLOR.” The tone is interactive and clickable, not promotional. Avoid official national flags, official team color systems, team crests, FIFA or World Cup marks, discount stickers, and clutter.
+The mood is clickable, bright, cool, and premium but still playful. Use no official team color systems, no national flags, no FIFA or World Cup logos, no real team crests, no hard-sale discount styling, no childish sticker overload.
 ```
 
 ## 9. IP / 合规 / 设计避坑
@@ -337,7 +343,7 @@ Create a modern youth comic sports cartoon final CTA strip for a Diveblues email
 
 - 用足球场、球门、足球、禁区线、风线、观众色块建立泛化足球语境。
 - 用 `match day`, `goal`, `clean sheet`, `team color` 等语言做创意表达。
-- 用清爽蓝白底、足球贴纸、手写箭头、漫画速度线做年轻互动感。
+- 用清爽蓝白底、足球贴纸、手写箭头、图形速度线做年轻互动感。
 - 用产品参与故事，而不是产品独自摆拍。
 
 ## 10. Missing Context / To-Source

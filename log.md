@@ -188,3 +188,8 @@ Append-only record of knowledge base updates.
 
 - Added `outputs/diveblues/edm/visual-requests/2026-07-06-match-day-cartoon-long-image-edm.md`.
 - Created a designer-facing EDM visual request for the 2026-07-06 Diveblues match-day cartoon long image, including six modules, English in-image copy, click / heatmap notes, product-claim boundaries, IP avoidances, and reference-image prompts.
+
+## [2026-06-23] edm | Diveblues match-day visual style revision
+
+- Updated `outputs/diveblues/edm/visual-requests/2026-07-06-match-day-cartoon-long-image-edm.md`.
+- Revised the visual direction from cartoon prompts to `Editorial Sports Illustration x Magazine Collage`, emphasizing real product cutouts, graphic airflow, hand-drawn annotations, and premium youth sports editorial layout.
