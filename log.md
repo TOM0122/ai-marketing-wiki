@@ -183,3 +183,8 @@ Append-only record of knowledge base updates.
 
 - Added `outputs/diveblues/promotions/fathers-day-worldcup-giveaway/ig-copy.md`.
 - Created an IG-ready giveaway caption for the Father's Day x World Cup fan giveaway, including 20 winners, U.S. 18+ eligibility, no purchase language, Story/DM winner notice, 48-hour response window, and Instagram release language.
+
+## [2026-06-23] edm | Diveblues match-day cartoon long-image visual request
+
+- Added `outputs/diveblues/edm/visual-requests/2026-07-06-match-day-cartoon-long-image-edm.md`.
+- Created a designer-facing EDM visual request for the 2026-07-06 Diveblues match-day cartoon long image, including six modules, English in-image copy, click / heatmap notes, product-claim boundaries, IP avoidances, and reference-image prompts.
