@@ -23,9 +23,11 @@
 
 - 核心主题：筑底（Go）打未来（Sense）；品牌内核：亲民务实，时尚生活。
     
+- 大 campaign 主题：Nice to Hold You #2 —— 延续 2025 年已有反响的 Nice to Hold You，把"握住温暖"从一次 Q4 活动升级为 2026 冬季主线：前半程让用户觉得 Ocoopa 随时值得握住，后半程让用户愿意把这份温暖送给别人。
+    
 - 一句话打法：社媒先行做"认知 + 人设 + 话题"，Go 跑量打底、Sense 立旗打未来；IG 主阵地、TK 话题引擎、FB 礼赠与广触达。
     
-- 创新主线（老树开花）：一套统一的 O 圆环系统 —— 所有产品加挂环，O 环元素进 logo + 新包装 + 新 APP，把产品/品牌/数字生态串成一个符号。
+- 创新主线（老树开花）：两条并列表达 —— O 圆环系统负责"随时可以 hold"的随身识别，圣诞限定印花礼品款负责"Nice to Hold You"的礼赠表达；前者把产品/品牌/数字生态串成一个符号，后者把老品类推向节日礼赠心智。
     
 - 节奏：产品 8 月中旬上市（APP 开售即就绪）→ 9 月–次年 2 月为社媒主战役期。
     
@@ -35,6 +37,18 @@
 ---
 
 ## 2. 核心主题与品牌定位
+
+本季主 campaign 暂定为：**Nice to Hold You #2**。
+
+- 定义：不是简单复刻 2025 年 Nice to Hold You，而是把这个已经被用户理解过的情感入口继续打深。2026 年的 #2 要让 "hold" 同时成立在三层：hold in hand（随时握住）、hold for someone（替别人送暖）、hold the moment（留下真实冷感与温暖故事）。
+    
+- 社媒动作一：Hold in hand。9–11 月上半程，TK/IG 用通勤、入秋初冷、office AC、O 圆环 EDC、Sense APP/O 环内容，把产品从"握在手里的暖手宝"变成"挂得住、带得走、进入日常的温暖物件"；目的是真实建立新品认知、人设和随身性。
+    
+- 社媒动作二：Hold for someone。11 月下–12 月礼赠高峰，并延伸到 2 月情人节收尾，IG/FB/TK 做圣诞限定印花礼品款开箱、gift guide、BFCM 礼赠清单、last-minute gift、情侣/家庭配对内容；目的是真正承接节日转化，把 Go 的性价比礼、Sense 的高端礼和限定印花礼品款放进同一个 gifting 语境。
+    
+- 社媒动作三：Hold the moment。延续去年 Nice to Hold You 可借鉴的 UGC / 留言机制，但降低执行复杂度：用 #NiceToHoldYou2、Cold Moment、One for You, One to Share、用户故事精选、评论区置顶等动作，收集"我为什么需要这份温暖 / 我想把它送给谁"；目的不是追求一次性活动声量，而是沉淀可复用的真实内容、评论资产和礼赠理由。
+    
+§6 的半月主题不是彼此孤立的小 campaign，而是 Nice to Hold You #2 下的连续分章：先让用户愿意自己握住，再让用户愿意送给别人，最后让真实故事反哺品牌信任。
 
 ### 2.1 核心思想解码
 
@@ -74,16 +88,26 @@ Sense · 时尚生活 · 打未来
 - 人群入口：soft wellness/body-state、lifestyle/gifting（高端）、科技尝鲜。
     
 
-### 2.3 老树开花：O 圆环
+### 2.3 老树开花：O 圆环 + 圣诞限定印花礼品款
 
-创新不是开新品类，而是一套统一的"O 圆环"：
+创新不是开新品类，而是让老品类长出两种新表达：一条负责随身识别，一条负责节日礼赠。
 
-- 所有产品新增挂环（O-ring） —— 从"握在手里"升级为"挂得住、随身带"的 EDC 物件；
+表达一：O 圆环系统。
+
+- 所有产品新增挂环（O-ring） —— 从"握在手里"升级为"挂得住、随身带"的 EDC 物件，对应 Nice to Hold You #2 里的 hold in hand；
     
 - O 圆环元素同时进入 logo + 即将升级的包装 + 即将上线的 APP —— 产品识别、品牌识别、数字生态共用一个符号。
     
+表达二：圣诞限定印花礼品款。
 
-落实"三位一体"纪律：产品(挂环) + 视觉(O 环 logo/包装) + 内容/文案 讲同一个故事
+- 限定印花把"暖手宝"从功能工具转成更容易被选择、被包装、被送出的节日礼物，对应 Nice to Hold You #2 里的 hold for someone；
+    
+- 传播上不只说"圣诞元素"，而是说"一份看得出心意的温暖"：限定印花、节日包装/开箱、gift guide、last-minute gift、warmth as care；
+    
+- 节点上前后呼应 §6：11 月下 BFCM 做礼赠清单和转化，12 月上做圣诞限定印花款开箱与 gift guide，12 月下做 last-minute 暖礼收口。
+    
+
+落实"三位一体"纪律：产品(挂环 + 限定印花礼品款) + 视觉(O 环 logo/包装 + 圣诞限定印花) + 内容/文案 讲同一个故事。
 
 ---
 
@@ -165,7 +189,15 @@ Facebook（礼赠/广触达）
 
 ## 6. 社媒日历（2026-09 → 2027-02，半月为单位，每块一个主题名）
 
-覆盖上市后主战役期；围绕美国事件/节日 × 品牌内容；粒度到"半月时间块 + 主题名 + 内容形式"
+大 campaign 主题：**Nice to Hold You #2**。
+
+覆盖上市后主战役期；围绕美国事件/节日 × 品牌内容；粒度到"半月时间块 + 主题名 + 内容形式"。所有半月主题都是大主题下的分章：9–11 月上先做 hold in hand，建立"随时可握住、随时可带走"；11 月下–12 月重点做 hold for someone，把圣诞限定印花礼品款、Go 性价比礼、Sense 高端礼一起推入 gifting 语境；1–2 月把 hold 延伸为新年自我照顾、户外同行和情人节配对。
+
+|主轴|时间重心|社媒动作|目的|
+|---|---|---|---|
+|Hold in hand|9 月上–11 月上|TK/IG 做入秋初冷、通勤、office AC、O 圆环 EDC、Sense APP/O 环 Reels；用 POV、测评、场景短片、O 环 explainer 反复证明"挂得住、带得走、随时能握住"。|建立新品认知和随身性，把 Go 做成第一支随身暖物，把 Sense 做成更时尚、更智能的生活方式暖物。|
+|Hold for someone|11 月下–12 月下，延伸到 2 月下|IG/FB/TK 做 BFCM gift guide、圣诞限定印花礼品款开箱、礼盒/O 环包装、last-minute gift、情侣/家庭配对内容；FB 承接送礼人群与链接转化。|把"温暖"转成"可以送出的关心"，放大圣诞限定印花礼品款的送礼属性，并承接节日转化。|
+|Hold the moment|全周期，11–12 月重点放大|延续去年机制但轻量化：#NiceToHoldYou2、Cold Moment 征集、One for You, One to Share 互动帖、用户故事精选、评论区置顶与官号回复。|沉淀真实 UGC、评论资产和礼赠理由，让 Nice to Hold You #2 不只是主题名，而是可被用户参与和复述的内容机制。|
 
 |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|
@@ -175,9 +207,9 @@ Facebook（礼赠/广触达）
 |10 月上|舒适物觉醒 · O 环登场|秋意 cozy 季|Sense|舒适物/EDC 重塑 + O 环生态故事（Value）|O 环 explainer + 审美 grid|IG|
 |10 月下|冷场惊喜 · Spooky & Cozy|Halloween (10/31)|Go|趣味/话题 UGC、节日场景（Audience-Based）|trend 参与 + 评论区式|TK + IG|
 |11 月上|天黑得早 · When It Gets Dark Early|夏令时结束、天黑早变冷|Sense|变冷场景 + Sense 旗舰强推峰值 + APP/O 环（Value）|旗舰 Reels + 定位/数据解读|IG 主|
-|11 月下|感恩与抢购 · Give Warmth · BFCM|Thanksgiving + Black Friday/Cyber Monday|Go(走量)+Sense(旗舰礼)|礼赠 + 转化高峰（全支柱）|gift guide + 限时 + 直播|全平台 · 转化高峰|
-|12 月上|把温暖送出去 · Warmth as a Gift|节日礼赠季|Sense + Go|"warmth as care"、礼盒/O 环包装（Value/礼赠）|开箱 + carousel gift guide|IG + FB|
-|12 月下|最后一份暖礼 · Last-Minute Warmth|Christmas (12/25)|Go(性价比礼)+Sense(高端礼)|last-minute 礼物、节日场景（礼赠）|倒计时 Stories + 清单|FB + IG|
+|11 月下|感恩与抢购 · Give Warmth · BFCM|Thanksgiving + Black Friday/Cyber Monday|Go(走量)+Sense(旗舰礼)+圣诞限定印花礼品款|Nice to Hold You #2 礼赠启动：礼赠 + 转化高峰（全支柱）|gift guide + 圣诞限定印花款露出 + One for You, One to Share 互动 + 限时 + 直播|全平台 · 转化高峰|
+|12 月上|把温暖送出去 · Warmth as a Gift|节日礼赠季|圣诞限定印花礼品款 + Sense + Go|"warmth as care"、圣诞限定印花、礼盒/O 环包装（Value/礼赠）|限定印花开箱 + carousel gift guide|IG + FB|
+|12 月下|最后一份暖礼 · Last-Minute Warmth|Christmas (12/25)|Go(性价比礼)+Sense(高端礼)+圣诞限定印花礼品款|last-minute 礼物、节日场景、送出可被看见的温暖（礼赠）|倒计时 Stories + last-minute 清单 + 限定印花款提醒 + 用户故事精选|FB + IG|
 |1 月上|新年新感知 · New Year, New Sense|New Year/New-Me、CES|Sense|soft wellness 决心 + 智能/数据解读 + APP（Value）|Oura 式数据解读 + 立 flag|IG + TK|
 |1 月下|深冬 · Deep Winter Grounding|深冬、Blue Monday、MLK|Sense|情绪 / grounding warmth（Value 情绪调节）|慢节奏 ASMR + POV|IG + TK|
 |2 月上|硬核出门 · Built for the Cold|Super Bowl、深冬户外|Go(户外)|户外/硬核场景、The Cold-Seekers（Problem-Driven）|户外测试 + 硬核场景|TK + IG|

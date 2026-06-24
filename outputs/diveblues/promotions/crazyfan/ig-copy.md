@@ -7,12 +7,21 @@
 
 Game-day energy. Team colors. A breeze in your hand. 🌬️
 
-Think you've got this match called? 🏆 Make your pick for [MATCH NAME] before [MATCH ENTRY DEADLINE, ET] for your shot at the #Crazyfan prize pool. 👇
+Posted June 16 at 10:00 AM Beijing Time / June 15 at 10:00 PM ET.
+
+Think you've got tomorrow's matchups called? 🏆 Pick the winner from any ONE of our June 17 matchups for your shot at a free Diveblues fan:
+
+France vs Senegal
+Iraq vs Norway
+Argentina vs Algeria
+Austria vs Jordan
 
 HOW TO PLAY 🎯
-1️⃣ Drop your prediction via https://diveblues.com/pages/be-a-crazyfan
-2️⃣ Use the full national team name (or an accepted abbreviation)
-3️⃣ Emoji-only, unclear, duplicate, or late picks won't count
+1️⃣ Comment your pick before comments close pre-kickoff
+2️⃣ Use the full country name or an accepted abbreviation:
+France/FRA, Senegal/SEN, Iraq/IRQ, Norway/NOR, Argentina/ARG, Algeria/ALG, Austria/AUT, Jordan/JOR
+3️⃣ Only correct eligible picks enter the free-fan draw
+4️⃣ Emoji-only, unclear, duplicate, misspelled, unrelated, or late picks won't count
 
 📸 BONUS — UGC PATH
 Got game-day content? Share your #Crazyfan moment — DM us @divebluesofficial or post it on your account and tag @divebluesofficial. Product cameos welcome — no purchase needed to enter!
@@ -20,9 +29,12 @@ Got game-day content? Share your #Crazyfan moment — DM us @divebluesofficial o
 🎁 THE PRIZES
 Diveblues D6036 fans, double-fan sets & flight reimbursements (up to $200) — full breakdown in the Official Rules.
 
-💬 Correct picks may get a Diveblues 20% off code + shop link by DM (doesn't boost your odds; can't be combined with other offers).
+💬 ManyChat is on: comment a valid country name or abbreviation to participate and receive a Diveblues 20% off code + shop link by DM. The code doesn't boost your odds and can't be combined with other offers.
 
-Ready? Make your call 👉 https://diveblues.com/pages/be-a-crazyfan
+Comments close before kickoff. Results will be announced tomorrow.
+
+Ready? Make your call in the comments 👇
+Free AMOE + full campaign details: https://diveblues.com/pages/be-a-crazyfan
 📜 Official Rules: [OFFICIAL RULES URL]
 
 — The fine print —
@@ -45,4 +57,4 @@ This promotion is in no way sponsored, endorsed or administered by, or associate
 ## Missing Context Before Posting
 
 - Official Rules URL（规则文档发布后的链接)。
-- Match name and per-match deadline（每场不同)。
+- Exact comment-close time / per-match kickoff deadline（当前只写“before kickoff”;发布前建议按最早开赛时间补成具体 BJT/ET)。

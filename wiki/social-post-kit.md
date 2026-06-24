@@ -7,8 +7,8 @@
 
 ## Ocoopa
 
-- **品牌/品类固定 hashtag**（1–2 个，进每条）：`#Ocoopa` ` `
-- **官网链接**：
+- **品牌/品类固定 hashtag**（1–2 个，进每条）：`#Ocoopa` `#HandWarmers` 
+- **官网链接**：https://www.ocoopa.com/
 - **亚马逊 listing（常用）**：
 - **常用折扣码**：
 - **ManyChat 默认**：触发词习惯 ` `；默认私信落点（折扣码 / 官网 / 亚马逊）` `
@@ -16,12 +16,12 @@
 
 ## Diveblues
 
-- **品牌/品类固定 hashtag**（1–2 个，进每条）：`#Diveblues` ` `
-- **官网链接**：
-- **亚马逊 listing（常用）**：
-- **常用折扣码**：
-- **ManyChat 默认**：触发词习惯 ` `；默认私信落点 ` `
-- **语气备忘**：
+- **品牌/品类固定 hashtag**（1–2 个，进每条）：`#Diveblues` `#PortableFan`
+- **官网链接**：https://diveblues.com/pages/be-a-crazyfan
+- **亚马逊 listing（常用）**：https://www.amazon.com/stores/Diveblues/page/1972E12F-674B-4A0B-81F3-FBC2D8DCDADB?lp_asin=B0GCZVLDHT&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto
+- **常用折扣码**：DIVE20
+- **ManyChat 默认**：触发词习惯 `任意词汇`；默认私信落点 `官网活动页`
+- **语气备忘**：生活的参与者、活人感、真实感、避免硬广
 
 ---
 
