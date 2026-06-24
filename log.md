@@ -198,3 +198,8 @@ Append-only record of knowledge base updates.
 
 - Updated `outputs/diveblues/edm/visual-requests/2026-07-06-match-day-cartoon-long-image-edm.md`.
 - Revised only sections 6 and 8 to an Americana sports paper-cut sticker collage direction, using red / warm cream / deep navy, stronger U.S. match-day culture cues, lower information density, and refreshed reference-image prompts.
+
+## [2026-06-24] kickoff | Ocoopa 2026 winter project strategy
+
+- Added `outputs/ocoopa/kickoff/2026-ocoopa-winter-project-kickoff.md`.
+- Created an internal strategy方案 explaining the `O` brand asset, “指环暖手宝” product concept, Sense/S6 and non-smart product matrix, and the role of `Nice to Hold You #2`.
