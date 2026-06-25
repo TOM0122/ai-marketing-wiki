@@ -19,6 +19,7 @@ Placeholders to replace:
 - All PLACEHOLDER_LINK_* URLs.
 - Static product names, microcopy, and CTA destinations.
 - Support/social links in the temporary footer.
+- Physical mailing address in the footer (required by CAN-SPAM before real send).
 - Open tracking: keep {{ open_tracking }} if open tracking is enabled. If Shopify rejects it and tracking is confirmed disabled, remove only after documenting the decision.
 
 How to paste:
@@ -205,6 +206,7 @@ Pending variable verification:
               &nbsp;·&nbsp;
               <a href="PLACEHOLDER_LINK_PREFERENCES" style="color:#ffffff;text-decoration:underline;">Preferences placeholder</a>
             </p>
+            <p style="margin:0 0 12px 0;font-size:12px;line-height:19px;color:#c9e8ef;">[PHYSICAL MAILING ADDRESS — required by CAN-SPAM before real send]</p>
             <p style="margin:0;font-size:12px;line-height:19px;color:#c9e8ef;">
               No longer want these emails?
               <a href="{{ unsubscribe_url }}" style="color:#ffffff;text-decoration:underline;">Unsubscribe</a>.
