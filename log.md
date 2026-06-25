@@ -203,3 +203,8 @@ Append-only record of knowledge base updates.
 
 - Added `outputs/ocoopa/kickoff/2026-ocoopa-winter-project-kickoff.md`.
 - Created an internal strategy方案 explaining the `O` brand asset, “指环暖手宝” product concept, Sense/S6 and non-smart product matrix, and the role of `Nice to Hold You #2`.
+
+## [2026-06-25] visual-request | Diveblues CrazyFan flight guessing poster
+
+- Added `outputs/diveblues/visual-requests/2026-06-25-crazyfan-flight-guessing-poster.md`.
+- Created a designer-facing visual request table and reference-image generation prompt for a #CrazyFan new prediction round poster with flight-ticket cues, CTA, and low-share product prize presence.
