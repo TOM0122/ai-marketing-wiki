@@ -7,6 +7,9 @@
 - [[EDM专项工作方案]] — 内部项目章程（组织/职责/分阶段规划/考核维度）。任务的"宪章",口径以它为准。
 - [[edm-fundamentals]] — DTC/生活方式品牌 EDM 方法论与行业基准（生命周期流、节奏、分群、移动端、送达率、关键指标）。**附真实来源。**
 - [[benchmark-brands]] — 对标品牌怎么做 EDM/内容（Glossier 邮件最具参考性;Stanley/Owala/Poppi/Sol de Janeiro/Rhode 的生活方式打法）。**附真实来源。**
+- [[shopify-email-conventions]] — Shopify Email custom Liquid 硬约束经验包（table/inline CSS、变量白名单、暗色、体积、footer 合规）。
+- [[edm-footer-kit]] — 固定页脚联系信息（support / IG / FB / 共用 TikTok）。
+- 实现端 workflow：`助手Agent/agent/workflows/edm-template.md`（翻译模式 Liquid 模块优化）;发测试清单 `agent/prompts/edm-template-pretest-checklist.md`。
 
 ## 关键口径（来自章程）
 

@@ -1,7 +1,7 @@
 # Shopify Email Custom Liquid 经验包
 
 > 内部执行笔记。用于 Ocoopa / Diveblues Shopify Email custom Liquid EDM 模板代码。  
-> 当前是 v1 经验包, 服务探索实验与后续 QA; 不是最终标准模板规范。
+> 当前是 v1 经验包, 服务翻译模式的 Liquid 模块产出与 QA; 不是最终标准模板规范。
 
 ## 1. 适用范围
 
@@ -31,7 +31,7 @@
 ## 4. 图片与资产
 
 - 正式图片使用 Shopify Files 绝对 URL。
-- 探索模板可用清晰 placeholder URL, 但必须标注待替换。
+- 图未准备好时用清晰 placeholder URL, 但必须标注待替换。
 - 每张关键图保留 alt text。
 - 图片不可承担唯一法律/CTA/退订信息。
 - 图片文件大小由运营/设计在测试邮件前压缩确认。
@@ -45,14 +45,14 @@
 | `{{ customer.first_name | default: "there" }}` | 个性化问候 | 用 default 保证空值可读。 |
 | `{% if customer.first_name != blank %}` | 简单条件分支 | 只判断已使用的 `first_name`; else 分支必须完整。 |
 | `{{ shop.name }}` | 店铺名 fallback | 只用于低风险 fallback 文案。 |
-| `{{ unsubscribe_url }}` 或 `{{ unsubscribe_link }}` | 退订 | footer 必须包含其一。 |
+| `{{ unsubscribe_url }}` 或 `{{ unsubscribe_link }}` | 退订 | 仅整封 custom-coded email 的 footer 必须含其一;原生邮件里的模块由原生 footer 提供,不重复。 |
 | `{{ open_tracking }}` | open tracking | 若 campaign 开启 open tracking, 必须包含。启用状态若未确认, 标为 Missing Context。 |
 
 ### 待验证, 暂不进默认模板
 
 | 变量 / 写法 | 状态 | 处理 |
 |---|---|---|
-| `all_products[handle]` | pending variable verification | Shopify Email custom Liquid 上下文未证实可执行; 第一版探索模板默认用静态商品卡。 |
+| `all_products[handle]` | pending variable verification | Shopify Email custom Liquid 上下文未证实可执行; 产品区默认用静态商品卡。 |
 | 裸 `products` 对象 | pending variable verification | 不使用。若官方/测试证明可用, 再登记具体上下文。 |
 | `customer.accepts_marketing` | pending variable verification | 不使用。营销同意条件在 Shopify Email custom Liquid 中需实测后再启用。 |
 | `abandoned_checkout.*` | automation-only candidate | 只在弃购 automation 模板里按官方上下文验证后使用。 |
@@ -73,9 +73,9 @@
 
 ## 7. Footer 与合规
 
-- footer 必须有退订入口。
-- **footer 必须含真实实体邮寄地址(美国 CAN-SPAM 强制)**; 真实发送前不可缺, 探索模板用清晰标注的占位。
-- 临时品牌 footer 可以探索语气和版式, 但不得视为标准 footer。
+- **默认情形(原生邮件里的 custom Liquid 模块)**:退订与实体邮寄地址由 **Shopify 原生邮件 footer 提供**; 模块**不重复添加、不遮挡、不移除**原生 footer。
+- **仅当产出整封 custom-coded email 时**:代码自身必须含 `{{ unsubscribe_url }}` + 真实实体邮寄地址(CAN-SPAM)。
+- 固定页脚联系信息(support / IG / FB / TikTok)见 `edm-footer-kit.md`; 页脚具体设计待定。
 - 隐私、偏好管理、地区法规(GDPR / CASL 等)由运营/法务确认; 未确认写 `Missing Context`。
 - 法律/合规输出为起草辅助, 非法律意见。
 
