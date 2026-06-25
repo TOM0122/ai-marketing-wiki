@@ -1,0 +1,219 @@
+{% comment %}
+Variant ID: DB-EDM-EXP-20260625-EDITORIAL-V1
+Status: Candidate experiment, testing. Not a standard base.
+Mode: Exploration.
+Brand: Diveblues.
+Template type: Brand-editorial Shopify Email custom Liquid.
+
+Effects tested:
+- Personalized opening with customer.first_name default fallback.
+- Editorial hero with Shopify Files placeholder image and live-text fallback.
+- Cool / clean / bright Diveblues color bands with solid bgcolor fallback.
+- Two-column editorial table modules that stack on mobile when supported.
+- Static placeholder product cards. No product variable dependency in v1.
+- Temporary branded footer with required unsubscribe URL.
+- Dark-mode fallback using solid backgrounds and explicit text colors.
+
+Placeholders to replace:
+- All https://cdn.shopify.com/s/files/1/0000/0000/files/... image URLs.
+- All PLACEHOLDER_LINK_* URLs.
+- Static product names, microcopy, and CTA destinations.
+- Support/social links in the temporary footer.
+- Open tracking: keep {{ open_tracking }} if open tracking is enabled. If Shopify rejects it and tracking is confirmed disabled, remove only after documenting the decision.
+
+How to paste:
+1. Open Shopify Email.
+2. Add or edit a custom Liquid section.
+3. Paste this whole template.
+4. Replace placeholder URLs and copy.
+5. Save, send a test email, and record results in outputs/diveblues/edm/templates/index.md.
+
+Test checklist:
+- Gmail, Outlook, Apple Mail.
+- Mobile viewport.
+- Dark mode.
+- Image-off rendering.
+- CTA links.
+- Unsubscribe link.
+- File size under 50KB for this custom Liquid section.
+
+Pending variable verification:
+- all_products[handle] / product variables are not used in this v1 template.
+- customer.accepts_marketing is not used in this v1 template.
+{% endcomment %}
+
+<style>
+  @media only screen and (max-width: 620px) {
+    .db-wrap { width: 100% !important; }
+    .db-pad { padding-left: 22px !important; padding-right: 22px !important; }
+    .db-stack { display: block !important; width: 100% !important; max-width: 100% !important; }
+    .db-img { width: 100% !important; height: auto !important; }
+    .db-center-mobile { text-align: center !important; }
+  }
+  @media (prefers-color-scheme: dark) {
+    .db-page { background-color: #061922 !important; }
+    .db-card { background-color: #0d2a36 !important; }
+    .db-text { color: #eefbff !important; }
+    .db-muted { color: #b9d8e3 !important; }
+    .db-link { color: #dff7ff !important; }
+  }
+</style>
+
+<table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" class="db-page" bgcolor="#eaf7fb" style="margin:0;padding:0;background-color:#eaf7fb;">
+  <tr>
+    <td align="center" style="padding:0 12px;">
+      <table role="presentation" width="600" cellspacing="0" cellpadding="0" border="0" class="db-wrap" bgcolor="#ffffff" style="width:600px;max-width:600px;background-color:#ffffff;border-collapse:collapse;">
+        <tr>
+          <td align="center" bgcolor="#dff4f8" style="background-color:#dff4f8;padding:18px 28px 14px 28px;font-family:Arial,Helvetica,sans-serif;font-size:12px;line-height:18px;letter-spacing:0;color:#1e5563;">
+            Diveblues editorial experiment · replace placeholders before sending
+          </td>
+        </tr>
+
+        <tr>
+          <td bgcolor="#ffffff" style="background-color:#ffffff;">
+            <img class="db-img" src="https://cdn.shopify.com/s/files/1/0000/0000/files/diveblues-placeholder-editorial-hero.jpg" width="600" alt="Placeholder: bright cool-toned Diveblues lifestyle hero image to replace in Shopify Files" style="display:block;width:600px;max-width:100%;height:auto;border:0;outline:none;text-decoration:none;">
+          </td>
+        </tr>
+
+        <tr>
+          <td class="db-pad" bgcolor="#ffffff" style="background-color:#ffffff;padding:34px 44px 30px 44px;font-family:Arial,Helvetica,sans-serif;">
+            <p class="db-muted" style="margin:0 0 12px 0;font-size:13px;line-height:20px;color:#5a8290;">Hi {{ customer.first_name | default: "there" }},</p>
+            <h1 class="db-text" style="margin:0 0 16px 0;font-size:34px;line-height:40px;font-weight:700;letter-spacing:0;color:#083242;">A cooler way to carry the day.</h1>
+            <p class="db-text" style="margin:0;font-size:16px;line-height:25px;color:#254c58;">This is placeholder editorial copy for a Diveblues test email: clean scenes, light movement, and small details that make getting out the door feel easier.</p>
+          </td>
+        </tr>
+
+        <tr>
+          <td class="db-pad" bgcolor="#ffffff" style="background-color:#ffffff;padding:0 44px 36px 44px;font-family:Arial,Helvetica,sans-serif;">
+            <table role="presentation" cellspacing="0" cellpadding="0" border="0">
+              <tr>
+                <td bgcolor="#0b5d71" style="background-color:#0b5d71;border-radius:0;">
+                  <a href="PLACEHOLDER_LINK_PRIMARY" style="display:inline-block;padding:14px 22px;font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:18px;font-weight:700;color:#ffffff;text-decoration:none;">Take a closer look</a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+        <tr>
+          <td bgcolor="#eef9fb" style="background-color:#eef9fb;padding:0;">
+            <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+              <tr>
+                <td class="db-stack" width="300" valign="top" style="width:300px;">
+                  <img class="db-img" src="https://cdn.shopify.com/s/files/1/0000/0000/files/diveblues-placeholder-moving-scene.jpg" width="300" alt="Placeholder: Diveblues product in a moving daily scene" style="display:block;width:300px;max-width:100%;height:auto;border:0;">
+                </td>
+                <td class="db-stack db-card" width="300" valign="middle" bgcolor="#eef9fb" style="width:300px;background-color:#eef9fb;padding:34px 32px;font-family:Arial,Helvetica,sans-serif;">
+                  <p class="db-muted" style="margin:0 0 10px 0;font-size:12px;line-height:18px;color:#4c7987;">FIELD NOTE 01</p>
+                  <h2 class="db-text" style="margin:0 0 12px 0;font-size:23px;line-height:29px;font-weight:700;letter-spacing:0;color:#123c49;">Desk to street, without the heat.</h2>
+                  <p class="db-text" style="margin:0;font-size:15px;line-height:23px;color:#315d68;">Placeholder module copy. Use this block for commute, packing, city walk, or other real-life participant scenes.</p>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+        <tr>
+          <td class="db-pad" bgcolor="#ffffff" style="background-color:#ffffff;padding:38px 44px 18px 44px;font-family:Arial,Helvetica,sans-serif;">
+            {% if customer.first_name != blank %}
+              <p class="db-text" style="margin:0;font-size:18px;line-height:27px;color:#123c49;">{{ customer.first_name }}, this section is a soft personalization test using only a first-name condition.</p>
+            {% else %}
+              <p class="db-text" style="margin:0;font-size:18px;line-height:27px;color:#123c49;">This section is a soft personalization test with a complete fallback for every subscriber.</p>
+            {% endif %}
+          </td>
+        </tr>
+
+        <tr>
+          <td class="db-pad" bgcolor="#ffffff" style="background-color:#ffffff;padding:12px 44px 36px 44px;font-family:Arial,Helvetica,sans-serif;">
+            <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+              <tr>
+                <td class="db-stack" width="160" valign="top" style="width:160px;padding:0 8px 18px 0;">
+                  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#f4fbfd" style="background-color:#f4fbfd;">
+                    <tr>
+                      <td>
+                        <img src="https://cdn.shopify.com/s/files/1/0000/0000/files/diveblues-placeholder-product-card-1.jpg" width="160" alt="Placeholder product card image one" style="display:block;width:100%;height:auto;border:0;">
+                      </td>
+                    </tr>
+                    <tr>
+                      <td style="padding:15px 14px 18px 14px;font-family:Arial,Helvetica,sans-serif;">
+                        <p class="db-text" style="margin:0 0 6px 0;font-size:15px;line-height:20px;font-weight:700;color:#123c49;">Placeholder Product 01</p>
+                        <p class="db-muted" style="margin:0 0 12px 0;font-size:13px;line-height:19px;color:#5b7f8a;">Replace name, image, and link.</p>
+                        <a class="db-link" href="PLACEHOLDER_LINK_PRODUCT_1" style="font-size:13px;line-height:18px;color:#0b5d71;text-decoration:underline;">View placeholder</a>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+                <td class="db-stack" width="160" valign="top" style="width:160px;padding:0 8px 18px 8px;">
+                  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#f4fbfd" style="background-color:#f4fbfd;">
+                    <tr>
+                      <td>
+                        <img src="https://cdn.shopify.com/s/files/1/0000/0000/files/diveblues-placeholder-product-card-2.jpg" width="160" alt="Placeholder product card image two" style="display:block;width:100%;height:auto;border:0;">
+                      </td>
+                    </tr>
+                    <tr>
+                      <td style="padding:15px 14px 18px 14px;font-family:Arial,Helvetica,sans-serif;">
+                        <p class="db-text" style="margin:0 0 6px 0;font-size:15px;line-height:20px;font-weight:700;color:#123c49;">Placeholder Product 02</p>
+                        <p class="db-muted" style="margin:0 0 12px 0;font-size:13px;line-height:19px;color:#5b7f8a;">Static card for v1 testing.</p>
+                        <a class="db-link" href="PLACEHOLDER_LINK_PRODUCT_2" style="font-size:13px;line-height:18px;color:#0b5d71;text-decoration:underline;">View placeholder</a>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+                <td class="db-stack" width="160" valign="top" style="width:160px;padding:0 0 18px 8px;">
+                  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#f4fbfd" style="background-color:#f4fbfd;">
+                    <tr>
+                      <td>
+                        <img src="https://cdn.shopify.com/s/files/1/0000/0000/files/diveblues-placeholder-product-card-3.jpg" width="160" alt="Placeholder product card image three" style="display:block;width:100%;height:auto;border:0;">
+                      </td>
+                    </tr>
+                    <tr>
+                      <td style="padding:15px 14px 18px 14px;font-family:Arial,Helvetica,sans-serif;">
+                        <p class="db-text" style="margin:0 0 6px 0;font-size:15px;line-height:20px;font-weight:700;color:#123c49;">Placeholder Product 03</p>
+                        <p class="db-muted" style="margin:0 0 12px 0;font-size:13px;line-height:19px;color:#5b7f8a;">Replace before sending.</p>
+                        <a class="db-link" href="PLACEHOLDER_LINK_PRODUCT_3" style="font-size:13px;line-height:18px;color:#0b5d71;text-decoration:underline;">View placeholder</a>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+            <p class="db-muted" style="margin:4px 0 0 0;font-size:12px;line-height:18px;color:#6b8a94;">Product cards are static in this v1 template. Dynamic product loops are pending Shopify Email variable verification.</p>
+          </td>
+        </tr>
+
+        <tr>
+          <td class="db-pad" bgcolor="#dff4f8" style="background-color:#dff4f8;padding:34px 44px;font-family:Arial,Helvetica,sans-serif;">
+            <h2 class="db-text" style="margin:0 0 12px 0;font-size:24px;line-height:30px;font-weight:700;letter-spacing:0;color:#123c49;">Make the next scene feel lighter.</h2>
+            <p class="db-text" style="margin:0 0 22px 0;font-size:15px;line-height:24px;color:#315d68;">Placeholder close. Keep the copy low-pressure, visual, and tied to real movement: travel, commute, friends, family, and daily carry.</p>
+            <table role="presentation" cellspacing="0" cellpadding="0" border="0">
+              <tr>
+                <td bgcolor="#0b5d71" style="background-color:#0b5d71;">
+                  <a href="PLACEHOLDER_LINK_SECONDARY" style="display:inline-block;padding:13px 20px;font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:18px;font-weight:700;color:#ffffff;text-decoration:none;">Explore the placeholder edit</a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+        <tr>
+          <td class="db-pad" bgcolor="#082f3b" style="background-color:#082f3b;padding:30px 44px 28px 44px;font-family:Arial,Helvetica,sans-serif;">
+            <p style="margin:0 0 10px 0;font-size:16px;line-height:23px;font-weight:700;color:#ffffff;">Diveblues</p>
+            <p style="margin:0 0 16px 0;font-size:13px;line-height:20px;color:#c9e8ef;">Temporary branded footer experiment. Replace support, social, and address details after operational review.</p>
+            <p style="margin:0 0 12px 0;font-size:12px;line-height:19px;color:#c9e8ef;">
+              <a href="PLACEHOLDER_LINK_SUPPORT" style="color:#ffffff;text-decoration:underline;">Support</a>
+              &nbsp;·&nbsp;
+              <a href="PLACEHOLDER_LINK_INSTAGRAM" style="color:#ffffff;text-decoration:underline;">Instagram</a>
+              &nbsp;·&nbsp;
+              <a href="PLACEHOLDER_LINK_PREFERENCES" style="color:#ffffff;text-decoration:underline;">Preferences placeholder</a>
+            </p>
+            <p style="margin:0;font-size:12px;line-height:19px;color:#c9e8ef;">
+              No longer want these emails?
+              <a href="{{ unsubscribe_url }}" style="color:#ffffff;text-decoration:underline;">Unsubscribe</a>.
+            </p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+{{ open_tracking }}

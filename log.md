@@ -208,3 +208,8 @@ Append-only record of knowledge base updates.
 
 - Added `outputs/diveblues/visual-requests/2026-06-25-crazyfan-flight-guessing-poster.md`.
 - Created a designer-facing visual request table and reference-image generation prompt for a #CrazyFan new prediction round poster with flight-ticket cues, CTA, and low-share product prize presence.
+
+## [2026-06-25] edm-template | Diveblues Shopify Email editorial template experiment
+
+- Added `wiki/edm/shopify-email-conventions.md`, `outputs/diveblues/edm/templates/2026-06-25-explore-editorial-v1.liquid`, and `outputs/diveblues/edm/templates/index.md`.
+- Created the first Diveblues Shopify Email custom Liquid candidate template and experiment register, with static product cards and `all_products[handle]` / `customer.accepts_marketing` marked pending variable verification.
