@@ -213,3 +213,8 @@ Append-only record of knowledge base updates.
 
 - Added `wiki/edm/shopify-email-conventions.md`, `outputs/diveblues/edm/templates/2026-06-25-explore-editorial-v1.liquid`, and `outputs/diveblues/edm/templates/index.md`.
 - Created the first Diveblues Shopify Email custom Liquid candidate template and experiment register, with static product cards and `all_products[handle]` / `customer.accepts_marketing` marked pending variable verification.
+
+## [2026-06-25] edm-template | Diveblues welcome newsletter template experiment
+
+- Added `outputs/diveblues/edm/templates/2026-06-25-explore-newsletter-welcome-v1.liquid` and updated `outputs/diveblues/edm/templates/index.md` plus `wiki/edm/shopify-email-conventions.md`.
+- Created a one-image Shopify Email welcome newsletter candidate template for new subscribers, using the approved all-products CTA, open tracking, and reusable Diveblues footer/contact constants.
