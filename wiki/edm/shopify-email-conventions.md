@@ -87,6 +87,8 @@
 
 ## 9. 测试清单
 
+> 发测试前逐项过 `助手Agent/agent/prompts/edm-template-pretest-checklist.md`(占位替换 + 安全 + 跨客户端 QA + 登记)。
+
 - Shopify Email 编辑器可保存。
 - 发测试邮件。
 - Gmail desktop / mobile 检查。
