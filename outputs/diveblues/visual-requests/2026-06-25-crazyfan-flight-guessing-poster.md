@@ -26,7 +26,7 @@ Optional background people: diverse American soccer fans, age 18-35, casual and 
 
 Color and mood: high-contrast street poster energy, casual and diverse American culture, bold and slightly rough but still clean. Palette: deep navy, black, white, bright ticket yellow, small red accents, electric green stickers, and cool Diveblues blue. Texture: halftone print grain, paper fibers, sticker layers, marker strokes, departure-board flip lettering. Composition should feel loud, social, and participatory, not like an airline ad and not like a legal rules page.
 
-Avoid: direct wording about prize upgrades, specific prize quantities, dollar amounts, odds of winning, real route details, airline branding, real boarding pass barcodes, official tournament name text, official sports marks, real player faces, cluttered small text, and hard-sell product layout. Leave a small bottom safe area for legal copy such as “NO PURCHASE NECESSARY. SEE RULES.” to be added by the designer.
+Avoid: direct reward-change wording, specific prize quantities, dollar amounts, odds of winning, real route details, airline branding, real boarding pass barcodes, official tournament name text, official sports marks, real player faces, cluttered small text, and hard-sell product layout. Leave a small bottom safe area for legal copy such as “NO PURCHASE NECESSARY. SEE RULES.” to be added by the designer.
 ```
 
 中文说明：这段提示词用于生成给视觉同事看的参考图。重点是“文字主视觉 + 大字报 + 机票/登机牌元素 + 竞猜 CTA + 小占比产品露出”。生图工具文字可能不稳定，建议生成时保留大标题区域、CTA 贴纸区域和底部规则小字区域，最终英文文案由设计师手动排版。
