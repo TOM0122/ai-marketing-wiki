@@ -79,16 +79,6 @@
 - 隐私、偏好管理、地区法规(GDPR / CASL 等)由运营/法务确认; 未确认写 `Missing Context`。
 - 法律/合规输出为起草辅助, 非法律意见。
 
-### Diveblues reusable footer/contact constants
-
-| Field | Value | Status |
-|---|---|---|
-| Physical mailing address | `1732 Pontenova Ave, Unit 13, Hacienda Height CA 91746` | user-approved reusable value |
-| Support email | `support@diveblues.com` | user-approved reusable value |
-| Instagram | `https://www.instagram.com/divebluesofficial/` | user-approved reusable value |
-| Facebook | `https://www.facebook.com/Diveblues` | user-approved reusable value |
-| TikTok | `https://www.tiktok.com/@warmthwithocoopa` | user-approved reusable value |
-
 ## 8. 体积限制
 
 - custom Liquid section <= 50KB。
