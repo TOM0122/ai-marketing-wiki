@@ -9,6 +9,7 @@
 - [[benchmark-brands]] — 对标品牌怎么做 EDM/内容（Glossier 邮件最具参考性;Stanley/Owala/Poppi/Sol de Janeiro/Rhode 的生活方式打法）。**附真实来源。**
 - [[shopify-email-conventions]] — Shopify Email custom Liquid 硬约束经验包（table/inline CSS、变量白名单、暗色、体积、footer 合规）。
 - [[edm-footer-kit]] — 固定页脚联系信息（support / IG / FB / 共用 TikTok）。
+- 视觉需求 workflow：`助手Agent/agent/workflows/edm-visual-request.md`;每次起手填 `agent/prompts/edm-visual-request-kickoff.md`。
 - 实现端 workflow：`助手Agent/agent/workflows/edm-template.md`（翻译模式 Liquid 模块优化）;发测试清单 `agent/prompts/edm-template-pretest-checklist.md`。
 
 ## 关键口径（来自章程）
