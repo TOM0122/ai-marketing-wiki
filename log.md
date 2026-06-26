@@ -218,3 +218,8 @@ Append-only record of knowledge base updates.
 
 - Added `outputs/weekly-reports/周报6.12-6.25.md`.
 - Internal biweekly report covering IG / FB social data, World Cup project acceleration, cross-functional handoff, EDM project intake, GTM submission, and risk status.
+
+## [2026-06-26] visual-request | Diveblues Brazil vs Japan fisheye fan clash
+
+- Added `outputs/diveblues/visual-requests/2026-06-26-brazil-japan-fisheye-fan-clash.md`.
+- Created a designer-facing visual request table and reference-image generation prompt for a #CrazyFan Brazil vs Japan fisheye fan stare-down visual with secondary Diveblues product exposure.
