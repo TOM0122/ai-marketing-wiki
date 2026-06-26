@@ -213,3 +213,8 @@ Append-only record of knowledge base updates.
 
 - Added `wiki/edm/shopify-email-conventions.md`, `outputs/diveblues/edm/templates/2026-06-25-explore-editorial-v1.liquid`, and `outputs/diveblues/edm/templates/index.md`.
 - Created the first Diveblues Shopify Email custom Liquid candidate template and experiment register, with static product cards and `all_products[handle]` / `customer.accepts_marketing` marked pending variable verification.
+
+## [2026-06-26] weekly-report | 2026-06-12 to 2026-06-25
+
+- Added `outputs/weekly-reports/周报6.12-6.25.md`.
+- Internal biweekly report covering IG / FB social data, World Cup project acceleration, cross-functional handoff, EDM project intake, GTM submission, and risk status.
