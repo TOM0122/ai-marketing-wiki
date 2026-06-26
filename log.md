@@ -223,3 +223,8 @@ Append-only record of knowledge base updates.
 
 - Added `outputs/diveblues/visual-requests/2026-06-26-brazil-japan-fisheye-fan-clash.md`.
 - Created a designer-facing visual request table and reference-image generation prompt for a #CrazyFan Brazil vs Japan fisheye fan stare-down visual with secondary Diveblues product exposure.
+
+## [2026-06-26] report | Diveblues #crazyfan social midstage report
+
+- Added `outputs/diveblues/reports/2026-06-26-crazyfan-social-midstage-report.md`.
+- Created an activity-midstage social report for the #crazyfan World Cup project, covering IG / FB / TikTok growth, official content structure, ad budget progress, traffic-goal completion, and the shift toward prediction and interaction content.
