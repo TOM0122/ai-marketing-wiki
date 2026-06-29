@@ -233,3 +233,8 @@ Append-only record of knowledge base updates.
 
 - Updated `outputs/diveblues/visual-requests/2026-06-26-brazil-japan-fisheye-fan-clash.md`.
 - Changed the visual request matchup from Brazil vs Japan to Portugal vs Croatia and regenerated the title/copy system while keeping the fisheye #CrazyFan fan-clash creative unchanged.
+
+## [2026-06-29] source-note | Ocoopa 3042 audience profile ingest
+
+- Added `raw/files/3042人群画像.xlsx`, `raw/files/3042人群画像.md`, `raw/files/3042人群画像_结论.png`, `raw/files/3042人群画像_销量占比.png`, and `wiki/brands/ocoopa-3042-audience-profile.md`.
+- Converted the user-provided 3042 audience workbook into Markdown and created a reusable audience/persona note for the Ocoopa winter visualization STP task.
