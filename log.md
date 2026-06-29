@@ -228,3 +228,8 @@ Append-only record of knowledge base updates.
 
 - Added `outputs/diveblues/reports/2026-06-26-crazyfan-social-midstage-report.md`.
 - Created an activity-midstage social report for the #crazyfan World Cup project, covering IG / FB / TikTok growth, official content structure, ad budget progress, traffic-goal completion, and the shift toward prediction and interaction content.
+
+## [2026-06-29] visual-request | Diveblues Portugal vs Croatia fisheye fan clash revision
+
+- Updated `outputs/diveblues/visual-requests/2026-06-26-brazil-japan-fisheye-fan-clash.md`.
+- Changed the visual request matchup from Brazil vs Japan to Portugal vs Croatia and regenerated the title/copy system while keeping the fisheye #CrazyFan fan-clash creative unchanged.
