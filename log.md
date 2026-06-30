@@ -238,3 +238,8 @@ Append-only record of knowledge base updates.
 
 - Added `raw/files/3042人群画像.xlsx`, `raw/files/3042人群画像.md`, `raw/files/3042人群画像_结论.png`, `raw/files/3042人群画像_销量占比.png`, and `wiki/brands/ocoopa-3042-audience-profile.md`.
 - Converted the user-provided 3042 audience workbook into Markdown and created a reusable audience/persona note for the Ocoopa winter visualization STP task.
+
+## [2026-06-30] kickoff | Ocoopa 2026 winter visualization STP
+
+- Added `outputs/ocoopa/kickoff/2026-ocoopa-winter-project-visualization-stp.md`.
+- Created a document-style internal visualization方案 covering STP, three Persona, real product usage scenes, O ring usage rules, smart vs non-smart visual roles, and three AI image prompts per Persona.
