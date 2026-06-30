@@ -243,3 +243,8 @@ Append-only record of knowledge base updates.
 
 - Added `outputs/ocoopa/kickoff/2026-ocoopa-winter-project-visualization-stp.md`.
 - Created a document-style internal visualization方案 covering STP, three Persona, real product usage scenes, O ring usage rules, smart vs non-smart visual roles, and three AI image prompts per Persona.
+
+## [2026-06-30] visual-request | Diveblues Argentina vs Cape Verde two directions
+
+- Added `outputs/diveblues/visual-requests/2026-06-30-argentina-cape-verde-two-directions.md`.
+- Created a designer-facing visual request with two optional directions for Argentina vs Cape Verde: low-angle underdog confrontation and eagle-shadow goalkeeper heroism, each with reference-image prompts.
