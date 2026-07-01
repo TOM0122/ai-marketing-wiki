@@ -248,3 +248,8 @@ Append-only record of knowledge base updates.
 
 - Added `outputs/diveblues/visual-requests/2026-06-30-argentina-cape-verde-two-directions.md`.
 - Created a designer-facing visual request with two optional directions for Argentina vs Cape Verde: low-angle underdog confrontation and eagle-shadow goalkeeper heroism, each with reference-image prompts.
+
+## [2026-07-01] visual-request | Diveblues Argentina vs Cape Verde allegory revision
+
+- Updated `outputs/diveblues/visual-requests/2026-06-30-argentina-cape-verde-two-directions.md`.
+- Replaced the two-direction structure with a single woodcut-style dual-protagonist allegory: Argentina as the challenged divine throne and Cape Verde veteran as a grassroots knight-climber holding a foreshortened Diveblues fan.
