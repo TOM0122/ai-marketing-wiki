@@ -179,6 +179,12 @@ Append-only record of knowledge base updates.
 - Added `outputs/diveblues/visual-requests/2026-06-22-argentina-jordan-road-trip.md`.
 - Created a designer-facing visual request table and reference-image generation prompt for an Argentina vs Jordan pre-match pickup road-trip visual with rear-seat POV and mirror-hung Diveblues product.
 
+## [2026-07-02] video-production | Ocoopa Sense product three-view
+
+- Added `outputs/ocoopa/video-production/2026-07-01-ocoopa-sense-app-findmy-film/product-three-view-archive.md`.
+- Archived the approved `IMG-REF-01 Sense Product Three-View.png` output for the internal `Nice to Hold You #2 - Sense` production run.
+- Recorded LibTV node `d65d9abf-2069-4830-b33e-1dd7c13797f2`, task `20260702110003279654335`, and actual point use of 76 points.
+
 ## [2026-06-23] promotion-rules | Diveblues Father's Day x World Cup giveaway IG copy
 
 - Added `outputs/diveblues/promotions/fathers-day-worldcup-giveaway/ig-copy.md`.
