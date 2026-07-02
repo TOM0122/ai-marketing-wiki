@@ -259,3 +259,8 @@ Append-only record of knowledge base updates.
 
 - Updated `outputs/diveblues/visual-requests/2026-06-30-argentina-cape-verde-two-directions.md`.
 - Replaced the two-direction structure with a single woodcut-style dual-protagonist allegory: Argentina as the challenged divine throne and Cape Verde veteran as a grassroots knight-climber holding a foreshortened Diveblues fan.
+
+## [2026-07-02] edm | Diveblues sticker-bomb team color newsletter visual request
+
+- Added `outputs/diveblues/edm/visual-requests/2026-07-02-sticker-bomb-team-color-newsletter.md`.
+- Created a designer-facing EDM visual request for the 2026-07-14 Diveblues newsletter, covering the sticker hero image, `Shop by color` four-product module, image click zones, live button/footer boundary, IP avoidances, and reference-image prompts.
