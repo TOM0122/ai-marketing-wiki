@@ -264,3 +264,8 @@ Append-only record of knowledge base updates.
 
 - Added `outputs/diveblues/edm/visual-requests/2026-07-02-sticker-bomb-team-color-newsletter.md`.
 - Created a designer-facing EDM visual request for the 2026-07-14 Diveblues newsletter, covering the sticker hero image, `Shop by color` four-product module, image click zones, live button/footer boundary, IP avoidances, and reference-image prompts.
+
+## [2026-07-02] ocoopa | Sense App Find My film project deprecated
+
+- Marked `outputs/ocoopa/video-production/2026-07-01-ocoopa-sense-app-findmy-film/` as DEPRECATED (added `DEPRECATED.md`).
+- LibTV CLI production run aborted after all Batch 10 video units failed review; scripts/storyboard remain valid in the project repo; product three-view stays reusable. Successor workflow: prompt packages (first/last frame + motion) for manual generation on LibTV web.
