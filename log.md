@@ -289,3 +289,8 @@ Append-only record of knowledge base updates.
 
 - Added `outputs/diveblues/edm/visual-requests/2026-07-03-final-showdown-newsletter.md`.
 - Created a designer-facing EDM visual request for the 2026-07-16 Diveblues final showdown newsletter, covering the split hero, `WITNESS HISTORY` transition, one-image final-four product color-block module, whole-image click behavior, color-swap template layers, IP avoidances, and reference-image prompts.
+
+## [2026-07-03] brand-strategy | Ocoopa Anbooc dual-brand promotion
+
+- Added `outputs/ocoopa/brand-strategy/2026-winter-ocoopa-anbooc-dual-brand-promotion.md`.
+- Created a dual-brand winter promotion direction for Ocoopa and Anbooc, keeping Ocoopa on `Nice to Hold You #2` while defining Anbooc's `No-Drama Warmth` narrative, content pillars, influencer directions, affiliate angles, and Ocoopa-to-Anbooc support language.
