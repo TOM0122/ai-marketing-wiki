@@ -269,3 +269,8 @@ Append-only record of knowledge base updates.
 
 - Marked `outputs/ocoopa/video-production/2026-07-01-ocoopa-sense-app-findmy-film/` as DEPRECATED (added `DEPRECATED.md`).
 - LibTV CLI production run aborted after all Batch 10 video units failed review; scripts/storyboard remain valid in the project repo; product three-view stays reusable. Successor workflow: prompt packages (first/last frame + motion) for manual generation on LibTV web.
+
+## [2026-07-03] promotion-rules | Diveblues Argentina vs Cape Verde flight ticket giveaway update
+
+- Updated `outputs/diveblues/promotions/fathers-day-worldcup-giveaway/ig-copy.md`.
+- Revised the IG caption to foreground Round of 32, Argentina vs Cape Verde, and a flight ticket prize while preserving eligibility, no-purchase, winner-notice, and Instagram release language.
