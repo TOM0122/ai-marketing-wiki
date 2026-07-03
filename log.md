@@ -279,3 +279,8 @@ Append-only record of knowledge base updates.
 
 - Added `outputs/weekly-reports/周报6.26-7.2.md`.
 - Internal weekly report covering IG / FB social data, World Cup project progress, EDM project pipeline, urgent winter project video request, and risk status.
+
+## [2026-07-03] monthly-report | 2026-06 content performance summary
+
+- Added `outputs/monthly-reports/2026-06-月度总结.md`.
+- June 2026 internal monthly summary focused on Diveblues Crazyfan content directions, IG content-level performance, platform KPI, TikTok aggregate data, and July optimization plan.
