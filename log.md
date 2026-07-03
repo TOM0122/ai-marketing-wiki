@@ -274,3 +274,8 @@ Append-only record of knowledge base updates.
 
 - Updated `outputs/diveblues/promotions/fathers-day-worldcup-giveaway/ig-copy.md`.
 - Revised the IG caption to foreground Round of 32, Argentina vs Cape Verde, and a flight ticket prize while preserving eligibility, no-purchase, winner-notice, and Instagram release language.
+
+## [2026-07-03] weekly-report | 2026-06-26 to 2026-07-02
+
+- Added `outputs/weekly-reports/周报6.26-7.2.md`.
+- Internal weekly report covering IG / FB social data, World Cup project progress, EDM project pipeline, urgent winter project video request, and risk status.
