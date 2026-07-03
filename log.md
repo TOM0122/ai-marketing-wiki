@@ -284,3 +284,8 @@ Append-only record of knowledge base updates.
 
 - Added `outputs/monthly-reports/2026-06-月度总结.md`.
 - June 2026 internal monthly summary focused on Diveblues Crazyfan content directions, IG content-level performance, platform KPI, TikTok aggregate data, and July optimization plan.
+
+## [2026-07-03] edm | Diveblues final showdown newsletter visual request
+
+- Added `outputs/diveblues/edm/visual-requests/2026-07-03-final-showdown-newsletter.md`.
+- Created a designer-facing EDM visual request for the 2026-07-16 Diveblues final showdown newsletter, covering the split hero, `WITNESS HISTORY` transition, one-image final-four product color-block module, whole-image click behavior, color-swap template layers, IP avoidances, and reference-image prompts.
