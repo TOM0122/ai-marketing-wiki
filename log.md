@@ -294,3 +294,8 @@ Append-only record of knowledge base updates.
 
 - Added `outputs/ocoopa/brand-strategy/2026-winter-ocoopa-anbooc-dual-brand-promotion.md`.
 - Created a dual-brand winter promotion direction for Ocoopa and Anbooc, keeping Ocoopa on `Nice to Hold You #2` while defining Anbooc's `No-Drama Warmth` narrative, content pillars, influencer directions, affiliate angles, and Ocoopa-to-Anbooc support language.
+
+## [2026-07-06] promotion-rules | Diveblues four-match flight + fan giveaway update
+
+- Updated `outputs/diveblues/promotions/fathers-day-worldcup-giveaway/ig-copy.md`.
+- Revised the IG caption to foreground four prediction matchups, flight ticket + fan product prize, July 6-9 activity dates, and a post-kickoff comment cutoff while preserving eligibility, no-purchase, winner-notice, and Instagram release language.
