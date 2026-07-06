@@ -16,28 +16,19 @@ Links:
 
 Implementation notes:
 - This module does not generate or modify the black footer.
-- This module does not include unsubscribe_url or physical address; Shopify native footer provides those.
 - Icons are generated as email-safe live HTML/CSS badges, not image files or SVG.
+- Background is white/transparent-safe; no cream full-width band.
 - No dynamic Liquid variables are used.
 - Test with agent/prompts/edm-template-pretest-checklist.md before sending.
 {% endcomment %}
 
-<style>
-  @media only screen and (max-width: 760px) {
-    .db-match-wrap { width: 100% !important; max-width: 100% !important; }
-    .db-match-pad { padding-left: 18px !important; padding-right: 18px !important; }
-    .db-match-icons { width: 100% !important; max-width: 420px !important; }
-    .db-match-icon-cell { width: 25% !important; padding-left: 3px !important; padding-right: 3px !important; }
-  }
-</style>
-
-<table role="presentation" width="750" cellspacing="0" cellpadding="0" border="0" align="center" class="db-match-wrap" bgcolor="#f4eadb" style="width:750px;max-width:750px;margin:0 auto;background-color:#f4eadb;border-collapse:collapse;">
+<table role="presentation" width="750" cellspacing="0" cellpadding="0" border="0" align="center" class="db-match-wrap" bgcolor="#ffffff" style="width:750px;max-width:750px;margin:0 auto;background-color:#ffffff;border-collapse:collapse;">
   <tr>
-    <td class="db-match-pad" align="center" style="padding:24px 46px 14px 46px;font-family:Arial,Helvetica,sans-serif;background-color:#f4eadb;">
+    <td class="db-match-pad" align="center" style="padding:18px 46px 12px 46px;font-family:Arial,Helvetica,sans-serif;background-color:#ffffff;">
       <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="center">
         <tr>
-          <td bgcolor="#0b2d53" style="background-color:#0b2d53;border:3px solid #111111;box-shadow:5px 5px 0 #bf2f2a;">
-            <a href="https://diveblues.com/" style="display:inline-block;min-width:190px;padding:13px 28px;font-family:Arial,Helvetica,sans-serif;font-size:19px;line-height:23px;font-weight:800;color:#f8efe0;text-decoration:none;text-transform:lowercase;letter-spacing:0;text-align:center;">learn more</a>
+          <td bgcolor="#0b2d53" style="background-color:#0b2d53;border:2px solid #111111;box-shadow:4px 4px 0 #bf2f2a;">
+            <a href="https://diveblues.com/" style="display:inline-block;min-width:170px;padding:11px 24px;font-family:Arial,Helvetica,sans-serif;font-size:18px;line-height:22px;font-weight:800;color:#ffffff;text-decoration:none;text-transform:lowercase;letter-spacing:0;text-align:center;">learn more</a>
           </td>
         </tr>
       </table>
@@ -45,31 +36,27 @@ Implementation notes:
   </tr>
 
   <tr>
-    <td class="db-match-pad" align="center" style="padding:10px 46px 30px 46px;background-color:#f4eadb;font-family:Arial,Helvetica,sans-serif;">
-      <table role="presentation" width="430" cellspacing="0" cellpadding="0" border="0" align="center" class="db-match-icons" style="width:430px;max-width:430px;border-collapse:collapse;">
+    <td class="db-match-pad" align="center" style="padding:6px 46px 22px 46px;background-color:#ffffff;font-family:Arial,Helvetica,sans-serif;">
+      <table role="presentation" width="300" cellspacing="0" cellpadding="0" border="0" align="center" class="db-match-icons" style="width:300px;max-width:300px;border-collapse:collapse;">
         <tr>
-          <td class="db-match-icon-cell" width="25%" align="center" valign="top" style="width:25%;padding:0 5px 6px 5px;">
+          <td class="db-match-icon-cell" width="25%" align="center" valign="top" style="width:25%;padding:0 6px;">
             <a href="mailto:support@diveblues.com" style="display:block;text-decoration:none;color:#111111;">
-              <span style="display:inline-block;width:44px;height:44px;border:3px solid #111111;background-color:#f8efe0;color:#0b2d53;font-family:Arial,Helvetica,sans-serif;font-size:10px;line-height:44px;font-weight:800;text-align:center;box-shadow:3px 3px 0 #bf2f2a;">MAIL</span>
-              <span style="display:block;margin-top:7px;font-family:Arial,Helvetica,sans-serif;font-size:11px;line-height:15px;font-weight:700;color:#111111;">Support</span>
+              <span style="display:inline-block;width:38px;height:38px;border:2px solid #111111;background-color:#ffffff;color:#0b2d53;font-family:Arial,Helvetica,sans-serif;font-size:18px;line-height:38px;font-weight:800;text-align:center;box-shadow:3px 3px 0 #bf2f2a;">&#9993;</span>
             </a>
           </td>
-          <td class="db-match-icon-cell" width="25%" align="center" valign="top" style="width:25%;padding:0 5px 6px 5px;">
+          <td class="db-match-icon-cell" width="25%" align="center" valign="top" style="width:25%;padding:0 6px;">
             <a href="https://www.facebook.com/Diveblues" style="display:block;text-decoration:none;color:#111111;">
-              <span style="display:inline-block;width:44px;height:44px;border:3px solid #111111;background-color:#0b2d53;color:#f8efe0;font-family:Arial,Helvetica,sans-serif;font-size:17px;line-height:44px;font-weight:800;text-align:center;box-shadow:3px 3px 0 #bf2f2a;">FB</span>
-              <span style="display:block;margin-top:7px;font-family:Arial,Helvetica,sans-serif;font-size:11px;line-height:15px;font-weight:700;color:#111111;">Facebook</span>
+              <span style="display:inline-block;width:38px;height:38px;border:2px solid #111111;background-color:#0b2d53;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:22px;line-height:38px;font-weight:800;text-align:center;box-shadow:3px 3px 0 #bf2f2a;">f</span>
             </a>
           </td>
-          <td class="db-match-icon-cell" width="25%" align="center" valign="top" style="width:25%;padding:0 5px 6px 5px;">
+          <td class="db-match-icon-cell" width="25%" align="center" valign="top" style="width:25%;padding:0 6px;">
             <a href="https://www.instagram.com/divebluesofficial/" style="display:block;text-decoration:none;color:#111111;">
-              <span style="display:inline-block;width:44px;height:44px;border:3px solid #111111;background-color:#bf2f2a;color:#f8efe0;font-family:Arial,Helvetica,sans-serif;font-size:17px;line-height:44px;font-weight:800;text-align:center;box-shadow:3px 3px 0 #0b2d53;">IG</span>
-              <span style="display:block;margin-top:7px;font-family:Arial,Helvetica,sans-serif;font-size:11px;line-height:15px;font-weight:700;color:#111111;">Instagram</span>
+              <span style="display:inline-block;width:38px;height:38px;border:2px solid #111111;background-color:#bf2f2a;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:38px;font-weight:800;text-align:center;box-shadow:3px 3px 0 #0b2d53;">IG</span>
             </a>
           </td>
-          <td class="db-match-icon-cell" width="25%" align="center" valign="top" style="width:25%;padding:0 5px 6px 5px;">
+          <td class="db-match-icon-cell" width="25%" align="center" valign="top" style="width:25%;padding:0 6px;">
             <a href="https://www.tiktok.com/@warmthwithocoopa" style="display:block;text-decoration:none;color:#111111;">
-              <span style="display:inline-block;width:44px;height:44px;border:3px solid #111111;background-color:#111111;color:#f8efe0;font-family:Arial,Helvetica,sans-serif;font-size:17px;line-height:44px;font-weight:800;text-align:center;box-shadow:3px 3px 0 #bf2f2a;">TK</span>
-              <span style="display:block;margin-top:7px;font-family:Arial,Helvetica,sans-serif;font-size:11px;line-height:15px;font-weight:700;color:#111111;">TikTok</span>
+              <span style="display:inline-block;width:38px;height:38px;border:2px solid #111111;background-color:#111111;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:38px;font-weight:800;text-align:center;box-shadow:3px 3px 0 #bf2f2a;">TK</span>
             </a>
           </td>
         </tr>
