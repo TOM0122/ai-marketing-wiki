@@ -299,3 +299,8 @@ Append-only record of knowledge base updates.
 
 - Updated `outputs/diveblues/promotions/fathers-day-worldcup-giveaway/ig-copy.md`.
 - Revised the IG caption to foreground four prediction matchups, flight ticket + fan product prize, July 6-9 activity dates, and a post-kickoff comment cutoff while preserving eligibility, no-purchase, winner-notice, and Instagram release language.
+
+## [2026-07-06] edm-template | Diveblues match-day CTA icon Liquid module
+
+- Added `outputs/diveblues/edm/templates/2026-07-06-matchday-cta-icons-module.liquid` and updated `outputs/diveblues/edm/templates/index.md`.
+- Created a 750px native Shopify Email custom Liquid module for the match-day long-image ending, with a `learn more` CTA and code-generated support / FB / IG / TK badge links before the native footer.

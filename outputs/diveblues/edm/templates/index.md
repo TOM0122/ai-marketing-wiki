@@ -8,6 +8,7 @@
 | ID | Date | Brand | 优化哪一块 | Scope | Associated EDM | File Path | Dynamic Variables | Assets Status | Test Clients | Status | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | _(尚无;第一个翻译模式模块产出后登记)_ | | | | | | | | | | | |
+| `DB-MOD-20260706-MATCHDAY-CTA-ICONS` | 2026-07-06 | Diveblues | 长图结尾 CTA + support/social icon row | native-email module | 2026-07-06 Match-Day Editorial Sports Collage Long Image | `outputs/diveblues/edm/templates/2026-07-06-matchday-cta-icons-module.liquid` | None | no image assets; live HTML/CSS badges | Pending: Gmail / Outlook / Apple Mail / mobile / dark mode | 测试中 | Width 750px; CTA URL `https://diveblues.com/`; no black footer / unsubscribe / address generated. |
 
 > Scope = `native-email module`(默认,原生邮件里的局部模块)/ `full custom-coded email`。
 
