@@ -314,3 +314,8 @@ Append-only record of knowledge base updates.
 
 - Added `outputs/ocoopa/brand-strategy/2026-winter-ocoopa-diveblues-dual-brand-promotion.md`.
 - Reworked the previous Ocoopa x Anbooc winter direction into an Ocoopa x Diveblues dual-brand plan, keeping Ocoopa on Sense / S6, old products, `O`, and `Nice to Hold You #2`, while assigning Go, under-$15, EDC, seasonal carry, and gift-season logic to Diveblues.
+
+## [2026-07-07] promotion-draw | Diveblues #CrazyFan 2026-07-06 draw record
+
+- Added `outputs/diveblues/promotions/crazyfan/draws/2026-07-06-draw.md`.
+- Recorded the user-provided official winners for the 2026-07-06 equal-weight draw: 1 flight winner and 3 product winners, with the full 14-person participant weight table.
