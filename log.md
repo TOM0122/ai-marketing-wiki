@@ -315,6 +315,11 @@ Append-only record of knowledge base updates.
 - Added `outputs/ocoopa/brand-strategy/2026-winter-ocoopa-diveblues-dual-brand-promotion.md`.
 - Reworked the previous Ocoopa x Anbooc winter direction into an Ocoopa x Diveblues dual-brand plan, keeping Ocoopa on Sense / S6, old products, `O`, and `Nice to Hold You #2`, while assigning Go, under-$15, EDC, seasonal carry, and gift-season logic to Diveblues.
 
+## [2026-07-07] source-note | Diveblues Go winter visual strategy ingest
+
+- Added `raw/files/暖手宝品牌拓展视觉策略.pdf`, `raw/files/暖手宝品牌拓展视觉策略.md`, and `wiki/brands/diveblues-go-winter-visual-strategy.md`.
+- Ingested the user-provided winter hand-warmer visual strategy source, converted it to a structured raw Markdown transcription, and created a reusable Diveblues Go winter visual / content strategy wiki note.
+
 ## [2026-07-07] promotion-draw | Diveblues #CrazyFan 2026-07-06 draw record
 
 - Added `outputs/diveblues/promotions/crazyfan/draws/2026-07-06-draw.md`.
