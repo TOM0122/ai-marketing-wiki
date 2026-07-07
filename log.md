@@ -309,3 +309,8 @@ Append-only record of knowledge base updates.
 
 - Updated `outputs/diveblues/edm/templates/2026-07-06-matchday-cta-icons-module.liquid`.
 - Tightened the module to a fixed 750px root table, smaller CTA, and compact centered icon row after Shopify preview feedback.
+
+## [2026-07-07] brand-strategy | Ocoopa Diveblues dual-brand winter promotion
+
+- Added `outputs/ocoopa/brand-strategy/2026-winter-ocoopa-diveblues-dual-brand-promotion.md`.
+- Reworked the previous Ocoopa x Anbooc winter direction into an Ocoopa x Diveblues dual-brand plan, keeping Ocoopa on Sense / S6, old products, `O`, and `Nice to Hold You #2`, while assigning Go, under-$15, EDC, seasonal carry, and gift-season logic to Diveblues.
