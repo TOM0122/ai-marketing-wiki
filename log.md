@@ -324,3 +324,8 @@ Append-only record of knowledge base updates.
 
 - Added `outputs/diveblues/promotions/crazyfan/draws/2026-07-06-draw.md`.
 - Recorded the user-provided official winners for the 2026-07-06 equal-weight draw: 1 flight winner and 3 product winners, with the full 14-person participant weight table.
+
+## [2026-07-09] campaign | Diveblues Go winter Wear the Vibe blueprint
+
+- Added `outputs/diveblues/campaigns/2026-winter-diveblues-go-wear-the-vibe-campaign.md`.
+- Created an internal campaign-battle blueprint for Diveblues Go winter hand warmer, covering `Wear the Vibe.`, phased sub-activities, UGC / interaction mechanism, IG / TikTok / FB / EDM platform roles, and Big Game IP boundary.
