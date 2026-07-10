@@ -334,3 +334,8 @@ Append-only record of knowledge base updates.
 
 - Updated `outputs/diveblues/campaigns/2026-winter-diveblues-go-wear-the-vibe-campaign.md`.
 - Optimized the existing campaign blueprint using the Alice strategic-positioning attachment, strengthening audience overlap insight, value / lifestyle differentiation, four-season Diveblues logic, STP, creator pools, visual rules, and source notes without changing the master campaign path.
+
+## [2026-07-10] campaign | Diveblues Wear the Vibe executive brief
+
+- Added `raw/files/Diveblues 冬季主题活动 Wear the Vibe.md` and `outputs/diveblues/campaigns/2026-winter-diveblues-wear-the-vibe-executive-brief.md`.
+- Created a three-page management brief clarifying the `Keep Your Vibe.` brand architecture, `Wear the Vibe.` winter campaign, 2026-09 → 2027-02 monthly plan, and same-time Ocoopa / Diveblues differentiation.
