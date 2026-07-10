@@ -339,3 +339,8 @@ Append-only record of knowledge base updates.
 
 - Added `raw/files/Diveblues 冬季主题活动 Wear the Vibe.md` and `outputs/diveblues/campaigns/2026-winter-diveblues-wear-the-vibe-executive-brief.md`.
 - Created a three-page management brief clarifying the `Keep Your Vibe.` brand architecture, `Wear the Vibe.` winter campaign, 2026-09 → 2027-02 monthly plan, and same-time Ocoopa / Diveblues differentiation.
+
+## [2026-07-10] weekly-report | 2026-07-02 to 2026-07-08
+
+- Added `outputs/weekly-reports/周报7.2-7.8.md`.
+- Internal weekly report covering IG / FB social data, World Cup wind-down, winter dual-brand planning, EDM data and roadmap, print authorization, and capacity risk.
