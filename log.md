@@ -344,3 +344,8 @@ Append-only record of knowledge base updates.
 
 - Added `outputs/weekly-reports/周报7.2-7.8.md`.
 - Internal weekly report covering IG / FB social data, World Cup wind-down, winter dual-brand planning, EDM data and roadmap, print authorization, and capacity risk.
+
+## [2026-07-10] edm | Diveblues Summer, With a Breeze beach newsletter visual request
+
+- Added `outputs/diveblues/edm/visual-requests/2026-07-10-summer-with-a-breeze-beach-newsletter.md`.
+- Created a designer-facing visual request for the US summer lifestyle newsletter, covering the static beach Hero, editorial transition, three-image shadowless product edit, same-person neck / crossbody close-ups, final English copy, email implementation boundaries, and reference-image prompts.
