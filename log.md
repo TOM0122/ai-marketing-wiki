@@ -349,3 +349,8 @@ Append-only record of knowledge base updates.
 
 - Added `outputs/diveblues/edm/visual-requests/2026-07-10-summer-with-a-breeze-beach-newsletter.md`.
 - Created a designer-facing visual request for the US summer lifestyle newsletter, covering the static beach Hero, editorial transition, three-image shadowless product edit, same-person neck / crossbody close-ups, final English copy, email implementation boundaries, and reference-image prompts.
+
+## [2026-07-13] edm | Diveblues Summer Sale slot-reel newsletter visual request
+
+- Added `outputs/diveblues/edm/visual-requests/2026-07-13-summer-sale-slot-gif-newsletter.md`.
+- Created a designer-facing US promotion EDM request covering three static source frames for an internally assembled slot-reel GIF, two product modules, a Shop All module, Community image reuse, confirmed equal-or-lesser-value discount wording, design/build ownership, launch checks, and reference-image prompts.
