@@ -350,6 +350,11 @@ Append-only record of knowledge base updates.
 - Added `outputs/diveblues/edm/visual-requests/2026-07-10-summer-with-a-breeze-beach-newsletter.md`.
 - Created a designer-facing visual request for the US summer lifestyle newsletter, covering the static beach Hero, editorial transition, three-image shadowless product edit, same-person neck / crossbody close-ups, final English copy, email implementation boundaries, and reference-image prompts.
 
+## [2026-07-13] visual-request | Diveblues Argentina vs France final placeholder concept
+
+- Added `outputs/diveblues/visual-requests/2026-07-13-argentina-france-final-concept.md`.
+- Created a designer-facing #CrazyFan final prediction visual request using the `The Last Walk` tunnel concept, placeholder-team replacement rules after July 16, restrained product integration, no-authorization IP boundaries, English image copy, and a reference-image generation prompt.
+
 ## [2026-07-13] edm | Diveblues Summer Sale slot-reel newsletter visual request
 
 - Added `outputs/diveblues/edm/visual-requests/2026-07-13-summer-sale-slot-gif-newsletter.md`.
