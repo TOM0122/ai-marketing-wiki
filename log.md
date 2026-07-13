@@ -359,3 +359,8 @@ Append-only record of knowledge base updates.
 
 - Added `outputs/diveblues/edm/visual-requests/2026-07-13-summer-sale-slot-gif-newsletter.md`.
 - Created a designer-facing US promotion EDM request covering three static source frames for an internally assembled slot-reel GIF, two product modules, a Shop All module, Community image reuse, confirmed equal-or-lesser-value discount wording, design/build ownership, launch checks, and reference-image prompts.
+
+## [2026-07-13] event-script | Ocoopa Diveblues dual-brand launch host script
+
+- Added `outputs/ocoopa/kickoff/2026-ocoopa-diveblues-dual-brand-launch-host-script.md`.
+- Created Tom's direct-to-speak Chinese host script for the 2026-07-17 internal dual-brand launch, covering the opening, Hu-to-Lydia-to-Yi transitions, closing, summer-winter growth flywheel, and brief on-stage fallback lines.
