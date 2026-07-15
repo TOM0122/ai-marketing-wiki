@@ -364,3 +364,8 @@ Append-only record of knowledge base updates.
 
 - Added `outputs/ocoopa/kickoff/2026-ocoopa-diveblues-dual-brand-launch-host-script.md`.
 - Created Tom's direct-to-speak Chinese host script for the 2026-07-17 internal dual-brand launch, covering the opening, Hu-to-Lydia-to-Yi transitions, closing, summer-winter growth flywheel, and brief on-stage fallback lines.
+
+## [2026-07-15] event-script | Ocoopa Diveblues launch full-flow update
+
+- Updated `outputs/ocoopa/kickoff/2026-ocoopa-diveblues-dual-brand-launch-host-script.md`.
+- Expanded the host script with three quiz-and-prize rounds, nine question placeholders, time-capsule writing, five department outlook speeches, grouped anniversary gifts for 36 employees, final closing, and balcony group-photo guidance.
