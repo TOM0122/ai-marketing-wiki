@@ -369,3 +369,8 @@ Append-only record of knowledge base updates.
 
 - Updated `outputs/ocoopa/kickoff/2026-ocoopa-diveblues-dual-brand-launch-host-script.md`.
 - Expanded the host script with three quiz-and-prize rounds, nine question placeholders, time-capsule writing, five department outlook speeches, grouped anniversary gifts for 36 employees, final closing, and balcony group-photo guidance.
+
+## [2026-07-15] event-script | Add formal visual presentation and fourth quiz round
+
+- Updated `outputs/ocoopa/kickoff/2026-ocoopa-diveblues-dual-brand-launch-host-script.md`.
+- Added Lei's formal visual-department presentation after the product section, expanded the event to four two-question quiz rounds, and removed Lei from the later department-outlook cue list.
