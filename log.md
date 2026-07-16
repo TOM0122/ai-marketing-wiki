@@ -374,8 +374,3 @@ Append-only record of knowledge base updates.
 
 - Updated `outputs/ocoopa/kickoff/2026-ocoopa-diveblues-dual-brand-launch-host-script.md`.
 - Added Lei's formal visual-department presentation after the product section, expanded the event to four two-question quiz rounds, and removed Lei from the later department-outlook cue list.
-
-## [2026-07-16] edm | Revise Diveblues Summer Sale toward real summer lifestyle
-
-- Updated `outputs/diveblues/edm/visual-requests/2026-07-13-summer-sale-slot-gif-newsletter.md`.
-- Replaced the slot-reel / hard-sell direction with candid real-life summer scenes, updated the activity date to 2026-07-24 and code to `DIVE25`, removed automatic-discount wording, and kept the unknown landing page and offer configuration visible as `Missing Context`.
