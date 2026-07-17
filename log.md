@@ -379,3 +379,8 @@ Append-only record of knowledge base updates.
 
 - Updated `outputs/ocoopa/kickoff/2026-ocoopa-diveblues-dual-brand-launch-host-script.md`.
 - Removed the anniversary gift presentation, locked the brand/product/visual quiz questions, moved the final summary after the time-capsule break and department outlooks, added the no-photo reminder, and retained only a group-message teaser for the surprise gifts.
+
+## [2026-07-17] promotion | Diveblues World Cup Final prediction giveaway update
+
+- Updated `outputs/diveblues/promotions/fathers-day-worldcup-giveaway/ig-copy.md`.
+- Reframed the giveaway around the Spain vs Argentina World Cup Final, set the July 17 ET promotion window and kickoff entry cutoff, highlighted the flight ticket and fan prizes, retained U.S.-only eligibility, and clarified that social engagement beyond the prediction is optional.
