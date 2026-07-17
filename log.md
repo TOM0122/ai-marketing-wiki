@@ -374,3 +374,8 @@ Append-only record of knowledge base updates.
 
 - Updated `outputs/ocoopa/kickoff/2026-ocoopa-diveblues-dual-brand-launch-host-script.md`.
 - Added Lei's formal visual-department presentation after the product section, expanded the event to four two-question quiz rounds, and removed Lei from the later department-outlook cue list.
+
+## [2026-07-17] event-script | Reorder final launch flow and lock quiz questions
+
+- Updated `outputs/ocoopa/kickoff/2026-ocoopa-diveblues-dual-brand-launch-host-script.md`.
+- Removed the anniversary gift presentation, locked the brand/product/visual quiz questions, moved the final summary after the time-capsule break and department outlooks, added the no-photo reminder, and retained only a group-message teaser for the surprise gifts.
