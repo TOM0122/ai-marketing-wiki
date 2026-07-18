@@ -384,3 +384,8 @@ Append-only record of knowledge base updates.
 
 - Updated `outputs/diveblues/promotions/fathers-day-worldcup-giveaway/ig-copy.md`.
 - Reframed the giveaway around the Spain vs Argentina World Cup Final, set the July 17 ET promotion window and kickoff entry cutoff, highlighted the flight ticket and fan prizes, retained U.S.-only eligibility, and clarified that social engagement beyond the prediction is optional.
+
+## [2026-07-18] product-knowledge | Fanzy product source of truth
+
+- Added `wiki/brands/diveblues/products/fanzy/product-source-of-truth.md` and linked it from `wiki/index.md`.
+- Separated confirmed D6036 facts, time-sensitive commercial data, unresolved product conflicts, unverified claims and historical draft provenance without modifying raw sources.

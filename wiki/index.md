@@ -23,6 +23,7 @@
 **品牌与战略**
 - [[brands/ocoopa|Ocoopa]] · [[brands/ocoopa-product-line|Ocoopa 产品线]]
 - [[brands/ocoopa-2026-brand-reshape|Ocoopa 2026 重塑]] · [[brands/diveblues-2026-brand-reshape|Diveblues 2026 重塑]]
+- [[brands/diveblues/products/fanzy/product-source-of-truth|Fanzy Product Source of Truth]]
 - [[brands/brand-manual-2026-06|集团品牌手册 2026.6]] · [[campaigns/ocoopa-brand-reshaping|Ocoopa 品牌重塑(战役)]]
 
 **内容与社媒**
