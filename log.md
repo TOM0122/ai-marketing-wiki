@@ -389,3 +389,8 @@ Append-only record of knowledge base updates.
 
 - Added `wiki/brands/diveblues/products/fanzy/product-source-of-truth.md` and linked it from `wiki/index.md`.
 - Separated confirmed D6036 facts, time-sensitive commercial data, unresolved product conflicts, unverified claims and historical draft provenance without modifying raw sources.
+
+## [2026-07-20] edm | Diveblues Fair Days. Cool Ways. amusement newsletter visual request
+
+- Added `outputs/diveblues/edm/visual-requests/2026-07-20-fair-days-cool-ways-amusement-newsletter.md`.
+- Created a designer-facing summer fair newsletter brief covering a scene-led fairground Hero, transition copy and primary CTA, a real-product / street-interview split module, Facebook community content, Shopify implementation boundaries, launch checks and reference-image prompts.
