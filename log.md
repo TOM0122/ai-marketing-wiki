@@ -394,3 +394,8 @@ Append-only record of knowledge base updates.
 
 - Added `outputs/diveblues/edm/visual-requests/2026-07-20-fair-days-cool-ways-amusement-newsletter.md`.
 - Created a designer-facing summer fair newsletter brief covering a scene-led fairground Hero, transition copy and primary CTA, a real-product / street-interview split module, Facebook community content, Shopify implementation boundaries, launch checks and reference-image prompts.
+
+## [2026-07-20] edm | Diveblues Summer Sale Last Chance newsletter visual request
+
+- Added `outputs/diveblues/edm/visual-requests/2026-07-20-summer-sale-last-chance-newsletter.md`.
+- Created a derivative last-chance reminder for the existing slot-reel Summer Sale campaign, covering slowing-to-lock Hero frames, product-module reuse, final promotional copy, Facebook community content, truthful-urgency checks and Shopify implementation boundaries.
