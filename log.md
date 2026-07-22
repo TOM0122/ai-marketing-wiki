@@ -399,3 +399,8 @@ Append-only record of knowledge base updates.
 
 - Added `outputs/diveblues/edm/visual-requests/2026-07-20-summer-sale-last-chance-newsletter.md`.
 - Created a derivative last-chance reminder for the existing slot-reel Summer Sale campaign, covering slowing-to-lock Hero frames, product-module reuse, final promotional copy, Facebook community content, truthful-urgency checks and Shopify implementation boundaries.
+
+## [2026-07-22] campaign-retrospective | Diveblues #Crazyfan World Cup project
+
+- Added `outputs/diveblues/reports/2026-crazyfan-world-cup-campaign-retrospective.md`.
+- Created the full internal campaign retrospective covering disclosed spend and outputs, official social and Meta advertising, creator marketing, giveaway fulfillment, website and EDM execution, brand-asset retention, process gaps, reinvestment decisions and a reusable campaign playbook.
