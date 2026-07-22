@@ -404,3 +404,4 @@ Append-only record of knowledge base updates.
 
 - Added `outputs/diveblues/reports/2026-crazyfan-world-cup-campaign-retrospective.md`.
 - Created the full internal campaign retrospective covering disclosed spend and outputs, official social and Meta advertising, creator marketing, giveaway fulfillment, website and EDM execution, brand-asset retention, process gaps, reinvestment decisions and a reusable campaign playbook.
+- Replaced the local report body with Tom's revised Notion version and added a front-loaded data overview covering 9.928M+ gross content views, channel results, module outputs and disclosed spend.
