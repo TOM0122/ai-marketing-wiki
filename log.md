@@ -411,3 +411,8 @@ Append-only record of knowledge base updates.
 - Added `outputs/diveblues/reports/2026-crazyfan-world-cup-campaign-retrospective.pptx`.
 - Compressed the full retrospective into a 15-slide management deck covering campaign scale, spend allocation, channel outcomes, creator and content assets, execution gaps, reinvestment decisions and the repeatable campaign model.
 - Built the source deck with the globally installed `stackblitz/bolt-slides` workflow and verified desktop, mobile and rendered PowerPoint output with no detected overflow.
+
+## [2026-07-24] weekly-report | 2026-07-16 to 2026-07-22
+
+- Added `outputs/weekly-reports/周报7.16-7.22.md`.
+- Internal weekly report covering social performance, September 1 launch readiness, World Cup wrap-up, EDM, Ocoopa Recall, summer promotion status, and related risks.
