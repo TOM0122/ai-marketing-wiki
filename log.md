@@ -412,6 +412,12 @@ Append-only record of knowledge base updates.
 - Compressed the full retrospective into a 15-slide management deck covering campaign scale, spend allocation, channel outcomes, creator and content assets, execution gaps, reinvestment decisions and the repeatable campaign model.
 - Built the source deck with the globally installed `stackblitz/bolt-slides` workflow and verified desktop, mobile and rendered PowerPoint output with no detected overflow.
 
+## [2026-07-24] source-ingest | Recall, offsite growth and Diveblues Go product matrix
+
+- Added five user-provided source sets under `raw/files/`: OCOOPA recall intake email, recall guide, converted partner communication CSV, the offsite traffic growth framework, and the Diveblues Go UT3046 visual matrix with a Markdown transcription.
+- Added `wiki/operations/ocoopa-recall-customer-service.md`, separating reusable response structure from official recall facts that still require legal and source verification.
+- Added `wiki/concepts/offsite-traffic-growth-four-layer-system.md` and `wiki/brands/diveblues-go-ut3046-product-matrix.md`; updated the wiki index and linked the new product matrix to the existing Diveblues Go winter visual strategy.
+
 ## [2026-07-24] weekly-report | 2026-07-16 to 2026-07-22
 
 - Added `outputs/weekly-reports/周报7.16-7.22.md`.

@@ -13,6 +13,7 @@
 - [Literature](literature/) — 文献蒸馏层(先读 index)
 - [Promotions](promotions/) — 活动规则与 US giveaway 合规
 - [Web](web/) — 官网/Shopify 站点经验
+- [Operations](operations/) — 客服、召回与跨部门执行知识
 - [Inbox Triage](inbox-triage/) — 素材分拣记录
 - [Personal Judgment](personal-judgment/) — 用户个人判断
 
@@ -24,6 +25,7 @@
 - [[brands/ocoopa|Ocoopa]] · [[brands/ocoopa-product-line|Ocoopa 产品线]]
 - [[brands/ocoopa-2026-brand-reshape|Ocoopa 2026 重塑]] · [[brands/diveblues-2026-brand-reshape|Diveblues 2026 重塑]]
 - [[brands/diveblues/products/fanzy/product-source-of-truth|Fanzy Product Source of Truth]]
+- [[brands/diveblues-go-winter-visual-strategy|Diveblues Go 冬季视觉策略]] · [[brands/diveblues-go-ut3046-product-matrix|Diveblues Go UT3046 产品矩阵]]
 - [[brands/brand-manual-2026-06|集团品牌手册 2026.6]] · [[campaigns/ocoopa-brand-reshaping|Ocoopa 品牌重塑(战役)]]
 
 **内容与社媒**
@@ -42,6 +44,10 @@
 **概念与方法**
 - [[concepts/ai-marketing-operating-system|AI + Marketing Operating System]] · [[concepts/llm-marketing-workflow-layer|LLM Marketing Workflow Layer]]
 - [[concepts/influencer-collaboration-types|红人合作类型]] · [[concepts/ugc-kol-koc-screening|UGC/KOL/KOC 筛选]]
+- [[concepts/offsite-traffic-growth-four-layer-system|站外流量增长四层系统]]
+
+**客服与召回**
+- [[operations/ocoopa-recall-customer-service|OCOOPA 召回客服与沟通知识底座]]
 
 **文献**
 - [[literature/index|文献蒸馏 index]]

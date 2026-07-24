@@ -239,9 +239,10 @@ Show where it fits in your day.
 - Go 最终规格。
 - Go 运行时间。
 - Go 认证声明。
-- Go 颜色名称。
-- Go 产品图片。
+- Go 最终英文颜色和图案名称。
 - Go 最终上市时间。
+
+当前已有 `UT3046` 的 Go-Luna / Go-Flow / Go-Vibe 产品视觉矩阵和 24 个展示 SKU，可用于内部内容规划和拍摄讨论；但原图未填写签样状态，因此不能据此判断相关 SKU 已签样、量产或最终上市。具体见 [[diveblues-go-ut3046-product-matrix]]。
 
 执行时需要注意：
 
@@ -254,5 +255,6 @@ Show where it fits in your day.
 ## Related
 
 - [[diveblues-2026-brand-reshape]]
+- [[diveblues-go-ut3046-product-matrix]]
 - `outputs/ocoopa/brand-strategy/2026-winter-ocoopa-diveblues-dual-brand-promotion.md`
 - `raw/files/暖手宝品牌拓展视觉策略.md`
